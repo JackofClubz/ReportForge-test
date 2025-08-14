@@ -1,0 +1,206 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+.userDropdown {
+  position: relative;
+  width: 100%;
+}
+
+.userButton {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: $spacing-04;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color $duration-moderate-01;
+
+  &:hover {
+    background: $layer-hover;
+  }
+
+  &.active {
+    background: $layer-selected;
+  }
+}
+
+.userInfo {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+  flex: 1;
+  min-width: 0; // Allow text truncation
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  fill: $icon-primary;
+  flex-shrink: 0;
+}
+
+.userDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+  flex: 1;
+}
+
+.userName {
+  @include type-style('body-compact-01');
+  color: $text-primary;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.userEmail {
+  @include type-style('helper-text-01');
+  color: $text-secondary;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.nameSkeleton {
+  width: 80px;
+  height: 16px;
+}
+
+.chevron {
+  fill: $icon-secondary;
+  transition: transform $duration-moderate-01;
+  flex-shrink: 0;
+
+  &.chevronOpen {
+    transform: rotate(180deg);
+  }
+}
+
+.dropdownMenu {
+  position: fixed;
+  bottom: 60px;
+  left: 20px;
+  width: 280px;
+  background: $background;
+  border: 1px solid $border-subtle-01;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  z-index: 99999;
+  overflow: hidden;
+}
+
+.menuHeader {
+  padding: $spacing-05;
+  background: $layer-01;
+  border-bottom: 1px solid $border-subtle-01;
+}
+
+.menuUserInfo {
+  display: flex;
+  align-items: center;
+  gap: $spacing-04;
+}
+
+.menuAvatar {
+  width: 40px;
+  height: 40px;
+  fill: $icon-primary;
+  flex-shrink: 0;
+}
+
+.menuUserDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+  flex: 1;
+}
+
+.menuUserName {
+  @include type-style('body-01');
+  color: $text-primary;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.menuUserEmail {
+  @include type-style('body-compact-01');
+  color: $text-secondary;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.menuItems {
+  padding: $spacing-02 0;
+}
+
+.menuItem {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+  width: 100%;
+  padding: $spacing-03 $spacing-05;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  @include type-style('body-compact-01');
+  color: $text-primary;
+  text-align: left;
+  transition: background-color $duration-moderate-01;
+
+  &:hover {
+    background: $layer-hover;
+  }
+
+  &.danger {
+    color: #da1e28; // Carbon red-60
+
+    .menuIcon {
+      fill: #da1e28; // Carbon red-60
+    }
+
+    &:hover {
+      background: $layer-hover;
+      color: #da1e28; // Carbon red-60
+    }
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
+
+.menuIcon {
+  width: 16px;
+  height: 16px;
+  fill: $icon-secondary;
+  flex-shrink: 0;
+}
+
+.menuLabel {
+  flex: 1;
+  white-space: nowrap;
+}
+
+.divider {
+  height: 1px;
+  background: $border-subtle-01;
+  margin: $spacing-02 0;
+} 

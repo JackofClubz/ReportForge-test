@@ -1,0 +1,183 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+.presenceContainer {
+  display: flex;
+  align-items: center;
+  gap: $spacing-05;
+  padding: $spacing-03 $spacing-04;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border: 1px solid $border-subtle-01;
+  border-radius: $spacing-03;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  @include type-style('body-compact-01');
+  white-space: nowrap;
+}
+
+.connectionStatus {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+  
+  span {
+    @include type-style('body-compact-01');
+    color: $text-secondary;
+  }
+}
+
+.activeUsers {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+}
+
+.usersLabel {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+  color: $text-secondary;
+  @include type-style('body-compact-01');
+  
+  svg {
+    color: $icon-secondary;
+  }
+}
+
+.usersList {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+}
+
+.userAvatar {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.avatarIcon {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  
+  svg {
+    color: white;
+  }
+}
+
+.avatarInitials {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  @include type-style('body-compact-01');
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.userIndicator {
+  position: absolute;
+  bottom: -2px;
+  right: -2px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.moreUsers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: $background-inverse;
+  color: $text-inverse;
+  border-radius: 50%;
+  @include type-style('body-compact-01');
+  font-weight: 600;
+}
+
+.noCollaborators {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+  color: $text-secondary;
+  @include type-style('body-compact-01');
+  
+  svg {
+    color: $icon-secondary;
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .presenceContainer {
+    gap: $spacing-03;
+    padding: $spacing-02 $spacing-03;
+  }
+  
+  .usersLabel span {
+    display: none; // Hide text on mobile, show only icon and count
+  }
+  
+  .connectionStatus span {
+    display: none; // Hide connection text on mobile
+  }
+  
+  .noCollaborators span {
+    display: none; // Hide text on mobile
+  }
+}
+
+// Animation for new users joining
+@keyframes userJoin {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.userAvatar {
+  animation: userJoin 0.3s ease-out;
+}
+
+// Pulse animation for connection status
+@keyframes connectionPulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.connectionStatus {
+  &.connecting {
+    animation: connectionPulse 1.5s infinite;
+  }
+} 

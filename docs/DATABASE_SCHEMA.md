@@ -1,0 +1,514 @@
+# ReportForge Database Schema
+
+This document is the authoritative reference for database operations, types, and RBAC structure in the ReportForge app.
+
+**Last updated: 2025-01-19**
+
+---
+
+## Tables
+
+### orgs
+
+Organization records. Each org may have multiple users and sites.
+
+```sql
+CREATE TABLE orgs (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  name TEXT NOT NULL,
+  created_by UUID NOT NULL REFERENCES auth.users(id),
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  domain TEXT,
+  address JSONB,
+  notes JSONB
+);
+```
+
+**Comments:**
+- `domain`: The email domain associated with the organisation, e.g., example.com
+
+---
+
+### org_users
+
+Join table to manage user roles within organizations, using an ENUM for roles.
+
+```sql
+CREATE TYPE user_role AS ENUM ('admin', 'qp', 'author', 'viewer', 'signer', 'editor', 'pending');
+
+CREATE TABLE org_users (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  org_id UUID NOT NULL REFERENCES orgs(id) ON DELETE CASCADE,
+  user_id UUID NOT NULL REFERENCES user_profiles(id) ON DELETE CASCADE,
+  role user_role NOT NULL,
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  CONSTRAINT org_users_unique_user_per_org UNIQUE (user_id, org_id)
+);
+```
+
+**Comments:**
+- Junction table linking users to organisations and their roles within them.
+- Also references `auth.users(id)` for additional constraint validation.
+
+---
+
+### sites
+
+Sites belong to an org and have an owner (usually a user in that org).
+
+```sql
+CREATE TABLE sites (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  name TEXT NOT NULL,
+  owner_id UUID NOT NULL REFERENCES auth.users(id),
+  description TEXT,
+  primary_minerals TEXT NOT NULL,
+  start_date DATE NOT NULL,
+  site_country TEXT NOT NULL,
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  coordinates JSONB,
+  investor_name TEXT DEFAULT '',
+  org_id UUID REFERENCES orgs(id)
+);
+```
+
+**Comments:**
+- `investor_name`: Investor(s) involved in the site
+
+---
+
+### reports
+
+Mining reports. Each is linked to a site, a primary QP, and (optionally) an org.
+
+```sql
+CREATE TABLE reports (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  report_name TEXT NOT NULL,
+  site_id UUID NOT NULL REFERENCES sites(id),
+  primary_qp_id UUID NOT NULL REFERENCES auth.users(id),
+  report_content JSONB,
+  created_on TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  published_on TIMESTAMP WITH TIME ZONE,
+  template_type TEXT NOT NULL,
+  status TEXT NOT NULL,
+  version INTEGER DEFAULT 1,
+  is_locked BOOLEAN DEFAULT FALSE,
+  metadata JSONB,
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  org_id UUID REFERENCES orgs(id)
+);
+```
+
+---
+
+### report_users
+
+Assign users and roles to reports (collaborators, editors, etc).
+
+```sql
+CREATE TABLE report_users (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  report_id UUID NOT NULL REFERENCES reports(id) ON DELETE CASCADE,
+  user_id UUID NOT NULL REFERENCES auth.users(id),
+  role user_role NOT NULL,
+  invited_on TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  accepted BOOLEAN DEFAULT FALSE,
+  CONSTRAINT report_users_unique_user_per_report UNIQUE (report_id, user_id)
+);
+```
+
+---
+
+### user_profiles
+
+Holds additional metadata for users. This is the canonical user info table (do not add custom columns to auth.users).
+
+```sql
+CREATE TABLE user_profiles (
+  id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
+  full_name TEXT NOT NULL,
+  email TEXT,
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+```
+
+---
+
+## Enum Types
+
+```sql
+CREATE TYPE user_role AS ENUM ('admin', 'qp', 'author', 'viewer', 'signer', 'editor', 'pending');
+```
+
+---
+
+## Functions
+
+### handle_new_user()
+
+Automatically creates a user_profiles row when a new auth.users row is inserted. Also handles organization assignment for invited users and domain-based matching.
+
+```sql
+CREATE OR REPLACE FUNCTION handle_new_user()
+RETURNS TRIGGER AS $$
+DECLARE
+  user_email_domain TEXT;
+  org_match RECORD;
+  v_full_name TEXT;
+  v_email TEXT;
+  v_org_id TEXT;
+  v_initial_role TEXT;
+BEGIN
+  -- Extract user information
+  v_email := NEW.email;
+  v_full_name := COALESCE(NEW.raw_user_meta_data->>'full_name', v_email);
+  
+  -- Check if this is an invited user with org_id in metadata
+  v_org_id := NEW.raw_user_meta_data->>'org_id';
+  v_initial_role := COALESCE(NEW.raw_user_meta_data->>'initial_role', 'pending');
+  
+  -- Ensure full_name is not null
+  IF v_full_name IS NULL THEN
+    v_full_name := 'New User';
+  END IF;
+
+  -- Insert/update user profile
+  INSERT INTO public.user_profiles (id, full_name, email)
+  VALUES (NEW.id, v_full_name, v_email)
+  ON CONFLICT (id) DO UPDATE SET 
+    full_name = EXCLUDED.full_name,
+    email = EXCLUDED.email;
+
+  -- If user has org_id in metadata (invited user), add them with their assigned role
+  IF v_org_id IS NOT NULL THEN
+    INSERT INTO public.org_users (org_id, user_id, role)
+    VALUES (v_org_id::uuid, NEW.id, v_initial_role::user_role)
+    ON CONFLICT (org_id, user_id) DO NOTHING;
+  -- Otherwise, check for domain-based org matching
+  ELSIF v_email IS NOT NULL THEN
+    user_email_domain := split_part(v_email, '@', 2);
+    
+    SELECT o.id AS org_id, o.domain AS org_domain INTO org_match
+    FROM public.orgs o
+    WHERE o.domain = user_email_domain
+    LIMIT 1;
+
+    IF org_match.org_id IS NOT NULL THEN
+      INSERT INTO public.org_users (org_id, user_id, role)
+      VALUES (org_match.org_id, NEW.id, 'pending')
+      ON CONFLICT (org_id, user_id) DO NOTHING;
+    END IF;
+  END IF;
+
+  RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+```
+
+### is_user_admin_in_org(user_uuid UUID, target_org_uuid UUID)
+
+Checks if a user has admin role in a specific organization.
+
+```sql
+CREATE OR REPLACE FUNCTION is_user_admin_in_org(user_uuid UUID, target_org_uuid UUID)
+RETURNS BOOLEAN AS $$
+  SELECT EXISTS (
+    SELECT 1
+    FROM public.org_users
+    WHERE user_id = user_uuid AND org_id = target_org_uuid AND role = 'admin'
+  );
+$$ LANGUAGE SQL;
+```
+
+### is_org_admin(user_id_to_check UUID, check_org_id UUID)
+
+Alternative function to check if a user is an admin in an organization.
+
+```sql
+CREATE OR REPLACE FUNCTION is_org_admin(user_id_to_check UUID, check_org_id UUID)
+RETURNS BOOLEAN AS $$
+BEGIN
+  RETURN EXISTS (
+    SELECT 1
+    FROM public.org_users ou
+    WHERE ou.user_id = user_id_to_check
+      AND ou.org_id = check_org_id
+      AND ou.role = 'admin'
+  );
+END;
+$$ LANGUAGE plpgsql;
+```
+
+### requesting_user_org_id()
+
+Fetches the org_id for the currently authenticated user.
+
+```sql
+CREATE OR REPLACE FUNCTION requesting_user_org_id()
+RETURNS UUID AS $$
+  SELECT org_id FROM public.org_users WHERE user_id = auth.uid() LIMIT 1;
+$$ LANGUAGE SQL;
+```
+
+### check_user_report_role(check_report_id UUID, check_user_id UUID, allowed_roles user_role[])
+
+Checks if a user has any of the specified roles for a report.
+
+```sql
+CREATE OR REPLACE FUNCTION check_user_report_role(check_report_id UUID, check_user_id UUID, allowed_roles user_role[])
+RETURNS BOOLEAN AS $$
+  SELECT EXISTS (
+    SELECT 1
+    FROM public.report_users ru
+    WHERE ru.report_id = check_report_id AND
+          ru.user_id = check_user_id AND
+          ru.role = ANY(allowed_roles)
+  );
+$$ LANGUAGE SQL;
+```
+
+### update_timestamp()
+
+Trigger function to automatically update the `updated_at` timestamp.
+
+```sql
+CREATE OR REPLACE FUNCTION update_timestamp()
+RETURNS TRIGGER AS $$
+BEGIN
+  NEW.updated_at = NOW();
+  RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+```
+
+---
+
+## Triggers
+
+### on_auth_user_created
+
+Automatically creates a user_profiles row when a new auth.users row is inserted.
+
+```sql
+CREATE TRIGGER on_auth_user_created
+AFTER INSERT ON auth.users
+FOR EACH ROW
+EXECUTE FUNCTION handle_new_user();
+```
+
+### update_sites_updated_at
+
+Updates the `updated_at` timestamp when a site is modified.
+
+```sql
+CREATE TRIGGER update_sites_updated_at
+BEFORE UPDATE ON sites
+FOR EACH ROW
+EXECUTE FUNCTION update_timestamp();
+```
+
+### update_reports_updated_at
+
+Updates the `updated_at` timestamp when a report is modified.
+
+```sql
+CREATE TRIGGER update_reports_updated_at
+BEFORE UPDATE ON reports
+FOR EACH ROW
+EXECUTE FUNCTION update_timestamp();
+```
+
+---
+
+## Row Level Security (RLS) Policies
+
+All tables have RLS enabled. Below are the current policies:
+
+### orgs
+
+- **SELECT**: 
+  - `Authenticated users can view organisations` - All authenticated users can view all orgs
+  - `Org members can view their org` - Users can view orgs they belong to
+- **UPDATE**: 
+  - `Admins can update their own organisation` - Only org admins can update their org
+
+### org_users
+
+- **SELECT**: 
+  - `Users can view their own org membership` - Users can see their own org_users records
+  - `Users can view their org_user row` - Duplicate policy for viewing own records
+  - `Admins can view all users in their organisation` - Org admins can see all org_users in their org
+- **INSERT**: 
+  - `Org admins can manage org_users` - Only org admins can add users to their org
+- **UPDATE**: 
+  - `Org admins can manage org_users for update` - Only org admins can update org_users in their org
+- **DELETE**: 
+  - `Org admins can manage org_users for delete` - Only org admins can remove users from their org
+
+### user_profiles
+
+- **SELECT**: 
+  - `Users can view their own profile` - Users can see their own profile
+  - `Authenticated users can view all user profiles` - All authenticated users can view all profiles
+- **UPDATE**: 
+  - `Users can update their own profile` - Users can only update their own profile
+
+### sites
+
+- **SELECT**: 
+  - `Org admins or QPs can view sites` - Admins and QPs can view sites in their org
+  - `Org members can view sites` - All org members can view sites in their org
+- **INSERT**: 
+  - `Org admins or QPs can create sites` - Only admins and QPs can create sites
+- **UPDATE**: 
+  - `Org admins or QPs can update sites` - Only admins and QPs can update sites
+- **DELETE**: 
+  - `Org admins or QPs can delete sites` - Only admins and QPs can delete sites
+
+### reports
+
+- **SELECT**: 
+  - `Admins and QPs can view all org reports` - Admins and QPs can see all reports in their org
+  - `Editors, Viewers, Signers can view assigned reports` - Users with specific roles can view reports they're assigned to
+- **INSERT**: 
+  - `Admins and QPs can insert reports` - Only admins and QPs can create reports
+- **UPDATE**: 
+  - `Admins can update all org reports` - Admins can update any report in their org
+  - `QPs can update their assigned reports` - QPs can update reports they're the primary QP for
+  - `QPs or Editors can update their assigned reports` - QPs and editors can update reports they're assigned to
+- **DELETE**: 
+  - `Admins can delete all org reports` - Admins can delete any report in their org
+  - `QPs can delete their own reports` - QPs can delete reports they're the primary QP for
+
+### report_users
+
+- **SELECT**: 
+  - `Users can view their report_user rows` - Users can see their own report assignments
+  - `Org admins or QPs can manage report_users for select` - Admins and QPs can view all report assignments in their org
+- **INSERT**: 
+  - `Org admins or QPs can manage report_users for insert` - Only admins and QPs can assign users to reports
+- **UPDATE**: 
+  - `Org admins or QPs can manage report_users for update` - Only admins and QPs can update report assignments
+- **DELETE**: 
+  - `Org admins or QPs can manage report_users for delete` - Only admins and QPs can remove users from reports
+
+---
+
+## TypeScript Types
+
+```typescript
+type UserRole = 'admin' | 'qp' | 'author' | 'viewer' | 'signer' | 'editor' | 'pending';
+
+interface UserProfile {
+  id: string;
+  full_name: string;
+  email: string | null;
+  created_at: string;
+}
+
+interface Org {
+  id: string;
+  name: string;
+  created_by: string;
+  created_at: string;
+  updated_at: string;
+  domain: string | null;
+  address: any | null; // JSONB
+  notes: any | null; // JSONB
+}
+
+interface OrgUser {
+  id: string;
+  org_id: string;
+  user_id: string;
+  role: UserRole;
+  created_at: string;
+  updated_at: string;
+}
+
+interface Site {
+  id: string;
+  name: string;
+  owner_id: string;
+  description: string | null;
+  primary_minerals: string;
+  start_date: string; // DATE
+  site_country: string;
+  created_at: string;
+  updated_at: string;
+  coordinates: any | null; // JSONB
+  investor_name: string | null;
+  org_id: string | null;
+}
+
+interface Report {
+  id: string;
+  report_name: string;
+  site_id: string;
+  primary_qp_id: string;
+  report_content: any | null; // JSONB
+  created_on: string;
+  published_on: string | null;
+  template_type: string;
+  status: string;
+  version: number;
+  is_locked: boolean;
+  metadata: any | null; // JSONB
+  updated_at: string;
+  org_id: string | null;
+}
+
+interface ReportUser {
+  id: string;
+  report_id: string;
+  user_id: string;
+  role: UserRole;
+  invited_on: string;
+  accepted: boolean | null;
+}
+```
+
+---
+
+## Implementation Notes
+
+- **Organization-based Access Control**: All access is controlled through organization membership via the `org_users` table.
+- **Role Hierarchy**: 
+  - `admin`: Full control over organization, sites, and reports
+  - `qp`: Can create/manage sites and reports, assign users to reports
+  - `editor`: Can edit assigned reports
+  - `viewer`: Can view assigned reports
+  - `signer`: Can view and sign assigned reports
+  - `author`: Can author content (legacy role)
+  - `pending`: Newly invited users awaiting role assignment
+- **Multi-tenancy**: Enforced through RLS policies that check organization membership
+- **User Invitations**: Handled through metadata in `auth.users` during signup, automatically processed by the `handle_new_user()` trigger
+- **Domain-based Auto-assignment**: Users signing up with email domains matching an organization's domain are automatically added with `pending` role
+
+---
+
+## Security Considerations
+
+- All tables have RLS enabled and enforced
+- User access is strictly controlled through organization membership
+- Sensitive operations (create, update, delete) are restricted to appropriate roles
+- User profiles are globally readable but only self-updatable
+- Report assignments are managed exclusively by admins and QPs
+
+---
+
+## Next Steps
+
+- Monitor RLS policy performance and optimize as needed
+- Consider adding audit logging for sensitive operations
+- Implement soft deletes for critical data
+- Add data retention policies
+- Consider adding more granular permissions for specific report operations
+
+---
+
+**Last updated: 2025-01-19**

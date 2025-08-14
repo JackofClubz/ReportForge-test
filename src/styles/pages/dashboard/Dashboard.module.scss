@@ -1,0 +1,70 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+.section {
+  margin-bottom: $spacing-09;
+  background-color: white;
+  border-radius: $spacing-03;
+  padding: 1rem 0 1rem 0;
+
+  &:last-child {
+    margin-bottom: $spacing-09;
+  }
+}
+
+.sectionHeader {
+  margin-bottom: $spacing-05;
+  padding: 0 $spacing-05 $spacing-05 $spacing-05;
+
+  h3 {
+    color: $text-primary;
+    margin-bottom: $spacing-03;
+  }
+
+  p {
+    color: $text-secondary;
+  }
+}
+
+.table {
+  width: 100%;
+
+  :global {
+    .cds--data-table {
+      background-color: transparent;
+
+      tbody {
+        tr {
+          border-bottom: 1px solid $border-subtle-02;
+          background-color: white !important;
+
+          &:last-child {
+            border-bottom: none !important;
+            td {
+              border-bottom: none !important;
+            }
+          }
+        }
+      }
+    }
+
+    .cds--table-header-label {
+      color: $text-secondary;
+    }
+
+    .cds--data-table--no-border {
+      border: none;
+    }
+
+    .cds--table-header {
+      border-bottom: 1px solid $border-subtle-02;
+    }
+  }
+}
+
+.actionButton {
+  margin-left: $spacing-03;
+  border-radius: 8px !important;
+} 

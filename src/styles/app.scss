@@ -1,0 +1,76 @@
+@use '@carbon/styles/scss/config' with (
+  $font-path: '@ibm/plex'
+);
+@use '@carbon/styles';
+@use '@carbon/react';
+
+// Global styles
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--cds-background);
+  color: var(--cds-text-primary);
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+// Variables
+$primary-color: #646cff;
+$secondary-color: #61dafb;
+$text-color: #888;
+$animation-duration: 20s;
+$root-max-width: 1280px;
+$logo-size: 6em;
+
+// Mixins
+@mixin logo-hover($color) {
+  &:hover {
+    filter: drop-shadow(0 0 2em rgba($color, 0.67));
+  }
+}
+
+// Logo styles
+.logo {
+  height: $logo-size;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+
+  @include logo-hover($primary-color);
+
+  &.react {
+    @include logo-hover($secondary-color);
+  }
+}
+
+// Animations
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+// Media queries
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite $animation-duration linear;
+  }
+}
+
+// Card styles
+.card {
+  padding: 2em;
+}
+
+// Documentation styles
+.read-the-docs {
+  color: $text-color;
+}

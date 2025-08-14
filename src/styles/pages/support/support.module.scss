@@ -1,0 +1,136 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/breakpoint' as *;
+
+.mainGrid {
+  padding: $spacing-05;
+  row-gap: $spacing-07;
+  column-gap: $spacing-07;
+}
+
+.description {
+  @include type-style('body-long-01');
+  color: $text-secondary;
+  margin: 0;
+}
+
+.cardsContainer {
+  margin-bottom: $spacing-07;
+}
+
+.supportCard {
+  height: 100%;
+  background: $layer-02;
+  border-radius: $spacing-03;
+  padding: $spacing-05;
+  border: 1px solid $border-subtle-01;
+
+  h2 {
+    margin: $spacing-05 0 $spacing-03;
+  }
+
+  p {
+    color: $text-secondary;
+    margin-bottom: $spacing-05;
+  }
+}
+
+.icon {
+  &.technical {
+    color: $support-info;
+  }
+
+  &.general {
+    color: $support-success;
+  }
+}
+
+.cardButton {
+  width: 100%;
+}
+
+.faqSection {
+  background: $layer-02;
+  border-radius: $spacing-02;
+  padding: $spacing-05;
+  border: 1px solid $border-subtle-01;
+
+  > h2 {
+    margin-bottom: $spacing-06;
+  }
+}
+
+.faqItem {
+  margin-bottom: $spacing-06;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  h3 {
+    margin-bottom: $spacing-03;
+  }
+
+  p {
+    color: $text-secondary;
+  }
+}
+
+.contactFooter {
+  background: $layer-02;
+  border-radius: $spacing-02;
+  padding: $spacing-05;
+  text-align: center;
+  border: 1px solid $border-subtle-01;
+
+  h2 {
+    margin-bottom: $spacing-03;
+  }
+
+  p {
+    color: $text-secondary;
+    margin-bottom: $spacing-05;
+  }
+
+  .contactButton {
+    max-width: 200px;
+  }
+}
+
+.technicalSupport {
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+}
+
+.supportEmail {
+  color: #0066cc;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  display: block;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.supportHours {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.note {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  
+  strong {
+    font-weight: 500;
+    color: #333;
+  }
+} 

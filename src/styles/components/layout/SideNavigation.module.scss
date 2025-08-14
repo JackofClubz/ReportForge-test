@@ -1,0 +1,107 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+// Import layout constants
+@use './AppLayout.module.scss' as layout;
+
+.sideNav {
+  position: fixed;
+  left: 0;
+  top: layout.$header-height;
+  display: flex;
+  flex-direction: column;
+  padding: $spacing-05 $spacing-03;
+  width: layout.$sidenav-width;
+  height: calc(100vh - layout.$header-height);
+  background: $background;
+  z-index: 1000 !important;
+  border-right: 1px solid $border-subtle-01;
+}
+
+.navContent {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-05;
+  width: 100%;
+  height: 100%;
+}
+
+.userProfile {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+  padding: $spacing-05;
+  border-bottom: 1px solid $border-subtle-01;
+
+  .avatar {
+    flex-shrink: 0;
+  }
+
+  .userName {
+    color: $text-primary;
+    @include type-style('body-compact-01');
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .userNameSkeleton {
+    width: 100px;
+    height: 16px;
+  }
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  fill: $icon-primary;
+}
+
+.userName {
+  @include type-style('body-compact-01');
+  color: $text-primary;
+}
+
+.navGroup {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-02;
+  width: 100%;
+}
+
+.navDivider {
+  height: 1px;
+  background: $border-subtle-01;
+  margin: $spacing-03 $spacing-04;
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  padding: 0 $spacing-04;
+  gap: $spacing-03;
+  width: calc(layout.$sidenav-width - 4 * $spacing-03);
+  height: 48px;
+  margin: 0 $spacing-03;
+  border-radius: 8px;
+  @include type-style('body-compact-01');
+  color: $text-primary;
+  cursor: pointer;
+  transition: background-color $duration-moderate-01;
+
+  &:hover {
+    background: $layer-hover;
+  }
+
+  &.active {
+    background: $layer-selected;
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+    fill: $icon-primary;
+  }
+} 

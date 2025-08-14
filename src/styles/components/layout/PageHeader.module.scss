@@ -1,0 +1,18 @@
+.pageHeaderContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--cds-spacing-06, 2rem); // Using Carbon spacing token
+  padding: 0;
+}
+
+.pageTitle {
+  // Carbon's bx--type-expressive-heading-04 already provides font styling.
+  // Add any specific overrides or additional styles here if needed.
+  margin: 0; // Remove default h1 margin
+}
+
+.actionsContainer {
+  display: flex;
+  gap: var(--cds-spacing-03, 0.5rem); // Spacing between action items
+} 

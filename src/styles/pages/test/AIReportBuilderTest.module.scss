@@ -1,0 +1,342 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+@use '@carbon/react/scss/breakpoint' as *;
+
+.container {
+  padding: $spacing-05;
+  min-height: 100vh;
+  background-color: $background;
+}
+
+.breadcrumbContainer {
+  margin-bottom: $spacing-05;
+}
+
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: $spacing-07;
+  padding-bottom: $spacing-05;
+  border-bottom: 1px solid $border-subtle-01;
+
+  @include breakpoint-down(md) {
+    flex-direction: column;
+    gap: $spacing-05;
+  }
+}
+
+.pageTitle {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-02;
+
+  h2 {
+    margin: 0;
+    color: $text-primary;
+    font-weight: 600;
+  }
+}
+
+.statusTags {
+  display: flex;
+  gap: $spacing-02;
+  flex-wrap: wrap;
+}
+
+.headerActions {
+  display: flex;
+  gap: $spacing-02;
+  align-items: center;
+
+  @include breakpoint-down(md) {
+    width: 100%;
+    justify-content: flex-end;
+  }
+}
+
+.mainGrid {
+  margin-top: $spacing-05;
+  gap: $spacing-05;
+}
+
+.sidebarColumn {
+  @include breakpoint-down(lg) {
+    margin-bottom: $spacing-05;
+  }
+}
+
+.controlPanel {
+  padding: $spacing-05;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  background-color: $layer-01;
+  height: fit-content;
+  position: sticky;
+  top: $spacing-05;
+
+  h4 {
+    @include type-style('heading-compact-02');
+    margin: 0 0 $spacing-05 0;
+    color: $text-primary;
+  }
+
+  h5 {
+    @include type-style('label-01');
+    margin: $spacing-05 0 $spacing-02 0;
+    color: $text-secondary;
+    text-transform: uppercase;
+  }
+}
+
+.helpText {
+  @include type-style('body-compact-01');
+  margin-bottom: $spacing-05;
+  color: $text-secondary;
+}
+
+.customPromptSection {
+  margin-bottom: $spacing-05;
+  padding-bottom: $spacing-05;
+  border-bottom: 1px solid $border-subtle-01;
+
+  h5 {
+    margin-bottom: $spacing-02;
+  }
+
+  textarea {
+    margin-bottom: $spacing-03;
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    
+    &::placeholder {
+      color: $text-placeholder;
+    }
+  }
+}
+
+.promptButton {
+  width: 100%;
+  margin-top: $spacing-02;
+}
+
+.commandSection {
+  margin-bottom: $spacing-05;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.buttonSet {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-02;
+  width: 100%;
+
+  button {
+    justify-content: flex-start;
+    text-align: left;
+    width: 100%;
+    border-radius: 4px;
+    transition: all $duration-fast-01 motion(standard, productive);
+
+    &:hover:not(:disabled) {
+      background-color: $layer-hover-01;
+      transform: translateY(-1px);
+    }
+
+    &:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  }
+}
+
+.setupInstructions {
+  margin-top: $spacing-05;
+  padding-top: $spacing-05;
+  border-top: 1px solid $border-subtle-01;
+
+  h5 {
+    margin-bottom: $spacing-05;
+    color: $text-primary;
+  }
+}
+
+.editorColumn {
+  position: relative;
+}
+
+.editorContainer {
+  position: relative;
+  background-color: $layer-01;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  overflow: hidden;
+  min-height: 600px;
+
+  .editor {
+    min-height: 600px;
+    
+    // BlockNote editor styling overrides
+    :global(.bn-editor) {
+      padding: $spacing-05;
+      font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background-color: transparent;
+    }
+
+    :global(.bn-block-content) {
+      line-height: 1.5;
+    }
+
+    :global(.ProseMirror-focused) {
+      outline: none;
+    }
+
+    // AI-specific styling
+    :global(.bn-ai-menu) {
+      border: 1px solid $border-strong-01;
+      background-color: $layer-01;
+      border-radius: 4px;
+    }
+
+    :global(.bn-ai-writing) {
+      background-color: $layer-01;
+      border-left: 3px solid $border-strong-01;
+      padding-left: $spacing-05;
+      animation: aiPulse 2s infinite ease-in-out;
+    }
+  }
+}
+
+@keyframes aiPulse {
+  0%, 100% { 
+    opacity: 1; 
+  }
+  50% { 
+    opacity: 0.7; 
+  }
+}
+
+.loadingOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(245, 245, 245, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  border-radius: 4px;
+  backdrop-filter: blur(2px);
+}
+
+.aiCommandButton {
+  margin-bottom: $spacing-02;
+  
+  &:hover:not(:disabled) {
+    background-color: $layer-hover-01;
+    color: $text-primary;
+  }
+}
+
+// Responsive design
+@include breakpoint-down(lg) {
+  .container {
+    padding: $spacing-04;
+  }
+
+  .headerRow {
+    margin-bottom: $spacing-05;
+  }
+
+  .controlPanel {
+    position: static;
+    margin-bottom: $spacing-05;
+  }
+
+  .editorContainer {
+    margin-top: 0;
+  }
+}
+
+@include breakpoint-down(sm) {
+  .headerRow {
+    .pageTitle h2 {
+      @include type-style('heading-04');
+    }
+  }
+
+  .buttonSet {
+    button {
+      @include type-style('body-compact-01');
+      padding: $spacing-05;
+    }
+  }
+
+  .controlPanel {
+    padding: $spacing-05;
+  }
+}
+
+// Theme-specific overrides
+[data-carbon-theme="g100"] {
+  .controlPanel {
+    background-color: $layer-01;
+    border-color: $border-subtle-01;
+  }
+
+  .editorContainer {
+    background-color: $layer-01;
+    border-color: $border-subtle-01;
+  }
+}
+
+// High contrast mode support
+@media (prefers-contrast: high) {
+  .controlPanel,
+  .editorContainer {
+    border-width: 2px;
+    border-style: solid;
+  }
+
+  .buttonSet button {
+    border: 1px solid $border-strong-01;
+  }
+}
+
+// Focus states for accessibility
+.controlPanel:focus-within {
+  outline: 2px solid $focus;
+  outline-offset: 2px;
+}
+
+.editorContainer:focus-within {
+  outline: 2px solid $focus;
+  outline-offset: 2px;
+}
+
+// Print styles
+@media print {
+  .container {
+    background: white;
+    color: black;
+  }
+
+  .controlPanel {
+    display: none;
+  }
+
+  .headerActions {
+    display: none;
+  }
+
+  .editorContainer {
+    border: none;
+    box-shadow: none;
+  }
+} 

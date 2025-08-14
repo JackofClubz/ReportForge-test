@@ -1,0 +1,74 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+// Constants
+$sidenav-width: 230px;
+
+.header {
+  height: 48px;
+  background: $background;
+  border-bottom: 2px solid $border-subtle-01;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+
+  :global(.cds--header__name) {
+    width: $sidenav-width;
+    padding: 0;
+  }
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $spacing-04;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+
+  &:hover {
+    background-color: transparent;
+  }
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+  max-height: 36px;
+  object-fit: contain;
+}
+
+.logoutButton {
+  display: flex;
+  align-items: center;
+  padding: $spacing-03 $spacing-05 $spacing-03 $spacing-04;
+  gap: $spacing-03;
+  margin: $spacing-03 $spacing-04;
+  border: 1px solid $border-strong-01;
+  border-radius: 8px;
+  background: transparent;
+  cursor: pointer;
+  @include type-style('body-compact-01');
+  color: $text-primary;
+
+  svg {
+    width: 16px;
+    height: 16px;
+    fill: $icon-primary;
+  }
+
+  &:hover {
+    background-color: $layer-hover;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+    
+    &:hover {
+      background-color: transparent;
+    }
+  }
+} 

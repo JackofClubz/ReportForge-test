@@ -1,0 +1,43 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+
+.siteHeader {
+  margin-bottom: $spacing-06;
+  
+  h2 {
+    @include type-style('heading-03');
+    margin-top: 0;
+    margin-bottom: $spacing-03;
+  }
+  
+  .siteSubtitle {
+    @include type-style('body-01');
+    color: $text-secondary;
+    margin: 0;
+  }
+}
+
+.detailCard {
+  background-color: $layer-01;
+  border-radius: 4px;
+  padding: $spacing-05;
+  margin-bottom: $spacing-06;
+  
+  h3 {
+    @include type-style('heading-compact-02');
+    margin-top: 0;
+    margin-bottom: $spacing-05;
+  }
+}
+
+.detailRow {
+  @include type-style('body-01');
+  margin-bottom: $spacing-03;
+  display: flex;
+  
+  strong {
+    min-width: 140px;
+    margin-right: $spacing-03;
+  }
+} 

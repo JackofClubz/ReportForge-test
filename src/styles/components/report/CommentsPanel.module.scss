@@ -1,0 +1,132 @@
+/* CommentsPanel styles */
+.commentsPanel {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #f4f4f4;
+  border-left: 1px solid #e0e0e0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+
+  h3 {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 600;
+  }
+}
+
+.tabsContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: hidden;
+}
+
+.tabButtons {
+  display: flex;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.tabButton {
+  padding: 0.75rem 1rem;
+  border: none;
+  background: none;
+  color: #525252;
+  font-size: 0.875rem;
+  cursor: pointer;
+  position: relative;
+  
+  &:hover {
+    background-color: #f4f4f4;
+  }
+  
+  &.activeTab {
+    color: #0f62fe;
+    font-weight: 600;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background-color: #0f62fe;
+    }
+  }
+}
+
+.commentsList {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.commentItem {
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.commentHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.authorInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.authorName {
+  font-weight: 600;
+  color: #161616;
+}
+
+.commentDate {
+  font-size: 0.75rem;
+  color: #6f6f6f;
+}
+
+.commentContent {
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
+.commentSection {
+  font-size: 0.75rem;
+  color: #6f6f6f;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 0.5rem;
+}
+
+.noComments {
+  text-align: center;
+  padding: 2rem;
+  color: #6f6f6f;
+}
+
+.addCommentSection {
+  padding: 1rem;
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+
+  button {
+    align-self: flex-end;
+  }
+} 

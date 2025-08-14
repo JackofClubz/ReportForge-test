@@ -1,0 +1,15 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/breakpoint' as *;
+
+.spacer {
+  align-self: stretch;
+  border-bottom: 1px solid var(--Border-border-subtle-01, #C6C6C6);
+  display: flex;
+  min-width: 240px;
+  width: 984px;
+  flex-shrink: 1;
+  height: 48px;
+  flex: 1;
+  flex-basis: 26px;
+}

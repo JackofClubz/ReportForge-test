@@ -1,0 +1,1138 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+@use '@carbon/react/scss/breakpoint' as *;
+
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.reportEditorContainer {
+  min-height: calc(100vh - 48px); // Subtract header height
+  background-color: $background;
+  display: flex;
+  flex-direction: column;
+}
+
+// Header Styles
+.headerContainer {
+  background-color: $layer-01;
+  width: 100%;
+}
+
+.headerContent {
+  max-width: 984px;
+  margin: 0 auto;
+  padding: $spacing-05;
+}
+
+.headerTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: $spacing-03;
+}
+
+.titleRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: $spacing-03;
+}
+
+.titleArea {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+
+  h1 {
+    margin: 0;
+  }
+}
+.progressArea {
+  min-width: 480px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.headerRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: $spacing-07;
+  max-height: 3.5rem;
+}
+
+.pageTitle {
+  display: flex;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 2rem 0;
+}
+
+
+.breadcrumbContainer {
+  margin-bottom: $spacing-05;
+}
+
+.headerActionsTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: $spacing-05;
+  margin-bottom: $spacing-05;
+}
+
+.collaborationArea {
+  display: flex;
+  align-items: center;
+  gap: $spacing-05;
+}
+
+.lastSaved {
+  p {
+    @include type-style('body-short-01');
+    color: $text-secondary;
+    margin: 0;
+  }
+}
+
+// Collaboration Presence Styles
+.collaborationPresence {
+  display: flex;
+  align-items: center;
+  gap: $spacing-04;
+}
+
+.connectionStatus {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+  
+  span {
+    @include type-style('label-01');
+    color: $text-secondary;
+  }
+}
+
+.onlineIndicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: $support-success;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(42, 128, 0, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 6px rgba(42, 128, 0, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(42, 128, 0, 0);
+  }
+}
+
+.activeUsers {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-02;
+}
+
+.userCount {
+  @include type-style('label-01');
+  color: $text-secondary;
+  font-weight: 600;
+}
+
+.userList {
+  display: flex;
+  align-items: center;
+  gap: $spacing-02;
+  flex-wrap: wrap;
+}
+
+.userName {
+  @include type-style('caption-01');
+  color: $text-primary;
+  background-color: $layer-02;
+  padding: $spacing-01 $spacing-02;
+  border-radius: 12px;
+  border: 1px solid $border-subtle-01;
+  font-weight: 500;
+  
+  &:first-child {
+    background-color: $layer-accent-01;
+    color: $text-on-color;
+  }
+}
+
+.moreUsers {
+  @include type-style('caption-01');
+  color: $text-secondary;
+  font-style: italic;
+}
+
+.titleSection {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+
+  h1 {
+    @include type-style('heading-03');
+    color: $text-primary;
+    margin: 0;
+  }
+}
+
+.subtitle {
+  @include type-style('body-short-01');
+  color: $text-secondary;
+  margin: 0 0 $spacing-07 0;
+}
+
+.headerActions {
+  display: flex;
+  align-items: center;
+  gap: $spacing-05;
+}
+
+.onlineStatus {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+
+  p {
+    @include type-style('body-short-01');
+    color: $text-secondary;
+    margin: 0;
+  }
+}
+
+.statusDot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: $support-success;
+}
+
+.closeButton {
+  color: $link-primary;
+}
+
+// Progress Section
+.progressContainer {
+  width: 100%;
+  background-color: $layer-01;
+}
+
+.progressContent {
+  max-width: 984px;
+  margin: 0 auto;
+  padding: $spacing-05;
+}
+
+// Notification Section
+.notificationContainer {
+  width: 100%;
+  background-color: $layer-01;
+}
+
+.notificationContent {
+  max-width: 984px;
+  margin: 0 auto;
+  padding: $spacing-05;
+}
+
+// Editor Section Styles
+.editorActions {
+  display: flex;
+  gap: $spacing-03;
+  margin-top: $spacing-07;
+  margin-bottom: $spacing-05;
+}
+
+.editorAreaContainer {
+  display: flex;
+  width: 100%;
+  margin: 0 auto 3rem 0;
+}
+
+.editorWrapper {
+  background-color: $background;
+  width: calc(100% - 5rem);
+  max-width: calc(100vw - 140px); // Account for floating menu space
+
+  // Customize BlockNote styling to match Carbon Design
+  :global(.bn-container) {
+    border: 1px solid $border-subtle-01;
+    border-radius: 4px;
+    background-color: $background;
+    padding: 1rem 0 1rem 0;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  :global(.bn-editor) {
+    min-height: calc(100vh - 400px); // Adjust for header height
+  }
+}
+
+.errorContainer {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-05;
+  padding: $spacing-05;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+// Style for the main column containing editor and menu
+.mainColumn {
+  position: relative; /* Needed for absolute positioning of children */
+}
+
+// Responsive adjustments
+@include breakpoint-down(md) {
+  .headerTop {
+    flex-direction: column;
+    gap: $spacing-05;
+  }
+
+  .headerActions {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .editorActions {
+    flex-direction: column;
+  }
+
+  .editorWrapper {
+    padding: $spacing-03;
+
+    :global(.bn-container) {
+      padding: $spacing-03;
+    }
+  }
+}
+
+/* === Floating Menu Styles (Merged) === */
+
+.floatingMenuContainer {
+  position: fixed; 
+  top: auto;
+  right: 2rem;
+  width: 60px;   
+  background-color: $background;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: $spacing-03 0;
+  gap: $spacing-03;      
+  z-index: 1000; 
+  opacity: 1;
+  transition: opacity $duration-moderate-01 motion(standard, productive),
+              transform $duration-moderate-01 motion(standard, productive);
+  
+  &.hidden {
+    opacity: 0;
+    transform: translateX(20px);
+    pointer-events: none;
+  }
+}
+
+.menuButtonContainer {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.menuButton {
+  // Optional: Add specific button styles if needed
+  
+  &.active {
+    background-color: $layer-accent-01;
+    color: $text-on-color;
+  }
+}
+
+.separator {
+  width: 70%;
+  border: none;
+  border-top: 1px solid $border-subtle-01;
+  margin: $spacing-02 0;
+}
+
+/* Wayfinder Popup Styles */
+.wayfinderPopup {
+  position: absolute;
+  top: 0;
+  right: calc(100% + $spacing-03);
+  width: 280px;
+  max-height: 400px;
+  background-color: $background;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 20;
+  overflow: hidden;
+  animation: slideInLeft $duration-moderate-01 motion(standard, productive);
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.wayfinderHeader {
+  padding: $spacing-04;
+  border-bottom: 1px solid $border-subtle-01;
+  background-color: $layer-01;
+  
+  h3 {
+    @include type-style('heading-compact-01');
+    margin: 0;
+    color: $text-primary;
+  }
+}
+
+.wayfinderContent {
+  max-height: 320px;
+  overflow-y: auto;
+  padding: $spacing-02 0;
+}
+
+.emptyState {
+  @include type-style('body-compact-01');
+  color: $text-secondary;
+  text-align: center;
+  padding: $spacing-05;
+  margin: 0;
+}
+
+.sectionsList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sectionItem {
+  cursor: pointer;
+  padding: $spacing-03 $spacing-04;
+  border-bottom: 1px solid $border-subtle-01;
+  transition: background-color $duration-fast-01 motion(standard, productive);
+  
+  &:hover {
+    background-color: $layer-hover-01;
+  }
+  
+  &:active {
+    background-color: $layer-active-01;
+  }
+  
+  &:last-child {
+    border-bottom: none;
+  }
+  
+  // Different indentation levels
+  &.level1 {
+    padding-left: $spacing-04;
+  }
+  
+  &.level2 {
+    padding-left: $spacing-06;
+  }
+  
+  &.level3 {
+    padding-left: $spacing-07;
+  }
+  
+  &.level4 {
+    padding-left: $spacing-08;
+  }
+}
+
+.sectionContent {
+  display: flex;
+  align-items: center;
+  gap: $spacing-03;
+}
+
+.sectionNumber {
+  @include type-style('label-01');
+  color: $text-secondary;
+  font-weight: 600;
+  min-width: 20px;
+  text-align: left;
+}
+
+.sectionTitle {
+  @include type-style('body-compact-01');
+  color: $text-primary;
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// Responsive adjustments for floating menu
+@include breakpoint-down(lg) {
+  .floatingMenuContainer {
+    right: 1rem;
+  }
+  
+  .wayfinderPopup {
+    width: 260px;
+  }
+}
+
+@include breakpoint-down(md) {
+  .floatingMenuContainer {
+    right: 0.5rem;
+    width: 50px;
+  }
+  
+  .wayfinderPopup {
+    width: 240px;
+  }
+}
+
+@include breakpoint-down(sm) {
+  .floatingMenuContainer {
+    display: none; // Hide on very small screens to avoid overlap
+  }
+}
+
+/* === End Floating Menu Styles === */
+
+// Style for the top row container
+.topRowContainer {
+  display: flex;
+  justify-content: space-between; /* Pushes breadcrumb and actions apart */
+  align-items: center;          /* Vertically aligns items */
+  margin-bottom: $spacing-05;  /* Add space below the row */
+}
+
+.headerActionsTop {
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;
+  gap: $spacing-05; 
+  /* margin-bottom: $spacing-05; Remove vertical margin */
+  /* padding-top: $spacing-05; Remove vertical padding */
+}
+
+/* === Comments Panel Styles === */
+.commentsPanel {
+  position: absolute;
+  top: 0;
+  right: calc(100% + $spacing-03);
+  width: 320px;
+  max-height: 600px; // Increased from 500px
+  background-color: $background;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 20;
+  overflow: hidden;
+  animation: slideInLeft $duration-moderate-01 motion(standard, productive);
+  display: flex;
+  flex-direction: column;
+}
+
+.commentsPanelHeader {
+  padding: $spacing-03 $spacing-04; // Reduced from $spacing-04
+  border-bottom: 1px solid $border-subtle-01;
+  background-color: $layer-01;
+  flex-shrink: 0;
+  
+  h3 {
+    @include type-style('heading-compact-01');
+    margin: 0;
+    color: $text-primary;
+  }
+}
+
+.commentsPanelContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.threadsList {
+  flex: 1;
+  overflow-y: auto;
+  padding: $spacing-02 0; // Reduced from $spacing-03
+  max-height: 400px; // Increased from 300px
+}
+
+.commentThread {
+  margin-bottom: $spacing-03; // Reduced from $spacing-04
+  padding: 0 $spacing-03; // Reduced from $spacing-04
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.emptyCommentsState {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: $spacing-05 $spacing-03; // Reduced horizontal padding
+  text-align: center;
+  
+  p {
+    @include type-style('body-compact-01');
+    color: $text-secondary;
+    margin: 0 0 $spacing-02 0;
+    
+    &:first-child {
+      @include type-style('heading-compact-01');
+      color: $text-primary;
+      margin-bottom: $spacing-03;
+    }
+  }
+}
+
+.emptyCommentsSubtext {
+  @include type-style('caption-01');
+  color: $text-helper;
+}
+
+.newCommentComposer {
+  padding: 12px;
+  border-top: 1px solid var(--border-subtle-01);
+  background-color: var(--background-secondary);
+}
+
+.customCommentComposer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.commentTextarea {
+  flex-grow: 1;
+  resize: none;
+  border-radius: 4px;
+  border: 1px solid var(--border-strong-01);
+  padding: 8px;
+  font-size: 14px;
+  min-height: 40px;
+  background-color: var(--field-01);
+  color: var(--text-primary);
+
+  &:focus {
+    outline: 2px solid var(--focus);
+    outline-offset: 1px;
+    border-color: var(--focus);
+  }
+
+  &:disabled {
+    background-color: var(--field-disabled);
+    cursor: not-allowed;
+  }
+}
+
+.commentSubmitButton {
+  flex-shrink: 0;
+}
+
+// Override Liveblocks styles to match Carbon Design and make more compact
+:global(.lb-thread) {
+  margin-bottom: $spacing-03 !important; // Reduced from $spacing-04
+  
+  .lb-comment {
+    margin-bottom: $spacing-02 !important; // Reduced from $spacing-03
+    padding: $spacing-02 !important; // Added compact padding
+  }
+  
+  .lb-comment-header {
+    display: flex;
+    align-items: center;
+    gap: $spacing-02;
+    margin-bottom: $spacing-01 !important; // Reduced from $spacing-02
+  }
+  
+  .lb-comment-author {
+    @include type-style('caption-01'); // Reduced from 'label-01'
+    color: $text-primary;
+    font-weight: 600;
+  }
+  
+  .lb-comment-time {
+    @include type-style('caption-01');
+    color: $text-secondary;
+    font-size: 0.75rem !important; // Smaller time font
+  }
+  
+  .lb-comment-body {
+    @include type-style('body-compact-01');
+    color: $text-primary;
+    line-height: 1.3 !important; // Tighter line height
+    font-size: 0.875rem !important; // Slightly smaller text
+  }
+}
+
+:global(.lb-composer) {
+  border: 1px solid $border-subtle-01 !important;
+  border-radius: 4px !important;
+  background-color: $field-01 !important;
+  
+  .lb-composer-editor {
+    @include type-style('body-compact-01');
+    color: $text-primary !important;
+    padding: $spacing-02 !important; // Reduced from $spacing-03
+    min-height: 50px !important; // Reduced from 60px
+    font-size: 0.875rem !important; // Smaller composer text
+    
+    &::placeholder {
+      color: $text-placeholder !important;
+    }
+  }
+  
+  .lb-composer-action {
+    padding: $spacing-02 !important; // Reduced padding
+    border-top: 1px solid $border-subtle-01 !important;
+    
+    button {
+      @include type-style('caption-01'); // Smaller button text
+      background-color: $link-primary !important;
+      color: $text-on-color !important;
+      border: none !important;
+      border-radius: 4px !important;
+      padding: $spacing-01 $spacing-03 !important; // Reduced padding
+      transition: background-color $duration-fast-01 motion(standard, productive);
+      font-size: 0.75rem !important; // Smaller button text
+      
+      &:hover {
+        background-color: $link-primary !important;
+        opacity: 0.8;
+      }
+      
+      &:disabled {
+        background-color: $text-disabled !important;
+        color: $text-on-color !important;
+        opacity: 0.5;
+      }
+    }
+  }
+}
+
+// Responsive adjustments for comments panel
+@include breakpoint-down(lg) {
+  .commentsPanel {
+    width: 300px;
+  }
+}
+
+@include breakpoint-down(md) {
+  .commentsPanel {
+    width: 280px;
+    max-height: 400px;
+  }
+}
+
+// Inline comment button styling
+.inlineCommentButton {
+  background: white;
+  border: 1px solid var(--border-subtle-01);
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  padding: 4px;
+  animation: fadeInScale 0.2s ease-out;
+  
+  .cds--btn {
+    min-height: auto;
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// AI Panel Styles
+.aiPanel {
+  position: absolute;
+  top: 0;
+  right: calc(100% + $spacing-03);
+  width: 320px;
+  max-height: 600px;
+  background-color: $background;
+  border: 1px solid $border-subtle-01;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 20;
+  overflow: hidden;
+  animation: slideInLeft $duration-moderate-01 motion(standard, productive);
+  display: flex;
+  flex-direction: column;
+}
+
+.aiPanelHeader {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f8f9fa;
+  
+  h3 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #161616;
+  }
+}
+
+.selectedTextInfo {
+  margin-top: 8px;
+  padding: 6px 8px;
+  background: #e8f4fd;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #0f62fe;
+  border-left: 3px solid #0f62fe;
+}
+
+.aiResponse {
+  padding: 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f8f9fa;
+  
+  .aiResponseContent {
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 12px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #161616;
+    white-space: pre-wrap;
+    margin-bottom: 12px;
+  }
+  
+  .aiResponseActions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    
+    button {
+      flex: 1;
+      min-width: 60px;
+    }
+  }
+}
+
+.aiLoading {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6f6f6f;
+}
+
+.aiPrompts {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px;
+}
+
+.promptNavigation {
+  padding: 8px 0;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 8px;
+}
+
+.promptGroup {
+  margin-bottom: 16px;
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.promptGroupTitle {
+  font-size: 12px;
+  font-weight: 600;
+  color: #6f6f6f;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 8px 0;
+  padding: 0 8px;
+}
+
+.promptOption {
+  width: 100%;
+  padding: 10px 12px;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 6px;
+  margin-bottom: 2px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: #161616;
+  transition: all 0.15s ease;
+  
+  &:hover {
+    background: #e8f4fd;
+    color: #0f62fe;
+  }
+  
+  &:active {
+    background: #d0e2ff;
+  }
+  
+  .promptIcon {
+    font-size: 14px;
+    width: 16px;
+    text-align: center;
+  }
+  
+  .promptArrow {
+    margin-left: auto;
+    color: #6f6f6f;
+    font-size: 12px;
+  }
+}
+
+.customPrompt {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #e0e0e0;
+  
+  textarea {
+    margin-bottom: 8px;
+  }
+  
+  button {
+    width: 100%;
+  }
+}
+
+// Enhanced Comments Panel - already defined above
+
+.commentsPanelHeader {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: between;
+  
+  h3 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #161616;
+    flex: 1;
+  }
+}
+
+.clearCommentsButton {
+  opacity: 0.6;
+  
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.threadsContainer {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px;
+  
+  .thread {
+    margin-bottom: 12px;
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.composerContainer {
+  padding: 12px 16px;
+  border-top: 1px solid #e0e0e0;
+  background: #f8f9fa;
+}
+
+// Enhanced Wayfinder - already defined above
+
+.wayfinderHeader {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f8f9fa;
+  
+  h3 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #161616;
+  }
+}
+
+.sectionsList {
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.sectionItem {
+  margin-bottom: 2px;
+  
+  &.level1 {
+    font-weight: 600;
+  }
+  
+  &.level2 {
+    padding-left: 16px;
+    font-weight: 500;
+  }
+  
+  &.level3 {
+    padding-left: 32px;
+    font-weight: normal;
+  }
+  
+  &.level4 {
+    padding-left: 48px;
+    font-weight: normal;
+    font-size: 12px;
+  }
+}
+
+.sectionContent {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  
+  &:hover {
+    background: #e8f4fd;
+    color: #0f62fe;
+  }
+}
+
+.sectionNumber {
+  font-size: 11px;
+  font-weight: 600;
+  color: #6f6f6f;
+  min-width: 20px;
+}
+
+.sectionTitle {
+  font-size: 13px;
+  color: #161616;
+  line-height: 1.3;
+}
+
+.emptyState {
+  padding: 20px;
+  text-align: center;
+  color: #6f6f6f;
+  font-size: 13px;
+  font-style: italic;
+}
+
+// Enhanced Menu Button States
+.menuButton {
+  transition: all 0.15s ease;
+  
+  &.active {
+    background: #e8f4fd !important;
+    color: #0f62fe !important;
+    border-color: #0f62fe !important;
+  }
+  
+  &:hover:not(.active) {
+    background: #f4f4f4 !important;
+  }
+}
+
+.separator {
+  margin: 8px 0;
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}
+
+// Responsive adjustments
+@include breakpoint-down(lg) {
+  .aiPanel {
+    width: 300px;
+  }
+}
+
+@include breakpoint-down(md) {
+  .aiPanel {
+    width: 280px;
+    max-height: 400px;
+  }
+  
+  .floatingMenuContainer {
+    position: fixed;
+    right: 10px;
+    top: auto;
+    bottom: 20px;
+    flex-direction: row;
+    gap: 8px;
+    
+    .menuButton {
+      width: 44px;
+      height: 44px;
+    }
+  }
+}
+
+@include breakpoint-down(sm) {
+  .aiPanel,
+  .commentsPanel,
+  .wayfinderPopup {
+    position: fixed !important;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    width: auto !important;
+    max-height: calc(100vh - 100px);
+  }
+}

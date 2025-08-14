@@ -1,0 +1,66 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+// Constants
+$header-height: 3rem;
+$sidenav-width: 16rem;
+
+:global(html), :global(body), :global(#root) {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  background-color: $background;
+  position: relative;
+}
+
+.mainContent {
+  flex: 1;
+  margin-left: $sidenav-width;
+  background-color: $layer-01;
+  min-height: calc(100vh - $header-height);
+  margin-top: $header-height;
+  overflow-y: auto;
+  position: relative;
+  box-sizing: border-box;
+  width: calc(100% - $sidenav-width);
+  padding: 2rem;
+
+  :global(.cds--grid) {
+    padding-top: $spacing-05;
+    padding-bottom: $spacing-05;
+  }
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: $spacing-07;
+  padding: 0;
+
+  h1 {
+    margin: 0;
+  }
+}
+
+.actions {
+  display: flex;
+  gap: $spacing-03;
+}
+
+// Add style for when sidebar is hidden
+.mainContentFullWidth {
+  margin-left: 0;
+  width: 100%;
+} 

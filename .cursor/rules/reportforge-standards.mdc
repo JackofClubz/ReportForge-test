@@ -1,0 +1,170 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: Project-wide standards for the ReportForge app, covering TypeScript, React, Node.js, Carbon, and BlockNote best practices.
+globs:
+  - "**/*.{ts,tsx}"
+  - "**/*.mdx"
+  - "**/*.json"
+  - "**/*.scss"
+  - "**/*.css"
+  - "**/*.md"
+---
+globs:
+  - "src/**/*.{ts,tsx}"       # Attach to all TypeScript files
+  - "src/components/**/*.tsx" # Attach specifically to React components
+  - "src/utils/**/*.ts"       # Attach to utility logic
+
+# ReportForge Project Standards
+
+## 1. General Coding Guidelines
+
+- **TypeScript Usage**:
+  - Use TypeScript for all JavaScript files; ensure strict typing and avoid using `any`.
+  - Prefer interfaces over types for object definitions.
+  - Avoid enums; use const objects or union types instead.
+  - Implement proper type safety and inference.
+  - Utilize the `satisfies` operator for type validation where appropriate.
+
+- **Code Structure**:
+  - Structure React components using functional components with hooks; avoid class components.
+  - Follow the Atomic Design methodology: organize components into atoms, molecules, organisms, templates, and pages.
+  - Centralize all styling; avoid creating scattered CSS files. Use SCSS modules and maintain a consistent naming convention.
+    - Define global SASS variables in a dedicated file (e.g., `src/styles/variables.scss`).
+    - Ensure this variables file is imported into a root SCSS file (e.g., `src/styles/app.scss` or `src/styles/index.scss`) to make variables globally accessible across all SCSS modules.
+  - Ensure all files and folders use kebab-case naming convention.
+
+- **Naming Conventions**:
+  - Use descriptive names with auxiliary verbs (e.g., `isLoading`, `hasError`).
+  - Prefix event handlers with "handle" (e.g., `handleClick`, `handleSubmit`).
+  - Favor named exports for components.
+
+- **Code Quality**:
+  - Follow the DRY (Don't Repeat Yourself) principle.
+  - Implement early returns for better readability.
+  - Structure components logically: exports, subcomponents, helpers, types.
+
+## 2. Node.js Backend Standards
+
+- **Architecture**:
+  - Utilize Express.js for building RESTful APIs.
+  - Implement middleware for authentication, logging, and error handling.
+  - Structure the backend with a clear separation of concerns: controllers, services, and repositories.
+  - Adopt a layered approach to separate business logic from API routes.
+  - Practice modular code to enhance maintainability.
+
+- **Error Handling**:
+  - Implement robust error handling using try-catch blocks and centralized error handlers.
+  - Log errors and important events using a logging library like Winston or Bunyan.
+
+- **Configuration**:
+  - Use environment variables for configuration; avoid hardcoding sensitive information.
+
+- **Performance Optimization**:
+  - Implement caching strategies using tools like Redis to improve performance.
+  - Optimize database queries and use indexing where appropriate.
+  - Utilize asynchronous programming with async/await for non-blocking operations.
+
+- **Security**:
+  - Regularly audit dependencies for vulnerabilities.
+  - Use security linters and follow secure coding practices.
+
+## 3. BlockNote.js Integration
+
+- **Editor Setup**:
+  - Use the `useCreateBlockNote` hook to initialize the editor instance.
+  - Render the editor using the `BlockNoteView` component.
+  - Import `@blocknote/core/style.css` for default styling.
+
+- **Server-Side Rendering**:
+  - Since BlockNote is a client-only component, disable server-side rendering when integrating with frameworks like Next.js.
+
+- **Content Management**:
+  - Manage editor content through the provided API methods: `insertBlocks`, `updateBlock`, `removeBlocks`, etc.
+  - Handle editor events appropriately, ensuring that state updates do not cause unnecessary re-renders.
+
+- **Customization**:
+  - Customize the editor's appearance and behavior by extending or modifying the default UI components as needed.
+  - Implement real-time collaboration features using Yjs providers like `WebrtcProvider` or `Liveblocks`.
+
+- **Error Handling**:
+  - Implement error handling for editor operations, such as catching exceptions when manipulating blocks.
+
+## 4. Project Folder Structure
+
+Maintain a clean and consistent folder structure as follows:
+reportforge/
+├── public/
+├── src/
+│   ├── assets/
+│   │   ├── atoms/
+│   │   ├── molecules/
+│   │   ├── organisms/
+│   │   ├── templates/
+│   │   └── pages/
+│   ├── context/
+│   ├── hooks/
+│   ├── styles/
+│   ├── types/
+│   ├── utils/
+│   └── App.tsx
+├── .cursor/
+│   └── rules/
+│       └── reportforge-standards.mdc
+├── .env
+├── package.json
+└── tsconfig.json
+
+## 5. Code Comments and Documentation
+
+- **Code Comments**:
+  - Include clear, concise comments explaining the purpose and functionality of code blocks to aid team understanding.
+
+- **Documentation**:
+  - Document all public functions and components with JSDoc comments.
+  - Maintain up-to-date README files and other relevant documentation to assist in onboarding and knowledge transfer.
+
+## 6. Testing and Validation
+
+- **Testing**:
+  - Include comprehensive unit tests for all components and functions using Jest and React Testing Library.
+  - Plan for integration and end-to-end tests to ensure overall application reliability.
+
+- **Validation**:
+  - Validate all forms and user inputs; provide user-friendly error messages.
+  - Ensure accessibility compliance (WCAG 2.1 AA) across all UI components.
+
+## 7. Performance and Optimization
+
+- **Performance**:
+  - Optimize performance by lazy-loading components where appropriate and avoiding unnecessary re-renders.
+  - Implement code splitting and tree shaking to reduce bundle size.
+
+- **Monitoring**:
+  - Use profiling and monitoring tools to identify and address performance bottlenecks.
+
+## 8. Accessibility and UX
+
+- **Accessibility**:
+  - Implement proper ARIA attributes.
+  - Ensure keyboard navigation.
+  - Provide appropriate alt text.
+  - Test with screen readers.
+
+- **User Experience**:
+  - Follow consistent spacing and layout patterns.
+  - Ensure responsive design across breakpoints.
+  - Use CSS variables for theme customization.
+
+## 9. Deployment and Configuration
+
+- **Deployment**:
+  - Configure deployment pipelines to automate testing and deployment processes.
+  - Monitor Core Web Vitals to ensure optimal performance.
+
+- **Configuration**:
+  - Maintain separate configuration files for different environments (development, staging, production).
+  - Use tools like dotenv to manage environment variables.

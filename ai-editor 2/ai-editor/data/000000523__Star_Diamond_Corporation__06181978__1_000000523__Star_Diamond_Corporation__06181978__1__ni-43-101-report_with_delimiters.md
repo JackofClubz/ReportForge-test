@@ -1,0 +1,3703 @@
+# TECHNICAL REPORT AND REVISED RESOURCE ESTIMATE 
+
+for the
+
+## STAR - ORION SOUTH DIAMOND PROJECT <br> FORT A LA CORNE AREA <br> SASKATCHEWAN, CANADA <br> LATITUDE $53^{\circ} 15^{\prime \prime} \mathrm{N}$ <br> LONGITUDE $104^{\circ} 48^{\prime \prime} \mathrm{W}$
+
+for
+STAR DIAMOND CORPORATION.
+
+## A.C.A. Howe International Limited
+
+Mr. Daniel C. Leroux, M.Sc. P.Geo.
+Mr. Leon McGarry, B.Sc. P.Geo.
+Mr. Peter J. Ravenscroft, FAusIMM
+Effective Date: July 24, 2024
+Signing Date: September 5, 2024A.C.A. HOWE INTERNATIONAL LIMITED
+Mining and Geological Consultants
+
+Effective Date: July 24, 2024
+Signing Date: September 5, 2024
+
+Client Reference:STAR DIAMOND CORPORATION.
+
+Title:
+TECHNICAL REPORT AND
+REVISED RESOURCE ESTIMATE
+FOR THE
+Star - Orion South Diamond Project
+Fort a La Corne Area,
+SASKATCHEWAN, CANADA
+
+Authors:
+Daniel C. Leroux, M.Sc. P.Geo., "signed and sealed" Senior Associate Geologist
+
+Leon McGarry, B.Sc. P.Geo., "signed and sealed" Senior Associate Geologist
+
+Peter J. Ravenscroft, FAusIMM., "signed and sealed" Ravenscroft Mining Advisors# TABLE OF CONTENTS 
+
+1. ExECUTIVE SUMMARY ..... 1
+2. INTRODUCTION ..... 13
+2.1. GENERAL ..... 13
+2.2. TERMS OF REFERENCE ..... 14
+2.3. SITE INSPECTIONS ..... 15
+2.4. SOURCES OF INFORMATION ..... 15
+2.5. UNITS AND CURRENCY ..... 17
+2.6. Abbreviations and Symbols ..... 17
+3. RELIANCE ON OTHER EXPERTS ..... 21
+3.1. MINERAL TENURE ..... 21
+3.2. SURFACE RIGHTS, ACCESS AND PERMITTING ..... 21
+3.3. DIAMOND VALUATIONS ..... 21
+3.4. GEOTECHNICAL INVESTIGATIONS ..... 22
+3.5. PIT OPTIMISATION COSTS ..... 23
+4. PROPERTY DESCRIPTION AND LOCATION. ..... 23
+4.1. ClaIMS, TITLE, AND TENURE ..... 23
+4.1.1 STAR DIAMOND EXPLORATION LICENSES ..... 23
+4.1.2 SURFACE RIGHTS AND LEASES ..... 35
+4.1.3 OWNERSHIP AND VARIOUS JOINT VENTURES ..... 36
+4.1.4 PERMITS AND APPROVALS ..... 36
+4.2. ENVIRONMENTAL AND OTHER LIABILITIES ..... 37
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY ..... 39
+5.1. ACCESSIBILITY ..... 39
+5.2. PHYSIOGRAPHY AND CLIMATE ..... 39
+5.3. LOCAL AND REGIONAL INFRASTRUCTURE ..... 39
+5.3.1 STAR PROPERTY DESCRIPTION ..... 40
+5.3.2 ORION SOUTH PROPERTY DESCRIPTION ..... 40
+6. HISTORY ..... 40
+7. GEOLOGICAL SETTING AND MINERALIZATION ..... 45
+7.1. PROPERTY GEOLOGY - FALC AREA ..... 48
+7.2. STAR KIMBERLITE GEOLOGY AND MINERALIZATION ..... 49
+7.2.1 CANTUAR KIMBERLITE ("CPK") ..... 50
+7.2.2 PENSE KIMBERLITE ("PPK") ..... 53
+7.2.3 EARLY JOLI FOU KIMBERLITE ("EJF") ..... 53
+7.2.4 MID JOLI FOU KIMBERLITE ("MJF") ..... 56
+7.2.5 LATE JOLI FOU KIMBERLITE ("LJF") ..... 56
+7.2.6 UPPER KIMBERLITIC SEDIMENTS/REWORKED VOLCANICLASTIC UNITS ("UKS/UKRVU") ..... 56
+7.3. ORION SOUTH KIMBERLITE GEOLOGY AND MINERALIZATION ..... 577.3.1 CANTUAR KIMBERLITE ("CPK") ..... 58
+7.3.2 EARLY PENSE ("P3") KIMBERLITE ..... 58
+7.3.3 PENSE KIMBERLITE ("PENSE") ..... 59
+7.3.4 EARLY JOLI FOU KIMBERLITE ("EJF") ..... 60
+7.3.5 LATE JOLI FOU KIMBERLITE ("LJF") ..... 64
+7.3.6 Viking KIMBERLITE ("VPK") ..... 65
+7.3.7 UPPER KIMBERLITIC SEdIMENTS ("UKS/KSST") ..... 66
+7.4. GEOLOGICAL MODEL ..... 66
+7.4.1 Star Geological Model ..... 66
+7.4.2 ORIon SOUth Geological Model ..... 67
+8. DEPOSIT TYPES ..... 69
+8.1. KIMBERLITE HOSTED DIAMOND DEPOSITS ..... 69
+8.2. FORT À LA CORNE KIMBERLITE MODEL ..... 70
+9. EXPLORATION ..... 71
+9.1. STAR KIMBERLITE EXPLORATION ..... 71
+9.2. ORIon SOUth KIMBERLITE EXPLORATION ..... 72
+9.3. ORIon Centre, ORIon North and Taurus KIMBERLITE Clusters ..... 74
+10. DRILLING. ..... 78
+10.1. STAR KIMBERLITE DRILLING ..... 78
+10.1.1 PRE 2016 DRILLING ..... 78
+10.1.2 2016 NQ DRILL PROGRAM ..... 83
+10.1.3 2016 PQ DRILL PROGRAM ..... 84
+10.1.4 2017 HQ3 DRILL PROGRAM ..... 87
+10.1.5 2019 HQ3 DRILL PROGRAM ..... 91
+10.1.6 2019 TRENCH CUTTER BulK SAMPLING. ..... 95
+10.2. ORIon South Drilling. ..... 98
+10.2.1 PRE 2016 DRILLING. ..... 98
+10.2.2 2016 DRILL PROGRAM ..... 100
+10.2.3 2019 DRILL PROGRAM ..... 104
+11. SAMPLE PREPARATION ANALYSIS AND SECURITY ..... 110
+11.1. Diamond Drilling - LOGGing and Sampling Procedures ..... 110
+11.1.1 Bulk DENSITY DETERMINATION ..... 111
+11.2. Underground Sampling Procedures and Sample Security ..... 113
+11.2.1 Shaft and Lateral Drift Sampling (2004 to 2009) ..... 113
+11.2.2 Underground Bulk Sampling Protocols (2004 to 2009) ..... 113
+11.3. LDD (RC Drilling) and TRENCH CUTTER SAMPLE RECOVERY ..... 115
+11.3.1 PRE 2015 PROGRAM ..... 115
+11.3.2 2015 PROGRAM ..... 116
+11.3.3 2019 TRENCH CUTTER PROGRAM ..... 118
+11.4. SAMPLE PREPARATION, ANALYSES AND SECURITY PRE 2015 ..... 12111.4.1 Introduction - Mineral Processing and Diamond Recovery ..... 121
+11.4.2 Process Plant - Crushing and Scrubbing Circuit ..... 121
+11.4.3 Process Plant DMS Circuit ..... 122
+11.4.4 Diamond Recovery Plant Sample Handling and Processing Procedures. ..... 124
+11.4.5 X-Ray Diamond Sorter ..... 125
+11.4.6 Grease Table Diamond Recovery ..... 126
+11.4.7 Chain of Custody and Security Protocols. ..... 126
+11.4.8 Diamond Picking and Sorting Procedures (2004-2009) ..... 128
+11.5. Sample Preparation, Analyses and Security 2015 LDD Program ..... 128
+11.5.1 Thunder Bay Process Plant - Crushing, Scrubbing \& Recovery Circuit ..... 128
+11.5.2 Chain of Custody and Security Protocols. ..... 131
+11.5.3 Diamond Picking and Sorting Procedures ..... 131
+11.6. Sample Preparation, Analyses and Security 2019 Trench Cutter Program. ..... 132
+11.6.1 Trench Cutter Kimberlite Sampling Processing Procedure ..... 132
+11.6.2 RTEC Process Plant - Crushing, Scrubbing \& Recovery Circuit ..... 133
+11.6.3 Diamond Picking and Sorting Procedures - SRC ..... 138
+11.7. Diamond Valuation ..... 140
+12. Data Verification ..... 141
+12.1. Introduction ..... 141
+12.2. QA/QC Audits ..... 142
+12.2.1 QA/QC Audits Pre 2015 ..... 142
+12.3. QA/QC Audits 2015 LDD Program ..... 146
+12.4. QA/QC Audits 2019-2020 Trench Cutter Program ..... 147
+12.5. Database Verification. ..... 149
+13. Mineral Processing and Metallurgical Testing ..... 150
+13.1. Star Underground Bulk Sampling Program (2004-2009) ..... 150
+13.2. Orion South Underground Bulk Sampling Program. ..... 152
+13.3. LDD Sampling Programs ..... 155
+13.3.1 Star LDD Program ..... 155
+13.3.2 Orion South LDD Program ..... 155
+13.4. RTEC 2019 Trench Cutter Program ..... 158
+14. Mineral Resource Estimates ..... 160
+14.1. Introduction ..... 160
+14.2. Data Summary ..... 161
+14.2.1 Star ..... 161
+14.2.2 Orion South ..... 163
+14.3. Geological Models. ..... 164
+14.3.1 Star ..... 165
+14.3.2 Orion South ..... 168
+14.4. Block Models ..... 17014.4.1 STAR ..... 170
+14.4.2 ORION SOUTH ..... 171
+14.5. Alignment Of LDD Grade Data ..... 171
+14.5.1 The Need for Sample Grade Alignment ..... 172
+14.5.2 Grade Alignment Process ..... 172
+14.5.3 Grade Alignment Implementation ..... 173
+14.5.4 GRade Alignment Results ..... 179
+14.6. EXPLORATORY DATA ANALYSIS ..... 180
+14.6.1 STAR ..... 180
+14.6.2 ORION SOUTH ..... 186
+14.7. GRade Interpolation ..... 192
+14.7.1 STAR ..... 193
+14.7.2 ORION SOUTH ..... 194
+14.8. Bulk DensitY ..... 194
+14.8.1 STAR ..... 195
+14.8.2 ORION SOUTH ..... 195
+14.9. Block Model Validation ..... 196
+14.9.1 STAR ..... 197
+14.9.2 ORION SOUTH ..... 199
+14.10. Mineral Resource Reporting ..... 201
+14.10.1 Reasonable Prospects of Economic Extraction ..... 204
+14.10.2 Resource Classification Parameters ..... 206
+14.11. Mineral Resource Statement ..... 210
+14.12. Factors That May Affect the Mineral Resource Estimates ..... 212
+14.13. COMPARISON WITH PREVIOUS 2015 MINERAL RESOURCES ESTIMATE ..... 212
+14.13.1 STAR ..... 213
+14.13.2 ORION SOUTH ..... 213
+14.14. Targets for Additional Exploration ..... 214
+14.14.1 STAR ..... 214
+14.14.2 ORION SOUTH ..... 214
+15. Mineral RESERVE ESTIMATES ..... 215
+16. Mining Methods ..... 215
+17. RECOVERY METHODS ..... 215
+18. Project Infrastructure ..... 215
+19. Market Studies and Contracts ..... 215
+20. Environmental Studies, Permitting, and Social Or Community Impact ..... 215
+21. CAPITAL AND OPERATING COSTS ..... 216
+22. ECONOMIC ANALYSIS ..... 21623. AdJACEnt PROPERTIES ..... 216
+24. OTHER RELEVANT DATA AND INFORMATION ..... 216
+25. INTERPRETATION AND CONCLUSIONS ..... 216
+26. RECOMMENDATIONS ..... 220
+26.1. BUDGET ..... 220
+27. REFERENCES ..... 221
+28. CERTIFICATES ..... 226# LIST OF TABLES 
+
+Table 1-1 The Parcel and Model Price Details for the Star Kimberlites (June, 2024 PRICEBOOK) ..... 7
+Table 1-2 The Parcel and Model Price Details for the Orion South Kimberlites (June, 2024 PRICEBOOK) ..... 7
+Table 1-3 2024 Revised Mineral Resource Estimates for the Star and Orion South DEPOSITS ..... 8
+Table 4-1 Tenure Summary of STAR DIAMOND 100 \% Held Property, August 27, 2024 ..... 27
+Table 4-2 Summary of Surface Leases Granted to Star Diamond and The FAlc-JV ..... 36
+Table 6-1 TFFE Summary Table by Kimberlite Body. ..... 43
+Table 6-2 Kimberlites not included in the TFFE FOR WHICH GEOLOGICAL MODELS HAVE BEEN PREPARED ..... 44
+Table 7-1 Average Depth (and Elevation) to Major Stratigraphic Units. ..... 45
+Table 7-2 Average Thickness of Major Stratigraphic Units ..... 45
+Table 9-1 Summary of Exploration Activities on the Star Kimberlite Deposit, 1996-2024 ..... 71
+Table 9-2 Summary of Exploration Activities on the Orion South Kimberlite Deposit, 1988-2024 ..... 73
+Table 9-3 Summary of EXPLORATION OF REMAINDER OF FALC JV ..... 74
+Table 10-1 Summary of Surface and Underground Drilling On The Star Kimberlite DEPOSIT 1995-2015 ..... 79
+Table 10-2 Summary of Surface and Underground Drilling On The Star Kimberlite DEPOSIT 1995-2015 ..... 83
+Table 10-3 2016 Star West Core Drilling Statistics. ..... 84
+Table 10-4 2016 Star Geotechnical Core Drilling Location ..... 84
+Table 10-5 2016 Star Geotechnical Core Drilling Statistics. ..... 85
+Table 10-6 2017 Star Core \& Sonic Drilling Core Locations ..... 88
+Table 10-7 2017 Star Core \& Sonic Drilling Statistics ..... 89
+Table 10-8 2019 Star Core \& Sonic Drilling Core Locations ..... 92
+Table 10-9 2019 Star Core \& Sonic Drilling Core Locations ..... 92
+Table 10-10 2019 Star Trench Cutter Drilling LocationsS. ..... 95
+Table 10-11 2019 Star Trench Cutter Drilling Statistics ..... 96
+Table 10-12 Summary of Drilling on the Orion South Kimberlite Deposit, 1992-2015 ..... 98
+Table 10-13 2016 Orion South FALC-JV Core Drilling Collar Locations ..... 101
+Table 10-14 2016 Orion South FALC-JV Core Drilling Statistics. ..... 101
+Table 10-15 2019 Orion South Core \& Sonic Drilling Collar Locations ..... 104
+Table 10-16 2019 Orion South Core \& Sonic Drilling Statistics ..... 106
+Table 11-1 Density Database Star and Orion South. ..... 111
+Table 11-2 The Parcel and Model Price Details for each of the Kimberlite units in the Star Kimberlite (June, 2024 PRICEBOOK) ..... 140
+Table 11-3 The Parcel and Model Price Details for each of the Kimberlite units in the Orion South Kimberlite (June, 2024 PRICEBOOK) ..... 140
+Table 13-1 Summary of Combined Production and Sample Results (Underground, RE, GEOTECH AND CLEAN-UP) FOR STAR KIMBERLITE (InCLUDING STAR WEST) ..... 151
+Table 13-2 Summary of Underground ROM Diamond Grades From the Various Star# KIMBERLITE UNITS 
+
+152
+Table 13-3 UNDERGROUND BulK SAMPLing RESULTS ON A PER KIMBERLITE UNIT BASIS - FALC-JV ORION SOUTH KIMBERLITE ..... 154
+Table 13-4 Summary of Star Kimberlite LDD Processing and Total Carat Recovery on a PER KIMBERLITE UNIT BASIS ..... 155
+Table 13-5 Diamond Results From Orion South LDD Mini-Bulk SAMPLES ON a PER Unit BASIS PRE 2015 ..... 156
+Table 13-6 2015 LDD PROGRAM ..... 157
+Table 13-7 TRENCH CUTTER RESULTS ..... 158
+Table 14-1 Star Micromine Input Data Files. ..... 162
+OriON South Micromine Input Data Files ..... 164
+Table 14-3 Star LithOLOGY MODEL DOMAIN DETAILS ..... 166
+OriON South Lithology Model Domain Details ..... 169
+Table 14-5 Star Block Model Definitions ..... 171
+OriON South Model Definitions ..... 171
+Table 14-7 AVERAGE LDD GRADE ALIGNMENT FACTORS. ..... 179
+SIMPIE STATISTICS FOR STAR RESOURCE KIMBERLITE DOMAINS ..... 182
+MOdeled SEmi-Variogram Parameters for Star Grade Interpolation ..... 186
+SIMPIE STATISTICS FOR ORION SOUTH RESOURCE KIMBERLITE DOMAINS ..... 188
+MOdeled SEmi-Variogram Parameters for Orion South Grade Interpolation ..... 192
+Table 14-12 Star Estimation Parameters ..... 193
+Table 14-13 Orion South Estimation Parameters. ..... 194
+Table 14-14 Density Values used in 2024 Star MRE. ..... 195
+Table 14-15 Density Values used in 2024 Orion South MRE ..... 196
+Table 14-16 Star and Orion South Whittle Pit Shell Parameters ..... 204
+Table 14-17 Mineral Resources Estimate for the Star Kimberlite. ..... 211
+Table 14-18 Mineral Resources Estimate for the Orion South Kimberlites ..... 211
+Table 26-1 Star Diamond Star-Orion South Project Development Program and Budget ..... 220
+LIST OF FIGURES
+Figure 4-1 Location Map of the Star-Orion South Diamond Project ..... 25
+Figure 4-2 Star Diamond Mineral Disposition. ..... 26
+Figure 7-1 Regional Geology of the FALC Area With the MAGNETIC Outlines of the FALC KIMBERLITES. ..... 46
+Figure 7-2 Cretaceous stratigraphic Column of the Star - Orion South Area ..... 47
+Figure 7-3 Cross-Section across the Western Portion of the star Kimberlite (View Towards the West) ..... 51
+Figure 7-4 Photographs of Underground Hand Samples and Core From the Star KIMBERLITE ..... 52
+Figure 7-5 Topographic Elevation Map (Lows are Blue; HignS are Magenta) of the Top Contact of the Olivine-Rich EJF ..... 54
+Figure 7-6 IsOPach Map of the EJF Kimberlite Intersections (Contour Interval: 10 M).. ..... 55| Figure 7-7 | ORIon SOUth KIMBERLITE West to EAST Cross-Section Along UTM Line 5,900,600N |
+| :--: | :--: |
+| Figure 7-8 | Example of Typical Matrix-Rich Pense Kimberlite With a More Altered (LigHter) Domain and a Less Altered (DARKER) Domain (From 141-06-071c: 273.55 M) (From HARVEY, 2011) .59 |
+| Figure 7-9 | Pense Kimberlite IsOPach Map (Contour Interval: 10 m)....................................... 61 |
+| Figure 7-10 | EJF Kimberlite IsOPach Map (Contour Interval 10M) .......................................... 62 |
+| Figure 7-11 | Example of a normally Graded EJF Bed With a Coarser Xenolith-Rich Base FinIng-Up to a Very Fine-Grained Xenolith-Poor Top (From 140-06-058C: From 132.01 To 136.79 m) (From Harvey, 2011).................................................................. 63 |
+| Figure 7-12 | Example of Pense Autoliths in the Lower EJF ....................................................... 64 |
+| Figure 7-13 | Variably Sized EJF Autoliths Within Viking Kimberlite From Hole 141-92-002C At a DEPTH OF 190.15 m................................................................................................. 65 |
+| Figure 7-14 | Star Kimberlite 3-D Geological Model (Looking North East)......................... 67 |
+| Figure 7-15 | 3D View Of The Orion South Kimberlite Geological Model Looking North West............................................................................................................... 68 |
+| Figure 10-1 | Surface Drill Hole Locations for the Star Kimberlite .................................... 82 |
+| Figure 10-2 | 2016 Surface Drill Hole Locations for the Star Kimberlite ............................. 86 |
+| Figure 10-3 | 2017 Core and sonic Surface Drill Hole Locations for the Star Kimberlite. 90 |
+| Figure 10-4 | 2019 Core and sonic Surface Drill Hole Locations for the Star Kimberlite. 93 |
+| Figure 10-5 | 2019 Trench Cutter Surface Drill Hole Locations for the Star Kimberlite. 97 |
+| Figure 10-6 | 2016 Surface Drill Hole Locations For The Orion South Kimberlite ............ 103 |
+| Figure 10-7 | 2019 Core and Sonic Surface Drill Hole Locations For The Orion South |
+|  | KIMBERLITE ................................................................................................................. 109 |
+| Figure 11-1 | Example of an Underground Wall Map Showing the Contact Between the Bedded EJF (Shades Of Green) Kimberlite and the More Massive MJF |
+|  | KIMBERLITE (PEACH) .............................................................................................................. 114 |
+| Figure 11-2 | Process Plant Flowsheet - Primary Kimberlite Processing (2004-2009)......... 123 |
+| Figure 11-3 | Recovery Plant Flowsheet (2004-2009)................................................................ 125 |
+| Figure 11-4 | Thunder Bay Process Flowsheet............................................................................ 130 |
+| Figure 11-5 | RTEC Bulk Sampling Plant Process Flow Sheet (source: RTEC).................... 134 |
+| Figure 13-1 | Star Kimberlite Underground Batch and Geology Map.................................. 151 |
+| Figure 13-2 | Geological Map of the Underground Drifts on Orion South.......................... 153 |
+| Figure 14-1 | Star Lithology Domains Section 5,897,440N ......................................................... 167 |
+| Figure 14-2 | Orion South Lithology Domains Section 5,900,720N .......................................... 170 |
+| Figure 14-3 | Comparative SFDS For Orion South LDD........................................................... 174 |
+| Figure 14-4 | Recovery Adjustments to reference Curves.................................................... 176 |
+| Figure 14-5 | Comparative SFDS For LDD Vs UGBS Star EJF................................................... 178 |
+| Figure 14-6 | Star Sample Volumes .............................................................................................. 181 |
+| Figure 14-7 | Histograms for Star Resource Kimberlite Domains ...................................... 183 |
+| Figure 14-8 | Star EJF Inner Domain Boundary Analysis.......................................................... 184 |
+| Figure 14-9 | Star EJF Variography ................................................................................................. 186 |
+| Figure 14-10 | Orion South LLD Sample Volumes ...................................................................... 187 |
+| Figure 14-11 | Histograms for Orion South Resource Kimberlite Domains ............................ 189 |
+| Figure 14-12 | Orion South EJF Inner Domain Boundary Analysis........................................... 190 |
+| Figure 14-13 | Orion South EJF Variography............................................................................... 191 |Figure 14-14 Star EJF Block Model Section 5,897,740N. ..... 197
+Figure 14-15 Star EJF and MJF Block Model Section 5,897,440N ..... 198
+Figure 14-16 Star EJF Domain Bulk Sample vs. Block Model Grade Variation Along EASTINGS AND NORTHINGS. ..... 199
+Figure 14-17 Orion South EJF and Pense Block Model Section 5,900,930N. ..... 200
+Figure 14-18 Orion South EJF and Pense Block Model Section 5,900,930N. ..... 200
+Figure 14-19 Orion South EJF inner Domain Bulk Sample vs. Block Model Grade Variation Along Easting and Northing ..... 201
+Figure 14-20 Star Resource Constraining Pit ..... 205
+Figure 14-21 Orion South Resource Constraining Pit ..... 206
+Figure 14-22 Star Resource Classification Boundaries. ..... 209
+Figure 14-23 Orion South Resource Classification Boundaries. ..... 209
+
+# LIST OF PLATES 
+
+PLATE 1 TRENCH CUTTER SAMPLE T1-S1-B22 STORED IN HEATED STORAGE FACILITY ..... 119
+PLATE 2 BULK BAG BEING EMPTIED INTO THE ROM FEED BIN ..... 120
+PLATE 3 RTEC DMS CIRCUIT ..... 136
+PLATE 4 DMS CONCENTRATE BULK BAG BEING LOADED INTO SEALED PLASTIC CONTAINER ..... 136
+PLATE 5 TOMRA XRT AND DMS CONCENTRATE SECURE STORAGE BINS WITH SEALED CINCH STRAPS AWAITING SHIPMENT TO THE SRC ..... 138# 1. EXECUTIVE SUMMARY 
+
+## Introduction
+
+Star Diamond Corporation ("Star Diamond or the Company") formerly Shore Gold Inc, commissioned A.C.A Howe International Ltd. ("Howe") and Ravenscroft Mining Advisors ("Ravenscroft") to prepare an independent National Instrument 43-101 Technical Report ("the Report") on the Revised Mineral Resource Estimate for the Star - Orion South Diamond Project ("the Project") situated in the Fort à la Corne ("FalC") Provincial Forest, Saskatchewan, Canada. In addition, Mr. Nelson Karun, Diamond Specialist for Star Diamond has provided the diamond pricing estimates utilized in the Revised Mineral Resource Estimate.
+
+This Report documents the Revised Mineral Resource Estimate as of July 24 ${ }^{\text {th }}$, 2024, for the Star - Orion South Diamond Project.
+
+The Star Kimberlite deposit is contained within mineral dispositions held $100 \%$ by Star Diamond ("Star Property"). The Orion South Kimberlite deposit is also contained within mineral dispositions held $100 \%$ by Star Diamond. Both the Star Diamond Project and the Orion South Diamond Project are operated by Star Diamond and are being explored and developed as a single entity as the Star - Orion South Diamond Project.
+
+In 2017 Star Diamond held, through a joint arrangement with Rio Tinto Exploration Canada ("RTEC"), a $25 \%$ interest in certain Fort à la Corne kimberlites (including the Project) which included RTEC being Project Operator.
+
+Before this the Project had been subject to a Joint Venture known as the Falc JV. The Star Kimberlite deposit straddled a mineral disposition boundary between property that was held 100 $\%$ by Star Diamond, and property that was held by the FalC-JV, between Kensington, a wholly owned subsidiary of Star Diamond (68 \%) and Newmont (32 \%) (the Star West Property). The Orion South Kimberlite deposit was held by the FalC-JV.
+
+In June 2017, Star Diamond announced that it had acquired (the "Newmont Acquisition") from Newmont Canada FN Holdings ULC ("Newmont") all of Newmont's participating interest in the FALC-JV, resulting in the Company owning $100 \%$ of the of the Fort à la Corne mineral properties (including the Project), and had concurrently entered into an Option to Joint Venture Agreement (the "Option Agreement") with RTEC pursuant to which the Company has granted RTEC an option to earn up to a $60 \%$ interest in the Fort à la Corne mineral properties (including the Project) on the terms and conditions contained in the Option Agreement (see News Release dated June 23, 2017). Immediately after the closing of the Newmont Acquisition and issuance of common shares,Newmont held approximately $19.9 \%$ of the Company's common shares issued and outstanding on a non-diluted basis.
+
+On November 28, 2023, the Company entered into a binding agreement with RTEC, providing for the transfer by RTEC to Star Diamond of all of RTEC's $75 \%$ interest in the Fort à la Corne diamond project located in central Saskatchewan (see "Mineral Property Activities" under "Fort à la Corne mineral properties (including the Project)"). In March 2024 the transaction closed and Star Diamond reacquired $100 \%$ of the Project.
+
+During the period which RTEC operated the Project, a range of exploration activities took place including a ten-hole Trench Cutter sampling program, exploration core drilling and Trench Cutter processing in a newly built on site bulk sample plant. The exploration drilling took place on the Star and Orion South kimberlites along with other regional kimberlites located within the Project's mineral dispositions. The exploration results of the programs completed by RTEC have been incorporated into the Revised Mineral Resource Estimate and are detailed in this report.
+
+The Revised Mineral Resource Estimate presented in this Report supersedes all previous estimates.
+
+# Location, Access and Infrastructure 
+
+The Project is located in the FalC Provincial Forest, situated some 60 kilometers ("km") east of Prince Albert, Saskatchewan. Access is provided by paved highways, a grid gravel road system and an extensive network of forestry roads, passable by four-wheel drive and high clearance twowheel drive vehicles all year round.
+
+The Project is situated on the north side of the Saskatchewan River, which can be crossed by bridge at either Prince Albert, to access the area from the west, or at Wapiti, north of Melfort, to access the area from the east. A 230 kV power line runs 9.6 km south of the area, and a large capacity 230 kV power line is located 21 km to the east. A pool of personnel is available from the many communities in the area.
+
+The climate in this region of Saskatchewan ranges from warm, dry summers with temperatures typically averaging $23^{\circ} \mathrm{C}$ to cold, dry winters with temperatures averaging $-11^{\circ} \mathrm{C}$. Precipitation averages 323 millimetres ("mm") annually.
+
+## Tenure and Surface Rights
+
+The Star Kimberlite deposit and associated infrastructure are located within mineral disposition S132039 in Section 18 of Township 49, Range 19, west of the 2nd Meridian. Township 49 is located within the Rural Municipality of Torch River. This mineral disposition is part of a larger group of192 contiguous mineral dispositions totalling 45,052.895 ha. Star Diamond owns a $100 \%$ working interest in these claims.
+
+Mineral dispositions have been legally surveyed in accordance with the Saskatchewan Mineral Disposition Regulations of 1986, Part IV, Article 30(1)(d), and the boundaries coincide with the boundaries of the land survey system pursuant to the Saskatchewan Land Surveys Act and with the boundaries of existing surveyed land parcels. The Project is situated entirely within mineral dispositions S-127109 and S-127186.
+
+# General Geology 
+
+The Project lies near the northeastern edge of the Phanerozoic Interior Platform, which extends from the Rocky Mountains in the west, to the Precambrian Canadian Shield in the northeast. The Interior Platform sediments exceed 600 m in thickness. The unmetamorphosed sedimentary rocks of the Interior Platform unconformably overlie metamorphosed basement rocks. These Proterozoic basement rocks have been interpreted to form part of the Glennie Domain which has been tectonically emplaced overlying the Archean Sask Craton. In the Star and Orion South area, the Precambrian is estimated to be at a depth of 730 m .
+
+## Kimberlite Geology
+
+Based on surface and underground core drilling and underground mapping data, the Star and Orion South Kimberlite deposits contain two distinct types of kimberlite: 1) eruptive kimberlite phases; and, 2) kimberlitic sedimentary rocks.
+
+The eruptive kimberlites of the Star Kimberlite are sub-divided into five main phases: Cantuar Pyroclastic Kimberlite ("CPK"), Pense Pyroclastic Kimberlite ("PPK"), Early Joli Fou Kimberlite ("EJF"), Mid Joli Fou Kimberlite ("MJF") and Late Joli Fou Kimberlite ("LJF"). The eruptive kimberlites of the Orion South Kimberlite are sub-divided into Six main phases: Cantuar Kimberlite ("CPK"), Early Pense Kimberlite ("P3"), Pense Kimberlite ("Pense"), EJF, LJF and Viking Pyroclastic Kimberlite ("VPK").
+
+Each phase has distinct physical and chemical properties that enable their mapping and stratigraphic correlation in three dimensions within each kimberlite. It is important to note, however, that two stratigraphically equivalent kimberlite packages (e.g. Pense Kimberlite on Star and Orion South) do not share a genetic relationship and each has unique diamond grade and carat value characteristics. Some of the stratigraphically equivalent kimberlite units (e.g. EJF on Star and Orion South) do, however, have similarities in mineral constituents, mantle signatures, chemistry and diamond distribution that suggest a genetic relationship.The Star Kimberlite deposit is dominated by crater facies rocks formed from a central vent, which include both well-defined pyroclastic flows and fall deposits that radiate away from the crater. The sheet-like, inter-sedimentary Cantuar and Pense kimberlites are kimberlites deposited from pyroclastic flows. The EJF is a combination of vent filling pyroclastics and pyroclastic flows away from the crater. The MJF and LJF are dominated by crater facies vent filling pyroclastic kimberlite deposits with lesser thin pyroclastic fall accumulation radiating away from the crater.
+
+Within the Orion South Kimberlite, the phases have cross-cutting relationships near conduits, but are stacked vertically within the volcanic edifice and crater / extra-crater deposits. Several conduits, feeding different units, have been identified on Orion South.
+
+# Geological Models 
+
+A 3-D geological model for the Star Kimberlite was created from surface and underground drill information. Limited deep drilling restricts the 3-D modelling of the Star Kimberlite to the kimberlite above 0 m altitude above mean sea level (asl). The geological model estimates that the Star Kimberlite (including both the Star and Star West kimberlite) contains a total of approximately 253.2 million tonnes ("Mt") of kimberlite in the MJF, EJF, PPK and CPK with a further 146 Mt of Upper Resedimented Volcaniclastic Kimberlite ("URVKU"), LJF, Juvenile Lapilli Rich Pyroclastic Kimberlite ("JLRPK") and 134 Volcaniclastic Kimberlite ("VK-134").
+
+A 3-D geological model for the Orion South Kimberlite was created from surface and underground drill information. Limited deep drilling restricts the 3-D modelling of the Orion South Kimberlite to the kimberlite above 0 m asl (altitude above mean sea level). The geological model estimates that the Orion South Kimberlite contains a total of approximately 356 Mt of kimberlite in the EJF, Pense and P1 units with a further 92Mt of Kimberlitic Sediments ("KSST/UKS"), VPK, LJF, P3 and CPK.
+
+## Sampling and Sample Processing
+
+## Underground Sampling
+
+Star Diamond sank a 250 m shaft at the Star Diamond Project, with a pumping station at 175 m from surface and a working level at 235 m from surface, in order to bulk sample the various kimberlite phases for diamond grade estimation and diamond valuation purposes. Shaft sinking began in January, 2003 and was completed in May, 2004. Underground drifting and bulk sampling were completed in April, 2007.
+
+Upon completion of the underground bulk sampling program on the Star Kimberlite, a combined total of 10,966 carats greater than 0.85 mm were recovered from a total of $75,435.68$ dry tonnesof kimberlite material that was processed through Star's bulk sampling plant ("Star BSP") from the previous Star Diamond $100 \%$ owned Star Kimberlite and the FalC-JV Star West bulk sampling programs. Tonnages include sampling of drift material, underground resource evaluation ("RE") samples, geotechnical test samples and clean-up samples. The largest stone recovered from the Star underground bulk sample was a 49.50 carat stone.
+
+Shaft sinking to 210 m below surface commenced in July, 2007 at Orion South, with lateral drifting at a depth of 186 m below surface completed in February, 2009. After final processing of 75 underground batches ( 78 samples) from a total of 25,468 dry tonnes of kimberlite in March, 2009, there was a total recovery of 2,346 carats greater than 0.85 mm from the Orion South bulk sample. The largest stone recovered from the Orion South underground bulk sample was a 45.95 carat stone.
+
+All underground openings were geologically mapped and are adequate to support Mineral Resource Estimation.
+
+# Large Diameter Drilling 
+
+Utilizing the entire Star Kimberlite large diameter drill ("LDD") sampling (103 LDD holes) and processing ( 96 LDD holes processed, 870 samples) dataset, a total of 1,416.6 carats were recovered from $11,662.8$ processed tonnes $\left(8,907.4 \mathrm{~m}^{3}\right.$ of calculated volume) of kimberlite.
+
+Upon completion of the Pre 2015 LDD drilling program on Orion South, a total 1,039.7 carats were recovered from $9,564.2$ processed tonnes $\left(7,354.1 \mathrm{~m}^{3}\right.$ of calculated volume) of kimberlite from 64 holes ( 881 samples). These results include both the 1.20 m diameter LDD holes drilled by the current joint venture and those from twenty-four 0.914 and 0.609 m diameter LDD holes completed by the previous joint venture operators prior to 2006.
+
+A total of twelve 24-inch LDD-RC holes were completed by Foraco Canada Ltd. of Picture Butte, Alberta with drilling services carried out from May $6^{\text {th }}$ to June $11^{\text {th }}, 2015$ on the Orion South kimberlite. The LDD-RC program totalled 2,559.90 m of drilling resulting in the recovery of 97 individual sample lifts between 13.1 and 2.8 metres long from 439 processed tonnes ( $300.9 \mathrm{~m}^{3}$ of calculated volume) over a kimberlite intersection of $1,027.48 \mathrm{~m}$.
+
+## Trench Cutter Drilling
+
+In addition, in 2019 and 2020, RTEC completed a a ten-hole Trench Cutter program with 150 samples produced $1,534.2$ carats from $6,656.6$ processed tonnes ( $6212.6 \mathrm{~m}^{3}$ of calculated volume) of kimberlite. The Trench Cutter Sampling Rig consisted of a Bauer BC-50 Cutter mounted on aBauer MC 128 Duty-cycle Crane with the addition of a Kimberlite Separation Unit ("KSU") and accompanying desanding unit.
+
+The LDD and Trench Cutter data are acceptable for Mineral Resource Estimation; however, adjustment for diamond breakage and stone loss during sampling wasrequired.
+
+# Diamond Recovery 
+
+Star Diamond purchased a Bateman Engineering PTY Limited-designed process plant which was commissioned in January, 2004. The process plant consists of a $30 \mathrm{t} / \mathrm{h}$ crushing circuit, and a $10 \mathrm{t} / \mathrm{h}$ Dense Media Separation ("DMS") circuit which utilizes a 250 mm diameter separating cyclone, and a recovery section consisting of a Flow Sort ${ }^{\circledR}$ X-Ray diamond-sorting machine and a grease table. All kimberlite was stored in individual batch samples in a dedicated storage facility.
+
+The 2015 LDD-RC samples were shipped by Edge Transport of Saskatoon, Saskatchewan to RTEC's Thunder Bay Mineral Processing Laboratory (ISO9001:2008 Certified). This facility was selected for macrodiamond ( +0.85 mm square aperture bottom screen size) recovery due to similarities between the sample processing flowsheet which closely replicated the previously operated Star Diamond. on-site bulk sampling plant.
+
+The 2019 Trench Cutter samples were processed on site in 2020 utilising a state-of-the-art diamond recovery plant constructed by Consulmet South Africa which was operated at the time by RTEC, which include a Tomra X Ray Transmission (XRT) recovery unit for large diamond recovery and HPGR crushing with a fines DMS module to insure small diamond recovery.
+
+All sample grades used in this Mineral Resource Estimate have been adjusted to reflect the small diamond recovery achieved in the 2019 Trench Cutter program. The resulting increase in small diamonds is also incorporated in the diamond price modelling.
+
+## Diamond Valuation
+
+Diamond prices used in this Revised Mineral Resource Estimate are based on valuations completed by Mr. Nelson Karun, Diamond Specialist for Star Diamond using his June, 2024, price book for diamond parcels from the Star and Orion South Kimberlites.
+
+Sampling of Star and Orion South included underground ("UG") bulk samples (approx. 300 tonne ("t") samples each) for diamond grade and diamond price estimation along with Trench Cutter and LDD mini-bulk samples (approx. 6 to 30 tonne samples for the LDD and 13 to 180 tonne samples each for the Trench Cutter) for diamond grade estimation only. The detailed diamond valuation is conducted on the diamond parcels recovered from the UG bulk sampling and theindividual parcels for each of the kimberlite units sampled in the UG are documented in the tables below.
+
+The Parcel and Model price details for each of the kimberlite units in the Star Kimberlite are listed in Table 1-1
+
+# Table 1-1 The Parcel and Model Price Details for the Star Kimberlites (June, 2024 PRICEBOOK) 
+
+| Star <br> Kimberlite <br> Unit | UG <br> Carats | Parcel Price <br> (US$/carat) | Model Price <br> (US$/carat) | Minimum <br> Price <br> (US$/carat) | High Price <br> (US$/carat) |
+| :-- | :--: | :--: | :--: | :--: | :--: |
+| Cantuar | $1,622.88$ | 309 | 279 | 259 | 345 |
+| Pense | $1,384.69$ | 192 | 181 | 169 | 201 |
+| EJF | $6,910.30$ | 181 | 213 | 173 | 226 |
+| MJF | 90.61 | 138 | 202 | 186 | 250 |
+
+The Parcel and Model price details for each of the kimberlite units in the Orion South Kimberlite are listed in the Table 1-2.
+
+Table 1-2 The Parcel and Model Price Details for the Orion South
+Kimberlites (June, 2024 Pricebook)
+
+| Orion South <br> Kimberlite <br> Unit | UG <br> Carats | Parcel Price <br> (US$/carat) | Model Price <br> (US$/carat) | Minimum <br> Price <br> (US$/carat) | High Price <br> (US$/carat) |
+| :-- | :--: | :--: | :--: | :--: | :--: |
+| EJF | $1,394.91$ | 153 | 186 | 162 | 212 |
+| Pense | 575.61 | 109 | 129 | 100 | 137 |# Mineral Resource Estimate 
+
+This Report presents the following Revised independent NI 43-101 Mineral Resource Estimate for the Star and Orion South diamond deposits (Table 1-3).
+
+## Table 1-3 2024 ReVised Mineral Resource Estimates for the Star and Orion South Deposits
+
+| Project | Resource Category | Tonnes x1000 | Grade cpht | Carats x1000 |
+| :-- | :-- | :--: | :--: | :--: |
+| Star | Indicated | 179,591 | 19.4 | 34,797 |
+|  | Inferred | 49,570 | 15.8 | 7,838 |
+|  | Indicated | 206,596 | 17.9 | 36,937 |
+|  | Inferred | 49,921 | 14.7 | 7,336 |
+
+Notes:
+
+1) Canadian Institute of Mining and Metallurgy ("CIM") definitions were followed for classification of mineral resources.
+2) Star Kimberlite Units: Cantuar, Pense, Early Joli Fou (EJF), Mid Joli Fou (MJF).
+3) Orion South Kimberlite Units: P3, Pense, Early Joli Fou (EJF).
+4) Mineral Resources are constrained within a Whittle optimized pit shell.
+5) Mineral Resources, which are not Mineral Reserves do not have demonstrated economic viability. The estimation of Mineral Resources may be materially affected by environmental, permitting, legal, title, taxation, socio-political, marketing or other relevant issues.
+6) There is no guarantee that all or any part of the Mineral Resource will be converted into a Mineral Reserve.
+7) Diamond recovery is assumed to be similar to that achieved in the 2019 Trench Cutter program, and only diamonds larger than +1 DTC diamond sieve are included.
+8) Grade values are rounded to nearest whole number.
+9) The effective date of the Revised Mineral Resources Estimate is July 24, 2024.
+10) The EJF Inner and Outer kimberlite units for both deposits are based on detailed kimberlite geology recorded from the core logging of the pattern drilling program. The EJF Inner represents coarser grained EJF kimberlite that occurs within the volcanic crater and the EJF Outer includes finer grained EJF kimberlite that lies on and outside the crater rim. This Revised Mineral Resource Estimate acknowledges that the transition from Inner to Outer is geologically gradational.
+
+Previous MREs generated for the projects are described in earlier technical reports for Star (Ewert et al., 2009a) and Orion South (Ewert et al., 2009b). and Howe (2015). The current MREs presented in this report supersede all past estimates.
+
+The MRE for the Star and Orion South Kimberlites are prepared under the supervision of P. Ravenscroft, FAusIMM, owner of Ravenscroft Mining Advisors and a Qualified Person for thereporting of Mineral Resources as defined by NI 43-101. Creation of geological domains, block modelling and pit optimization is undertaken by L. McGarry, Howe's Senior Associate Geologist.
+
+Mineral resource modelling and estimation is carried out using the commercially available Micromine (Version 2021) software program. In this report all units are expressed in the metric system, and diamond grades are given as carats-per-meter cubed ("cpm ${ }^{3}$ ), carats per-metric tonne ("cpt") or carats-per-hundred-metric tonnes ("cpht") values.
+
+Reported Mineral Resources are not Mineral Reserves and do not have demonstrated economic viability. There is no guarantee that all, or any part, of a Mineral Resource will be converted into a Mineral Reserve.
+
+The Revised Mineral Resource Estimate for the Star Deposit is based on:
+
+- 326 surface diamond core drill holes, completed between 1996 and 2019;
+- 213 underground diamond core drill holes completed between 2004 to 2006;
+- 105 LDD holes completed between 1996 and 2008;
+- 321 underground bulk samples; and,
+- 10 Trench Cutter holes completed in 2019.
+
+The Revised Mineral Resource Estimate for the Orion South Deposit is based on:
+
+- 261 surface diamond core drill holes, completed between 1993 and 2019;
+- Including 47 diamond drill holes completed between 2010 and 2015;
+- and 23 diamond drill holes completed in 2019.
+- 89 LDD holes completed between 1996 and 2010;
+- Including 12 24" (609.6mm) LDD-RC holes completed in 2015; and,
+- 78 underground bulk samples.
+
+At Star and Orion South, geological interpretations are made on a series of east-west and northsouth oriented cross sections at 50 m to 100 m line spacings. The basal contact of each lithological unit is modeled in section by digitizing a mesh that defines the basal contact surface of each modeled unit. To generate a 3D geological model, basal contact surfaces are sequentially applied to a block model in stratigraphic order such that cross cutting relationships are honored.
+
+At Star five well mineralized kimberlite units are modeled for resource estimation: the CPK, PPK, EJF, and MJF kimberlite domains.
+
+At Orion South four well mineralized kimberlite units are modeled for resource estimation: the P3, Pense, and EJF kimberlite domains.At both the Star and Orion South deposits a full block model is created in Micromine to encompass resource kimberlite domains and to accommodate surrounding till, country rock and any resultant pit shell models. The volume and tonnage estimate for each geological unit within a given block is calculated and recorded in the model. The diamond value and diamond grade are then populated for each of the mineralized kimberlite domains.
+
+The approach used for grade estimation is the combination of stone counts per sample and diamond size frequency distributions. This obviates the artificial local bias introduced by the direct use of carats per metre cubed ("cpm ${ }^{3}$ ") or carats per hundred tonnes ("cptt") and is common diamond industry practice. Working with the Size Frequency Distribution ("SFD") curves also allows for the alignment of sampling results from different sampling methods and sampling campaigns to ensure a consistent, robust approach to grade estimation. Alignment of sample SFDs is done in two steps. Firstly, minor adjustment of each individual sample grade is completed to correct for sample size effects and different recovery profiles of different drilling campaigns. This includes an adjustment to reflect the small diamond recovery that was achieved in the 2019 Trench Cutter program. Secondly, the application of an overall adjustment in each defined lithology is required to account for residual differences with respect to underground bulk sampling results.
+
+Sample data are grouped into lithological domains for statistical analyses of diamond grade and of bulk density measurements. Spatial data analysis is considered prior to block model grade estimation to generate a series of semi-variograms that define directions of anisotropy and spatial continuity of diamond grades.
+
+At both Star and Orion South, for each domain, the Simple Kriging ("SK") interpolation technique is used to interpolate parent block grades in a single pass. The search ellipse is divided into eight sectors and a constraint of a maximum of four (4) samples per sector applied, essentially declustering the data. Prior to reporting block model validation procedures are undertaken to ensure that blocks represent interpreted geology and the input data and that selected interpolation methodologies do not introduce any significant biases.
+
+To ensure that reported resources have a reasonable prospect of economic extraction a conceptual pit shell is developed. Calculated block values and economic parameters provided by Star Diamond are used to generate a Whittle pit shell analysis that incorporates all available blocks. The results from the Whittle pit shell analysis are used solely for the purpose of reporting mineral resources that have reasonable prospects for economic extraction.
+
+Star Diamond and its contractors had undertaken a number of comprehensive bulk density programs on drill hole core. A total of 1,446 bulk density values were reviewed for density determination within the Orion South Kimberlitic units and 1,961 bulk density values werereviewed for density determination within the Star Kimberlitic units for the Mineral Resource Estimate. Howe reviewed the bulk density data and believed it to be suitable for Mineral Resource estimation purposes. The bulk density data analysis carried out by Howe and Star Diamond in 2015 resulted in revised density determinations for Star and Orion South from those used in previous resource estimates. The density analysis has not changed since 2015.
+
+Classification boundaries are manually defined using modeled polygons that are assigned to model blocks. Resources are reported in adherence to National Instrument 43-101. Standards of Disclosure for Mineral Projects (Canadian Securities Administrators, 2011), and to the CIM Definition Standards on Minerals Resources and Reserves (CIM Council, 2014).
+
+The following classification criteria are used in the estimation of Mineral Resources at Star:
+
+- Inferred resources are blocks that are informed by a search ellipse with an X-Y dimension range of 500 m and Z dimension range of 70 m and are captured within the Whittle optimised pit shell and are above an internal cut off of C\$9.3/tonne. The extent of CPK Inferred resources are limited to an area south of $5,897,920 \mathrm{mN}$.
+- Indicated resources are defined up to approximately 150 m from the nearest sample. Blocks assigned the Indicated category should be informed by at least three drill holes. Indicated resources are defined for the EJF, MJF, PPK and CPK domains. The MJF domain uses the same classification boundaries as the EJF domain.
+
+The following classification criteria are used in the estimation of mineral resources at Orion South:
+
+- Inferred resources are blocks that are informed by a search ellipse with an X-Y dimension range of 250 m and Z dimension range of 50 m and are captured within the Whittle optimised pit shell and are above an internal cut off of C\$9.3/tonne. The P3 domain is limited to the Inferred classification only and use the same Inferred boundaries as the EJF and Pense domains.
+- Indicated resources are defined up to approximately 150 m from the nearest sample. Blocks assigned the Indicated category should be informed by at least three drill holes. Indicated resources are defined for the EJF and Pense domains only.
+
+
+# Star Mineral Resources 
+
+Non-diluted Indicated Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, MJF, PPK and CPKdomains total 179.591 million tonnes with an average diamond grade of 19.4 cpht for 34.797 million carats.
+
+Non-diluted Inferred Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, PPK and CPK domains total 49.570 million tonnes with an average diamond grade of 15.8 cpht for 7.838 million carats.
+
+# Orion South Mineral Resources 
+
+Non-diluted Indicated Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF and Pense domains total 206.596 million tonnes with an average diamond grade of 17.9 cpht for 36.937 million carats.
+
+Non-diluted Inferred Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, Pense and P3 domains total 49.921 million tonnes with an average diamond grade of 14.7 cpht for 7.336 million carats.
+
+## Recommendations
+
+Howe recommends that work be conducted on the Star-Orion South Diamond Project as follows:
+
+1. An Updated Pre-Feasibility Study should be undertaken that includes a revised statement of Mineral Reserves for the Project, if warranted, and an economic assessment based thereon.
+
+In line with Howe's recommendations, Star Diamond has proposed a budget totaling \$3,000,000 for exploration work in 2024-25. The proposed work program and budget is to be completed with a Pre-Feasibility Study in 2025 to 2026.
+
+Howe considers Star Diamond's proposed budget reasonable and recommends that the Company proceed with the proposed work program.# 2. INTRODUCTION 
+
+### 2.1. GENERAL
+
+At the request of Mr. Ewan Mason, President and CEO of Star Diamond Corporation ("Star Diamond"), commissioned A.C.A Howe International Ltd. ("Howe") and Ravenscroft Mining Advisors ("Ravenscroft") to prepare an independent National Instrument 43-101 Technical Report ("the Report") on the Revised Mineral Resource Estimate for the Star - Orion South Diamond Project ("the Project") situated in the Fort à la Corne ("FalC") Provincial Forest, Saskatchewan, Canada. The following report presents the details of the Revised Mineral Resource Estimate that was announced in a press release dated July 24, 2024 for the Project. The Revised Mineral Resource Estimate has been prepared in compliance with the requirements of Canadian National Instrument (NI) 43-101 and in accordance with guidelines of the Canadian Institute of Mining, Metallurgy and Petroleum ("CIM"), CIM Standards on Mineral Resources and Reserves, Definitions and Guidelines prepared by the CIM Standing Committee on Reserve Definitions and adopted by CIM Council May 10, 2014. In addition, Mr. Nelson Karun Diamond specialist for Star Diamond provided the diamond pricing / valuation estimates utilized in this Revised Mineral Resource Estimate technical report.
+
+Star Diamond is a Saskatoon based company trading on the TSX exchange under the symbol "DIAM" with its corporate office at:
+
+600-224 4th Avenue South
+Saskatoon, Saskatchewan S7K 5M5
+Telephone: (306) 664-2202
+Fax: (306) 664-7181
+Howe is an international geological and mining consulting firm that was incorporated in the United Kingdom in 1978. Howe provides a wide range of geological and mining consulting services to the international mining industry, including geological evaluation and valuation reports on mineral properties. The firm's services are provided through its office in London, U.K. Howe is not an insider, associate or affiliate of Star Diamond.
+
+Neither Howe, Ravenscroft nor the authors of this report (nor family members or associates) have a business relationship with Star Diamond or associated company, nor with any company mentioned in this Report that is likely to materially influence the impartiality or create a perception that the credibility of this Report could be compromised or biased in any way. The views expressed herein are genuinely held and deemed independent of Star Diamond.Moreover, neither Howe nor the authors of this report (nor family members or associates) have any financial interest in the outcome of any transaction involving the Star and Orion South Diamond Project (the "Project") considered in this report other than the payment of normal professional fees for the work undertaken in the preparation of this report (which is based upon hourly charge-out rates and reimbursement of expenses). The payment of such fees is not dependent upon the content or conclusions of either this report or consequences of any proposed transaction.
+
+# 2.2. Terms of Reference 
+
+This Report presents a Revised NI 43-101 compliant Mineral Resource Estimate for the Star Orion South Diamond Project. The estimated tonnages and grades of the Mineral Resources are to be based on conceptual pit optimization shells. The conceptual pit optimization shells used in the current study are to be selected taking net present value and estimated tonnes of waste rock into consideration.
+
+The effective date of this report is July 24, 2024. Howe understands that the Company will use the Report internally for decision-making purposes and publicly in support of reporting obligations and possible corporate financing activities related to the Project.
+
+This report was prepared and co-authored by Messrs. Daniel C. Leroux, P.Geo., Senior Associate Geologist; Leon McGarry, P.Geo., Senior Associate Geologist, all with Howe and Qualified Persons ("QP") under the regulations of NI 43-101 and Mr. Peter Ravenscroft, FAusIMM owner of Ravenscroft of Albany, WA 6330, Australia and Qualified Person ("QP") under the regulations of NI 43-101.
+
+Star Diamond has accepted that the qualifications, expertise, experience, competence and professional reputation of Howe's Principles and Senior Associate Geologists are appropriate and relevant for the preparation of this technical report. Star Diamond has also accepted that Howe's Principles and Associates are members of professional bodies that are appropriate and relevant for the preparation of this technical report.
+
+This Report documents the Revised Mineral Resource Estimate as of July 24, 2024 for the Star Orion South Diamond Project. The Revised Mineral Resource Estimate presented in this technical report supersedes all previous NI 43-101 compliant mineral resource estimates carried out for the Project.# 2.3. SITE INSPECTIONS 
+
+During the course of completing the revised Mineral Resource estimation work for the Star - Orion South Diamond Project, the following Howe QPs visited the site to review the status of the Project, conduct audits, and discuss future plans with Star Diamond staff.
+
+Site visits by the QPs for the technical report were as follows:
+
+| Name: | Company: | Site Visit Dates: |
+| :-- | :-- | :-- |
+| Peter Ravenscroft | Ravenscroft | Project site visit April 15, 2015 |
+| Daniel Leroux | Howe | Sample processing lab - Thunder Bay June 3, |
+|  |  | 2015 and Project site visit on June 4, 2015. |
+|  |  | Project site QA/QC RTEC Trench Cutter |
+|  |  | Program and Processing from 2017, and third |
+|  |  | party sample processing supervision from May |
+|  |  | 24, 2020 to December 3, 2020 |
+| Leon McGarry | Howe | Project site visit September 27, 2015 |
+
+Star Diamond has accepted that the qualifications, expertise, experience, competence and professional reputation of all of the QPs who have contributed to this report are appropriate and relevant for the preparation of this report and the QPs are members of professional bodies that are appropriate and relevant for the preparation of this report.
+
+The purpose of the Report is to provide a NI 43-101 compliant Report and Revised Mineral Resource Estimate on the Star - Orion South Diamond Project. The QPs understand that this Report will be used for internal decision-making purposes. This technical report will be filed to conform with the requirements of NI 43-101.
+
+### 2.4. SOURCES OF INFORMATION
+
+In preparing this Report, Howe reviewed geological reports and maps, miscellaneous technical papers, Company letters and memoranda, and other public and private information as listed in Section 27 "References" at the conclusion of this Report. Howe has assumed that all of the information and technical documents reviewed and listed in the "References" are accurate and complete in all material aspects. While Howe carefully reviewed all of this information, it has not conducted an independent investigation to verify its accuracy and completeness.In addition, Howe carried out discussions with the local management, consultants and technical personnel of Star Diamond, in particular, George Read P.Geo, - Senior Vice-President of Corporate Development, and Mark Shimell P.Geo, - Vice President of Exploration.
+
+Although copies of the licences, permits and work contracts were reviewed, Howe has not verified the legality of any underlying agreement(s) that may exist concerning the licences or other agreement(s) between third parties. Howe reserves the right but will not be obligated to revise this Report and conclusions if additional information becomes known to Howe subsequent to the date of this Report.
+
+Star Diamond has accepted that the qualifications, expertise, experience, competence and professional reputation of Howe's Principals and Senior Associate Geologists are appropriate and relevant for the preparation of this Report. The Company has also accepted that Howe's Principals and Senior Associates are members of professional bodies that are appropriate and relevant for the preparation of this Report.
+
+Star Diamond has warranted that full disclosure of all material information in its possession or control at the time of writing has been made to Howe, and that it is complete, accurate, true and not misleading. The Company has also provided Howe with an indemnity in relation to the information provided by it, since Howe has relied on Star Diamond's information while preparing this Report. The Company has agreed that neither it nor its associates or affiliates will make any claim against Howe to recover any loss or damage suffered as a result of Howe's reliance upon that information in the preparation of this Report. Star Diamond has also indemnified Howe against any claim arising out of the assignment to prepare this Report, except where the claim arises out of any proven willful misconduct or negligence on the part of Howe. This indemnity is also applied to any consequential extension of work through queries, questions, public hearings or additional work required arising out of the engagement.
+
+A portion of the background information and technical data was obtained from the following Technical Reports previously filed by Star Diamond:
+
+- Ewert, W.D., Brown, F. H., Puritch, E. J., and Leroux, D.C., (2009a): Technical Report and Resource Estimate Update on the Star Diamond Project, Fort à la Corne, Saskatchewan, Canada; NI 43-101 technical report, by P\&E Mining Consultants Inc, effective date 23 February 2009.
+- Ewert, W.D., Brown, F.H., Puritch, E.J. and Leroux, D.C. (2009b): Technical Report and Resource Estimate on the Fort à la Corne Joint Venture, Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada. Report \#165. NI 43-101 report prepared by P\&E Mining Consultants Inc. for Shore Gold Inc., September 25, 2009.- Leroux, D.C., McGarry L., and Ravenscroft P.J. (2015): Technical Report and Revised Resource Estimate for the Star - Orion South Diamond Project Fort à la Corne Area, Saskatchewan, Canada. Report Number 981. NI 43-101 report prepared by A.C.A Howe International Ltd, Toronto, Canada for Shore Gold Inc., December 21, 2015.
+- Leroux, D., Roy, W.D., van Niekerk, L, Wilke, G, and McGary, L. (2018). Preliminary Economic Assessment of the Star - Orion South Diamond Project, Fort à la Corne, Saskatchewan. NI 43-101 technical report prepared by SGS Geological Services, April 18, 2018.
+
+
+# 2.5. Units and Currency 
+
+All units of measurement used in this Report are SI metric unless otherwise stated. Where third party reports use units other than SI metric, then the original units have been preserved throughout.
+
+Currency is expressed in Canadian Dollars ('C\$') or US Dollars ('US\$') unless otherwise stated.
+
+### 2.6. Abbreviations and Symbols
+
+| Abbreviation | Description |
+| :--: | :--: |
+| $\%$ | Percent |
+| $\sim$ | Approximately |
+|  | Degree |
+| $<$ | Less than |
+| $>$ | Greater than |
+| 3-D | Three Dimensional |
+| AMEC | AMEC Americas Limited |
+| Avg | Average |
+| Bateman | Bateman Engineering PTY Limited |
+| BHA | Bottom hole assembly |
+| BQ | Drill core with a diameter of 36.4 mm |
+| BSP | Bulk sample plant |
+| Budget | Project's value: accumulation of estimates plus factors and contingencies |
+| C | Celsius |
+| CAD\$ | Canadian dollar |
+| Cameco | Cameco Corporation |
+| CCTV | Closed circuit television |
+| CIM | Canadian Institute of Mining, Metallurgy and Petroleum |
+| Clifton | Clifton Associates Ltd |
+| cm | Centimetres |
+| $\mathrm{cm}^{3} / \mathrm{g}$ | Centimetres cubed per gram || Abbreviation | Description |
+| :--: | :--: |
+| Concentrate | Kimberlite material passing selection criteria that are largely based on specific mineral properties (e.g. high density) |
+| cpht | Carats per hundred tonnes |
+| $\mathrm{cpm}^{3}$ | Carats per metre cubed |
+| cpt | Carats per tonne |
+| ct | Carat |
+| CTV | Canadian Television Network |
+| De Beers | De Beers Canada Inc |
+| DHD | Downhole hammer |
+| DMS | Dense media separation |
+| DTC | Diamond Trading Company |
+| EA | Environmental Assessment |
+| EIS | Environmental Impact Statement |
+| EJF | Early Joli Fou Kimberlite |
+| el | Elevation level |
+| EM | Electro-magnetic |
+| Estimate | Predicted value from design guidelines |
+| FalC | Fort à la Corne |
+| FalC-JV | Fort à la Corne Joint Venture |
+| FeSi | Ferro silicon |
+| FS | Feasibility Study |
+| ft | Foot/feet |
+| g | Gram |
+| G\&A | General and administration |
+| $\mathrm{g} / \mathrm{t}$ | Gram per tonne |
+| Gangue | The valueless rock or mineral aggregated in the kimberlite |
+| Golder | Golder Associates |
+| Gp | Group (Several stratigraphic formations of similar sedimentological properties) |
+| GPS | Global Positioning System |
+| h | Hour |
+| ha | Hectare |
+| HIMS | High intensity magnetic separator |
+| Howe | A.C.A. Howe International Limited |
+| HPRC | High pressure rolls crusher |
+| HQ | Drill core with a diameter of 63.5 mm |
+| IDW $^{2}$ | Inverse Distance Squared Weighting |
+| IRR | Internal rate of return |
+| ISO/IEC | Main standard used by testing and calibration laboratories |
+| JLRPK | Juvenile lapilli rich pyroclastic kimberlite |
+| k | Kilo (thousand) |
+| K | Hydraulic conductivity |
+| KDF-KSST | Upper Kimberlitic Sediments - Star |
+| Kensington | Kensington Resources Ltd |
+| Kimberlite | The volcanic rock containing the diamonds || Abbreviation | Description |
+| :--: | :--: |
+| km | Kilometre |
+| KSTST-KSST | Kimberlite sediments - Orion South |
+| L | Litre |
+| LDD | Large Diameter Drill |
+| LDD-RC | Large Diameter Drill-Reverse Circulation mode |
+| LIMS | Laboratory information management systems |
+| LJF | Late Joli Fou kimberlite |
+| LJFKS | Late Joli Fou kimberlitic Slump |
+| LOM | Life of Mine |
+| Ltd | Limited |
+| M | Mega or Million |
+| m | Metre |
+| $\mathrm{m}^{2}$ | Square metre |
+| $\mathrm{m}^{3}$ | Cubic metre |
+| Ma | Millions of years |
+| masl | Metres above sea level |
+| Mine | The area of the kimberlite deposit that is being excavated through open pit mining methods |
+| Mine Site | The area containing the open pit(s), overburden and reject piles, plant facilities and associated mine infrastructure involved in the mining/processing operation |
+| MJF | Mid Joli Fou kimberlite |
+| mm | Millimetre |
+| MOE | Ministry of Environment |
+| MSC | Mineral Services Canada Inc |
+| Mt | Million tonnes |
+| Newmont | Newmont Canada FN Holdings ULC (formerly "Newmont Mining Corporation of Canada") Limited |
+| NI | National Instrument |
+| No | Number |
+| NN | Nearest Neighbour |
+| NPV | Net Present Value |
+| NQ | Drill core with a diameter of 47.6 mm |
+| OK | Ordinary Kriging |
+| Orion South pit | Orion South Kimberlite open pit |
+| OVB | Overburden |
+| P3 | Early Pense Kimberlite |
+| P\&E | P\&E Mining Consultants Inc |
+| PFS | Preliminary feasibility study |
+| PK | Processed Kimberlite |
+| PQ | Drill core with a diameter of 75.0 mm |
+| QA/QC | Quality assurance and quality control |
+| QP | Qualified Person |
+| RC | reverse circulation (drilling) |
+| RE | Resource Evaluation || Abbreviation | Description |
+| :--: | :--: |
+| Rejects | Kimberlite material failing selection criteria that are largely based on specific mineral properties |
+| ROM | Run of Mine, Kimberlite as it is extracted from earth (mine) |
+| RQD | Rock quality designation |
+| RTEC | Rio Tinto Exploration Canada Inc. |
+| RVK | Resedimented volcaniclastic kimberlite |
+| S1 | Upper Deltaic Sand |
+| S2 | Lower Deltaic Sand |
+| SaskPower | Saskatchewan Power Corporation |
+| SEDAR | System for Electronic Document Analysis and Retrieval |
+| SFD | Size frequency distribution |
+| SG | Specific Gravity |
+| SGF | TSX symbol for Shore Gold Inc. |
+| SGS Lakefield | SGS Lakefield Research Limited |
+| SGS Saskatoon | SGS Canada Inc (Saskatoon) |
+| Star Diamond | Star Diamond Corporation |
+| SK | Simple Kriging |
+| Sortex | Flow-Sort ${ }^{\circledR}$ X-ray diamond sorting machine |
+| SQL | Sequel database |
+| SRC | Saskatchewan Research Council |
+| SRK | SRK Consulting |
+| t | Tonne (metric, $1,000 \mathrm{~kg}$ ) |
+| $\mathrm{t} / \mathrm{h}$ | Tonnes per hour |
+| tpd | Tonnes per day |
+| $\mathrm{t} / \mathrm{wk}$ | Tonnes per week |
+| T10 | Drop test samples |
+| Ta | Scrubbability |
+| Tailings | Rejects or PK in a slurry form - typically rejects from the Comminution circuit |
+| TC | Trench Cutter |
+| TCI | Tungsten carbide insert |
+| TDS | Total dissolved solids |
+| The Project | Star-Orion South Diamond Project |
+| TSX | Toronto Stock Exchange |
+| UCS | Unconfined compressive strength |
+| UG | Underground drift bulk samples |
+| UKS | Upper Kimberlitic Sediments |
+| US\$ | US dollar |
+| UTM | Universal Transverse Mercator |
+| WWW | WWW International Diamond Consultants Ltd |
+| X | Cartesian coordinate X |
+| XRT | X Ray Transmission |
+| y | Year |
+| Y | Cartesian coordinate Y |
+| Z | Cartesian coordinate Z |# 3. RELIANCE ON OTHER EXPERTS 
+
+Howe has assumed, and relied on the fact, that all the information and existing technical documents listed in the references section of this Report are accurate and complete in all material aspects. While all the available information presented to us has been carefully reviewed, we cannot guarantee its accuracy and completeness. Howe reserves the right, but will not be obligated, to revise our Report and conclusions if additional information becomes known to us subsequent to the date of this Report.
+
+A draft copy of this Report has been reviewed for factual errors by Star Diamond and Howe has relied on Star Diamond's historical and current knowledge of the property in this regard. Any statements and opinions expressed in this document are given in good faith and in the belief that such statements and opinions are not false and misleading at the date of this Report.
+
+### 3.1. Mineral Tenure
+
+Howe has relied upon the following documents obtained by way of the Government of Saskatchewan mineral dispositions database, the Star Diamond land management expert, and legal opinions obtained by Star Diamond for the information included in Section 4.0 of this Report.
+
+- Government of Saskatchewan, 2024: Mineral Disposition Claim data: unpublished Excel spreadsheet downloaded from Ministry of Energy and Resources website, effective, August 27, 2024.
+
+
+### 3.2. Surface Rights, Access And Permitting
+
+Howe has relied on information regarding Surface Rights, Road Access and Permits, including the status of the granting of surface rights by the Canadian and Saskatchewan Governments for land designated for mining, milling, dumps and tailings impoundments. Howe has relied on opinions and data as follows:
+
+- Star-Orion South Diamond Project Proposal - prepared by Star Diamond with assistance from AMEC Earth and Environmental and submitted to the Environmental Assessment Branch of the Saskatchewan Ministry of Environment on November 3, 2008.
+
+
+### 3.3. Diamond Valuations
+
+Star Diamond has relied on Mr. Nelson Karun, Diamond Specialist for Star Diamond. In Howe's opinion, it is reasonable to rely on the opinions and reports of Mr. Karun because Mr. Karun is recognized as an international expert in the fields of diamond valuation, diamond price forecasting and diamond market outlooks.Mr. Karun is a seasoned diamond specialist with over 20 years of hands-on diamond experience with some of the world's largest rough producers and marketing companies. Mr. Karun is currently employed at Star Diamond as a Diamond Specialist and previously was working at the Geoanalytical Lab -Diamond Services, Mining and Minerals Division of the Saskatchewan Research Council (SRC), as well as with Stornoway Diamond Corp at their Renard Diamond Mine in northern Québec, and at the Ekati Mine for Dominion Diamond Mines (DDM).
+
+Mr. Karun has been engaged in diamond characterization, diamond grading, breakage study, and rough diamond valuations for projects ranging from early-stage exploration to commercial mines. Mr. Karun began his career in the Canadian diamond industry working with Aber/Harry Winston/Dominion Diamonds. Mr. Karun began his career as a diamond sorter and progressed through the ranks into management, with responsibility for quality control, and valuation. Mr. Karun was later put in charge of both Ekati and Diavik's productions and was also responsible for organizing rough diamond tenders for the DDM portfolio. Mr. Karun has successfully managed the sorting, valuation, and sale of approximately 10 million carats of diamonds worth $\$ 1$ Billion USD annually as Director of Diamond Processing, Quality Control and Valuation with DDM in their offices located in Toronto, Yellowknife, Antwerp- Belgium, Mumbai-India, and Visakhapatnam-India. Mr. Karun took a lead role in DDM's transition from diamond sorting in Canada to India and was responsible for training a team of diamond sorters in Mumbai sorting all sizes ( -3 to specials). Mr. Karun has prepared diamond valuations for various diamond mine and exploration projects located in Canada including Star-Orion South (Star Diamonds), Gahcho Kué (Mountain Province Diamonds), Renard (Stornoway Diamonds), Naujaat (North Arrow Minerals), and Jericho (Tahera Diamonds) and international mines located in Russia, South Africa, Angola and elsewhere.
+
+# 3.4. Geotechnical Investigations 
+
+The geotechnical investigations of the overburden and sub-overburden were completed by Clifton Associates Ltd ("Clifton") and SRK Consulting ("SRK"), respectively. The purpose of these investigations was to gather information to complete a slope stability analysis and provide engineering slope design parameters for pit optimisation for the Project. The geotechnical assessments made by Clifton and SRK were relied upon in Section 14 of the Report utilized by the QPs and include:
+
+- Clifton Associates Ltd (2011): Geotechnical and geological feasibility report for the Star and Orion South ore bodies, Fort à la Corne Kimberlite Field, Saskatchewan, dated July 20, 2011, and,- SRK Consulting (2010): Pit Slope Design for the Orion South and Star Kimberlite Deposits. Dated October 2010.
+
+Clifton and SRK are both geotechnical experts with Clifton having critical geotechnical experience in Saskatchewan overburden units and SRK having critical geotechnical experience in kimberlite deposits worldwide.
+
+# 3.5. Pit Optimisation Costs 
+
+The QP who prepared this section of the Report relied on information provided by experts who are not authors of this Report. The QP believes that it is reasonable to rely on these experts, based on the assumption that the experts have the necessary education, professional designations, and relevant experience on matters relevant to the Report.
+
+Mr. Peter Ravenscroft and Leon McGarry relied upon Mr. William van Breugel, P.Eng. to provide the pit optimization parameters for the Revised Mineral Resource Estimation. Mr. van Breugel was previously employed by Star Diamond during the publication of the 2018 PEA. The pit optimization parameters supplied for the Revised Mineral Resource Estimate are taken directly from the 2018 PEA, with mining, processing and G\&A costs factored up to allow for increased labour and power costs, while pit slopes are those used previously.
+
+## 4. PROPERTY DESCRIPTION AND LOCATION
+
+The Project is located in the Fort à la Corne ("FalC") Provincial Forest approximately centred at $53^{\circ} 15^{\prime} \mathrm{N}$ latitude and $104^{\circ} 48^{\prime} \mathrm{W}$ longitude and situated 60 km east of Prince Albert, Saskatchewan (Figure 4-1) and approximately 220 km northeast of Saskatoon and 60 km east of Prince Albert, Saskatchewan respectively. Highway 55, located to the north of the Project, connects Prince Albert with several towns located directly north of FalC to the town of Nipawin, east of FalC. Highway 6 runs north-south and is located to the east of FalC. The Star - Orion South diamond deposits are the principal exploration targets on the Project.
+
+### 4.1. Claims, Title, and Tenure
+
+The following sub-sections describe the claims, title and tenure of the Star Diamond and FalC-JV exploration license areas.
+
+### 4.1.1 Star Diamond Exploration Licenses
+
+The Star Kimberlite deposit and associated infrastructure are located within mineral disposition S132039 in Section 18 of Township 49, Range 19, west of the 2nd Meridian. Township 49 is locatedwithin the Rural Municipality of Torch River. This mineral disposition is part of a larger group of 192 contiguous mineral dispositions totalling 45,052.895 ha. Star Diamond owns a $100 \%$ working interest in these claims (Figure 4-2).
+
+Mineral dispositions have been legally surveyed in accordance with the Saskatchewan Mineral Disposition Regulations of 1986, Part IV, Article 30(1)(d), and the boundaries coincide with the boundaries of the land survey system pursuant to the Saskatchewan Land Surveys Act and with the boundaries of existing surveyed land parcels. The Orion South Diamond Project is situated entirely within mineral dispositions S-127109 and S-127186.
+
+As shown in Table 4-1, all Star Diamond dispositions including those that cover the Star - Orion South Diamond Project are in good standing as of August 27, 2024.
+
+In accordance with Saskatchewan Mineral Disposition Regulations, 1986, Sask. Reg. 30/86 (under the Crown Minerals Act, S.S. 1984-85-86, c-50.2), each claim may be held for two years and, thereafter, from year to year subject to the holder expending the required amounts in exploration operations on the claim lands. There are no charges for the first year of the claim; there is a $\$ 15 / \mathrm{ha}$ fee for the second to tenth year and a $\$ 25 /$ ha fee for every year thereafter. As Saskatchewan Ministry of Energy and Resources accepts assessment work as credit instead of paying the yearly fees, most of the claims have enough assessment credits to keep them in good standing for several years.Figure 4-1 Location Map of the Star-ORion South Diamond Project
+![img-0.jpeg](img-0.jpeg)Figure 4-2 Star Diamond Mineral Disposition
+![img-1.jpeg](img-1.jpeg)Table 4-1 Tenure Summary of Star Diamond 100 \% Held Property, August 27, 2024
+
+| DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| MC00011465 | 842.302 | 6-21-2018 | 9-19-2043 | Active |
+| MC00011466 | 712.98 | 6-21-2018 | 9-19-2043 | Active |
+| MC00017061 | 518.511 | 3-29-2023 | 6-27-2025 | Active |
+| MC00005966 | 458.102 | 6-20-2017 | 9-18-2041 | Active |
+| S-124553 | 768 | 8-12-1988 | 11-9-2040 | Active |
+| S-124554 | 768 | 8-12-1988 | 11-9-2040 | Active |
+| S-124555 | 768 | 8-12-1988 | 11-9-2040 | Active |
+| S-124556 | 768 | 8-12-1988 | 11-9-2040 | Active |
+| S-124557 | 768 | 8-12-1988 | 11-9-2040 | Active |
+| S-124561 | 512 | 8-12-1988 | 11-9-2042 | Active |
+| S-124562 | 512 | 8-12-1988 | 11-9-2042 | Active |
+| S-124563 | 512 | 8-12-1988 | 11-9-2043 | Active |
+| S-124568 | 512 | 8-12-1988 | 11-9-2043 | Active |
+| S-124573 | 256 | 8-12-1988 | 11-9-2043 | Active |
+| S-124574 | 256 | 8-12-1988 | 11-9-2043 | Active |
+| S-124639 | 192 | 8-16-1988 | 11-13-2040 | Active |
+| S-124640 | 384 | 8-16-1988 | 11-13-2040 | Active |
+| S-124641 | 384 | 8-16-1988 | 11-13-2040 | Active |
+| S-124646 | 576 | 8-16-1988 | 11-13-2040 | Active |
+| S-124647 | 384 | 8-16-1988 | 11-13-2040 | Active || DISPOSITION | AREA | $\begin{gathered} \text { EFFECTIVE } \\ \text { DATE } \end{gathered}$ | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-124649 | 512 | 8-16-1988 | 11-13-2040 | Active |
+| S-124651 | 768 | 8-16-1988 | 11-13-2040 | Active |
+| S-124652 | 768 | 8-16-1988 | 11-13-2040 | Active |
+| S-124653 | 768 | 8-16-1988 | 11-13-2040 | Active |
+| S-125981 | 256 | 7-20-1989 | 10-17-2043 | Active |
+| S-126003 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126004 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126007 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126008 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126009 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126010 | 256 | 7-20-1989 | 10-17-2040 | Active |
+| S-126038 | 64 | 8-18-1989 | 11-15-2042 | Active |
+| S-126039 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126040 | 64 | 8-18-1989 | 11-15-2042 | Active |
+| S-126041 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126042 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126043 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126044 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126045 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126046 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126047 | 64 | 8-18-1989 | 11-15-2040 | Active |
+| S-126048 | 64 | 8-18-1989 | 11-15-2040 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-126049 | 64 | 8-18-1989 | 11-15-2042 | Active |
+| S-126095 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126096 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126097 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126098 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126099 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126100 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126101 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126102 | 64 | 8-28-1989 | 11-25-2040 | Active |
+| S-126103 | 64 | 8-28-1989 | 11-25-2042 | Active |
+| S-126104 | 64 | 8-28-1989 | 11-25-2042 | Active |
+| S-126105 | 64 | 8-28-1989 | 11-25-2042 | Active |
+| S-126106 | 64 | 8-28-1989 | 11-25-2042 | Active |
+| S-126112 | 64 | 9-6-1989 | 12-4-2042 | Active |
+| S-126113 | 64 | 9-6-1989 | 12-4-2042 | Active |
+| S-126114 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126115 | 64 | 9-6-1989 | 12-4-2042 | Active |
+| S-126116 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126117 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126118 | 64 | 9-6-1989 | 12-4-2042 | Active |
+| S-126119 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126120 | 64 | 9-6-1989 | 12-4-2042 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-126121 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126122 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126123 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126124 | 64 | 9-6-1989 | 12-4-2040 | Active |
+| S-126221 | 64 | 9-13-1989 | 12-11-2040 | Active |
+| S-126257 | 64 | 9-21-1989 | 12-19-2040 | Active |
+| S-127085 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127086 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127087 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127088 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127089 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127090 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127091 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127092 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127093 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127094 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127095 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127096 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127097 | 32 | 1-2-1991 | 3-31-2040 | Active |
+| S-127098 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127099 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127100 | 64 | 1-2-1991 | 3-31-2040 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-127101 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127102 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127103 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127104 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127105 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127106 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127107 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127108 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127109 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127110 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127111 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127112 | 32 | 1-2-1991 | 4-1-2043 | Active |
+| S-127113 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127114 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127115 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127116 | 64 | 1-2-1991 | 4-1-2043 | Active |
+| S-127117 | 64 | 1-2-1991 | 4-1-2042 | Active |
+| S-127118 | 64 | 1-2-1991 | 3-31-2040 | Active |
+| S-127145 | 64 | 2-20-1991 | 5-19-2040 | Active |
+| S-127146 | 64 | 2-20-1991 | 5-19-2040 | Active |
+| S-127147 | 64 | 2-20-1991 | 5-19-2040 | Active |
+| S-127148 | 64 | 2-20-1991 | 5-19-2040 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-127183 | 352 | 8-12-1988 | 11-9-2042 | Active |
+| S-127184 | 496 | 8-12-1988 | 11-9-2042 | Active |
+| S-127185 | 256 | 8-12-1988 | 11-9-2042 | Active |
+| S-127186 | 448 | 8-12-1988 | 11-9-2042 | Active |
+| S-127187 | 192 | 8-16-1988 | 11-13-2040 | Active |
+| S-127188 | 256 | 8-16-1988 | 11-13-2040 | Active |
+| S-127189 | 256 | 8-16-1988 | 11-13-2040 | Active |
+| S-127190 | 192 | 8-16-1988 | 11-13-2042 | Active |
+| S-127191 | 480 | 8-16-1988 | 11-13-2042 | Active |
+| S-127192 | 768 | 9-13-1988 | 12-11-2042 | Active |
+| S-127193 | 128 | 7-20-1989 | 10-17-2043 | Active |
+| S-127194 | 192 | 7-20-1989 | 10-17-2043 | Active |
+| S-127195 | 32 | 9-6-1989 | 12-4-2040 | Active |
+| S-127275 | 192 | 5-5-1992 | 8-2-2042 | Active |
+| S-127341 | 192 | 6-12-1992 | 9-9-2043 | Active |
+| S-132025 | 256 | 12-1-1995 | 2-28-2040 | Active |
+| S-132026 | 128 | 12-1-1995 | 2-28-2040 | Active |
+| S-132027 | 128 | 12-1-1995 | 2-28-2040 | Active |
+| S-132028 | 128 | 12-1-1995 | 2-28-2040 | Active |
+| S-132029 | 128 | 12-1-1995 | 2-28-2040 | Active |
+| S-132030 | 256 | 12-1-1995 | 2-28-2040 | Active |
+| S-132031 | 128 | 12-1-1995 | 2-28-2043 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-132032 | 128 | 12-1-1995 | 2-28-2043 | Active |
+| S-132033 | 512 | 12-1-1995 | 2-28-2043 | Active |
+| S-132034 | 512 | 12-1-1995 | 2-28-2042 | Active |
+| S-132035 | 512 | 12-1-1995 | 2-28-2043 | Active |
+| S-132036 | 512 | 12-1-1995 | 2-28-2043 | Active |
+| S-132037 | 512 | 12-1-1995 | 2-28-2042 | Active |
+| S-132038 | 512 | 12-1-1995 | 2-28-2042 | Active |
+| S-132039 | 256 | 12-1-1995 | 2-28-2042 | Active |
+| S-132079 | 512 | 1-19-1996 | 4-18-2043 | Active |
+| S-132080 | 256 | 1-19-1996 | 4-18-2043 | Active |
+| S-132081 | 512 | 1-19-1996 | 4-18-2043 | Active |
+| S-132082 | 256 | 1-19-1996 | 4-18-2043 | Active |
+| S-133444 | 64 | 2-2-1998 | 5-2-2042 | Active |
+| S-133445 | 128 | 2-2-1998 | 5-2-2042 | Active |
+| S-133446 | 128 | 2-2-1998 | 5-2-2042 | Active |
+| S-133447 | 128 | 2-2-1998 | 5-2-2042 | Active |
+| S-133452 | 128 | 2-2-1998 | 5-2-2042 | Active |
+| S-133453 | 128 | 2-2-1998 | 5-2-2042 | Active |
+| S-133454 | 192 | 2-2-1998 | 5-2-2043 | Active |
+| S-133455 | 256 | 2-2-1998 | 5-2-2042 | Active |
+| S-133456 | 96 | 2-2-1998 | 5-2-2042 | Active |
+| S-133457 | 128 | 2-2-1998 | 5-2-2042 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-133458 | 128 | 2-2-1998 | 5-2-2043 | Active |
+| S-133459 | 32 | 2-2-1998 | 5-2-2043 | Active |
+| S-133460 | 256 | 2-2-1998 | 5-2-2043 | Active |
+| S-133461 | 192 | 2-2-1998 | 5-2-2043 | Active |
+| S-133714 | 128 | 6-1-1998 | 8-29-2042 | Active |
+| S-133715 | 128 | 6-1-1998 | 8-29-2042 | Active |
+| S-133716 | 128 | 6-1-1998 | 8-29-2040 | Active |
+| S-133717 | 256 | 6-1-1998 | 8-29-2042 | Active |
+| S-133722 | 256 | 6-1-1998 | 8-29-2042 | Active |
+| S-133723 | 256 | 6-1-1998 | 8-29-2042 | Active |
+| S-133726 | 256 | 6-1-1998 | 8-29-2042 | Active |
+| S-133733 | 128 | 8-5-1998 | 11-2-2042 | Active |
+| S-134407 | 64 | 9-20-2000 | 12-18-2040 | Active |
+| S-135759 | 384 | 7-2-2002 | 9-29-2042 | Active |
+| S-135760 | 256 | 7-2-2002 | 9-29-2042 | Active |
+| S-135761 | 256 | 7-2-2002 | 9-29-2042 | Active |
+| S-135762 | 256 | 7-2-2002 | 9-29-2042 | Active |
+| S-135763 | 256 | 7-2-2002 | 9-29-2042 | Active |
+| S-135764 | 256 | 7-2-2002 | 9-29-2042 | Active |
+| S-135818 | 32 | 9-3-2002 | 12-1-2042 | Active |
+| S-135819 | 32 | 9-3-2002 | 12-1-2041 | Active |
+| S-135820 | 16 | 9-3-2002 | 12-1-2042 | Active || DISPOSITION | AREA | EFFECTIVE <br> DATE | GOOD <br> STANDING | STATUS |
+| :--: | :--: | :--: | :--: | :--: |
+| S-136686 | 128 | 11-3-2003 | 1-31-2043 | Active |
+| S-137921 | 256 | 1-3-2005 | 4-2-2025 | Active |
+| S-138346 | 128 | 5-1-2005 | 7-29-2025 | Active |
+| S-138873 | 64 | 12-1-2005 | 2-28-2043 | Active |
+| S-139000 | 512 | 1-3-2006 | 4-2-2043 | Active |
+| S-140248 | 1024 | 6-19-2006 | 9-16-2043 | Active |
+| S-140253 | 1024 | 6-19-2006 | 9-16-2043 | Active |
+| S-140256 | 512 | 6-19-2006 | 9-16-2043 | Active |
+| S-140257 | 1024 | 6-19-2006 | 9-16-2043 | Active |
+| S-140259 | 768 | 6-19-2006 | 9-16-2043 | Active |
+| S-140263 | 1024 | 6-19-2006 | 9-16-2043 | Active |
+| S-140264 | 256 | 6-19-2006 | 9-16-2043 | Active |
+| S-140265 | 512 | 6-19-2006 | 9-16-2043 | Active |
+| S-141420 | 512 | 12-20-2006 | 3-19-2043 | Active |
+| S-143355 | 185 | 1-28-2010 | 4-26-2040 | Active |
+| S-143356 | 256 | 1-28-2010 | 4-26-2040 | Active |
+| S-143846 | 128 | 7-19-2012 | 10-16-2043 | Active |
+| S-143847 | 512 | 7-19-2012 | 10-16-2043 | Active |
+
+# 4.1.2 Surface Rights and Leases 
+
+As the mineral dispositions are located on Crown lands, the Crown retains all surface rights in the area of the Star and Orion South kimberlites mineral dispositions. Surface access for exploration purposes is obtained through the issuance of exploration permits from the Saskatchewan Ministryof Environment ("MOE"). To date, eight site-specific surface leases have been granted to Star Diamond, covering a total area of 161.67 ha (Table 4-2).
+
+Table 4-2 Summary of Surface Leases Granted to Star Diamond and The FalcJV
+
+| Location | Property | Area <br> $(\mathbf{H a})$ | Lease No. | Expiry Date |
+| :--: | :--: | :--: | :--: | :--: |
+| Main Camp | Star Diamond | 4.0 | 355000 | $3 / 31 / 2051$ |
+| Star Mine Site | Star Diamond | 50.0 | 355001 | $3 / 31 / 2051$ |
+| Star Mine Site | Star Diamond | 5.0 | 355002 | $3 / 31 / 2051$ |
+| Star West Pump Test Site | Star Diamond | 0.42 | 355003 | $3 / 31 / 2051$ |
+| Division Road Pump Test Site | Star Diamond | 0.44 | 355004 | $3 / 31 / 2051$ |
+| Test Grow Plots | Star Diamond | 0.91 | 355006 | $3 / 31 / 2051$ |
+| Orion South Shaft Site | Star Diamond | 98.0 | 355007 | $3 / 31 / 2051$ |
+| Core Shack and Laydown Area | Star Diamond | 2.90 | 355008 | $3 / 31 / 2051$ |
+| TOTAL |  | 161.67 |  |  |
+
+# 4.1.3 OWNERSHIP AND VARIOUS JOINT VENTURES 
+
+The Star Kimberlite deposit is contained within mineral dispositions held 100\% by Star Diamond. The Orion South Kimberlite deposit is also contained within mineral dispositions held 100\% by Star Diamond. Both the Star Diamond Project and the Orion South Diamond Project are operated by Star Diamond and are being explored and developed as a single entity as the Project.
+
+### 4.1.4 Permits and Approvals
+
+The following permits are currently in place at the Project:
+
+- Forest Products Permit \#'s 03338. Dated April 1, 2024, expiring March 31, 2025.
+- Aquatic Habitat Protection Permit \# AHPP24-054. Dated 29 April 2024, expiring March 31, 2025.
+- PO24-015 SDC Approval to Operate. Dated March 14, 2024, expiring March 31, 2026.
+- Miscellaneous Use Permit for ENV File: 24-11-00001. Work Authorization for Drill Site Cleanup Activities and Fencing of LDD holes. Dated April 1, 2024, expiring March 31, 2026.
+
+These permits are issued to Star Diamond by the Saskatchewan Ministry of the Environment ("MOE") and pertain to exploration activities at the Star-Orion South Diamond Project, located inthe Fort à la Corne Provincial Forest, 60 km east of the City of Prince Albert, Saskatchewan. The site is located at approximately, North American Datum 1927 ("NAD 27") Universal Transverse Mercator ("UTM") coordinates Zone 13, 515000 Easting ("E") 5897000 Northing ("N"). North American Datum 1983 ("NAD 83") Universal Transverse Mercator ("UTM") coordinates Zone 13, 514968 Easting ("E") 5897220 Northing ("N").
+
+# 4.2. Environmental and Other Liabilities 
+
+Star Diamond is not aware of any environmental liabilities, to which the mineral claims or property which would be part of the Project, are subject. To conduct the work proposed for the property, in addition to obtaining environmental approval from the MOE and federal authorities, a variety of leases, permits and authorizations would be required from ministries and agencies of Saskatchewan and Canada. These would include mineral leases, surface leases, permits to construct and/or operate plant and other facilities, equipment and related infrastructure including overburden or other piles, and permits related to operational issues, water issues and aquatic habitat. As well, a municipal development permit would be required. There are no known factors or risks that may affect access, title, or the right or ability to perform work on the property. Various First Nations and Métis communities assert that the area of the Project lies within their traditional territory, i.e. territory within which they historically or presently pursue Aboriginal rights to hunt, fish, trap or gather berries, other food or medicine on unoccupied Crown land. This situation is not unique to Star Diamond, the Project or Saskatchewan, given that all mineral development or other projects on unoccupied Crown land in Canada occur within the traditional territory of some Aboriginal party or parties. All such development, therefore, gives rise to the duty of the Crown as represented by provincial or federal governments to consult with Aboriginal parties when issuing permits.
+
+On December $3^{\text {th }} 2014$ the Canadian Environment Assessment Agency ("CEAA") announced an Environmental Assessment Decision for Star Diamond's Project. The Honourable Leona Aglukkaq, Environment Minister, announced that the Project "is not likely to cause significant adverse environmental effects when the mitigation measures described in the Comprehensive Study Report are taken into account".
+
+On October 25, 2018, the MOE approved the Project under The Environmental Assessment Act. The MOE indicated that they had conducted a thorough environmental assessment for the Project, including a detailed environmental impact statement, and carried out in-depth consultation prior to the decision to approve the Project. This included fulfilling the Province's duty to consult with local First Nations and Métis communities. The approval was for 5 years after which an update is required. Star Diamond is actively investigating the requirements for an update and will work withthe MOE and consultants in the near future to provide any additional information such that this update will comply with any new regulations.# 5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+### 5.1. ACCESSIBILITY
+
+The Project is located in the Fort à la Corne ("FalC") Provincial Forest approximately centred at $53^{\circ} 15^{\prime} \mathrm{N}$ latitude and $104^{\circ} 48^{\prime} \mathrm{W}$ longitude and situated 60 km east of Prince Albert, Saskatchewan (see Figure 4-1). Highway 55, located to the north of the Project, connects Prince Albert with several towns located directly north of FalC to the town of Nipawin, east of FalC. Highway 6 runs north south and is located to the east of FalC.
+
+The Project is accessible by paved highways, a grid gravel road system and an extensive network of forestry roads, passable to four-wheel drive and high-clearance two-wheel drive vehicles all year round.
+
+### 5.2. PhYsiOGRAPHY and Climate
+
+The Star and Orion South Kimberlites are situated on the north side of the Saskatchewan River. The Saskatchewan River is located approximately 1.5 km south of the underground and surface workings of the Star Diamond Project.
+
+The Project area comprises rolling glacial topography that is drained by numerous small tributaries running south towards the Saskatchewan River. Elevation varies from 360 to 450 m above sea level. Much of the land surrounding the FalC Provincial Forest has been cleared for agriculture; the forest consists of jack pine, aspen, white and black spruce, poplar, white birch and tamarack.
+
+The climate of the FalC area can be characterized by long, cold winters with mean January temperature of $-19.1^{\circ} \mathrm{C}$ and short, hot summers with a mean July temperature of $17.5^{\circ} \mathrm{C}$. Precipitation is limited to periodic showers and snowfall and averages 323 mm annually. A weather station, erected at the project site in 2006 and removed in the fall of 2008, was utilized for the collection of daily meteorological data used for baseline environmental studies.
+
+The local climate is conducive to year-round operations and would not be expected to impact mining activities.
+
+### 5.3. LOCAL AND REGIONAL INFRASTRUCTURE
+
+Prince Albert is the main centre for a pool of skilled and unskilled mining personnel, with additional personnel available from the City of Melfort and the many towns in the area, which have traditionally supplied miners to the Saskatchewan potash industry as well as to the gold and uranium mines in Northern Saskatchewan.Current and future water supplies have been, and will continue to be, supplied by underground source.
+
+A 230 kV powerline runs approximately 9.6 km south of the area and a larger capacity 230 kV powerline is approximately 21 km to the east of the Project from the Nipawin Hydroelectric and E.B. Campbell Hydroelectric stations. In addition, a SaskPower powerline connection from the main power grid is also available from the town of Smeaton.
+
+Telecommunications within the FalC forest are currently available through a cell phone tower located 5 km south of the area.
+
+The site of Star Diamond's main exploration project infrastructure is currently located at the Star site and consists of an office, 70 kw generator and the newly constructed processing plant.
+
+Utility water was pumped from local wells near the main exploration camp, and drinking water was trucked in.
+
+All diesel fuel utilized at the project site is purchased in the Prince Albert area and transported by fuel trucks.
+
+# 5.3.1 Star Property Description 
+
+The Star Kimberlite deposit comprises Star Diamond's Star Diamond Project and straddles a mineral disposition boundary between ground that is held $100 \%$ by Star Diamond.
+
+The Star Kimberlite deposit has a surface area totaling some 460 ha.
+
+### 5.3.2 Orion South Property Description
+
+The Orion South Kimberlite deposit comprises Star Diamond's Orion South Diamond Project and is on ground held $100 \%$ by Star Diamond. The Orion South Diamond Project is operated by Star Diamond.
+
+The Orion South Kimberlite deposit has a surface area totaling some 310 ha.
+
+## 6. HISTORY
+
+As early as 1940, diamonds were being reported to occur in the Prince Albert, Saskatchewan area. It was only when regional airborne geophysical surveys were completed in the 1960's, however, that possible diamond exploration targets were identified in the FalC area. A follow-up rotarydrilling program of these targets in 1989 led to the first discovery of kimberlite in the area by Uranerz Exploration and Mining Ltd.
+
+A major part of the FalC kimberlite province has been under investigation since the early 1990's by a consortium of companies including Cameco Corporation ("Cameco"), De Beers Canada Inc. ("De Beers") and Kensington. In October 2006, the previous FalC-JV changed ownership through the merger of Star Diamond and Kensington and by the purchase of the De Beers/Cameco interest by Star Diamond and the subsequent joining of Newmont to form the current FalC-JV.
+
+Much of the FalC-JV work from the 1990's through to 2005 involved drilling exploration and preliminary delineation core holes on the numerous airborne geophysical anomalies located in the FalC area. More recent work (2006-present) has been focused on the Orion cluster of kimberlites (Orion South, Orion Central and Orion North), Star West and the Taurus cluster (situated 2 km west of the Orion cluster). Work has included grid-pattern core drilling on a 100 m grid spacing that focused on the thicker portions of Star West, Orion South and North and on a 200 m line spacing on the thinner portions of those kimberlites and all of Taurus and Orion Centre Kimberlites. In order to recover appreciable quantities of diamonds for grade and value estimation, large-scale underground bulk sampling was completed on both Star West and Orion South. Underground bulk sampling, via a vertical shaft and lateral drifting, was completed on the Star West kimberlite between 2006 and 2007 and later on the Orion South Kimberlite between 2007 and 2009. LDD mini-bulk sampling was also completed on Orion South, Orion North, Star West and Taurus. More recent exploration core drilling and microdiamond work has been completed between 2012 and 2015 drilling has been undertaken on the Snowdon cluster of the FalC JV to better define and understand these kimberlites.
+
+On the properties held $100 \%$ by Star Diamond, exploration commenced in 1996 by flying a lowaltitude helicopter-borne magnetic survey. Several magnetic anomalies were identified and subsequent follow-up with ground magnetic surveys confirmed the presence of shallow, closed anomalies that indicated potential kimberlite. Four anomalies in the northwest corner of the survey area were selected for initial drill testing. Subsequent drilling confirmed the presence of kimberlite (the Star Kimberlite). Between 1996 and 2008 several core drilling programs resulted in the development of a robust kimberlite model. Mini-bulk sampling, via LDD, was completed between 2005 and 2008. Large-scale underground bulk sampling, via a vertical shaft and lateral drifting, was completed on the Star Kimberlite between 2003 and 2007.
+
+From 2008 to 2009, Star Diamond conducted three separate NI 43-101 compliant mineral resource estimates on the Star and Orion South Kimberlite deposits by AMEC Americas Limited (Star deposit only) and P\&E Mining Consultants (Star and Orion South) respectively.Positive MRE results facilitated the need for further study and on August 17, 2009, P\&E Mining Consultants completed a preliminary feasibility study ("PFS") on the Star Project (Orava et al. 2009). The PFS comprised of a conceptual design for an open pit mine plan, mine schedule, diamond process plant with capital and operating cost estimates, geotechnical and hydrogeology studies, as well as environmental and permitting studies completed by P\&E. The PFS study was based upon the 2009 Star Kimberlite Mineral Resource Estimate technical report prepared by P\&E.
+
+Amalgamation of two volumetrically significant kimberlite bodies occurred on January 31, 2010, when P\&E completed an updated preliminary feasibility study (updated "PFS") on the Star and Orion South Project (Orava et al. 2010). The updated PFS incorporated the Orion South kimberlite into the current Star Diamond Project and contained conceptual open pit mine plans, mine schedule, process plant designs with capital and operating cost estimates, additional geotechnical and hydrogeology studies as well as environmental and permitting studies. The PFS study was based upon both the March 26, 2009 Star Kimberlite Mineral Resource Estimate technical report and the September 25, 2009 Orion South Kimberlite Mineral Resource Estimate technical report prepared by P\&E.
+
+On August 25, 2011, Star Diamond completed a Feasibility Study ("FS") on the Star - Orion South Diamond Project which produced Probable Mineral Reserves of 279 million diluted tonnes at a weighted average grade of 12.3 carats per hundred tonnes ("cpht") containing 34.4 million carats at a weighted average price of US $\$ 242$ per carat over the 20 year Life of Mine ("LOM"). The Base Case FS had a Net Present Value ("NPV") of $\$ 2.1$ billion (using a 7 percent discount rate) for an Internal Rate of Return ("IRR") of 16 percent before taxes and royalties and an after-taxes and royalties NPV of $\$ 1.3$ billion with an IRR of 14 percent. The Pre-production capital cost was $\$ 1.9$ billion with a total capital cost of $\$ 2.5$ billion (including direct, indirect costs and contingency) over the LOM and an initial capital cost payback period of 5.3 years. The FS was based upon the January 31, 2010 updated PFS technical report prepared by P\&E.
+
+The 2011 feasibility study and all prior feasibility studies are historical. The study reports, mineral resources and economic assessment previously disclosed by the Company are no longer current and should no longer be relied upon.
+
+On March 6th, 2014, Star Diamond announced an estimate of the Target For Further Exploration ("TFFE", formerly known as "Potential Mineral Deposit") for five partially evaluated kimberlites and the portions of the Star and Orion South Kimberlites, which fell outside the Indicated and Inferred Resources previously estimated (see SGF News Release July 14, 2011). These seven Fort à la Corne kimberlites fall within the 100 percent owned Star Diamond Project and the adjacent FalC-JV. The TFFE was conceptual in nature and is not a Mineral Resource and it is uncertain whether further exploration work will result in the TFFE being delineated as a Mineral Resource.The TFFE for these seven Fort à la Corne Kimberlites is estimated to include between 983 million and 1.17 billion tonnes of kimberlite containing between 52 and 90 million carats of diamonds. The details of the TFFE estimates for the individual kimberlites are listed in Table 6-1.
+
+Table 6-1 TFFE Summary Table by Kimberlite Body
+
+| Kimberlite Body and Lithologic Units | Range of Tonnes ${ }^{1}$ (000's) | Range of Grade ${ }^{2}$ (cpht, DTC+1) | Range of Carats ${ }^{3}$ (000's, DTC+1) |
+| :--: | :--: | :--: | :--: |
+| Star EJF\& PENSE ${ }^{4}$ | $19,935-26,010$ | $2.61-13.13$ | $1,094-2,379$ |
+| Orion South (K140, K141) EJF ${ }^{5}$ | $81,530-99,986$ | $4.41-9.87$ | $4,000-8,955$ |
+| Orion North (K120) EJF | $170,749-198,723$ | $5.27-10.94$ | $9,732-20,209$ |
+| Orion North (K147, K148, K220) EJF ${ }^{3 \& 4}$ | $340,421-410,302$ | $2.75-8.37$ | $15,740-30,241$ |
+| Taurus (K118) EJF ${ }^{2 \& 3}$ | $95,879-108,538$ | $2.95-10.95$ | $6,504-7,778$ |
+| Taurus (K122) EJF | $117,413-136,012$ | $4.41-14.68$ | $5,738-8,768$ |
+| Taurus (K150) EJF ${ }^{1 \& 2}$ | $156,783-189,236$ | $4.30-7.22$ | $9,052-12,310$ |
+| Total | $982,710-1,168,807$ |  | $51,860-90,640$ |
+
+Notes:
+
+1. The range of tonnes is based on the standard deviation of the specific gravity measurements for each kimberlite body and lithologic unit.
+2. Range of grades reflects the lowest and highest grades from all the lithologic units within each kimberlite body.
+3. Kimberlite carat ranges are a summation of the low and high ranges of carats for all the lithologic units in each kimberlite body.
+4 \& 5. Star \& Orion South Kimberlite TFFE lies outside of defined Mineral Resource Estimate.
+
+The TFFE numbers for Star and Orion South are no longer relevant as the models and Mineral resources for both kimberlites have been revised in this Report and should not be relied upon.
+
+In addition to the TFFE documented above in Table 6-1, geological models, based on detailed core drilling and logging, have been prepared for the six Fort à la Corne kimberlites listed in Table 62. Microdiamond results presently available for these kimberlites are currently considered insufficient to support estimates of macrodiamond content, and these kimberlites are accordingly not included in the current TFFE estimate. These 3D geological models are conceptual in nature and are not Mineral Resources, as they lack diamond grade data, and it is uncertain whether further exploration work will result in these 3D geological models being delineated as a Mineral Resources.# TABLE 6-2 KIMBERLITES NOT INCLUDED IN THE TFFE FOR WHICH GEOLOGICAL MODELS HAVE BEEN PREPARED 
+
+| Kimberlite Body | Range of Tonnes ${ }^{1}$ |
+| :-- | :--: |
+| Orion North (K147, K148, K220) LJF, EJF ${ }^{1 \& 2}$ | $65,493-78,629$ |
+| Orion Centre (K145, K219) | $163,626-200,766$ |
+| Falc (K121, K221) | $53,602-62,973$ |
+| Falc (K123, K223) | $42,398-50,516$ |
+| Falc (K152) | $27,639-31,958$ |
+| Falc (K158) OLRVK $^{2}$ | $51,878-59,528$ |
+| Total | $404,638-484,373$ |
+
+Notes:
+
+1. The range of tonnes is based on the standard deviation of the specific gravity measurements for each kimberlite body and lithologic unit
+
+In December 2015, Star Diamond published a revised mineral resource estimate completed by A.C.A. Howe International Limited, Toronto, Ontario, Canada.
+
+Positive MRE results facilitated the need for further study and on April 16, 2018, SGS Canada Inc. completed a preliminary economic assessment ("PEA") on the Star Orion South Diamond Project (Leroux, et al. 2018). The PEA comprised of a conceptual design for an open pit mine plan, mine schedule, diamond process plant with capital and operating cost estimates, based on previous geotechnical and hydrogeology studies. The PEA study was based upon the 2015 Star- Orion South Kimberlite Mineral Resource Estimate technical report prepared by A.C.A Howe International Ltd.
+
+The 2018 PEA estimated that 66 million carats of diamonds could be recovered in a surface mine over a 38-year Project life, with a Net Present Value ("NPV") (7\%) of $\$ 2.0$ billion after tax, an Internal Rate of Return ("IRR") of $19 \%$ and an after-tax payback period of 3.4 years after the commencement of diamond production (see News Release dated April 16, 2018). The PEA was led by independent mining, processing and design consultants, with support from the Company's technical team. The PEA cash flow model was based on developing two open pits, initially on the Orion South Kimberlite and subsequently on the Star Kimberlite.
+
+Further details of the exploration work conducted in the FalC area by Star Diamond and the previous FalC-JV operators on both the Star and Orion South Projects are summarized in Sections 9,10 and 11 .# 7. GEOLOGICAL SETTING AND MINERALIZATION 
+
+The Project area lies near the northeastern edge of the Phanerozoic Interior Platform, which extends from the Rocky Mountains in the west, to the Precambrian Canadian Shield in the northeast. The Interior Platform sediments exceed 600 m in thickness (Figure 7-1). The unmetamorphosed sedimentary rocks of the Interior Platform unconformably overlie metamorphosed basement rocks. These Proterozoic basement rocks have been interpreted to form part of the Glennie Domain which has been tectonically emplaced overtop of the Archean Sask Craton (Chiarenzelli et al., 1997). In the Star and Orion South area, the Precambrian basement rocks are estimated to be at a depth of 730 m (Table 7-1).
+
+Table 7-1 Average Depth (and Elevation) to Major Stratigraphic Units
+
+|  | STAR |  | ORION SOUTH |  |
+| :-- | :--: | :--: | :--: | :--: |
+|  | Depth (m) | Elevation <br> (masl) | Depth (m) | Elevation <br> (masl) |
+| Avg. Ground Level (Top of OVB) | 0 | 421 | 0 | 444 |
+| Avg. Top of Colorado Gp (Base of OVB) | 92 | 329 | 105 | 339 |
+| Avg. Top of Mannville Gp (Base of Colorado Gp) | 170 | 251 | 191 | 253 |
+| Avg. Top of Paleozoic Carb (Base of Mann Gp) | 340 | 81 | 347 | 97 |
+| Avg. Top of Precambrian (Base of Paleozoic)* | 730 | -309 | 730 | -286 |
+
+* top of Precambrian is based on very limited oil and exploration work 16 km NE and 30 km SW of Star and Orion
+
+Table 7-2 Average Thickness of Major Stratigraphic Units
+
+|  | STAR | ORION SOUTH |
+| :-- | :--: | :--: |
+|  | Thickness (m) | Thickness (m) |
+| Avg. Overburden Thickness | 92 | 105 |
+| Avg. Colorado Group Thickness | 78 | 86 |
+| Avg. Mannville Group Thickness | 170 | 156 |
+| Avg. Paleozoic Carbonate Thickness* | 390 | 383 |
+
+* top of Precambrian is based on very limited oil and exploration work 16 km NE and 30 km SW of Star and Orion South.Figure 7-1 Regional Geology of the Falc Area With the Magnetic Outlines of the Falc Kimberlites
+![img-2.jpeg](img-2.jpeg)
+A.C.A. HOWE INTERNATIONAL LIMITED
+
+Page 46 of 229. SEPTEMBER 5, 2024.The Phanerozoic cover sequence consists of a 390 m thick Cambro-Devonian basal unit of dolomitic carbonate and clastic sedimentary rocks overlain by 150-180 m of Cretaceous Mannville siltstone and sandstone and 70-90 m of Cretaceous Colorado Group shale (Tables 7-1 and 7-2) and siltstone (Figures 7-1 and 7-2). The sedimentary formations dip gently to the south-southwest bringing progressively younger strata into contact with the Quaternary glacial till towards the southwest. In the vicinity of the Project, the area is overlain by Quaternary glacial deposits ranging from 90 to 130 m in thickness. These consist of lower till deposits with discontinuous intra-till gravel and sand deposits and an upper layered sequence of clay and fine-grained sand deposits.
+
+Figure 7-2 Cretaceous stratigraphic Column of the Star-Orion South Area
+![img-3.jpeg](img-3.jpeg)# 7.1. Property Geology - FalC Area 
+
+A northwest-trending kimberlite province covering a 50 km by 30 km area has been identified in the FalC area (Figure 7-1). These kimberlites have clearly defined airborne and ground magnetic anomaly signatures within a quiet background. A total of 69 kimberlitic bodies have been drilled and identified to date within the FalC Kimberlite Province, with the majority of discovered kimberlite bodies occurring within the extensive NW-SE FalC Main Trend.
+
+The 'classical champagne-glass' shaped morphologies typically associated with FalC kimberlite bodies represent the explosive emplacement of kimberlite material within sequences of poorly consolidated sediments (Scott Smith et al., 1994). Geophysical modelling suggests that the areal extent of the individual kimberlitic bodies in the FalC kimberlite province range from 2.7 ha to over 400 ha . The kimberlite bodies themselves typically occur as stacked, sub horizontal lenses or shallow zones of crater facies kimberlite with footprints ranging up to $2,000 \mathrm{~m}$ wide and occur at depths ranging from 100 m to greater than 700 m . Limited deep drilling precludes interpretation of the shape of the kimberlites below about 350 m . At depth, FalC kimberlites may resemble the idealized South African kimberlite model. While both hypabyssal and volcaniclastic kimberlitic facies have been intersected by drilling, their inter-relationship is not well known. It is possible that the former represent either late-stage pulses or even xenolithic blocks.
+
+The more important kimberlite occurrences discovered to date in the FalC Kimberlite Province comprise crater facies volcaniclastic kimberlite emplaced into Cretaceous marine, lacustrine and terrestrial siliciclastic deposits laid down in, or along, a shallow epicontinental sea. Importantly, individual kimberlite phases (or units) may be distinguished according to grain size, style of emplacement, xenoliths and xenoliths types and abundances, alteration and the abundance of olivine macrocrysts.
+
+In general, the main volcaniclastic kimberlite deposits were preceded by smaller kimberlite bodies comprising conformable, graded beds of pyroclastic debris as much as 40 m thick, indicative of subaerial eruption onto Albian (Middle Cretaceous) floodplains, intertidal zones, or lakes. Subsequently, larger, shallow craters were excavated in poorly consolidated marine to marginalmarine shale under subaerial to shallow marine conditions and backfilled with pyroclastic sediments forming multiple-graded kimberlitic beds. Kimberlitic pyroclastic flows, erupted at the time of crater excavation, produced stacked kimberlite deposits and are preserved as aprons around the craters that can extend several hundred metres from the crater edge. Contact angles of the kimberlite with the surrounding country rock can range from $90^{\circ}$ to $0^{\circ}$ depending on whether the contact is in the pipe or in the outflow pyroclastic deposits.Continued Cretaceous sedimentation buried the kimberlites in marine sediments. These cover rocks were largely removed by glaciation, essentially to the level of kimberlite. The majority of the kimberlite bodies drilled to date by both the FalC-JV and Star Diamond are positioned just below the till / bedrock interface. In contrast, kimberlites discovered by De Beers in 1988, and later by Corona Corporation at Sturgeon Lake, 30 km northwest of Prince Albert, are regarded as rootless, ice-thrust rafts or erratics of kimberlite, indicating erosion of a possibly younger suite of kimberlites.
+
+Kimberlitic phases are well constrained within the Cretaceous stratigraphy in which they were deposited. For example, those kimberlites deposited during Cantuar Formation time (part of the Mannville Group) are considered to be Cantuar age-equivalent kimberlite and are termed Cantuar Kimberlite ("Cantuar"). Similarly, kimberlite deposited during Early Joli Fou Formation time (part of the lower Colorado Group) is Early Joli Fou age-equivalent kimberlite and is termed Early Joli Fou Kimberlite ("EJF"). It is important to note that two stratigraphically equivalent kimberlite packages (e.g. Pense Kimberlite on Star and Orion South) do not share a genetic relationship and each has unique diamond grade and carat value characteristics. Some of the stratigraphically equivalent kimberlite units (e.g. EJF on Star and Orion South) do, however, have similarities in mineral constituents, mantle signatures, chemistry and diamond distribution that suggest a genetic relationship.
+
+# 7.2. Star Kimberlite Geology and Mineralization 
+
+The Star Kimberlite was deposited within the Cretaceous sedimentary rocks of the lower Colorado and Mannville groups, which unconformably overlie Paleozoic limestones and dolomites. The glacial overburden thickness ranges from 90 to 130 m with an average of 92 m (Table 7-2). Portions of the Star Kimberlite have been emplaced contemporaneously with the deposition of the Mannville and lower Colorado sediments. However, the majority of the Star Kimberlite is interpreted to have erupted through the Mannville and into the early parts of the lower Colorado Group sediments (Joli Fou Formation time). The local lower Colorado and Mannville interface is situated approximately 170 m . The Mannville Group and Paleozoic interface lies approximately 340 m , as interpreted from Star Diamond core drill holes.
+
+The Star Kimberlite consists of two distinct types of kimberlite: dominant eruptive kimberlite and subordinate kimberlitic sediments. The eruptive kimberlite deposits at the Star Kimberlite are subdivided into five main kimberlite phases emanating from a single vent, each with distinctive physical and chemical properties, which enable mapping and stratigraphic correlation of units as seen in Figure 7.3 (Harvey et al., 2006 and Harvey, 2009a):
+
+1. Cantuar Kimberlite2. Pense Kimberlite
+3. Early Joli Fou Kimberlite ("EJF")
+4. Mid Joli Fou Kimberlite ("MJF")
+5. Late Joli Fou Kimberlite ("LJF")
+
+All the major kimberlite phases of the Star Kimberlite have been proven to contain macrodiamonds.
+
+# 7.2.1 CANTUAR KIMBERLITE ("CPK") 
+
+The oldest kimberlite phase within the Star Kimberlite is the Cantuar Kimberlite, which is hosted by sandstone, siltstone and mudstone units of the Cantuar Formation (Figure 7-3). These Cantuar Kimberlite deposits are typically restricted to thin sheet-like deposits that generally vary in width from 20 to 40 m . There are two end-member types of Cantuar Kimberlite: matrix-supported pyroclastic kimberlite, which primarily occurs to the north; and a clast-supported pyroclastic kimberlite and kimberlite breccia that occurs to the south (Figure 7-4). The Cantuar Kimberlite is typified by the ubiquitous presence of small ( $1-4 \mathrm{~mm}$ ) clinopyroxene xenocrysts and relatively common mantle xenoliths. The kimberlite is variably fine to medium grained and is normally graded at the 1 to 5 m scale, although more massive beds do occur. Rare fine-grained reworked equivalents are present and locally display cross-bedding.Figure 7-3 Cross-Section Across the Western Portion of the Star Kimberlite (View Towards the West)
+(This Figure illustrates the host Cretaceous sedimentary rocks and the relationship with distinct kimberlite eruptive phases, reworked equivalents and relatively young marine reworked kimberlitic sediments).
+![img-4.jpeg](img-4.jpeg)Figure 7-4 Photographs of Underground Hand Samples and Core From the Star KIMBERLITE
+(a) Ash-rich LJF sample with small ( $1-5 \mathrm{~mm}$ ) shale clasts; b) Matrix-rich MJF sample with 5-20 mm shale clasts; c) Underground sub-horizontal core sample delineating the contact between olivine-rich EJF (right) and matrix-rich MJF (left) ( 36.5 mm diameter core); d) Olivine macrocryst-rich, clast-supported EJF pyroclastic kimberlite; e) Precambrian basement-dominated xenolithic EJF kimberlite breccia; f) Dark green, matrix-supported, olivine- and xenolith-rich pyroclastic Cantuar kimberlite).
+![img-5.jpeg](img-5.jpeg)The Cantuar Kimberlite is restricted to the north and west-central portion of the kimberlite complex. The thickest intersections are on the western portion of the kimberlite near the EJF crater edge (Figure 7.3) with central Cantuar Kimberlite deposits likely having been removed by the main EJF eruptive event. Restricted to the southern part of the Star Kimberlite is a younger, juvenile pyroclast-rich pyroclastic kimberlite, known as JLRPK. It occurs as two spatially restricted feeder vents which have shapes similar to the classic South African model carrot-shaped pipes and is cross-cut by older Cantuar.
+
+# 7.2.2 Pense Kimberlite ("PPK") 
+
+The Pense Kimberlite ("PPK") is restricted to the central and northeastern portions of the Star Kimberlite. In the northeast, Pense Kimberlite is deposited directly on the Pense sandstone and mudstone (Zonneveld et al., 2004). Towards the thicker central zone, the Pense appears to sit directly on the Cantuar Formation sediments, indicating either scouring into the older Cantuar sediments and/or previous erosion / denudation of the Pense sandstone. The Pense Kimberlite is clast-supported, and in the coarser-grained varieties, characterized by the relative abundance of ilmenite megacrysts and sub-equal abundance of armoured juvenile pyroclasts (typically cored by olivine macrocrysts) and 0.5 to 2 cm sized olivine macrocrysts. The large olivine macrocrysts commonly contain small garnet intergrowths and are thus interpreted to be microperidotite xenoliths. The Pense Kimberlite generally occurs as well bedded, fine to very coarse-grained pyroclastic kimberlite with very rare breccia units with an average thickness of 15 m . Cross bedded, well-sorted, fine- to medium-grained olivine enriched kimberlite sandstone is locally observed.
+
+### 7.2.3 Early Joli Fou Kimberlite ("EJF")
+
+The widespread EJF is volumetrically the most important eruptive phase of the Star Kimberlite. Distal deposits of the kimberlite sit directly on Lower Joli Fou shale and are interpreted as Joli Fou-age equivalent. The EJF also sits directly on older Pense and Cantuar phases. The kimberlite is in contact with the Cantuar Formation in the vicinity of the crater/vent area in the west (Figure 7-3). The kimberlite is clast-supported and dominated by olivine crystals with rare juvenile pyroclasts (Figure 7-4). Mantle-derived xenocrysts and xenoliths are relatively common in this unit. Fining-up beds dominate and commonly occur as 1 to 5 m (rarely up to 15 m ) thick, lithicrich breccia ( $\geq 15 \mathrm{wt} . \%$ xenolithic clasts) basal units overlain by a xenoliths poor tuffaceous kimberlite.
+
+Three zones have been identified in the EJF pyroclastic deposits: a central vent / crater; a positive relief tephra ring (cinder cone); and an extra-crater (tephra ring distal) zone (Figure 7-5). Kimberlite deposits largely confined to the inner crater / vent area and the positive relief tephra ring are referred to as EJF 'inner' area deposits and those confined to the distal, extra-crater areas are referred to as EJF 'outer' area deposits.Figure 7-5 Topographic Elevation Map (Lows are Blue; Highs are Magenta) of the Top Contact of the Olivine-Rich EJF
+(In Figure 7.5 three distinct zones are distinguished: 1. a west-central zone of low relief (Crater zone); 2. an arcuate high surrounding the low (Tuff ring zone); and 3. a distal relative low (Distal zone). Approximation of kimberlite outline based on electro-magnetic (EM) signature. Note the underground workings at the center of the body).
+![img-6.jpeg](img-6.jpeg)
+
+Figure 7-6 shows the EJF isopach map and highlights the thick deposits dominantly confined to the crater area of the kimberlite complex and attaining thicknesses in excess of 100 metres. Distal deposits occurring outside the crater are generally less than 30 metres in thickness.Figure 7-6 IsOpach Map of the EJF Kimberlite Intersections (Contour Interval: 10 M)
+![img-7.jpeg](img-7.jpeg)# 7.2.4 Mid Joli Fou Kimberlite ("MJF") 
+
+The MJF, a younger cross-cutting kimberlite eruptive phase, is aerially restricted to the western portion of the Star Kimberlite and appears to be infilling the remnant EJF crater area (Figure 7-3). This phase has erupted through the older EJF, as evidenced by rarely preserved autoliths of EJF within the MJF kimberlite. The MJF kimberlite has many similarities to the EJF but has a distinct matrix-supported texture (Figure 7-4), fewer indicator minerals, is very poorly sorted and is generally massive to weakly normally graded.
+
+### 7.2.5 LATE JOLI FOU KIMBERLITE ("LJF")
+
+The LJF, the youngest kimberlite eruptive event, is confined to the northern and northeastern portion of the Star Kimberlite and generally forms a thin veneer (generally $<20$ metres thick) deposited on older EJF and MJF (Figure 7-3). The LJF has many similarities to the MJF but is generally finer grained, more massive and has the ubiquitous presence of small ( 0.5 to 50 mm ) shale clasts (Figure 7-4). The relationship between the MJF and LJF remains ambiguous; however, the LJF may represent a finer grained remobilized version of the MJF, which slumped or flowed into the marginal marine sedimentary environment incorporating poorly consolidated mudstone material. A sub-unit of the LJF, known as the LJF Slump, is identified based on the distinct increase in the shale clast content and the weak development of sub-horizontal bedding planes.
+
+### 7.2.6 UPPER KIMBERLITIC SEDIMENTS/REWORKED VOLCANICLASTIC UNITS ("UKS/UKRVU")
+
+Sitting directly on the Late Joli Fou-aged kimberlite, or locally within the overlying shale sequence, are two main kimberlitic sedimentary units (Figure 7-3) that mantle the central core of EJF and MJF kimberlite. Directly above the LJF, there is the typical development of kimberlitic sandstone/debris flows ("KDF"), with common to abundant shale blocks. In general, the shale blocks appear to be massive and in sharp contact with the host KDF. A distinct fining-up sequence of kimberlitic sandstone that grades into kimberlitic siltstone and finally a calcareous light grey to white siltstone rests directly on the KDF and is more rarely separated by 2 to 10 m thick beds of shale. Situated 6 to 8 m above the fining-up unit is another fine-grained kimberlite sandstone horizon, which acts as a distinct marker horizon over most of the kimberlite. This surface is a close approximation to the Newcastle (Viking) - Westgate contact. A 1 to 3 cm heavy mineral lag is present in many core holes, 2 to 4 m below this bed, which may represent a transgressive surface of erosion (Zonneveld et al., 2004).# 7.3. Orion South Kimberlite Geology and Mineralization 
+
+Like the Star Kimberlite, the Orion South Kimberlite was deposited within the Cretaceous sedimentary rocks of the lower Colorado and Mannville groups, which unconformably overlie Paleozoic limestones and dolomites. The glacial overburden thickness ranges from 97 to 121 m with an average of 105 m (Table 7-2). Portions of the Orion South Kimberlite have been emplaced contemporaneously with the deposition of the Mannville and lower Colorado sediments as seen in Figure 7-7. However, the majority of the Orion South Kimberlite is interpreted to have erupted through the Mannville and into the early parts of the lower Colorado Group sediments (Joli Fou Formation time). The local lower Colorado and Mannville interface is situated approximately 191 m below surface. The Mannville Group and Paleozoic interface lies approximately 347 m , as interpreted from drill holes. The Orion South Kimberlite is comprised of multiple eruptive units (or phases), each of which is texturally, mineralogically, physically and chemically distinct. Within the kimberlite, the units have cross-cutting relationships near conduits, but are stacked vertically within the volcanic edifice and crater / extra-crater deposits (Figure 7-7). Several conduits, feeding different units, have been identified on Orion South.
+
+During Cantuar (Mannville Group) deposition, thought to be a time of continental fluvial-deltaic deposition (Zonneveld et al., 2004), kimberlite was deposited and reworked. Drilling indicates that the Cantuar-aged kimberlite deposits are generally thin ( $<30 \mathrm{~m}$ thick) sheets occurring at multiple horizons within the Cantuar sediments. The bulk of the kimberlite deposits are confined within the marginal marine to marine sedimentary strata (Zonneveld et al., 2004) of the Upper Mannville Group (Pense Formation) and the lower Colorado Group (Joli Fou Formation). These kimberlite deposits are associated with the main crater excavation and crater fill. Proximal to the conduits and in close proximity to the base of the Mannville Group sandstone, the conduits flare (ScottSmith et al., 1994) at a steep angle giving way to shallow angles near the margin of the craters.
+
+The Orion South Kimberlite consists of two distinct types of kimberlite: dominant eruptive kimberlite and subordinate kimberlitic sediments. The eruptive kimberlite deposits at the Orion South Kimberlite are sub-divided into six main kimberlite phases, each with distinctive physical and chemical properties which enable mapping and stratigraphic correlation of units as seen in Figure 7.7 (Harvey et al., 2009a \& b):
+
+1. Cantuar Kimberlite ("CPK")
+2. Early Pense ("P3")
+3. Pense Kimberlite ("Pense")
+4. Early Joli Fou Kimberlite ("EJF")
+5. Late Joli Fou Kimberlite ("LJF")
+6. Viking Pyroclastic Kimberlite ("VPK")Figure 7-7 Orion South Kimberlite West to EAST Cross-Section Along UTM Line $5,900,600 \mathrm{~N}$
+(Note: Breccia-Dominated (Xenoliths-Rich) Zone Demarcated By Cross-Hatching. Note: RVK = Resedimented Volcaniclastic Kimberlite; UKS = Upper Kimberlitic Sediment
+![img-8.jpeg](img-8.jpeg)
+
+# 7.3.1 CANTUAR KIMBERLITE ("CPK") 
+
+The earliest kimberlite deposit in Orion South, the Cantuar Kimberlite ("CPK"), consists of fineto coarse-grained, massive to weakly normally graded, poorly sorted, matrix- to clast-supported, mixed olivine plus juvenile pyroclast-bearing lapilli tuff (Kjarsgaard et al., 2006 and 2009). These deposits are commonly pervasively carbonate cemented and are generally thin ( 0.5 to 5 m thick), although an intersection of 90 m has been drilled. Amoeboid juvenile pyroclasts, which locally display moulded boundaries, are common in the unit and rarely contain up to $10 \%$ vesicles. U-Pb dating on perovskite gave an age of ca. 106 Ma for the Cantuar Kimberlite on Orion South (Kjarsgaard et al., 2006 and 2009).
+
+### 7.3.2 Early Pense ("P3") Kimberlite
+
+The P3 or Early Pense is a newly identified but volumetrically insignificant pyroclastic and reworked volcanoclastic kimberlite unit that underlies the Pense kimberlite in the South Western part of Orion South. This unit consists of a normally graded, poorly sorted, olivine enriched, clast supported succession of $1-5 \mathrm{~m}$ beds with coarse grained bases and fine to very fine grained often reworked tops. The olivine texture of the P3 has a bimodal distribution including both phenocrysts and macrocrysts which are more prevalent in the fine-grained tops and coarse bases respectively. This unit closely resembles bedding and olivine concentrations observed within the Early Joli Fou pyroclastic kimberlite but contains more abundant juvenile pyroclasts which occur chiefly as round or amoeboid magma clasts but is also observed as thin selvages encompassing (armoured) or partially encompassing (curvilinear) both crustal xenoliths and mantle xenocrysts. Kimberlite breccia beds are observable within the P3 kimberlite adjacent to the basal stratigraphic contact, butdistinct correlative beds have not been identified. This unit is constrained to the southwest region of the Orion South kimberlite and underlies the Pense Volcaniclastic Kimberlite and additional drilling is required to identify the units sub lateral extent and relationships to surrounding kimberlite and sedimentary units. This unit appears to be a precursor to the major Pense eruptive sequence but further drilling in the south-west area of the Orion South Kimberlite is required to fully understand its significance and possible source.
+
+# 7.3.3 Pense Kimberlite ("Pense") 
+
+The first major eruptive event on Orion South resulted in kimberlite being deposited onto Pense Formation sediments. The crater base is cut into the pre-eruptive paleosurface and cuts into Mannville Group sediments. The Pense Kimberlite is a fine to locally medium-grained, matrixrich, very poorly sorted, massive to weakly-bedded volcaniclastic tuff (Figure 7-8) that is remarkably consistent both laterally and vertically. Xenoliths and juvenile pyroclasts are very rare within the Pense kimberlite. Locally, distal deposits exhibit thin ( 0.1 to 0.5 m ) planar bedding. The upper surface exhibits considerable and variable relief relative to the Pense paleosurface defining a distinct mound-like morphology that may represent the remnant of a Pense pyroclastic cone and surrounding tephra ring (Figure 7-9). The thickest core drill interval intersected 220 m of Pense kimberlite while it thins to near 0 m over a distance of 700 m laterally.
+
+Figure 7-8 Example of Typical Matrix-Rich Pense Kimberlite With a More Altered (Lighter) Domain and a Less Altered (Darker) Domain (From 141-06-071c: 273.55 M) (From Harvey, 2011)
+![img-9.jpeg](img-9.jpeg)# 7.3.4 EArly Joli Fou KimbERLITE ("EJF") 
+
+Distal deposits of the volumetrically dominant EJF were laid down directly on Joli Fou Formation sediments (Figure 7-7). Proximal deposits were deposited on Pense and Mannville Group sediments, due to erosion down cutting of the pre-eruptive paleosurface during initiation of the EJF eruptive cycle. There are two centres of thick EJF accumulation in the northwest and the southeast sections of the Orion South Kimberlite (Figure 7-10). The depocentre in the southeast section of the Orion South Kimberlite is coincident with a spatially restricted feeder vent that crosscuts the older Pense, while in the northwest there is a considerable thickening of kimberlite and a deepening of the basal contact, which suggests a postulated eruptive vent. In the centre of the Orion South body, the EJF thins to 0 metres and is coincident with the central Pense Kimberlite high.
+
+The EJF is fine- to coarse-grained, olivine-rich, poorly- to moderately sorted, volcaniclastic tuff to tuff breccias (Figure 7-11). The EJF kimberlite consists of multiple normally graded beds with coarser bases and finer grained tops that collectively form a fining upwards sequence. Individual beds are generally 0.5 to 5 m thick.Figure 7-9 Pense Kimberlite Isopach Map (Contour Interval: 10 m)
+(Note the central thick accumulation area associated with both a broad shallow crater and a positive relief mound).
+![img-10.jpeg](img-10.jpeg)Figure 7-10 EJF Kimberlite IsOPach Map (Contour Interval 10m)
+(Note the thick EJF deposits mantling the central Pense mound and the southeast and northwest depocentres).
+![img-11.jpeg](img-11.jpeg)Figure 7-11 Example of a Normally Graded EJF Bed With a Coarser XenolithRich Base Fining-Up to a Very Fine-Grained Xenolith-Poor Top (From 140-06-058C: From 132.01 To 136.79 m) (From Harvey, 2011)
+![img-12.jpeg](img-12.jpeg)
+
+Xenolith-rich tuff breccias are common in the EJF and are found in two distinct geometric forms within the volcaniclastics. The first is a basal xenoliths-rich kimberlite up to 60 m thick that is thickest along the periphery of the Pense central mound and exhibits a higher abundance of Precambrian basement xenoliths relative to Paleozoic carbonate xenoliths. Pense autoliths are relatively common near the base of the xenoliths-rich series (Figure 7-12). The second type consists of 0.5 to 10 m thick xenoliths-rich horizons, which form the base of normally graded beds that fine upwards into olivine-rich volcaniclastic tuff (Figure 7-11). These xenolith-rich basal horizons are more common in the lower part of the EJF sequence. Towards the top of the EJF sequence, and in distal areas, kimberlite deposits are normally graded and typically do not have these xenoliths-rich basal horizons (Kjarsgaard et al., 2006, 2009).Figure 7-12 Example of Pense Autoliths in the Lower EJF
+(Photo (close to the Pense-EJF contact) has common Pense autoliths with variably diffuse contacts within the EJF matrix (from 140-06-065 147.75 m) (from Harvey, 2011)).
+![img-13.jpeg](img-13.jpeg)
+
+In contrast to the Cantuar and Pense units, the EJF juvenile pyroclast population is dominated by cored juvenile pyroclasts, which are generally round to ovoid in shape. The pyroclasts are mostly cored with olivine macrocrysts, and more rarely, with country rock xenoliths and mantle-derived xenocrysts. Multi-rimmed juvenile pyroclasts are common within this unit. A U-Pb age of 99.4 Ma has been generated for the EJF at Orion South (Kjarsgaard et al., 2006, 2009).
+
+# 7.3.5 Late Joli Fou Kimberlite ("LJF") 
+
+The LJF is a very fine- to fine-grained, moderately sorted, massive to weakly planar bedded, olivine-rich volcaniclastic kimberlite that crosscuts previously emplaced kimberlite units and directly overlies EJF deposits. The LJF tuffs are olivine macrocryst-poor and phenocryst-rich, while juvenile pyroclasts are rare to absent. Proximal LJF deposits are thick, but they thin over a short lateral distance. Like the LJF on the Star Kimberlite, the country rock xenolith population is Joli Fou Formation shale clast-dominated relative to basement and carbonate clasts. Thin (1 to20 cm ) shale clast-enriched beds are common. Fluid escape structures have also been identified in the LJF.
+
+# 7.3.6 Viking Kimberlite ("VPK") 
+
+The Viking Kimberlite ("VPK") is the youngest primary kimberlite unit deposited on Orion South and is age-equivalent to the Newcastle (Viking) Formation siltstone locally deposited between the Joli Fou and Westgate Formation shale deposits. The Viking Kimberlite unit is restricted to the southeast and northwest parts of the Orion South Kimberlite as fine- to medium-grained, poorly to moderately sorted, moderate to well bedded volcaniclastic kimberlite. The Viking kimberlitic tuffs are relatively juvenile pyroclast-rich, are basement xenolith-poor and relatively EJF autolith-rich (Figure 7-13). The unit commonly has carbonate cement giving it a diagnostic texture.
+
+Figure 7-13 Variably Sized EJF Autoliths Within Viking Kimberlite From Hole 141-92-002C At a DEPTH OF 190.15 m
+(Scale bar equals 1 cm (from Harvey, 2011)).
+![img-14.jpeg](img-14.jpeg)# 7.3.7 UPPER KIMBERLITIC SEDIMENTS ("UKS/KSST") 
+
+Minor volumes of kimberlite deposited as epiclastic sediment and known as the Upper Kimberlitic Sediments ("UKS") or Kimberlitic Silt/Sandstones ("KSST") are present on the upper periphery of the Orion South Kimberlite deposit (Figure 7-7). Thicker UKS and KSST deposits occur on the margins of the Orion South Kimberlite complex but thin towards the centre of the body. These deposits vary from olivine-rich kimberlitic sandstone through to weakly kimberlitic, very finegrained siltstones that are commonly interbedded with Joli Fou Formation shale. The thickest portions of these kimberlite deposits are on the northwest margin of the Orion South complex where they attain thicknesses up to 20 m but are generally limited to 2 to 9 m in thickness. Crossbedding, shell fragments, ripples and wood fragments were identified in core holes and occur locally within these kimberlitic units.
+
+### 7.4. Geological Model
+
+### 7.4.1 Star Geological Model
+
+A 3-D geological model for the Star Kimberlite was created from surface and underground drill information (Figure 7-14). Limited deep core drilling restricts the 3-D modelling of the Star Kimberlite to the kimberlite above 0 masl. The 3-D geological model estimates that the Star Kimberlite (including both the Star and Star West kimberlite) contains a total of approximately 253.2 Mt of kimberlite in the MJF, EJF, PPK and CPK with a further 146 Mt of LJF, UKS, JLRPK and VK-134.Figure 7-14 Star Kimberlite 3-D Geological Model (Looking North East)
+![img-15.jpeg](img-15.jpeg)
+
+# 7.4.2 Orion South Geological Model 
+
+A 3-D geological model for the Orion South Kimberlite was created from surface and underground drill information (Figure 7-15). Limited deep core drilling restricts the 3-D modelling of the Orion South Kimberlite to the kimberlite above 0 masl. The 3-D geological model estimates that the Orion South Kimberlite contains a total of approximately 356 Mt of kimberlite in the EJF, Pense and P1 with a further 92Mt of KSST, VPK, LJF, P3 and CPK.Figure 7-15 3D View Of The Orion South Kimberlite Geological Model Looking North West
+![img-16.jpeg](img-16.jpeg)# 8. DEPOSIT TYPES 
+
+### 8.1. Kimberlite Hosted Diamond Deposits
+
+Primary diamond deposits such as kimberlites and lamproites have produced over $50 \%$ of the world's diamonds, whereas the remaining $50 \%$ are derived from recent to ancient placer deposits that have formed from the erosion of kimberlite and / or lamproite. Notably, it has been established by the scientific community that diamonds are not genetically related to kimberlite or lamproite but that kimberlite, lamproite and other deeply derived magmas serve as a transport mechanism for bringing diamonds to surface. The diamonds form at the same level as, or shallower than, the kimberlite magmas within the mantle and as the kimberlite magma ascends towards the surface, they incorporate foreign fragments (termed mantle xenoliths) of the material they pass through. Those xenoliths commonly disaggregate into individual mineral constituents (termed xenocrysts). These xenocrysts include diamonds.
+
+Clifford (1966) and Janse (1994) have stated that a majority of economic diamondiferous kimberlites occur in stable Archaean age cratonic rocks that have not undergone thermal events or deformation since 2.5 Ga. Such Archaean-aged cratons include the Kaapvaal, Congo and West African Cratons in Africa, Superior and Slave Provinces in Canada, East European Craton (Russia, Finland, etc.), and the West, North and South Australia Cratons. The only exceptions, to date, are the Argyle and Ellendale lamproite mines of Australia, which occur in Proterozoic aged remobilized cratonic zones.
+
+To date, over 6,000 known kimberlite and lamproite occurrences have been discovered in the world, of which over 1,000 are diamondiferous. Economic diamond-bearing kimberlite and / or lamproite pipes range from less than 0.4 ha to 146 ha in footprint size, with the maximum size being greater than 200 ha (i.e. Catoca, Angola). Economic kimberlite diamond grades can range from 1.3 cpht to 600 cpht.
+
+Kimberlite remains the principal source of primary diamond despite the discovery of high-grade deposits in lamproite. Mineralogical and Nd-Sr isotopic studies have shown that two varieties of kimberlite exist (Mitchell, 1986):
+
+- Group 1: or olivine-rich monticellite-serpentine-calcite kimberlites; and
+- Group 2: or micaceous kimberlites (which predominantly occur in southern Africa).
+
+With a few exceptions, such as the Finsch Kimberlite Mine in South Africa and the Dokolwayo Kimberlite Mine in Swaziland, most of the well-known diamondiferous kimberlites in southern Africa and elsewhere are Group 1 kimberlites, including those in Canada and, in particular, FalC.In contrast, Group 2 kimberlites are confined to southern Africa.
+Currently, three textural-genetic groups of kimberlite are recognized in Group 1 kimberlites, each being associated with a particular style of magmatic activity (Mitchell, 1986). These are:
+
+- crater facies
+- diatreme facies
+- hypabyssal facies.
+
+Rocks belonging to each facies differ in their petrology and primary mineralogy but may contain similar xenocrystal and megacrystal assemblages (Mitchell, 1986).
+
+# 8.2. Fort À La Corne Kimberlite Model 
+
+Unlike the idealized South African kimberlite model (Hawthorne, 1975), the majority of the FalC kimberlites are mainly shallow bowl-shaped kimberlites which have kimberlite footprints ranging up to $2,000 \mathrm{~m}$ wide and extending to depths ranging from approximately 100 m to greater than 700 m .
+
+The limited deep drilling, however, precludes any interpretation of the shape of the kimberlites below about 450 m . Therefore, at depth, the FalC kimberlites may, in fact, resemble the idealized South African model.
+
+FalC kimberlites were emplaced into poorly consolidated Cretaceous-aged clastic and marine sedimentary rocks. They are generally interpreted to be in the form of stacked, sub-horizontal lenses or shallow zones of crater facies material with associated pyroclastic flow and fall deposits of large lateral extent. The kimberlite phases are classified entirely as crater-facies pyroclastic kimberlite, although several kimberlite units may be distinguished according to their grain size, style of emplacement, primary and chemical alteration and the abundance and presence of olivine macrocrysts.# 9. EXPLORATION 
+
+### 9.1. Star Kimberlite Exploration
+
+An extensive overview of the exploration activities on the Star Diamond Project is given in Ewert et al. (2009a), Eggleston et al. (2008) and Leroux (2008a) and is summarized in Table 9-1.
+
+## Table 9-1 Summary of ExPloration Activities on the Star Kimberlite Deposit, 1996-2024
+
+| Year | Exploration Activity |
+| :--: | :--: |
+| $1996-1998$ | -Aeromagnetic surveys <br> -Diamond drilling ( 11 holes) <br> -Microdiamond analysis |
+| 2000 | -Diamond drilling ( 16 holes) <br> -Microdiamond analysis |
+| $2000-2001$ | -Diamond drilling ( 7 holes) <br> -Microdiamond analysis <br> -Airborne geophysics re-interpretation |
+| 2001 | -Petrographic studies <br> -Diamond drilling ( 7 holes) <br> -Microdiamond analysis <br> -Large diameter ( 24 inch) reverse circulation (RC) drill program (Star 31 RC) <br> -Sample processing (split sample: De Beers Canada's Grande Prairie Processing Facility; Lakefield Research) |
+| $2002-2003$ | -Bulk rock and multi-element lithogeochemistry work (Targeted Geoscience Initiative or TGI) <br> -2-D and 3-D seismic surveys <br> -TGI borehole geophysics survey -TGI geochronology <br> -Petrographic studies -Borehole collar surveying <br> -Detailed core logging and re-interpretation studies <br> -Initial bulk sampling work program (permitting, pilot hole drilling, etc.) |
+| $2003-2004$ | -Regional airborne GeoTEM survey <br> -Diamond drilling ( 8 holes) |
+| $2003-2005$ | -Underground bulk sampling program <br> - site set-up <br> - Process Plant construction and commissioning <br> - shaft sinking, lateral drift developments 175 m and 235 m levels <br> - underground geological mapping and surveying <br> - 16,000 m underground diamond drilling and sample processing between 2003-2006 <br> -Bulk sampling results of Phase 1 program <br> -Diamond valuation of 3,050 carat parcel || Year | Exploration Activity |
+| :--: | :--: |
+| $1996-1998$ | -Aeromagnetic surveys <br> -Diamond drilling (11 holes) <br> -Microdiamond analysis |
+| 2000 | -Diamond drilling ( 16 holes) <br> -Microdiamond analysis |
+| $2005-2007$ | -Underground bulk sampling program <br> - lateral drift development 235 m and 215 m levels <br> - underground geological mapping and surveying <br> - 16,000 m underground diamond drilling and sample processing between 2003-2006 <br> -Bulk sampling results of Phase 2 and 3 programs <br> -Diamond valuation of 5,950 ct parcel <br> -Airborne geophysical and laser surveys <br> -233 exploration, geotechnical and hydrogeological core holes and 95 Large-diameter mini-bulk sample holes <br> $-45,000 \mathrm{~m}$ of surface core drilling |
+| 2008-2010 | -Completion of 8 LDD holes <br> -Geotechnical investigation utilizing cone penetrometer |
+| 2016 | -Completion of 5 NQ core holes <br> -Completion of 1 geotechnical hole |
+| 2017 | -Completion of 10 HQ3 core holes <br> -Completion of 10 sonic holes |
+| $2019-2020$ | -Completion of 3 HQ3 core holes <br> -Completion of 3 sonic holes <br> -Trench Cutter Sampling and Onsite Processing Program <br> -2,351 metres of drilling from 10 trench cutter holes resulting in 1,213.71 metres of kimberlite intercept <br> -12,791.49 tonnes extracted, 1,534.209 carats from 28,630 stones |
+
+# 9.2. Orion South Kimberlite Exploration 
+
+A summary of the 1988-2019 exploration work completed on the Orion South Kimberlite deposit is shown in Table 9-2. An extensive overview of the exploration activities on the Orion South Diamond Project is given in Ewert et al. (2009b) and Leroux (2008b).# TABLE 9-2 Summary of EXPLORATION Activities on the Orion South Kimberlite DEPOSIT, 1988-2024 
+
+| Year | Exploration Activity |
+| :--: | :--: |
+| 1988-1999 | -Various geophysical surveys (aeromagnetic- ground surveys) <br> -Core and rotary drilling <br> -Microdiamond analysis |
+| 2000 | -Geophysical surveys (aeromagnetic- ground surveys) <br> -Core and LDD drilling <br> -Microdiamond analysis |
+| 2001 | -Core drilling <br> -LDD and mini-bulk sampling <br> -Macrodiamond and microdiamond recovery and analysis <br> -Microdiamond breakage study |
+| 2002 | -Geophysical surveys <br> -Core drilling <br> -LDD and mini-bulk sampling <br> -Macrodiamond and microdiamond recovery and analysis <br> -Grade forecasts, revenue models |
+| 2003 | -Airborne and ground gravity geophysical surveys <br> -Core drilling <br> -Geological modelling <br> -Microdiamond sampling and analysis |
+| 2004 | -Geological modelling and grade forecasts <br> -Core drilling |
+| 2005 | -Geological modelling and grade forecasts <br> -Core drilling <br> -LDD and mini-bulk sampling |
+| 2006 | -Regional Light Detection and Ranging System (LIDAR) survey completed over FalC area <br> -Geological modelling <br> -Core drilling |
+| 2007 | -Geological modelling <br> -Core drilling <br> -LDD and mini-bulk sampling <br> -Initiation of Orion South Underground Bulk Sample Program |
+| 2008-2009 | -Geological modelling <br> -Core drilling <br> -LDD and mini-bulk sampling <br> -Orion South Underground Bulk Sample Program |
+| 2010 | -Core drilling, Mud rotary drilling <br> -Cone penetrometer testing <br> -Prototype dewatering well test |
+| 2015 | -Completion of 18 NQ core holes <br> -12 24" LDD RC holes |
+| 2016 | -Completion of 8 NQ core holes |
+| 2019 | -Completion of 23 HQ3 core holes <br> -Completion of 21 sonic core holes |# 9.3. Orion Centre, Orion North and Taurus Kimberlite Clusters 
+
+A summary of the exploration work completed on the Orion Centre, Orion North and Taurus Kimberlite Clusters is shown in Table 9-3 along with the other kimberlite bodies drilled to date. An extensive overview of the exploration activities on the Orion Centre, Orion North and Taurus Kimberlite Clusters is given in Harvey (2009).
+
+Table 9-3 Summary of ExPLORATION OF REMAINDER OF FALC JV
+
+| Kimberlite Body | Project Year | Number of Holes | Hole Type | Meters Drilled |
+| :--: | :--: | :--: | :--: | :--: |
+| Taurus Kimberlite Cluster |  |  |  |  |
+| 118 | 1991 | 2 | RCA | 401.00 |
+| 118 | 2008 | 5 | LDD | 1158.06 |
+| 118 | 2019 | 6 | HQ3 | 1435.00 |
+| 122 | 1992-2004 | 19 | HQ | 4156.20 |
+| 122 | 1989-1995 | 6 | RCA | 1320.60 |
+| 122 | 2000 | 3 | LDD 24 | 732.71 |
+| 122 | 2004 | 5 | LDD 36 | 927.99 |
+| 122 | 2008 | 5 | LDD 47.2 | 1060.49 |
+| 122 | 2019 | 5 | PQ3/HQ3 | 1437.00 |
+| 150 | 1992-2004 | 17 | PQ/HQ/NQ | 3556.00 |
+| 150 | 2005 | 1 | HYDRO | 249.00 |
+| 150 | 1991-1994 | 3 | RCA | 741.00 |
+| 150 | 2001 | 1 | LDD 24 | 262.03 |
+| 150 | 2008 | 5 | LDD 48 | 1059.33 |
+| 150 | 2019 | 4 | PQ3/HQ3 | 885.60 |
+| Orion North Kimberlite Cluster |  |  |  |  |
+| 120 | 1991-2006 | 49 | PQ/HQ | 12235.60 |
+| 120 | 2006 | 1 | HYDRO | 109.55 |
+| 120 | 1990-1993 | 16 | RCA | 3678.30 |
+| 120 | 2007-2008 | 16 | LDD | 3762.54 |
+| 120 | 2019-2020 | 3 | PQ3/HQ3 | 813.00 |
+| 147 | 2004-2006 | 80 | PQ/HQ/NQ | 16966.89 |
+| 147 | 1991-1995 | 3 | RCA | 633.00 |
+| 147 | 1999 | 2 | LDD 12 | 463.20 |
+| 147 | 2006 | 6 | LDD 48 | 1295.08 |
+| 147 | 2020 | 1 | PQ3 | 220.50 |
+| 148 | 1991-2006 | 84 | PQ/HQ/NQ | 18798.28 || 148 | 2006 | 1 | HYDRO | 95.35 |
+| :--: | :--: | :--: | :--: | :--: |
+| 148 | 1991-1993 | 7 | RCA | 1522.50 |
+| 148 | 2006-2007 | 9 | LDD 48 | 1956.27 |
+| 148 | 2019-2020 | 4 | PQ3 | 1077.00 |
+| 220 | 1996-1999 | 4 | RCA | 804.45 |
+| 220 | 2006 | 11 | PQ | 2539.45 |
+| Orion Centre |  |  |  |  |
+| 144 | 1996 | 1 | RCA | 322.17 |
+| 145 | 1992-2006 | 42 | PQ/HQ | 9385.79 |
+| 145 | 1994-1996 | 3 | RCA | 811.53 |
+| 219 | 1992-2006 | 33 | PQ/HQ | 7451.68 |
+| 219 | 1989-1994 | 3 | RCA | 672.40 |
+| Other Kimberlites |  |  |  |  |
+| 101 | 1992-2005 | 7 | PQ/HQ | 1645.70 |
+| 116 | 1995-2005 | 5 | PQ/HQ | 1167.00 |
+| 116 | 1995 | 1 | RCA | 262.00 |
+| 119 | 1992-2005 | 7 | HQ | 1486.90 |
+| 119 | 1989-1992 | 2 | RCA | 411.50 |
+| 118 | 1992-2005 | 13 | HQ | 2980.00 |
+| 121 | 1992-2004 | 8 | PQ/HQ | 1890.50 |
+| 121 | 1989-1992 | 5 | RCA | 1094.00 |
+| 121 | 2019 | 3 | HQ3 | 658.16 |
+| 123 | 1993-2005 | 11 | HQ | 2258.00 |
+| 123 | 1993-1996 | 2 | RCA | 380.11 |
+| 123 | 2020 | 2 | HQ3 | 367.00 |
+| 126 | 1995 | 1 | RCA | 301.00 |
+| 133 | 2005 | 9 | HQ | 2014.35 |
+| 133 | 1995 | 1 | RCA | 351.50 |
+| 134 | 2005 | 5 | HQ | 1134.00 |
+| 134 | 1996 | 1 | RCA | 210.16 |
+| 135 | 2005 | 6 | HQ | 1581.40 |
+| 135 | 1996 | 1 | RCA | 261.82 |
+| 151 | 1991 | 1 | RCA | 228.00 |
+| 152 | 1993-2005 | 7 | HQ | 1551.00 |
+| 154 | 1996 | 1 | RCA | 244.14 |
+| 155 | 1996 | 1 | RCA | 267.31 |
+| 156 | 1996 | 1 | RCA | 303.89 |
+| 157 | 1996 | 1 | RCA | 303.89 || 158 | 2005 | 11 | HQ | 2642.00 |
+| :--: | :--: | :--: | :--: | :--: |
+| 158 | 1991-1996 | 2 | RCA | 458.45 |
+| 158 | 2019 | 3 | HQ3 | 727.00 |
+| 159 | 1996 | 1 | RCA | 259.08 |
+| 160 | 1996 | 1 | RCA | 294.13 |
+| 161 | 1996 | 1 | RCA | 259.69 |
+| 162 | 1993 | 1 | HQ | 215.00 |
+| 162 | 1993 | 1 | RCA | 213.40 |
+| 163 | 2005 | 5 | HQ | 1194.00 |
+| 163 | 1995 | 1 | RCA | 307.00 |
+| 164 | 1996 | 1 | RCA | 227.68 |
+| 165 | 1996 | 1 | RCA | 245.36 |
+| 166 | 1996 | 1 | RCA | 210.46 |
+| 167 | 1993 | 1 | HQ | 215.00 |
+| 167 | 1993 | 1 | RCA | 201.20 |
+| 168 | 1994 | 1 | RCA | 291.00 |
+| 168 | 2019 | 2 | HQ3 | 490.50 |
+| 169 | 1990-1993 | 9 | RCA | 2047.50 |
+| 169 | 1992-1993 | 4 | PQ/HQ | 972.50 |
+| 169 | 2019 | 2 | HQ3 | 394.50 |
+| 170 | 1996 | 1 | RCA | 284.68 |
+| 174 | 1992-1993 | 3 | HQ | 658.50 |
+| 174 | 1993 | 3 | RCA | 704.00 |
+| 174 | 2019 | 1 | HQ3 | 195.00 |
+| 175 | 1993 | 1 | HQ | 250.00 |
+| 175 | 1993 | 1 | RCA | 212.80 |
+| 175 | 2020 | 2 | HQ3 | 480.00 |
+| 176 | 1997 | 1 | HQ | 300.00 |
+| 176 | 1996 | 1 | RCA | 306.00 |
+| 176 | 2018 | 2 | HQ3 | 570.00 |
+| 177 | 1996 | 1 | RCA | 234.00 |
+| 216 | 2005 | 13 | HQ | 2910.00 |
+| 216 | 1990 | 2 | RCA | 398.00 |
+| 218 | 2005 | 6 | HQ | 1605.00 |
+| 218 | 1994 | 1 | RCA | 256.00 |
+| 221 | 2004 | 3 | HQ | 678.00 |
+| 221 | 1996 | 1 | RCA | 299.01 |
+| 221 | 2019 | 1 | HQ3 | 260.20 || 223 | 2005 | 3 | HQ/NQ | 585.00 |
+| :--: | :--: | :--: | :--: | :--: |
+| 223 | 1996 | 1 | RCA | 209.70 |
+| 226 | 1993 | 1 | HQ | 275.00 |
+| 226 | 1993 | 1 | RCA | 231.70 |
+| 265 | 1996 | 1 | RCA | 175.87 |
+| 269 | 1996 | 1 | RCA | 144.00 |
+| 284 | 2004 | 1 | HQ | 162.00 |
+| 285 | 2004 | 1 | HQ | 195.00 |
+| 291 | 2004 | 1 | HQ | 160.00 |
+| 300 | 2004 | 1 | HQ | 162.00 |
+| 326 | 1994 | 1 | RCA | 252.00 |
+| 426 | 1990 | 3 | RCA | 750.00 |
+| 426 | 2020 | 4 | HQ3 | 887.00 |
+| Snowden Kimberlite Cluster |  |  |  |  |
+| 601 | 1996-2012 | 2 | HQ/NQ | 370.53 |
+| 601 | 1989 | 1 | RCA | 128.00 |
+| 602 | 1992-2012 | 2 | HQ/NQ | 432.45 |
+| 602 | 2018-2020 | 9 | HQ3 | 1781.00 |
+| 603 | 1994 | 1 | RCA | 300.00 |
+| 604 | 1993 | 1 | HQ | 200.00 |
+| 605 | 1997 | 1 | HQ | 234.10 |
+| 606 | 1992-2015 | 2 | HQ/NQ | 481.26 |
+| 606 | 2016 | 2 | NQ | 385.26 |
+| 606 | 2018 | 4 | HQ3 | 726.00 |
+| 611 | 1990 | 1 | RCA | 198.00 |
+| 611 | 2020 | 2 | HQ3 | 331.00 |
+| 612 | 1997 | 1 | HQ | 164.60 |
+| 612 | 2020 | 1 | HQ3 | 149.00 |
+| 613 | 1996 | 1 | HQ | 120.00 |
+| 613 | 1989 | 1 | RCA | 121.00 |
+| 613 | 2020 | 1 | HQ3 | 167.00 |
+| 614 | 1994-1996 | 2 | RCA | 664.00 |
+| 614 | 2015 | 1 | NQ | 261.21 |
+| 614 | 2016 | 2 | NQ | 412.70 |
+| 614 | 2020 | 1 | HQ3 | 203.00 |
+| 615 | 2020 | 1 | HQ3 | 201.00 |Additional summaries on further exploration work (such as geophysics/microdiamond analysis and other geological studies) conducted on the remained of the FalC-JV can be found in:
+
+- Jellicoe, B. (2005) Summary of Exploration and Evaluation of the Fort à la Corne Kimberlite Field, East-Central Saskatchewan report prepared by Brent C. Jellicoe Ltd. for Shore Gold Inc., effective date 9 November 2005.
+- Leroux, D, (2008b): Technical Report on the Fort a la Corne Joint Venture Diamond Exploration Project, Fort a la Corne Area Saskatchewan, Canada; report prepared by A.C.A. Howe International Ltd. for Kensington Resources Ltd., effective date 20 March 2008.
+- Harvey, S. (2009b): Technical Report on the Fort à la Corne Joint Venture Diamond Exploration Project, Fort à la Corne Area, Saskatchewan, Canada. NI 43-101 report prepared by Shore Gold Inc. for Kensington Resources Ltd., March 19, 2009.
+- Shore Gold Inc., (2009a): News Release May 19, 2009: Fort à la Corne Joint Venture: Orion North K120 Kimberlite Large Diameter Drilling Diamond Grade Results.
+- Shore Gold Inc., (2009b) News Release June 16, 2009: Fort à la Corne Joint Venture: Orion North K147 and K148 Large Diameter Drilling Diamond Grade Results.
+
+
+# 10. DRILLING 
+
+### 10.1. Star Kimberlite Drilling
+
+### 10.1.1 Pre 2016 Drilling
+
+Between 1996 and 2010, 637 surface and underground diamond drill holes, reverse circulation ("RC") and LDD-RC holes totalling 108,306 m were drilled on the Star Kimberlite deposit. Table 10-1 outlines the drill programs for all years. In terms of geological data acquisition, variably sized core drilling programs resulted in the completion of 321 surface core holes totalling 70,659 metres. Drilling was largely completed on a 100 metre spaced grid on the thicker (approximately 50 metres of kimberlite) portion of the complex and a 200 metre grid on the thinner periphery (Figure 10-1).# Table 10-1 Summary Of Surface And Underground Drilling On The Star Kimblerlite Deposit 1995-2015 
+
+| Year | No. Of <br> Drill <br> Holes | Metres | Drill Type | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :-- |
+| 1996 | 1 | 210.2 | RCA | Surface | RCA hole completed on the 134 magnetic anomaly. |
+| 1996 | 5 | $1,518.0$ | NQ-HQ | Surface | Three NQ vertical drill holes drilled on the Star <br> Kimberlite deposit totalling 812 m drilled to test four <br> magnetic anomalies (FalC 96-2 to FalC 96-4). Two <br> holes completed on anomaly 137. |
+| 1997 | 2 | 450.6 | PQ | Surface | Two vertical drill holes drilled, totalling 450.60 m, <br> close to FalC 96-3 to confirm presence of four <br> stacked kimberlitic zones. |
+| 2000 | 25 | $5,686.1$ | NQ/PQ | Surface | Star 1 to 24 drilled, consisting of 24 vertical NQ drill <br> holes (one abandoned) and one vertical PQ drill hole. <br> Drilled to test lateral extent off kimberlite, locate <br> feeder zone and clarify geological interpretation. |
+| 2001 | 8 | $2,140.5$ | NQ/PQ | Surface | Star 24 to 30 drilled, 7 vertical NQ drill holes, <br> totalling $1,900.17 \mathrm{~m}$ and intersecting 859.6 m of <br> kimberlitic material. Drilled for exploration as well <br> as delineating pipe geometry and clarification of <br> geological interpretation. PQ-sized Star 32 drilled as <br> pilot hole for bulk sample shaft. |
+| 2001 | 1 | 295.6 | LDD | Surface | 24-inch Large diameter RC hole Star 31RC drilled as <br> a mini-bulk sample, totalling 295.55 m. |
+| 2002 | 9 | 432.5 | Auger | Surface | 9 geotechnical holes in the shaft location. |
+| 2003 | 1 | 221.4 | NQ | Surface | Drilled to test magnetic anomalies and further <br> delineate geometry. |
+| 2003 | 1 | 121.9 | BQ | Underground | Star 33 was a shaft extension drill hole to test <br> kimberlite at depth of shaft. |
+| 2004 | 7 | $1,517.8$ | NQ | Surface | Drilled to test magnetic anomalies and further <br> delineate geometry. |
+| 2004 | 8 | 449.26 | BQ | Underground | Drilled to test kimberlite in proposed lateral drifts <br> and delineate kimberlite morphology. |
+| 2005 | 5 | $1,134.0$ | HQ | Surface | 5 holes drilled to define the 134 kimberlite. |
+| 2005 | 124 | $29,343.8$ | PQ | Surface | SPF-series core hole drilled on a grid system to <br> define the Star Kimberlite geologically, <br> geotechnically and hydrologically. || Year | No. Of <br> Drill <br> Holes | Metres | Drill Type | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| 2005 | 13 | $3,362.0$ | HQ/NQ | Surface | STR-series core hole drilled to define the Star West Kimberlite geologically, geotechnically and hydrologically. |
+| 2005 | 9 | $1,831.2$ | LDD | Surface | LDD ( 1.2 m diameter) holes drilled to obtain geological, diamond grade and diamond valuation information on the various kimberlite facies previously identified. |
+| 2005 | 55 | $3,762.1$ | BQ/NQ | Underground | Drilled to test kimberlite in proposed lateral drifts and delineate kimberlite morphology. |
+| 2006 | 30 | $7,677.2$ | PQ | Surface | SPF-series core hole drilled on a grid system to define the Star Kimberlite through geological, geotechnical and hydrological analysis. |
+| 2006 | 38 | $7,153.0$ | NQ/HQ | Surface | SND-series core holes completed to gather geotechnical information on glacial overburden and angle-drilled to access areas below the East Ravine. |
+| 2006 | 18 | $4,557.3$ | PQ | Surface | STR-series core hole drilled to define the Star West Kimberlite through geological, geotechnical and hydrological analysis. |
+| 2006 | 10 | 56.6 | Auger | Surface | Geohydrological holes for piezometer installation. |
+| 2006 | 37 | $7,073.4$ | LDD | Surface | LDD ( 1.2 m diameter) holes drilled to obtain geological, diamond grade and diamond valuation information on the various kimberlite facies previously identified. |
+| 2006 | 149 | $12,547.4$ | BQ/NQ | Underground | Drilled to test kimberlite in proposed lateral drifts and delineate kimberlite morphology. |
+| 2007 | 6 | $1,600.8$ | PQ | Surface | SPF-series core hole drilled on a grid system to define the Star Kimberlite through geological, geotechnical and hydrological analysis. |
+| 2007 | 2 | 521.9 | PQ | Surface | STR-series core hole drilled to define the Star West Kimberlite through geological, geotechnical and hydrological analysis. |
+| 2007 | 49 | $10,493.3$ | LDD | Surface | LDD ( 1.2 m diameter) holes drilled on Star East and Star West to obtain geological, diamond grade and valuation information on the various kimberlite facies previously identified. |
+| 2008 | 1 | 268.4 | PQ | Surface | Core completed for acid-base analysis test work. |
+| 2008 | 14 | $2,477.8$ | HQ | Surface | Vertical and angled core holes for hydrology and geotechnical analysis on and around Star. || Year | No. Of <br> Drill <br> Holes | Metres | Drill Type | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :-- |
+| 2008 | 8 | $1,368.8$ | LDD | Surface | LDD (1.2 m diameter) holes drilled on Star East and <br> Star West to obtain geological, diamond grade and <br> diamond valuation information on the various <br> kimberlite facies previously identified. |
+| 2010 | 1 | 33.4 | Cone <br> Penetrometer | Surface | Cone penetrometer hole to test the upper stratified <br> drift horizons over the Star Kimberlite. |
+| TOTAL | $\mathbf{6 3 7}$ | $\mathbf{1 0 8 , 3 0 6}$ |  |  |  |Figure 10-1 Surface Drill Hole Locations for the Star Kimberlite
+![img-17.jpeg](img-17.jpeg)# 10.1.2 2016 NQ Drill Program 
+
+In 2016, exploration activities focused on the western flank of the Star Kimberlite (Star West) in sparsely sampled localities of EJF and CPK kimberlite. An NQ coring program aimed to infill the drill hole spacing in areas of Inferred Mineral resources and provide geological continuity in areas of Indicated resources as recommended by the revised mineral resource estimate completed by A.C.A. Howe on November 9th, 2015. The Star West drilling aimed to delineate the extent of all kimberlite units, particularly the lowermost unit, which is high value Cantuar Kimberlite (CPK).
+
+NQ core drilling was completed on the western flank of the Star Kimberlite from February $26^{\text {th }}$ to March $25^{\text {th }}$, 2016 (Figure 10-2). This area of the Star Kimberlite comprises a peat bog and was drilled in the winter months due to wet inaccessible conditions during the summer. In total, 5 NQ core holes were completed by Newmac Industries ("Newmac") of Prince Albert, Saskatchewan (Tables 10-2 \& 10-3). Drilling was carried out using a Longyear model LY-38 skid mounted drilling rig. The core drilling program resulted in the recovery of 840.99 meters of diamond drill core which intersected 354.65 meters of LJF, MJF, EJF and Cantuar kimberlite lithologies on the western portion of the Star Kimberlite.
+
+Table 10-2 Summary Of Surface And Underground Drilling On The Star KIMBERLITE DEPOSIT 1995-2015
+
+|  | Core Hole <br> Identification | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1 | STR-16-033C | Core | 514302.750 | 5897298.550 | 421.32 | -90 | 0 |
+| 2 | STR-16-034C | Core | 514398.420 | 5896901.040 | 420.22 | -90 | 0 |
+| 3 | STR-16-035C | Core | 514199.790 | 5897197.770 | 421.53 | -90 | 0 |
+| 4 | STR-16-036C | Core | 514195.100 | 5897397.900 | 425.12 | -90 | 0 |
+| 5 | STR-16-037C | Core | 514198.660 | 5896998.380 | 420.84 | -90 | 0 ||  | A.C.A. HOWE INTERNATIONAL LIMITED <br> Mining and Geological Consultants |  |  |
+| :--: | :--: | :--: | :--: |
+|  |  |  |  |
+|  | Core Hole Identification | Total Drilled (metres) | Major Kimberlite Intersection (metres) |
+| 1 | STR-16-033C | 252.07 | 82.59 |
+| 2 | STR-16-034C | 252.07 | 50.11 |
+| 3 | STR-16-035C | 255.18 | 84.68 |
+| 4 | STR-16-036C | 243.53 | 71.20 |
+| 5 | STR-16-037C | 255.12 | 66.07 |
+|  | Total | 1257.97 | 354.65 |
+
+# 10.1.3 2016 PQ Drill Program 
+
+During 2016, geotechnical drilling was completed on the southeastern area of the Star Kimberlite on a previous drill site, SPF-017 (Figure 10-2). Drilling on the project was performed by Newmac Drilling, Prince Albert, SK using a Longyear 38 core drilling rig. The hole SGT-01-16 (Table 10$4 \& 10-5$ ) was triconed to a predetermined depth whereby the drill string was changed to NQ coring to provide a pocket for the pressure meter to be installed in direct contact with the shale. Testing in the boreholes was performed between 70 m and 140.2 m below the ground surface. A unit weight and water table depth of $19.8 \mathrm{kN} / \mathrm{m} 3$ and 7 m below ground surface were provided by Star Diamond. A total of ten pressure meter tests were performed in a single borehole, all of which produced useable data. A single instrument was used for all the testing. The borehole and test pockets were formed using mud rotary \& NQ coring techniques. For mud rotary, the pocket was drilled with a $2-15 / 16$ inch $(75 \mathrm{~mm})$ tri-cone roller bit.
+
+Table 10-4 2016 Star Geotechnical Core Drilling Location
+
+| Core Hole <br> Identification | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| SGT-01-016C | Core | 515700 | 5896510 | 413 | -90 | 0 |# TABLE 10-5 2016 StAR GEOTECHNICAL CORE Drilling STATISTICS 
+
+|  | Core Hole Identification | Total Drilled <br> (metres) | Major Kimberlite <br> Intersection (metres) |
+| :--: | :--: | :--: | :--: |
+| 1 | SGT-01-016C | 140.20 | 0.00 |
+|  | Total | $\mathbf{1 4 0 . 2 0}$ | $\mathbf{0 . 0 0}$ |Figure 10-2 2016 Surface Drill Hole Locations for the Star Kimberlite
+![img-18.jpeg](img-18.jpeg)# 10.1.4 2017 HQ3 Drill Program 
+
+In 2017, Rio Tinto Exploration Canada ("RTEC") completed a HQ3 core drilling program, consisting of ten holes (Table 10-6) totalling 2,409 metres of drilling, on the Star Kimberlite. In total $1,210.25$ metres of kimberlite were intersected (Table 10-7). The core drilling program was conducted by George Downing Estate Drilling Ltd. of Grenville, Quebec. RTEC geologists were responsible for the supervision of the drilling program and Star Diamond geologists with the detailed core logging. The diamond drilling program was completed from 19 October 2017 through 27 November 2017 (Figure 10-3). This core drilling program was required to accurately document the internal stratigraphy of the Star Kimberlite prior to the proposed trench cutter drilling program. The 10 -hole locations are in close proximity ( 10 to 15 metres) to previously collected underground bulk samples and past 48 inch large diameter drill ("LDD") holes which includes areas of significant intersections ( $80-110$ metres) of the Early Joli Fou ("EJF") Kimberlite, the principal economic unit of the Indicated Resources previously estimated by Star Diamond for the Star Kimberlite in December 2015.
+
+In conjunction with this HQ3 diamond drill program, geotechnical investigations of the overburden were conducted, at the same ten locations as the core drilling (Table 10-6), by Boart Longyear Inc., utilizing a sonic drill rig. Detailed geotechnical logging of the core collected by the sonic rig was completed by Clifton Associates Ltd. Geotechnical investigations were completed to support a cutter-soil-mixer ("CSM") and Trench Cutter bulk sample program, completed by Rio Tinto Exploration Canada and Bauer (the CSM, Trench Cutter contractor), in 2019. The sonic drilling program, consisted of ten holes totalling 1,205.52 metres of drilling (Table 10-7), on the Star Kimberlite. The sonic rig drilling program was completed from November 6, 2017 through to December 11 2017. This geotechnical investigation of the overburden was completed, in close proximity ( 1.5 metres) to the core holes. The collar locations of the core and sonic holes are shown in Figure 10-3.TABLE 10-6 2017 StaR Core \& SONIC Drilling Core LOCATIONS
+
+|  | Core Hole <br> Identification | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1 | FALCG001 | Core | 514587.890 | 5897632.504 | 422.80 | $-90$ | 0 |
+| 2 | FALCG002 | Core | 514573.915 | 5897497.101 | 421.53 | $-90$ | 0 |
+| 3 | FALCG003 | Core | 514692.032 | 5897435.437 | 420.97 | $-90$ | 0 |
+| 4 | FALCG004 | Core | 514777.100 | 5897429.293 | 421.12 | $-90$ | 0 |
+| 5 | FALCG005 | Core | 514748.078 | 5897120.644 | 420.36 | $-90$ | 0 |
+| 6 | FALCG006 | Core | 514599.517 | 5897322.641 | 420.23 | $-90$ | 0 |
+| 7 | FALCG007 | Core | 514646.400 | 5897516.000 | 420.84 | $-90$ | 0 |
+| 8 | FALCG008 | Core | 514619.087 | 5897436.065 | 421.54 | $-90$ | 0 |
+| 9 | FALCG009 | Core | 514693.886 | 5897190.986 | 419.38 | $-90$ | 0 |
+| 10 | FALCG010 | Core | 514654.908 | 5897338.683 | 421.89 | $-90$ | 0 |
+| 11 | FALCS001 | Core | 514587.936 | 5897633.376 | 422.77 | $-90$ | 0 |
+| 12 | FALCS002 | Core | 514573.251 | 5897497.109 | 421.63 | $-90$ | 0 |
+| 13 | FALCS003 | Core | 514777.833 | 5897429.400 | 421.09 | $-90$ | 0 |
+| 14 | FALCS004 | Core | 514691.455 | 5897435.234 | 420.89 | $-90$ | 0 |
+| 15 | FALCS005 | Core | 514617.735 | 5897435.854 | 421.49 | $-90$ | 0 |
+| 16 | FALCS006 | Core | 514598.976 | 5897323.240 | 420.17 | $-90$ | 0 |
+| 17 | FALCS007 | Core | 514746.910 | 5897120.046 | 420.36 | $-90$ | 0 |
+| 18 | FALCS008 | Core | 514693.090 | 5897192.254 | 419.44 | $-90$ | 0 |
+| 19 | FALCS009 | Core | 514643.690 | 5897517.104 | 420.91 | $-90$ | 0 |
+| 20 | FALCS010 | Core | 514649.636 | 5897335.542 | 422.07 | $-90$ | 0 |TABLE 10-7 2017 STAR CORE \& SONIC Drilling STATISTICS
+
+|  | Core Hole Identification | Total Drilled <br> (metres) | Major Kimberlite <br> Intersection (metres) |
+| :-- | :--: | :--: | :--: |
+| 1 | FALCG001 | 231 | 106.56 |
+| 2 | FALCG002 | 270 | 154.50 |
+| 3 | FALCG003 | 237 | 114.74 |
+| 4 | FALCG004 | 231 | 98.52 |
+| 5 | FALCG005 | 234 | 97.23 |
+| 6 | FALCG006 | 243 | 130.20 |
+| 7 | FALCG007 | 231 | 111.70 |
+| 8 | FALCG008 | 267 | 150.70 |
+| 9 | FALCG009 | 228 | 120.45 |
+| 10 | FALCG010 | 237 | 125.65 |
+|  | Total | $\mathbf{2 4 0 9}$ | $\mathbf{1 2 1 0 . 2 5}$ |
+| 1 | FALCS001 | 124.96 | N/A |
+| 2 | FALCS002 | 109.73 | N/A |
+| 3 | FALCS003 | 149.35 | N/A |
+| 4 | FALCS004 | 120.39 | N/A |
+| 5 | FALCS005 | 114.32 | N/A |
+| 6 | FALCS006 | 111.28 | N/A |
+| 7 | FALCS007 | 137.16 | N/A |
+| 8 | FALCS008 | 109.73 | N/A |
+| 9 | FALCS009 | 117.35 | N/A |
+| 10 | FALCS010 | 111.25 | N/A |
+|  | Total | $\mathbf{1 2 0 5 . 5 2}$ |  |Figure 10-3 2017 Core and sonic Surface Drill Hole Locations for the Star Kimberlite
+![img-19.jpeg](img-19.jpeg)# 10.1.5 2019 HQ3 Drill Program 
+
+In 2019, Rio Tinto Exploration Canada ("RTEC") completed a HQ3 core drilling program, consisting of three holes (Table 10-8) totalling 701 metres of drilling, on the Star Kimberlite. In total, 317.7 metres of kimberlite was intersected (Table 10-9). The core drilling program was conducted by George Downing Estate Drilling Ltd. of Grenville, Quebec. RTEC geologists were responsible for the supervision of the HQ3 drilling program and Star Diamond geologists with the detailed core logging. The HQ3 diamond drilling program was completed from January 30, 2019, through to March 29, 2019. This core drilling program was required to accurately document the internal stratigraphy of the Star Kimberlite prior to the proposed Trench Cutter drilling program scheduled to commence in spring 2019 as three of the previous pilot hole locations for the Trench Cutter holes from the 2017 program were deemed inaccessible to the Trench Cutter rig (Figure 104). The three hole drill collar locations are in close proximity ( 10 to 15 metres) to both previously collected underground bulk samples and 48 inch large diameter drill ("LDD") holes and include areas of significant intersections ( $80-110$ metres) of the Early Joli Fou ("EJF") Kimberlite, the principal economic unit of the Indicated Resources previously estimated by Star Diamond for the Star Kimberlite in December 2015.
+
+In conjunction with this diamond drill program, geotechnical investigations of the overburden were conducted, at the same locations as the core drilling, by Boart Longyear Inc., utilizing a sonic drill rig. Detailed geotechnical logging of the core collected by the sonic rig was completed by Clifton Associates Ltd. Geotechnical investigations were completed to support a cutter-soil-mixer (CSM) Trench Cutter bulk sample program, to be completed by RTEC and Bauer (the CSM (Trench Cutter) contractor), in 2019. The sonic overburden drilling program, consisted of three holes totalling 382.4 metres of drilling (Table 10-8 and 10-9), on the Star Kimberlite. The sonic rig drilling program was completed from January 7, 2019 to April 4, 2019. This geotechnical investigation of the overburden was completed, in close proximity ( 1.5 metres) to the core holes. The locations of the core and sonic holes are shown in Figure 10-4. All Star drilling was completed on mineral disposition S-132039.TABLE 10-8 2019 STAR CORE \& SONIC Drilling CORE Locations
+
+|  | Core Hole <br> Identification | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1 | FALCG011 | Core | 514700.220 | 5897496.000 | 421.247 | -90 | 0 |
+| 2 | FALCG012 | Core | 514701.967 | 5897398.258 | 420.852 | -90 | 0 |
+| 3 | FALCG013 | Core | 514715.703 | 5897573.707 | 421.159 | -90 | 0 |
+| 4 | FALCS011 | Core | 514702.847 | 5897503.523 | 421.024 | -90 | 0 |
+| 5 | FALCS012 | Core | 514700.927 | 5897397.649 | 420.616 | -90 | 0 |
+
+Table 10-9 2019 Star Core \& Sonic Drilling Core Locations
+
+|  | Core Hole Identification | Total Drilled <br> (metres) | Major Kimberlite <br> Intersection (metres) |
+| :-- | :--: | :--: | :--: |
+| 1 | 19FALCG011 | 234.0 | 105.93 |
+| 2 | 19FACLG012 | 239.0 | 110.19 |
+| 3 | 19FALCG012 | 228.0 | 101.58 |
+|  | Total | $\mathbf{7 0 1 . 0}$ | $\mathbf{3 1 7 . 7 0}$ |
+| 4 | 19FALCS011 | 129.7 | N/A |
+| 5 | 19FALCS012 | 123.4 | N/A |
+| 6 | 19FALCS013 | 129.5 | N/A |
+|  | Total | $\mathbf{3 8 2 . 4}$ |  |Figure 10-4 2019 Core and sonic Surface Drill Hole Locations for the Star Kimberlite
+![img-20.jpeg](img-20.jpeg)# SITE PREPARATION AND RIG SET-UP 
+
+The 2017 and 2019 surface core holes were first planned on section plan maps generated by Micromine computer software and were then manually pegged by Meridian Surveys of Melfort, Saskatchewan with the use of a Trimble 4800 differential GPS unit with accompanying base station instrument. After completion of the coring program, Meridian Surveys returned to the project area and resurveyed all drill collar locations to ensure that the pegs had not moved during pad construction and rig set up.
+
+Previous work with respect to heritage and rare plants in the area were assessed by the Saskatchewan Ministry of Environment ("SME") and it was determined that the coring locations would not pose any negative effects. The company's staff inspected the sites in order to assess the drill pad requirements with regards to drill rig and ancillary equipment set-up (i.e. mud plant, road access, sump location, etc.). The drilling rig was then moved into the surveyed drill collar position and drilling commenced.
+
+For the core drilling the initial $90+$ metres of glacial till were typically tricone-drilled and cased to an elevation so that the till-kimberlite interface could be logged by on-site geologists. Once the tricone bit had reached the till-kimberlite contact, casing was installed and the tricone drill bit was changed to a diamond drill bit. Core drilling continued until the core hole intersected the Mannville Formation sediments at which time the hole was stopped by on-site geologists. Upon completion of the core hole a downhole survey was completed. Sonic drilling retained the core from surface to final depth.
+
+## SURFACE CORE HOLE DOWNHOLE SURVEYING
+
+Downhole surveying was completed using a Reflex EZ-Trac single-shot surveying tool. The Reflex surveying tool was utilized to collect measurements below the kimberlite (in non-magnetic sediments) as well as along the length of the core hole. The Reflex downhole survey tool is a totally self-contained, single shot instrument that is controlled by an integrated keypad with information available immediately on an LCD display once the surveying tool has been recovered from the core hole. The Reflex displays seven parameters for each survey including information on borehole direction (i.e. azimuth and inclination), temperature and magnetic measurements. When the survey tool reaches surface, the information from the Reflex is recorded in a booklet and relayed to onsite geological staff. The on-site geologist also ran their own Reflex EZ-Gamma, a downhole gamma logging tool.# 10.1.6 2019 Trench Cutter Bulk Sampling 
+
+Following the core hole and sonic drilling programs in 2017 and 2019 on the Star Kimberlite, RTEC completed 10 holes on the Star Kimberlite with a Trench Cutter Sampling Rig (Table 1010). The ten holes completed on the Star Kimberlite included a total of 2,351 metres of trench cutter drilling which intersected a total of 1,213.71 metres of kimberlite (Table 10-11 \& Figure 10-5). These kimberlite cuttings were pumped to surface and recovered utilizing a Kimberlite Separation Unit ("KSU"), with samples loaded and stored in cubic metre bulk sample bags, which totalled 6,848 in number.
+
+The Trench Cutter Sampling Rig consisted of a Bauer BC 50 cutter mounted on a Bauer MC 128 Duty-cycle crane. The sampling methodology was designed to reach depths up to 250 m and extract large volumes of kimberlite by excavating a rectangular shaped hole of 3.2 by 1.5 metres in size. Each advance of 10 metres down hole resulted in the excavation of roughly 100 tonnes of sample. The Trench Cutter was designed with intakes which would allow a maximum sample fragments of 80 millimetres in diameter, which was pumped to surface in a slurry. The configuration of the cutter head and auxiliary processing washing and bagging systems were designed by RTEC to minimize diamond breakage.
+
+Table 10-10 2019 Star Trench Cutter Drilling LOCATIONSS
+
+|  | Core Hole <br> Identification | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 1 | 19FALCT001 | Trench Cutter | 514645.832 | 5897517.882 | 420.877 | -90 | 0 |
+| 2 | 19FALCT002 | Trench Cutter | 514573.913 | 5897497.101 | 421.530 | -90 | 0 |
+| 3 | 19FALCT003 | Trench Cutter | 514619.090 | 5897436.064 | 421.540 | -90 | 0 |
+| 4 | 19FALCT004 | Trench Cutter | 514692.032 | 5897435.437 | 420.965 | -90 | 0 |
+| 5 | 19FALCT005 | Trench Cutter | 514777.100 | 5897429.293 | 421.119 | -90 | 0 |
+| 6 | 19FALCT006 | Trench Cutter | 514599.516 | 5897322.643 | 420.230 | -90 | 0 |
+| 7 | 19FALCT007 | Trench Cutter | 514700.927 | 5897397.649 | 420.830 | -90 | 0 |
+| 8 | 19FALCT008 | Trench Cutter | 514587.887 | 5897632.505 | 422.800 | -90 | 0 |
+| 9 | 19FALCT009 | Trench Cutter | 514715.703 | 5897573.707 | 421.159 | -90 | 0 |
+| 10 | 19FALCT010 | Trench Cutter | 514748.078 | 5897120.644 | 420.360 | -90 | 0 |# TABLE 10-11 2019 StAR TRENCH CutTER Drilling Statistics 
+
+|  | Trench Cutter Hole <br> Identification | Total Drilled <br> (Metres) | Samples <br> Collected | Bags <br> Collected | Major Kimberlite <br> Intersection (metres) |
+| :-- | :--: | :--: | :--: | :--: | :--: |
+| 1 | 19FALCT001 | 228.4 | 15 | 703 | 117.44 |
+| 2 | 19FALCT002 | 251.1 | 17 | 806 | 126.13 |
+| 3 | 19FALCT003 | 249.3 | 15 | 873 | 147.80 |
+| 4 | 19FALCT004 | 233.8 | 15 | 771 | 110.00 |
+| 5 | 19FALCT005 | 230.3 | 13 | 683 | 106.50 |
+| 6 | 19FALCT006 | 241.5 | 15 | 705 | 104.71 |
+| 7 | 19FALCT007 | 225.1 | 14 | 613 | 118.30 |
+| 8 | 19FALCT008 | 230.6 | 14 | 543 | 142.60 |
+| 9 | 19FALCT009 | 227.9 | 16 | 579 | 110.10 |
+| 10 | 19FALCT010 | 233.0 | 17 | 572 | 130.13 |
+| Total |  | $\mathbf{2 , 3 5 1 . 0}$ | $\mathbf{1 5 1}$ | $\mathbf{6 8 4 8}$ | $\mathbf{1 2 1 3 . 7 1}$ |
+
+The KSU was designed to recover kimberlite fragments between 0.85 mm and 80 millimetres in size from the drilling fluid slurry. Washed kimberlite material $>0.85$ millimetres was retained in bulk sample bags and taken into a secured area with 24 -hour surveillance before being processed in an on-site Bulk Sample Plant ("BSP"). Final diamond recovery was completed at the Saskatchewan Research Council ("SRC") diamond recovery laboratory in Saskatoon, Saskatchewan.Figure 10-5 2019 Trench Cutter Surface Drill Hole Locations for the Star Kimberlite
+![img-21.jpeg](img-21.jpeg)# 10.2. Orion South Drilling 
+
+### 10.2.1 Pre 2016 Drilling
+
+Between 1992 and 2010, 253 surface drill holes totalling $58,209 \mathrm{~m}$ were drilled on the Orion South Kimberlite deposit. Table 10-12 outlines the drill programs for all years. In terms of core drilling, there have been 174 holes completed on Orion South resulting in a total drilling length of 39,732 metres. It is this material that is used for qualitative and quantitative data acquisition used for geological modelling and resource definition. Drilling was largely completed on a 100 metre grid on the thicker (approximately 50 metres of kimberlite) portion of the Orion South complex and a 200 metre grid on the thinner periphery (Figure 10-6).
+
+Table 10-12 Summary of Drilling on the Orion South Kimberlite Deposit, 19922015
+
+| Year | No. Of <br> Drill <br> Holes | Metres | Core Size | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :-- |
+| 1992 | 6 | $1,503.7$ | PQ | Surface | Six PQ core holes were drilled in the <br> magnetic highs on anomalies 140 and 141. |
+| 1993 | 1 | 323.0 | HQ | Surface | One HQ core hole was drilled on a <br> postulated deepening zone on the 140 <br> anomaly based on 1992 drilling. |
+| 1993 | 1 | 204.0 | Rotary <br> $(6.25-\mathrm{inch})$ | Surface | One rotary test hole was completed <br> between the 140 and 141 anomalies and <br> intersected 102 m of weakly magnetic <br> kimberlite. |
+| 1994 | 2 | 520.0 | RCA (12- <br> inch) | Surface | Two RCA holes were drilled into the 140 <br> and 141 anomalies to test for diamond <br> content. |
+| 1995 | 2 | 705.5 | RCA (12- <br> inch) | Surface | One RCA hole was drilled into the 133 <br> anomaly to test for kimberlite and diamond <br> content. Another was drilled on the 140 <br> anomaly. |
+| 2000 | 2 | 520.8 | LDD (24- <br> inch) | Surface | Two LDD holes were completed on the <br> north-west portion of the 141 anomaly to <br> recover appreciable diamond quantities. |
+| 2001 | 14 | $3,757.2$ | NQ | Surface | Fourteen vertical NQ core holes were <br> drilled to delineate the kimberlite body and <br> develop geological models for the <br> kimberlite. || Year | No. Of <br> Drill <br> Holes | Metres | Core Size | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| 2001 | 10 | $2,202.60$ | $\begin{aligned} & \text { LDD (24- } \\ & \text { inch) } \end{aligned}$ | Surface | LDD drilling was completed to test the diamond distribution across a larger portion of the kimberlite. |
+| 2002 | 25 | $6,030.00$ | NQ, HQ, PQ | Surface | An aggressive 25 hole program was developed to test the geological continuity across a larger area of the kimberlite. |
+| 2002 | 8 | $2,143.90$ | LDD (24and 36-inch) | Surface | Eight LDD holes were drilled to test potentially higher grade areas of the kimberlite to recover appreciable diamond quantities to initiate estimates of diamond prices. |
+| 2003 | 10 | $2,219.20$ | NQ, HQ | Surface | Nine core holes were drilled to test the southern extent of the 140 anomaly and one hole was completed west of the 141 anomaly to test a gravity high. |
+| 2004 | 5 | $1,154.00$ | NQ, HQ | Surface | Five core holes were drilled to better model thick kimberlite breccia horizon(s) in the 140 portion of the kimberlite. |
+| 2004 | 7 | $1,085.60$ | LDD (36-inch) | Surface | LDD drilling was focused on testing kimberlite breccia-rich zones on the southcentral portion of the kimberlite. |
+| 2005 | 10 | $1,713.10$ | HQ | Surface | Six holes were drilled to gather a geological model for the 133 anomaly; Four holes ( 351 metres) of geotechnical drilling were also completed on Orion South. |
+| 2006 | 54 | $12,872.60$ | PQ | Surface | A rigorous grid drilling program was completed to test the continuity, shape and thickness of various kimberlite units and to provide additional geological, geotechnical, geophysical and geotechnical data for a robust geological model. |
+| 2007 | 1 | 241.20 | PQ | Surface | One PQ core hole was completed to 241.21 metres to act as the pilot hole for shaft sinking. |
+| 2007 | 4 | $1,017.20$ | LDD (47.2-inch) | Surface | Four LDD holes were completed to recover appreciable diamond quantities for grade estimation on the Pense unit. |
+| 2008 | 22 | $6,356.10$ | PQ | Surface | The core drilling program was completed to in-fill any gaps within the grid drilling || Year | No. Of <br> Drill <br> Holes | Metres | Core Size | Location | Drilling Program |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | 0 pattern and act as pilot holes to subsequent LDD holes. |
+| 2008 | 36 | $8,350.80$ | LDD (47.2inch) | Surface | An aggressive grid-drilling LDD program was completed to garner grade information across the breadth of the kimberlite and to assist in diamond pricing. |
+| 2010 | 4 | 59.40 | Auger | Surface | Shallow auger drilling testing overburden material. |
+| 2010 | 1 | 34.70 | Cone <br> Penetrometer | Surface | Shallow cone penetrometers hole to detail the upper stratified drift material. |
+| 2010 | 13 | $3,561.80$ | HQ | Surface | Geotechnical core holes along the proposed pit perimeter. |
+| 2010 | 2 | 429.00 | Reverse <br> Circulation | Surface | One prototype dewatering test hole (and one failure). |
+| 2010 | 13 | $1,203.40$ | Mud Rotary | Surface | Geotechnical mud rotary holes along the proposed pit perimeter. |
+| 2015 | 18 | 3617.22 | NQ | Surface | The core drilling program was completed in order to expand and assess thickness on the west and southern portion of the kimberlite apron. |
+| 2015 | 12 | 2559.90 | LDD (24 inch) | Surface | The LDD drilling program was completed to in-fill any gaps within previous LDD grid drilling. |
+| TOTAL | 283 | 64,385.92 |  |  |  |
+
+# 10.2.2 2016 Drill Program 
+
+In 2016, NQ coring was undertaken in areas where notable kimberlite thickness was identified during the 2015 coring program (i.e. $>50 \mathrm{~m}$ ). This required additional definition on the western and southern margin of the Orion South kimberlite. From March $25^{\text {th }}$ to March $30^{\text {th }}$ and June 22 to July 15, 2016, eight (8) vertical NQ diameter core holes (Figure 10-6) totalling 1,592.74 metres was carried out by Newmac Industries ("Newmac") of Prince Albert Saskatchewan (Table 10-13 \& Table 10-14). Drilling was carried out using a Longyear model LY-38 skid mounted drilling rig. The core drilling program resulted in the recovery of 748.60 meters of diamond drill core which intersected 278.08 meters of EJF and Pense kimberlite lithologies on both the western and southern margins of the Orion South Kimberlite. This core drilling was conducted to furtherexpand the internal stratigraphy of the Orion South Kimberlite, extending and in-filling geological continuity from previous programs.
+
+Table 10-13 2016 Orion South FALC-JV Core Drilling Collar Locations
+
+| HOLE ID | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83, <br> UTM Zone 13) | Elevation <br> (masl) |
+| :-- | :--: | :--: | :--: |
+| $140-16-105 \mathrm{C}$ | 513268.677 | 5900222.109 | 440.36 |
+| $140-16-106 \mathrm{C}$ | 513168.440 | 5900319.375 | 440.92 |
+| $140-16-107 \mathrm{C}$ | 512969.107 | 5900514.227 | 443.90 |
+| $141-16-102 \mathrm{C}$ | 512967.919 | 5900621.863 | 447.68 |
+| $141-16-103 \mathrm{C}$ | 512973.550 | 5900721.488 | 445.85 |
+| $141-16-104 \mathrm{C}$ | 512871.023 | 5900826.964 | 446.17 |
+| $141-16-105 \mathrm{C}$ | 512870.697 | 5901024.444 | 446.54 |
+| $141-16-106 \mathrm{C}$ | 512867.270 | 5901223.014 | 444.34 |
+
+Table 10-14 2016 Orion South FALC-JV Core Drilling Statistics
+
+|  | Core Hole Identification | Total Drilled <br> (metres) | Major Kimberlite <br> Intersection (metres) |
+| :-- | :--: | :--: | :--: |
+| 1 | $140-16-105 \mathrm{C}$ | 188.06 | 21.80 |
+| 2 | $140-16-106 \mathrm{C}$ | 191.06 | 42.36 |
+| 3 | $140-16-107 \mathrm{C}$ | 194.21 | 19.55 |
+| 4 | $141-16-102 \mathrm{C}$ | 197.26 | 16.12 |
+| 5 | $141-16-103 \mathrm{C}$ | 200.30 | 38.78 |
+| 6 | $141-16-104 \mathrm{C}$ | 209.40 | 59.99 |
+| 7 | $141-16-105 \mathrm{C}$ | 212.45 | 42.60 |
+| 8 | $141-16-106 \mathrm{C}$ | 200.00 | 36.88 |
+|  | Total | $\mathbf{1 5 9 2 . 7 4}$ | $\mathbf{2 7 8 . 0 8}$ |
+
+# Site Preparation And Rig Set-up 
+
+The Orion South surface core holes were first planned on section plan maps generated by Micromine computer software and were then manually pegged by Meridian Surveys of Melfort, Saskatchewan with the use of a Trimble 4800 differential GPS unit with accompanying base station instrument. After completion of the coring program, Meridian Surveys returned to the project area and resurveyed all 8 drill collar locations to ensure that the pegs had not moved during pad construction and rig set up.Previous work with respect to heritage and rare plants in the Orion South area were assessed by the Saskatchewan Ministry of Environment ("SME") and it was determined that the coring locations would not pose any negative effects. Star Diamond's environmental and geological staff inspected the sites in order to assess the drill pad requirements with regards to drill rig and ancillary equipment set-up (i.e. mud plant, road access, sump location, etc.). Once the drill pad layout had been designed, K \& T Enterprises of Choiceland, Saskatchewan would then remove vegetation from the drilling area, level the site and dig a sump for the collection of drilling fluid. The core drilling rig was then moved into the surveyed drill collar position and drilling commenced.
+
+The initial 90+ metres of glacial till were typically tricone-drilled and cased to an elevation so that the till-kimberlite interface could be logged by Star Diamond geologists. Once the tricone bit had reached the till-kimberlite contact, casing was installed and the tricone drill bit was changed to a diamond drill bit. Core drilling continued until the core hole intersected the Mannville Formation sediments at which time the hole was stopped by Star Diamond geologists. Upon completion of the core hole a downhole survey was completed.
+
+# Surface Core Hole Downhole Surveying 
+
+Downhole surveying was completed using a Reflex EZ-Shot wireless surveying tool. The Reflex EZ-Shot surveying tool was utilized to collect measurements below the kimberlite (in nonmagnetic sediments) as well as along the length of the core hole. The Reflex EZ-Shot downhole survey tool is a totally self-contained, single shot instrument that is controlled by an integrated keypad with information available immediately on an LCD display once the surveying tool has been recovered from the core hole. The Reflex EZ-Shot displays seven parameters for each survey including information on borehole direction (i.e. azimuth and inclination), temperature and magnetic measurements. When the survey tool reaches surface, the information from the Reflex EZ-Shot is recorded in a booklet and relayed to Star Diamond's geological staff.
+
+All of the downhole survey data was digitally acquired and recorded as Microsoft ${ }^{\circledR}$ Excel files on a bi-weekly to monthly basis by Star Diamond personnel. Star Diamond personnel would review the raw downhole survey data and incorporate it into Star Diamond's project database.Figure 10-6 2016 Surface Drill Hole Locations For The Orion South Kimberlite
+![img-22.jpeg](img-22.jpeg)# 10.2.3 2019 Drill Program 
+
+In 2019, Rio Tinto Exploration Canada ("RTEC") completed a 23 hole HQ3 core drilling program, (Table 10-15) totalling 6,354 metres of drilling, on the Orion South Kimberlite. In total, 3,658.82 metres of kimberlite were intersected (Table 10-16). The core drilling program was conducted by George Downing Estate Drilling Ltd. of Grenville, Quebec. RTEC geologists were responsible for the supervision of the drilling program and Star Diamond geologists the detailed core logging. The diamond drilling program was completed from January 12, 2019 to April 3, 2019 (Figure 10-7). This core drilling program was required to accurately document the internal stratigraphy of the Orion South Kimberlite prior to the proposed large diameter drilling ("LDD") program, scheduled to commence in spring 2019. The 23-hole collar locations are in close proximity ( 10 to 15 metres) to previously collected underground bulk samples and past 48 inch large diameter drill ("LDD") holes and include areas of significant intersections ( $80-110$ metres) of the Early Joli Fou ("EJF") Kimberlite.
+
+In conjunction with this diamond drill program, geotechnical investigations of the overburden were conducted, at the same locations as the core drilling, by Boart Longyear Inc., utilizing a sonic drill rig. Detailed geotechnical logging of the core collected by the sonic rig was completed by Clifton Associates Ltd. Geotechnical investigations were completed to support a cutter-soil-mixer (CSM) Trench Cutter bulk sample program, to be completed by Rio Tinto Exploration Canada and Bauer (the CSM \& Trench Cutter contractor), in 2019 (Table 10-15 \& 10-16). The sonic overburden drilling program, consisted of 21 holes and some 2,326.8 metres of drilling, on the Orion South Kimberlite (Figure 10-7). The sonic rig drilling program was completed from January 8, 2019 to April 7, 2019. This geotechnical investigation of the overburden was completed, in close proximity ( 1.5 metres) to the core holes. All Orion South drilling was completed on mineral disposition S124563 .
+
+Table 10-15 2019 Orion South Core \& Sonic Drilling Collar Locations
+
+| HOLE ID | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83 <br> UTM Zone 13) | Elevation <br> (masl) | Dip | Azimuth |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+| FALCOSG001 | Core | 513543.129 | 5900817.897 | 442.346 | -90 | 0 |
+| FALCOSG002 | Core | 513688.254 | 5900832.704 | 442.551 | -90 | 0 |
+| FALCOSG003 | Core | 513848.217 | 5900615.189 | 441.967 | -90 | 0 |
+| FALCOSG004 | Core | 513759.921 | 5900916.376 | 444.012 | -90 | 0 |
+| FALCOSG005 | Core | 513587.264 | 5900991.845 | 444.036 | -90 | 0 |
+| FALCOSG006 | Core | 513432.594 | 5901016.063 | 445.552 | -90 | 0 |
+| FALCOSG007 | Core | 513351.160 | 5901120.171 | 444.771 | -90 | 0 |
+| FALCOSG008 | Core | 513751.744 | 5900717.719 | 442.584 | -90 | 0 |
+| FALCOSG009 | Core | 513481.445 | 5900610.453 | 441.762 | -90 | 0 |
+| FALCOSG010 | Core | 513336.143 | 5901231.629 | 446.317 | -90 | 0 || HOLE ID | Type | Easting (NAD 83, <br> UTM Zone 13) | Northing (NAD 83 <br> UTM Zone 13) | Elevation <br> (masl) | Dip | Azimuth |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| FALCOSG011 | Core | 513683.101 | 5900591.916 | 441.953 | $-90$ | 0 |
+| FALCOSG012 | Core | 513557.918 | 5901215.264 | 448.584 | $-90$ | 0 |
+| FALCOSG013 | Core | 513243.667 | 5901125.966 | 447.163 | $-90$ | 0 |
+| FALCOSG014 | Core | 513567.149 | 5901122.923 | 448.741 | $-90$ | 0 |
+| FALCOSG015 | Core | 513167.24 | 5900915.422 | 444.015 | $-90$ | 0 |
+| FALCOSG016 | Core | 513277.449 | 5900720.663 | 442.494 | $-90$ | 0 |
+| FALCOSG017 | Core | 513456.706 | 5900516.190 | 441.092 | $-90$ | 0 |
+| FALCOSG018 | Core | 513077.295 | 5900810.849 | 444.558 | $-90$ | 0 |
+| FALCOSG019 | Core | 513777.375 | 5901118.247 | 444.021 | $-90$ | 0 |
+| FALCOSG020 | Core | 513366.206 | 5900816.170 | 442.397 | $-90$ | 0 |
+| FALCOSG022 | Core | 513158.310 | 5901020.704 | 444.345 | $-90$ | 0 |
+| FALCOSG024 | Core | 513677.676 | 5900519.516 | 442.458 | $-90$ | 0 |
+| FALCOSG025 | Core | 513662.615 | 5900931.109 | 443.383 | $-90$ | 0 |
+| FALCOSS001 | Sonic | 513542.424 | 5900820.820 | 442.36 | $-90$ | 0 |
+| FALCOSS002 | Sonic | 513687.263 | 5900830.818 | 442.467 | $-90$ | 0 |
+| FALCOSS003 | Sonic | 513849.992 | 5900616.945 | 442.078 | $-90$ | 0 |
+| FALCOSS004 | Sonic | 513757.578 | 5900916.16 | 443.972 | $-90$ | 0 |
+| FALCOSS005 | Sonic | 513586.905 | 5900993.799 | 443.971 | $-90$ | 0 |
+| FALCOSS006 | Sonic | 513434.211 | 5901016.237 | 445.649 | $-90$ | 0 |
+| FALCOSS007 | Sonic | 513353.529 | 5901112.846 | 444.629 | $-90$ | 0 |
+| FALCOSS008 | Sonic | 513751.539 | 5900717.712 | 442.579 | $-90$ | 0 |
+| FALCOSS009 | Sonic | 513478.670 | 5900607.687 | 441.652 | $-90$ | 0 |
+| FALCOSS011 | Sonic | 513682.116 | 5900591.260 | 441.87 | $-90$ | 0 |
+| FALCOSS012 | Sonic | 513557.371 | 5901213.104 | 448.693 | $-90$ | 0 |
+| FALCOSS013 | Sonic | 513241.478 | 5901125.964 | 447.238 | $-90$ | 0 |
+| FALCOSS014 | Sonic | 513567.437 | 5901120.699 | 448.654 | $-90$ | 0 |
+| FALCOSS015 | Sonic | 513164.935 | 5900915.688 | 443.881 | $-90$ | 0 |
+| FALCOSS016 | Sonic | 513275.296 | 5900720.705 | 442.257 | $-90$ | 0 |
+| FALCOSS017 | Sonic | 513456.767 | 5900515.989 | 441.108 | $-90$ | 0 |
+| FALCOSS019 | Sonic | 513775.646 | 5901119.116 | 444.107 | $-90$ | 0 |
+| FALCOSS020 | Sonic | 513158.214 | 5901018.291 | 442.397 | $-90$ | 0 |
+| FALCOSS022 | Sonic | 513158.214 | 5901018.291 | 444.358 | $-90$ | 0 |
+| FALCOSS024 | Sonic | 513678.628 | 5900517.434 | 442.341 | $-90$ | 0 |
+| FALCOSS025 | Sonic | 513662.998 | 5900928.157 | 443.14 | $-90$ | 0 |# Table 10-16 2019 Orion South Core \& Sonic Drilling Statistics 
+
+|  | LDD Hole <br> Identification | Total Drilled <br> (metres) | Total Kimberlite <br> Intersection (metres) |
+| :-- | :--: | :--: | :--: |
+| 1 | FALC-OSG-001C | 243 | 137.37 |
+| 2 | FALC-OSG-002C | 276 | 173.00 |
+| 3 | FALC-OSG-003C | 306 | 182.02 |
+| 4 | FALC-OSG-004C | 204 | 125.26 |
+| 5 | FALC-OSG-005C | 321 | 210.73 |
+| 6 | FALC-OSG-006C | 276 | 169.02 |
+| 7 | FALC-OSG-007C | 273 | 164.66 |
+| 8 | FALC-OSG-008C | 595 | 449.48 |
+| 9 | FALC-OSG-009C | 243 | 131.82 |
+| 10 | FALC-OSG-010C | 262 | 145.72 |
+| 11 | FALC-OSG-011C | 246 | 114.68 |
+| 12 | FALC-OSG-012C | 282 | 155.13 |
+| 13 | FALC-OSG-013C | 270 | 145.67 |
+| 14 | FALC-OSG-014C | 339 | 216.79 |
+| 15 | FALC-OSG-015C | 252 | 138.22 |
+| 16 | FALC-OSG-016C | 225 | 116.70 |
+| 17 | FALC-OSG-017C | 235 | 107.02 |
+| 18 | FALC-OSG-018C | 231 | 117.56 |
+| 19 | FALC-OSG-019C | 225 | 115.00 |
+| 20 | FALC-OSG-020C | 255 | 148.39 |
+| 21 | FALC-OSG-022C | 264 | 139.73 |
+| 22 | FALC-OSG-024C | 246 | 117.34 |
+| 23 | FALC-OSG-025C | 249 | 137.51 |
+|  | Total | $\mathbf{6 3 5 4}$ | $\mathbf{3 6 5 8 . 8 2}$ |
+| 1 | FALC-OSS-001 | 111.3 | N/A |
+| 2 | FALC-OSS-002 | 105.2 | N/A |
+| 3 | FALC-OSS-003 | 123.4 | N/A |
+| 4 | FALC-OSS-004 | 108.2 | N/A |
+| 5 | FALC-OSS-005 | 105.2 | N/A |
+| 6 | FALC-OSS-006 | 120.4 | N/A |
+| 7 | FALC-OSS-007 | 114.3 | N/A |
+| 8 | FALC-OSS-008 | 124.4 | N/A |
+| 9 | FALC-OSS-009 | 99.1 | N/A |
+| 10 | FALC-OSS-011 | 123.4 | N/A |
+| 11 | FALC-OSS-012 | 123.4 | N/A |
+| 12 | FALC-OSS-013 | 115.8 | N/A |
+| 13 | FALC-OSS-014 | 111.3 | N/A |
+| 14 | FALC-OSS-015 | 111.3 | N/A |
+| 15 | FALC-OSS-016 | 105.2 | N/A |
+|  |  |  |  || 16 | FALC-OSS-017 | 111.3 | N/A |
+| :-- | :--: | :--: | :--: |
+| 17 | FALC-OSS-019 | 108.2 | N/A |
+| 18 | FALC-OSS-020 | 105.2 | N/A |
+| 19 | FALC-OSS-022 | 71.6 | N/A |
+| 20 | FALC-OSS-024 | 123.4 | N/A |
+| 21 | FALC-OSS-025 | 105.2 | N/A |
+|  | Total | $\mathbf{2 3 2 6 . 8}$ |  |
+
+# SITE PREPARATION AND RIG SET-UP 
+
+The 2019 surface core holes were first planned on section plan maps generated by Micromine computer software and were then manually pegged by Meridian Surveys of Melfort, Saskatchewan with the use of a Trimble 4800 differential GPS unit with accompanying base station instrument. After completion of the core drilling program, Meridian Surveys returned to the project area and resurveyed all core drill collar locations to ensure that the pegs had not moved during pad construction and rig set up.
+
+Previous work with respect to heritage and rare plants in the area were assessed by the Saskatchewan Ministry of Environment ("SME") and it was determined that the coring locations would not pose any negative effects. The company's staff inspected the sites in order to assess the drill pad requirements with regards to drill rig and ancillary equipment set-up (i.e. mud plant, road access, sump location, etc.). The drilling rig was then moved into the surveyed drill collar position and drilling commenced. For the core drilling program, the initial $90+$ metres of glacial till were typically tricone-drilled and cased to an elevation so that the till-kimberlite interface could be logged by Star Diamond's on-site geologists.
+
+Once the tricone bit had reached the till kimberlite contact, casing was installed and the tricone drill bit was changed to a diamond drill bit. Core drilling continued until the core hole intersected the Mannville Formation sediments at which time the hole was stopped by Star Diamond's on-site geologists. Upon completion of the core hole a downhole survey was completed. Sonic drilling retained the core from surface to final depth.# SURFACE CORE HOLE DOWNHOLE SURVEY 
+
+Downhole surveying was completed using a Reflex EZ-Trac single-shot surveying tool. The Reflex surveying tool was utilized to collect measurements below the kimberlite (in nonmagnetic sediments) as well as along the length of the core hole. The Reflex downhole survey tool is a totally self-contained, single shot instrument that is controlled by an integrated keypad with information available immediately on an LCD display once the surveying tool has been recovered from the core hole. The Reflex displays seven parameters for each survey including information on borehole direction (i.e. azimuth and inclination), temperature and magnetic measurements. When the survey tool reaches surface, the information from the Reflex is recorded in a booklet and relayed to Star Diamond's on-site geological staff. The on-site geologist also ran their own Reflex EZ-Gamma, a downhole gamma logging tool.Figure 10-7 2019 Core And Sonic Surface Drill Hole Locations For The Orion South Kimberlite
+![img-23.jpeg](img-23.jpeg)# 11. SAMPLE PREPARATION ANALYSIS AND SECURITY 
+
+### 11.1. Diamond Drilling - Logging and Sampling Procedures
+
+Throughout the various core drilling programs, the geotechnical and geological core logging was carried out at Star Diamond's main exploration core logging facility located at the Star Kimberlite project site. Once a core hole was logged, all of the drill core boxes were sealed and transported to Saskatoon for storage at a separate warehouse off site.
+
+All geotechnical logging and photographic records were undertaken before the core was marked and cut for detailed core logging and sampling.
+
+During the detailed logging process, all geological descriptions were entered into a SQL-based logging program. For the majority of the core holes, the following samples and testwork were carried out for each major kimberlite facies / lithological break:
+
+- bulk density sampling;
+- whole rock geochemistry sampling; and,
+- ore dressing - communition sampling: drop test sampling (T10), scrubbability (Ta) sampling and unconfined compressive strength ("UCS") sampling.
+
+All core was digitally photographed on a hole by hole basis. The photographs included wooden depth markers denoting the driller's runs and a marker board denoting the hole number, date, wet or dry state of the core, box numbers and interval. The photographs were incorporated into Star Diamond's Project database.
+
+During the geological core logging process, the following information / data collection was recorded:
+
+- main lithological units and sub-units;
+- pyroclastic kimberlite
+- volcaniclastic kimberlite
+- kimberlite breccia
+- resedimented volcaniclastic kimberlite
+- other (shale, limestone, etc.)
+- proportion of constituents (quantitatively captured);
+- grain size (quantitatively captured);
+- support (matrix or clast supported);- sorting (poorly or well sorted);
+- fabric (bedded, massive or granular);
+- country rock dilution percentages (crustal xenolith size, shape, alteration, percentage that is quantitatively captured);
+- kimberlitic indicator minerals (type, size, percentage that is quantitatively captured);
+
+All drilling, sampling, analysis and logging data has been stored in an SQL-based database.
+
+# 11.1.1 Bulk DensIty Determination 
+
+Since 2004, Star Diamond, SRK and Clifton have undertaken a number of comprehensive bulk density programs on diamond drill hole core from both Star and Orion South to obtain densities for the kimberlitic and country rock units (Table 11-1).
+
+Table 11-1 Density Database Star and Orion South
+
+|  | Number of <br> Measurements by <br> Water Displacement <br> Method (raw <br> database) | Number of <br> Measurements by Water <br> Displacement Method <br> Retained* | Number of <br> Measurements by <br> Caliper/Volume <br> Method* |
+| :--: | :--: | :--: | :--: |
+| Star Kimberlite | 3271 | 2640 | 651 |
+| Orion South <br> Kimberlite | 1778 | 45 | 347 |
+| 133 | 82 | 68 |  |
+
+*Includes country rock samples
+Density measurements collected by Star Diamond and the former FaLC-JV were determined by water displacement method. The sample was weighed as received, wrapped in thin plastic wrap, weighed in water, the plastic wrap is then removed, and the sample is then dried at 230 degrees Fahrenheit ( 110 degrees Celsius) and weighed. The density is then calculated wet (wet density is then the wet mass divided by the difference between the wet mass and the wet mass of the sample suspended in water) and the moisture content is applied to produce an accompanying dry density. A number of laboratory testwork programs were conducted for the geotechnical studies carried out by Star Diamond, Clifton and SRK which utilised the volume/caliper method (as a check) where the core is accurately measured for volume and then weighed wet for wet density and then an average moisture content of $7.5 \%$ was applied (based on an average of theavailable core and underground moisture contents, as destructive tests on the in-situ rock prevented dry weights being obtained for the most part).
+
+A total of 1,446 bulk density values were reviewed for density determination of the Orion South Kimberlitic units and 1,961 bulk density values were reviewed for density determination of the Star Kimberlitic units for the Mineral Resource Estimate (of which 963 were chosen to be used dominantly from the laboratory testwork results). The remainder of the bulk density measurements were from country rock units. A number of bulk density measurements were removed from the final drill hole database as they were bulk density measurements that had been replaced by alternate measurements as part of the QA/QC process conducted by Star Diamond and the FaLC-JV. The bulk densities used for the country rocks were developed from testwork and analysis performed by SRK and Clifton as part of the comprehensive geotechnical studies conducted on the Star and Orion South Kimberlites. It was noted that early water displacement insitu/wet density measurements from the Star Diamond database were considerably lower than those of the caliper/volume method and it was determined that for the EJF at Star, the caliper volume method measurements and FaLC-JV measurements on Star West would be applied as they were consistent with Star Diamond and FaLC-JV database measurements taken later in the Star West JV program. Density measurements for Orion South were consistent with both methods. Howe reviewed the bulk density data and believed it to be suitable for Mineral Resource estimation purposes. The bulk density data analysis carried out by Howe and Star Diamond in 2015 resulted in revised density determinations for Star and Orion South from those used in previous resource estimates as detailed in Tables 14-14 and 1415 .
+
+No new bulk density measurements were collected by Star Diamond from the 2017 and 2019 HQ3 drilling programs.# 11.2. Underground Sampling Procedures and Sample Security 
+
+Sampling methods and procedures were designed to optimize the precision and accuracy of the sample results in order to quantify the representative diamond grade within the sampled interval area. Efforts to reduce sample contamination during the underground mucking process were monitored by Star Diamond's on-site geologists.
+
+The following is a description of the sampling method(s) used and procedures applied during both the Star and Orion South underground bulk sampling programs from 2004 to 2009.
+
+### 11.2.1 Shaft and Lateral Drift Sampling (2004 to 2009)
+
+In both shaft sinking phases, the shaft was drilled, blasted and mucked out on a bench by bench basis. Benches varied between 1.2 and 1.8 m in depth depending on ground conditions. The sample material was hauled to the surface and transported to a fenced, secure area by front-end loader under the control of Star Diamond security personnel.
+
+In the lateral drifts, each drift round ( 1.2 to 2.4 m in length with variable width and height) was drilled, blasted and transported to a cement lined underground storage bay. The kimberlite material was then hauled to surface where it was stored as individual batch sample piles within the dedicated storage facility area adjacent to Star Diamond's on-site diamond bulk sample processing facility. Each batch sample was identified with a sign denoting the drift it was from and the batch number. All batch samples were then recorded by mapping of the pile locations. The kimberlite sample was piled on top of a packed sand / clay rich base while it awaited processing.
+
+Geological control of the sampling enabled the various kimberlite units to be individually sampled with very little contamination by other kimberlite types, the results of which provide important diamond content data to model variations in diamond quality and abundance throughout the different kimberlitic phases / units of the Star and Orion South Kimberlite deposits.
+
+### 11.2.2 Underground BulK Sampling Protocols (2004 to 2009)
+
+Individual batches were designed to provide representative samples of the different kimberlitic units encountered, while keeping individual sample batches similar in size where possible. Individual batch sample intervals were determined to reflect major geological breaks / contacts with very little contamination by other kimberlite types, while keeping individual batch sample sizes to $250-350$ dry tonnes.# A.C.A. HOWE INTERNATIONAL LIMITED 
+
+Mining and Geological Consultants
+
+Underground geological mapping on all drift walls and drift faces was conducted on a daily basis. Star Diamond's geologists were also able to identify and map, in detail, many distinctive kimberlite units following individual kimberlitic pyroclastic flow units and geologically distinct kimberlite phases, both massive and layered in extent (Figure 11-1). In accordance with the information obtained from underground mapping, Star Diamond's geologists continuously refined the sample separation process. Sample batches thus changed from the optimum planned size, and some of the larger batches were subdivided into smaller batches for processing in the plant.
+
+## Figure 11-1 Example of an Underground Wall Map Showing the Contact Between the Bedded EJF (Shades Of Green) Kimberlite and the More Massive MJF Kimberlite (Peach)
+
+## STAR SOUTH 3 LEFT WALL MAP
+
+![img-24.jpeg](img-24.jpeg)
+
+The following quality assurance and quality control (QA/QC) protocols were conducted and adhered to by Star Diamond and its contractors during the underground bulk sampling programs:
+
+- Geologists verified that all sample material for each sample interval was removed from the drift face and transported to a vacant cement lined storage bay where it awaited to be skipped to surface.
+- Geologists verified that the kimberlite for each batch hoisted to surface was transported to its specified location.- To avoid sample spillage, all loader operators were given specific instructions not to overload their buckets when transporting kimberlite.
+- To maintain sample integrity and security of all extracted kimberlite from the underground workings, a Star Diamond security officer was present at all times during the movement of kimberlite samples from the head frame to the storage facility: and,
+- At Orion South, kimberlitic material was directly transported to the Star site for storage prior to processing, all monitored by Star Diamond's security personnel.
+
+
+# 11.3. LDD (RC Drilling) and Trench Cutter Sample Recovery 
+
+### 11.3.1 Pre 2015 Program
+
+The Bauer BG-36 LDD-RC drilling rigs utilized on both the Star and Orion South kimberlites were designed to carry out air-assisted fluid flush RC drilling, utilizing a drill string consisting of 6 metre-long dual walled drill rods, heavy weights (which provide downward pressure on the bit), stabilizers and a rotating drill bit assembly.
+
+The LDD-RC drilling was assisted through the introduction of compressed air, which was forced down through the outer annulus of the dual walled drill rods so as to assist the drill cuttings (product) and the mud in returning to the surface through the inner tube of the drill rods. The product then reported to the decelerating cyclone, which was located within a separate, adjacent desander plant. After the sample exited from the decelerating cyclone it was discharged onto a coarse shaker screen for initial sizing at 3 mm . The +3 mm size fraction and drill muds reported to twin densifying cyclones and dewatering screens (nominal 0.85 mm aperture) to separate the drill solids from the drilling mud/fluid. The drill solids $(+0.85 \mathrm{~mm})$ were then washed and reported for sample collection while the drill muds $(-0.85 \mathrm{~mm})$ were reinstated into the mud mix tank and then returned downhole for recycling.
+
+Sample material was collected in one cubic metre dual-walled, woven polypropylene bags, which were labelled, securely sealed with pre-determined security cinch straps, and then loaded onto a trailer for shipment to the secure storage area adjacent to the process plant. The material was then processed through Star Diamond's on-site process plant.
+
+## LDD Downhole Caliper Measurements
+
+A downhole caliper survey to measure the diameter of the drill hole along its length was used to calculate the volume (in cubic metres) of material removed from each of the LDD-RC holes.The data was presented as a graphic 3-D downhole log and a downhole Excel spreadsheet. This calculated volume, coupled with diamond recovery data, was then used for estimating the recovered grade for each of the LDD samples. Where the caliper failed or was not used the theoretical volume was used. Where the caliper volume was less than the theoretical volume the theoretical volume was also used.
+
+# 11.3.2 2015 Program 
+
+## Foraco LDD RC Drilling and Sample Recovery Description
+
+Foraco's BF-800 drilling rig is designed to carry out air assisted RC drilling, utilizing a drill string consisting of 6 meter-long dual walled drill rods, heavy weight drill collars (which provide downward pressure on the bit), and a rotating drill bit assembly. The RC drilling is assisted through the introduction of compressed air which is forced down the outer annulus of dual walled drill rods so as to assist the cuttings ("product") and the mud in returning to surface through the inner tube of the drilling rods.
+
+The product then reports to a decelerating cyclone located directly above the screening deck of the solids control unit. The solids control unit comprises a 30 cubic meter fluid tank with a DFTS high frequency shaker equipped with a $1.2 \times 2.3$ meter shaker bed and water jet capability. Impact of the sample chips is minimized by using 90 degree sweeps and a non-metallic lining at the impact point in the cyclone. The undersized material passes through the screen deck into an agitated holding tank and this material is pumped through a hydro cyclone bank of six 5 inch de-silters to remove all the cuttings above 35 microns. The material above 35 microns is discharged into a sump while the under balance is re-circulated back into the main holding tank where it is recycled into the hole. The top size material $(+0.85 \mathrm{~mm})$ is washed by two separate spray bars as it passes over the screens and is discharged into a one cubic meter, dual walled, woven polypropylene sample bag which is labeled, securely sealed, weighed and then loaded and securely tarped onto a flat bed tractor trailer for shipment to Rio Tinto's certified DMS processing facility.
+
+## LDD Site Preparation, Rig Set-Up and Drilling Methods
+
+The planning and site preparation of the 2015 LDD-RC program was carried out by Star Diamond's geological team. Actual LDD-RC hole locations were established in the field, based on the geological core logging and interpretation of the quantitative data capture information obtained from the core holes. Collar co-ordinates were manually pegged in the field at a distanceof approximately $2.0-5.0 \mathrm{~m}$ from the drill hole collar. Once the location of the LDD sites were confirmed and inspected, the LDD-RC drill rig and ancillary equipment was moved into place.
+
+The Foraco BF-800 RC drilling rig was designed to carry out two methods/modes of drilling:
+
+- Setting Casing; and
+- Air assisted fluid flush reverse circulation ("RC") drilling.
+
+Initially, a 28 inch diameter casing is set into the upper portion of the Floral Formation ( $\sim 40 \mathrm{~m}$ in depth) using a casing advancing system. Each piece of casing is carefully beveled on site in order to ensure a proper fit. Once the casing has been dry-fitted each section is welded as it is advanced downhole in order to prevent sloughing of the cavity walls in unconsolidated sediments during drilling fluid circulation. The casing is advanced by a downhole hammer ("DHD") bit while simultaneously evacuating sand and clay cuttings.
+
+Once the casing has been set the rig is converted to RC mode, the DHD bit is removed, and the bottom hole assembly ("BHA") is constructed, and the drill head is changed to a tungsten carbide insert ("TCI") button bit accompanied by 7 heavy weight drill collars. Dual walled pipe is added after the BHA is assembled and the hole progresses in depth until the kimberlite interface is reached. At this time, the entire drill string, collars and bit are brought to surface and a mill tooth bit replaces the TCI button bit. The drill string is rebuilt to the depth of the kimberlite and sampling commences with dual walled piped being added as the hole advances to completion.
+
+# LDD-RC Downhole Caliper Surveying 
+
+A downhole caliper survey was completed on each of the LDD-RC holes by Century Wireline Services of Red Deer Alberta. The LDD caliper surveys measure the diameter of the drill hole along its length and use those measurements to calculate the volume (in cubic meters) of material removed from the LDD hole. This calculation, coupled with diamond recovery data, is then used for estimating the recovered sample grade for each of the LDD-RC sample lifts (intervals). The data were presented as a graphic 3-D downhole log with accompanying Excel spreadsheet.
+
+Actual sample weights of material recovered from the drilling cannot be used for grade estimates because the material is screened after it exits the hole and fine material smaller than 0.85 mm is not collected. There is also loss of material to downhole fractures and joints. Therefore, this necessitates a theoretical estimation of sample volume using the caliper data.Where the caliper failed or was not used the theoretical volume was used. Where the caliper volume was less than the theoretical volume the theoretical volume was also used.
+
+Howe found the sampling methods, sample storage, and security to be acceptable and was of the opinion that diamond grade and quality data generated from the underground and LDD samples is adequate for Mineral Resource Estimation.
+
+# 11.3.3 2019 Trench Cutter Program 
+
+The following is a description of RTEC's trench cutter sample handling and processing procedure for each trench cutter sample interval:
+
+For each trench cutter kimberlite sample interval:
+
+- All of the individual $1 \mathrm{~m}^{3}$ bulk sample bags for each trench cutter sample were located by security tag numbers in the outdoor secure storage facility and then transported by a forklift skid steer to the winterized Bulk Sample Plant ("BSP") storage building area for processing. During the winter months, several trench cutter sample intervals would be moved from the secure outdoor storage facility to the winterized BSP storage building in order for the sample material to thaw prior to processing.
+- Prior to processing, the wet weight for each sample bag aliquot was collected from a digital scale and recorded onto a sheet and then re-stacked within the BSP for processing.![img-25.jpeg](img-25.jpeg)
+
+# PLATE 1: TRENCH CUTTER SAMPLE T1-S1-B22 STORED IN HEATED STORAGE FACILITY 
+
+- A 2-3kg moisture content sub-sample of kimberlite material was manually collected by a RTEC technician. The wet weight of the sample was collected and recorded and then labelled and placed into an oven for 12 hours or until it was dried. The dried sample is then re-weighed and the weight is recorded onto the sheet. Some of this material was also used to collect particle size analysis data (i.e., sieved and sized in a sieve nest). All moisture content and sieve analysis material was placed into a sample bag, labelled and then stored into plastic bins for archiving.
+- For each trench cutter sample interval, the individual sample bag aliquots were then moved towards the BSP sample bag chain hoist system whereby each bulk bag was hoisted up individually and then placed over the static ROM Feed Bin. An RTEC technician then used a sharp utility knife to cut open the bottom of the bulk bag to empty the kimberlite cuttings into the ROM Feed Bin. Once a bulk bag was emptied, the bagwas cut open such that all kimberlite material can be cleaned out of the bag.
+
+- RTEC technicians then used high pressure water hoses and/or shovels to disaggregate the kimberlite cuttings so that it can report into the scrubber for washing.
+![img-26.jpeg](img-26.jpeg)
+
+
+# PLATE 2: BULK BAG BEING EMPTIED INTO THE ROM FEED BIN 
+
+- All kimberlite cuttings and slimes discharging from the scrubber report to a double deck vibrating screen deck fitted with a -0.5 mm slotted screen and a 25 mm square aperture top screen.
+- All -25 mm material report directly to secondary vibrating screen deck in order to be sized into a 6 mm surge bin (DMS feed), the +6 mm to -12 mm middlings surge bin and $\mathrm{a}+12 \mathrm{mmto}-25 \mathrm{~mm}$ material to a coarse surge bin for the Tomra XRT sorter.
+- The +25 mm size fraction reports directly to a jaw crusher for crushing. The crushed material then reports back to the scrubber for washing and re-sizing.- All -0.5 mm slimes material reports to the thickener for treatment and disposal to the Slimes disposal area (FMA).
+
+
+# 11.4. Sample Preparation, Analyses and Security Pre 2015 
+
+The following section is taken from previous technical reports on the Star Diamond Project (Orava et al., 2009) and the Orion South Diamond Project (Ewert et al., 2009b).
+
+### 11.4.1 Introduction - Mineral Processing and Diamond Recovery
+
+In order to process a significant amount of kimberlite, Star Diamond purchased and commissioned a batch sampling process plant to treat the bulk samples and recover diamonds. The process plant was designed to simulate a commercial kimberlite ore treatment plant. Star Diamond's process plant (Bateman Reference Number M7007) was designed and constructed by Bateman Engineering PTY Limited ("Bateman") of South Africa and consists of the following circuits:
+
+- a $30 \mathrm{t} / \mathrm{h}$ crushing circuit;
+- a $10 \mathrm{t} / \mathrm{h}$ Dense Media Separation ("DMS") circuit which consists of a 250 mm DMS cyclone; and
+- a recovery circuit consisting of a Flow-Sort ${ }^{\circledR}$ X-Ray diamond sorting machine and a grease table.
+
+A description of Star Diamond's processing and diamond recovery circuits is briefly described below.
+
+### 11.4.2 Process Plant - Crushing and Scrubbing Circuit
+
+The kimberlite material (stored as individual batches or piles on surface) was delivered from the storage facility area to the primary static feed bin where, after being screened to 250 mm , it was fed at a constant rate onto the run-of-mine ("ROM") conveyor belt to be weighed (by a belt weightometer) and recorded (Figure 11-2). This weightometer was calibrated daily and was responsible for the accurate determination of the weight of the underground samples. The kimberlite was then crushed, cleaned and sized so that the final resultant size fraction reported to the DMS circuit was +1.0 mm to -20 mm (at $80 \%$ passing on the 22 mm square aperture screen).# 11.4.3 Process Plant DMS Circuit 
+
+The +1.0 mm to -20 mm sized kimberlite material from the primary double deck vibrating classifying screen was pumped from the transfer pump box, dewatered and then stored into a 5 t capacity DMS surge bin for product separation into light and heavy mineral fractions. The material was then fed in a wet state to the DMS circuit by the combined vibrating pan feeder and DMS feed pump and dewatered once again. The kimberlite material was then mixed with a dense circulating medium consisting of ferrosilicon powder ("FeSi") and water. Separation of the heavy and light particles (i.e. product) was achieved on the basis of the specific gravity ("SG") of the minerals.
+
+Both the heavy (sinks) and light (floats) products exiting the cyclone were screened and then washed to recover the FeSi for recycling.
+
+The +1.0 mm to -20 mm heavy mineral concentrate (DMS concentrate) that reported to the sinks screen was collected in 40 L stainless steel canisters. When the steel canister was full, the canister was locked, then transported and escorted to the recovery plant for particle sizing and diamond recovery by the plant Lead Hand and Star Diamond security personnel (prior to January, 2007 this process was completed by Howe personnel and two Star Diamond security personnel). The +1.0 mm to -6 mm light fraction product ('coarse reject kimberlite') was disposed outside of the process plant via conveyor belt. A front-end loader was used to transport the coarse reject kimberlite to a dedicated storage area and stockpiled on a per batch basis.
+
+The SG of the circulating medium was monitored electronically, in real time with a dense medium controller system, and manually with a densitometer scale. Density tracer tests were carried out daily with the use of cube-shaped epoxy tracers, with SGs ranging from 2.70 to 3.53 and sizes from $2 \mathrm{~mm}, 4 \mathrm{~mm}$ and 8 mm , to monitor the separating effectiveness of the DMS cyclone. The density tracers that reported to the floats or sinks screen were counted separately and a Tromp curve was plotted in order to obtain the percentage of density tracers versus particle SG. An estimate of the effective separation of light and heavy fractions, including diamond, was determined from the shape and slope of the Tromp curve. The separating SG (or cut point) was determined as the point where the curve has a value of $50 \%$.Figure 11-2 Process Plant Flowsheet - Primary Kimberlite Processing (20042009)
+![img-27.jpeg](img-27.jpeg)# 11.4.4 Diamond Recovery Plant Sample Handling and Processing Procedures 
+
+Once a full canister of DMS concentrate arrived in the recovery plant, the gross weight (wet) and arrival time was taken and recorded by security personnel. The DMS concentrate canister was then loaded into a steel cradle and the contents emptied into the recovery plant hopper (Figure 11-3). The DMS concentrate was separated into three particle size fractions ( +1 to -3 $\mathrm{mm},+3$ to -6 mm and +6 to -20 mm respectively) by a vibrating classifying screen deck unit beneath the recovery plant hopper. During the sizing process, the respective size fractions were collected in individual 40 L stainless steel canisters located below the vibrating classifying screen deck. Once the particle sizing was completed, each sized canister was left to dewater as much as possible. The gross weight (wet) of each sized canister was weighed and recorded by recovery personnel and readied for diamond processing.Figure 11-3 Recovery Plant Flowsheet (2004-2009)
+![img-28.jpeg](img-28.jpeg)
+
+# 11.4.5 X-RAY DIAMOND SORTER 
+
+All of the wet DMS concentrate size fractions were processed separately and wet via an x-ray Flowsort ${ }^{\circledR}$ X-Ray diamond sorter unit (model XR 2/19 DW) ("x-ray sorter"). All three individual sized fractions were manually fed to the x-ray sorter receiving hopper for processing, with only the +6 to -20 mm sized fraction processed twice through the x-ray unit.
+
+The x-ray sorter unit was designed on the principle of diamonds fluorescing / luminescing when bombarded by x-rays. The wet diamond bearing concentrates slide past photomultiplier tubes that detect fluorescent material (i.e. particles emitting light) which have been irradiated by xrays. Excitation of the photomultiplier tubes triggers the ejector gate doors to open, forcing thediamond (and other fluorescent material plus surrounding gangue material) into a separate stainless steel canister. The x-ray tailings were collected in a 40 L steel canister to be reprocessed by the grease table.
+
+Each size fraction was processed individually; however, the diamonds ejected for each size fraction were collected in a single stainless steel canister that was locked in place below the xray sorter unit. Once a batch sample was processed, the stainless steel canister was removed, locked, and stored in Star Diamond's secure safe-house facility located within the recovery plant by Star Diamond's security personnel and kept under video surveillance until shipped to SGS Lakefield Research Limited ("SGS Lakefield"), SGS Canada Inc., Saskatoon ("SGS Saskatoon") and / or Mineral Services Canada Inc. ("MSC") for diamond sorting. After January 2007, the sample handling procedures were carried out by Star Diamond personnel with no third party involvement, although Howe acted as an external QA/QC provider and made periodic audits of the Star Diamond processing plant (prior to January 2007, the recovery room was operated under Howe supervision).
+
+# 11.4.6 Grease Table Diamond Recovery 
+
+A two-stepped ( 1 m wide) grease table was employed to concentrate the +3 to -6 mm and +1 to -3 mm x-ray tailings. The +6 mm to -20 mm size fraction was not processed through the grease table, but processed twice through the x-ray sorter. Most diamonds are hydrophobic (i.e. nonwettable) and thus will adhere to grease specially formulated for diamond recovery. The diamonds adhere to the grease on first contact and the flow of concentrate over the adhering diamonds causes them to be pushed further into the grease.
+
+All non-adhering (i.e. hydrophilic) material reported to the grease table tailings belt for storage in $1.0 \mathrm{~m}^{3}$ canvas bulk sample storage bags.
+
+The removal and application of fresh grease was dependent upon the amount of grease adherent material in the concentrate. More particles adhering to the grease reduces the effective surface area for diamonds to adhere. When the effective surface area was $<50 \%$, the grease and grease concentrates were scraped off the grease table and placed into pre-numbered, sealed plastic buckets and shipped to SGS Lakefield, SGS Saskatoon and / or MSC for diamond recovery.
+
+### 11.4.7 Chain of Custody and Security Protocols
+
+During the processing plant commissioning period of the bulk sampling program in 2004, Star Diamond and Howe representatives developed security protocols that were designed to enhancethe chain of custody and maintain the integrity of the sampling program, as a whole, from the extraction of kimberlite from underground to the shipment of diamond concentrate to SGS Lakefield, SGS Saskatoon and MSC for final diamond picking. Star Diamond's chain of custody and security protocols were designed around a three-lock system, requiring three individuals be present at the removal, transport and escort of concentrate at all times. A video surveillance camera system was designed and installed in the process plant to follow the movement and processing of DMS concentrate from the DMS to the fenced-in recovery plant area. The video surveillance system was continuously monitored by Star Diamond's security personnel. All security images were backed up for potential security reviews by a third party security auditor.
+
+Howe and Star Diamond also developed security and chain of custody protocols for both surface core and LDD drilling and sample processing programs.
+
+In October, 2006, a number of security system enhancements were implemented to augment the overall site and process/recovery plant security measures. The enhancements to the security systems included the building of a security entrance building on the north side of the process/recovery plant, allowing for the monitoring of persons entering the process/recovery plant and a more effective search capability for those persons leaving the plant. The plant security building also included male and female changing facilities. All plant employees and authorized visitors were required to change into designated pocket less coveralls before entering the process/recovery facilities. The plant security entrance also housed the security control area, which allowed for a more secure environment for the security officers to monitor all high risk areas, utilizing the digital video ("CCTV") and door accesses recorded on the security management system.
+
+In addition, a new main site access security building and security gate were constructed and placed in a location to afford tighter monitoring, recording and control of persons and vehicles accessing the main site. All vehicle parking was placed outside of the designated high security area, and only authorized vehicles were allowed entrance. All vehicles and persons leaving the designated high security areas were searched before being allowed to exit.
+
+Enhanced security protocols were also implemented within the process/recovery plant operations area.# 11.4.8 Diamond Picking and Sorting Procedures (2004-2009) 
+
+Since the commencement of the underground bulk sampling program and LDD mini-bulk sampling program in 2004 and September, 2005 respectively, diamond concentrate samples (Xray, and grease table concentrates) were shipped to SGS Lakefield, SGS Saskatoon and / or MSC. SGS Lakefield is accredited to the ISO/IEC 17025 standard by the Standards Council of Canada, while SGS Saskatoon has followed the same quality protocols in preparation for accreditation. MSC is not currently accredited to the ISO/IEC 17025 standard by the Standards Council of Canada as a testing laboratory for specific tests; however, the MSC facility, process and quality assurance procedures have been audited and ratified by an independent industry expert (Harry Ryans, Process Specialist of AMEC Americas Limited ("AMEC"); see Ryans, 2006). Once all of the security checks were completed, the applicable laboratory carried out the following laboratory test work:
+
+- processing and sorting of the x-ray concentrate; and,
+- processing and sorting of the grease concentrate.
+
+All of the sample information was entered into SGS's electronic Laboratory Information Management System ("LIMS") or MSC's Laboratory Data Management System. The QPs are of the opinion that the sample preparation, security and analytical procedures for the Star Orion South Diamond Project are adequate for Mineral Resource estimation purposes.
+
+### 11.5. Sample Preparation, Analyses and Security 2015 LDD Program
+
+Kimberlite samples generated from the 2015 LDD program were shipped by truck in secure bulk bags with numbered seals and delivered to Rio Tinto Canada Diamond Exploration Inc's. Thunder Bay Mineral Processing Laboratory (ISO 9001: 2008 Certified) in loads of approximately 20 tonnes. This laboratory was chosen for the macrodiamond ( $+0.85$ millimetre square mesh) recovery from the LDD kimberlite samples as its sample processing flow-sheet closely replicates that used in the past by the Star Diamond on-site bulk sampling plant.
+
+### 11.5.1 Thunder Bay Process Plant - Crushing, Scrubbing \& Recovery Circuit
+
+The diamond recovery process at the Thunder Bay Mineral Processing Laboratory begins with on-site processing at its process plant in Stanley, Ontario. The bulk sample plant has a rated throughput of 10 tonnes per hour and includes an ore preparation circuit to scrub and size sample material. The processed sample is subsequently run through a Dense Media Separator ("DMS") cyclone to generate the high density "Sinks" material, which is collected and labeled as"Concentrate" for further processing through the Recovery circuit (Figure 11-4). The process plant also has a high-pressure rolls crusher ("HPRC", set to 6 mm gap, not shown on Figure 11.4) re-crush circuit to re-process all lighter +6 mm "Float" material. The Recovery circuit consists of an Ultrasort ${ }^{\circledR}$ SW-3 X-ray sorter to produce a final "Accepts" concentrate from which any diamonds are subsequently removed by hand during the final Observation phase in secure facilities at Thunder Bay Mineral Processing Laboratory.Figure 11-4 Thunder Bay Process Flowsheet.
+![img-29.jpeg](img-29.jpeg)# 11.5.2 Chain of Custody and Security Protocols 
+
+All of the Orion South LDD-RC mini-bulk sample bags were shipped directly from the project site via transport truck to Rio Tinto's Thunder Bay DMS Processing Facility for diamond processing. Upon arrival, Rio Tinto's senior plant personnel would verify that all of the LDD mini-bulk sample bags arrived intact and that the security cinch tags for each LDD sample bag was checked and catalogued accordingly.
+
+The storage and processing of all Orion South LDD mini bulk samples was undertaken in a secured, control accessed, and CCTV monitored areas within and outside of the process plant facility.
+
+### 11.5.3 Diamond Picking and Sorting Procedures
+
+The processing of the Ultrasort ${ }^{\circledR}$ x-ray diamond concentrates was undertaken in a secured, controlled access, CCTV monitored areas at Rio Tinto Canada Diamond Exploration Inc's. Thunder Bay Mineral Processing Laboratory. An independent, external and bonded security firm was engaged by Rio Tinto to monitor the CCTV equipment and provided personnel to supervise the movement of diamond bearing concentrates arriving from the DMS facility to the main lab as well provide security monitoring of the day to day diamond picking of the X-ray concentrates by Rio Tinto diamond picking staff. The independent security personnel also recorded both routine activities and any abnormal incidents (sample spillage, etc.) during the diamond picking / extraction program. The security personnel also checked sample seals, sample weights and provided key control services for dual-locked storage areas, concentrate canisters and restricted areas. Diamond picking personnel were subject to random searches at various times.
+
+The Rio Tinto's Thunder Bay Mineral Processing Laboratory facility, process and quality assurance procedures have been audited and ratified by Howe in 2015.
+
+Once all of the security checks were completed from the transport of Ultrasort concentrates from the DMS facility to the lab, the laboratory carried out the following laboratory test work:
+
+- processing and sorting of the x-ray concentrate.
+- diamond picking, weighing, characterisation, etc.
+
+All of the sample information was entered into Rio Tinto's Laboratory Data Management System.# A.C.A. HOWE INTERNATIONAL LIMITED <br> Mining and Geological Consultants 
+
+Howe is of the opinion that the sample preparation, security and analytical procedures for the Star - Orion South Diamond Project are adequate for Mineral Resource estimation purposes.
+
+### 11.6. Sample Preparation, Analyses and Security 2019 Trench Cutter Program
+
+### 11.6.1 Trench Cutter Kimberlite Sampling Processing Procedure
+
+The following is a description of the trench cutter sample handling and processing procedure for each RTEC trench cutter sample interval:
+
+- All of the individual $1 \mathrm{~m}^{3}$ bulk sample bags for each trench cutter sample were located by security tag numbers in the outdoor secure storage facility and then transported by a forklift skid steer to the winterized Bulk Sample Plant ("BSP") storage building area for processing. During the winter months, several trench cutter sample intervals would be moved from the secure outdoor storage facility to the winterized BSP storage building in order for the sample material to thaw prior to processing.
+
+Prior to processing, the wet weight for each sample bag aliquot was collected from a digital scale and recorded onto a sheet and then re-stacked within the BSP for processing.
+
+- A 2-3kg moisture content sub-sample of kimberlite material was manually collected by an RTEC technician. The wet weight of the sample was collected and recorded and then labelled and placed into an oven for 12 hours or until it was dried. The dried sample is then re-weighed, and the weight is recorded onto the sheet. Some of this material was also used to collect particle size analysis data (i.e., sieved and sized in a sieve nest). All moisture content and sieve analysis material were placed into a sample bag, labelled and then stored into plastic bins for archiving.
+- For each trench cutter sample interval, the individual sample bag aliquots were then moved towards the BSP sample bag chain hoist system whereby each bulk bag was hoisted up individually and then placed over the static ROM Feed Bin. An RTEC technician then used a sharp utility knife to cut open the bottom of the bulk bag to empty the kimberlite cuttings into the ROM Feed Bin. Once a bulk bag was emptied, the bag was cut open such that all kimberlite material can be cleaned out of the bag.- RTEC technician(s) then used high pressure water hoses and/or shovels to disaggregate the kimberlite cuttings so that it can report into the scrubber for washing.
+- All kimberlite cuttings and slimes discharged from the scrubber report to a double deck vibrating screen deck fitted with a -0.5 mm slotted screen and a 25 mm square aperture top screen.
+- All -25 mm material is reported directly to secondary vibrating screen deck in order to be sized into a 6 mm surge bin (DMS feed), the +6 mm to -12 mm middlings surge bin and a +12 mmto -25 mm material to a coarse surge bin for the Tomra XRT sorter.
+- The +25 mm size fraction reports directly to a jaw crusher for crushing. The crushed material then reports back to the scrubber for washing and re-sizing.
+- All -0.5 mm slimes material reports to the thickener for treatment and disposal to the Slimes disposal area ("FMA").
+
+
+# 11.6.2 RTEC Process Plant - Crushing, Scrubbing \& Recovery Circuit 
+
+RTEC's bulk sampling plant to process trench cutter kimberlite sample material was designed and constructed by Consulmet South Africa ("Consulmet") of Johannesburg South Africa. Consulmet is a world leader in the design, construction, and commissioning of modular diamond process plants around the world.
+
+RTEC's bulk sampling process plant consists of the following circuits:
+
+1. Front-end sample bag receiving hopper with a Scrubber - jaw crusher circuit with a secondary HPGR crushing circuit;
+2. A 10 tonne per hour Dense Media Separation ("DMS") circuit which consists of a 250 mm DMS cyclone for the recovery of diamonds $<6 \mathrm{~mm}$ in size; and,
+3. A recovery circuit consisting of a Tomra XRT sorter unit for diamond sizes $>6 \mathrm{~mm}$.
+
+The following section is a detailed description of RTEC's Processing and Diamond Recovery Circuits. Figure 11-5 shows a schematic flowsheet for the processing of trench cutter kimberlite samples from the Star Kimberlite.Figure 11-5 RTEC Bulk Sampling Plant Process Flow Sheet (source: RTEC)
+![img-30.jpeg](img-30.jpeg)# DMS sample processing and DMS concentrate chain of custody procedures 
+
+- The stored -6 mm kimberlite sample material from the DMS surge bin is fed via pan feeder and jet pump to the DMS circuit for processing.
+- The material is fed in a wet state to the DMS circuit by the combined vibrating pan feeder and DMS feed pump and dewatered once again by a vibrating feed prep screen.
+- The kimberlitic material is mixed with a dense circulating medium ("CM") consisting of ferrosilicon powder ("FeSi") and water.
+- The kimberlitic material and CM is introduced into a mixing box which is then pumped at a constant cyclone inlet velocity pressure to the 250 mm diameter cyclone mounted atop the DMS circuit. Separation of the "heavy" and "light" particles (i.e., product) is achieved on the basis of the specific gravity of the minerals.
+- Both the heavy and light products exiting the cyclone are screened and then washed to recover the FeSi .
+- The CM recovered from both the floats and sinks screens report to the dilute medium pump box FeSi recovery circuit.
+- The diluted CM is pumped to a densifying cyclone for separation and then recovered as a thick pulp by the magnetic roll separator unit.
+- The FeSi pulp is then re-directed back via gravity to the CM tank for reuse.
+- The 1.0 mm to -6 mm heavy mineral concentrate ("DMS concentrate") that reports to the sinks screen is collected in a $1 \mathrm{~m}^{3}$ bulk bag. Whereas the floats material was collected in a separate $1 \mathrm{~m}^{3}$ bulk bags. Wet weights for both sinks and floats were recorded by RTEC.
+- When the sample interval is completed, the DMS concentrate bulk bag is then sealed with a pre-numbered security cinch strap. The DMS concentrate bulb bag is then moved by fork lift to the weigh station to record the wet weight and then transported and loaded into a large plastic bin for secure storage.
+- Four pre-numbered security cinch straps are then used to tie down the plastic lid and then stored near the Tomra sorter unit with constant CCTV camera coverage prior to shipment to the SRC.![img-31.jpeg](img-31.jpeg)
+
+PLATE 3: RTEC DMS CIRCUIT
+![img-32.jpeg](img-32.jpeg)
+
+# PLATE 4: DMS CONCENTRATE BULK BAG BEING LOADED INTO SEALED PLASTIC CONTAINER 
+
+- All float tailings bags were stored outside in the secure storage facility for future audit QAQC.# Tomra XRT Sample Processing / QAQC Procedures 
+
+- Prior to processing the +6 to -12 mm and -12 mm to +25 mm material, a Tomra XRT tracer test is carried out in order to test the XRT unit efficacy.
+- All of the trench cutter kimberlite sample material size fractions ( +6 to 12 mm and +12 to -25 mm ) are processed separately and wet via a Tomra ${ }^{\circledR}$ XRT Diamond Sorter Unit ("Tomra").
+- The Tomra X-ray transmission (XRT) technology "enables materials to be recognized and separated based on their specific atomic density. It is based on a planar projection of X-ray attenuation of single particles in a stream. This technology makes it possible to obtain a high separation performance in sorting materials irrespective of size, moisture, dust or dirt on a surface".
+- Each size fraction is processed individually. However, the diamonds that are ejected for each size fraction are collected in a single plastic pail/canister that is locked in place below the Tomra sorter unit. All XRT rejects report to the HPGR circuit for secondary crushing and the crushed material reports back to the scrubber for washing, and re-sizing during the processing of the trench cutter sample interval.
+- Once a trench cutter sample interval has been processed, the plastic pail/canister is removed, sealed and tagged with pre-numbered security cinch straps and then stored in a plastic container adjacent to Tomra XRT sorter under RTEC staff (plant and security) under SDC's supervision and kept under video surveillance until it is delivered to the SRC for diamond sorting.![img-33.jpeg](img-33.jpeg)
+
+# PLATE 5: TOMRA XRT AND DMS CONCENTRATE SECURE STORAGE BINS WITH SEALED CINCH STRAPS AWAITING SHIPMENT TO THE SRC 
+
+### 11.6.3 Diamond Picking and Sorting Procedures - SRC
+
+The Saskatchewan Research Council (SRC) were contracted by RTEC to provide both Tomra XRT DMS concentrate diamond recovery services for the trench cutter sampling program.
+
+Upon reception, SRC verifies that the chain of custody documents (i.e. sample submission sheets) are cross-referenced with the sample shipment received and that sealed sample containers arrived intact and that none of RTEC's security features show signs of tampering.
+
+Once all of the security checks have been completed, SRC then carries out the following laboratory test work:
+
+1. Processing and sorting of the Tomra XRT concentrate, and,
+2. Processing and sorting of the DMS concentrate.# Processing and sorting of the Tomra XRT concentrate 
+
+- Upon receipt of the Tomra XRT concentrate plastic canisters for each trench cutter sample interval, the canisters would then be brought to the secure diamond sorting room whereby the material would be removed for manual sorting.
+- Diamond pickers would hand sort to remove all diamonds and place them into prenumbered vials.
+- All recovered diamonds would then be sieved (DTC sieves) and classified based on weight, colour and crystal shape. The diamond data would then be recorded onto a spreadsheet.
+
+
+## Processing and sorting of DMS concentrate
+
+- Each DMS concentrate bag was emptied into a hopper so that the material can washed to remove any ferrosilicon.
+- The DMS concentrate was fed to a concentrate drier whereby the material was be sized into two separate size fractions $(-2 \mathrm{~mm}$, and +2 to -4 mm$)$ and collected into bins.
+- Each size fraction was treated through a magnetic separator in order to remove all paramagnetic material. The non-magnetic fraction was collected into a bin.
+- The non-magnetic fraction was then fed through the Tomra XRT sorter for diamond recovery. The Tomra XRT concentrate was collected into a sealed plastic canister whereas the Tomra XRT tailings were collected and then run through the unit on a second pass. The second pass XRT tailings were then collected, and the material was then processed by caustic dissolution in order to recover any locked stones.
+- All XRT and caustic concentrates were then brought to the diamond sorting room for final picking, and classification.# 11.7. Diamond Valuation 
+
+Diamond prices used in this Mineral Resource Estimate are derived from the valuation of diamond parcels collected by Star Diamond from the Star and Orion South deposits. Valuation is undertaken by Mr. Nelson Karun Diamond specialist of Star Diamond using his June 2024 diamond price book.
+
+Sampling of Star and Orion South included underground ("UG") bulk samples (approx. 300 tonne samples) for diamond grade and diamond price estimation and large diameter drill ("LDD") mini-bulk samples (approx. 6-30 tonne samples) for diamond grade estimation only. The detailed diamond valuation is conducted on the diamond parcels recovered from the UG bulk sampling and the individual parcels for each of the kimberlite units sampled in the UG are documented in the tables below.
+
+The Parcel and Model price details for each of the kimberlite units in the Star and Orion South Kimberlites are listed in Table 11-2 and 11-3.
+
+Table 11-2 The Parcel and Model Price Details for each of the Kimberlite UNITS IN THE STAR KIMBERLITE (JUNE, 2024 PRICEBOOK)
+
+| Kimberlite <br> Unit | UG <br> Carats | Parcel Price <br> (US\$/carat) | Model Price (US\$/carat) |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  | Model | Minimu <br> m | High |
+| Cantuar | $1,622.88$ | 309 | 279 | 259 | 345 |
+| Pense | $1,384.69$ | 192 | 181 | 169 | 201 |
+| EJF | $6,910.30$ | 181 | 213 | 173 | 226 |
+| MJF-LJF | 90.61 | 138 | 202 | 186 | 250 |
+
+Table 11-3 The Parcel and Model Price Details for Each of the Kimberlite UNITS IN THE ORION SOUTH KIMBERLITE (JUNE, 2024 PRICEBOOK)
+
+| Kimberlite <br> Unit | UG <br> Carats | Parcel Price <br> (US\$/carat) | Model Price (US\$/carat) |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  | Model | Minimum | High |
+| EJF | $1,394.91$ | 153 | 186 | 162 | 212 |
+| Pense | 575.61 | 109 | 129 | 100 | 137 |# 12. DATA VERIFICATION 
+
+The following section for pre-2015 work is summarised from previous technical reports on the Star Diamond Project (Orava et al., 2009) and the Orion South Diamond Project (Ewert et al., 2009b).
+
+### 12.1. INTRODUCTION
+
+The database management of underground shaft and drift sampling of the underground bulk sampling, LDD mini-bulk sampling, and diamond processing programs were administered and monitored on a number of levels throughout the sampling programs.
+
+From January 2003 to January 2007, Howe provided third party supervisory and monitoring services to Star Diamond in the sample processing, chain of custody and sample integrity of the underground bulk sample program and LDD mini-bulk sampling program. Since January 2007, Star Diamond personnel conducted all supervision and monitoring services while Howe acted as a third-party auditor. In 2015 Howe renewed third party supervisory and monitoring services to Star Diamond in the sample processing, chain of custody and sample integrity of the 2015 LDD-RC mini-bulk sampling program.
+
+Mr. Leroux carried out several site visits to the Project for Star Diamond in order complete third-party reviews and audits of RTEC's Trench Cutter Program and Bulk Sampling Processing Plant from October 10, 2018, June 15, 2019 and February 14-15, 2020 respectively. From May 26, 2020 to December 6, 2020, Mr. Leroux worked at the Star Diamond Project as an Independent Qualified Person representing Star Diamond during the trench cutter kimberlite processing program that was managed by RTEC.
+
+Howe believes that the quality of the diamond processing data is reliable and that the sample preparation, analysis and security for the 2019 Trench Cutter, 2015 LDD-RC, pre-2015 LDD mini-bulk and bulk sample processing programs were carried out in accordance with exploration best practices and industry standards.
+
+Star Diamond and Howe developed operating QA/QC protocols to monitor and quantify the efficiency and recovery of its on-site process plant; these are discussed in detail in Eggleston et al. (2008) and briefly summarized below along with details of the 2015 data verification programs.# 12.2. QA/QC Audits 
+
+### 12.2.1 QA/QC Audits Pre 2015
+
+The following QA/QC operating protocols were established by Star Diamond and Howe for the efficient operation of the DMS and recovery circuits.
+
+- DMS QA/QC Operating Protocols: During the operation of the DMS circuit, the operating parameters were strictly monitored by Star Diamond and Howe in order to achieve proper kimberlite material separation:
+- The SG of the circulating medium was measured manually every 15 minutes with a densitometer and in real time with a DebTech ${ }^{\circledR}$ dense medium controller system. Since the commissioning of the DMS circuit, the operating range of the DMS circuit, determined by numerous density tracer tests over several SG values was between SG 2.30 and SG 2.50 .
+- Circulating medium SG readings of both the DMS cyclone overflow and underflow were collected periodically.
+- The operating range of the cyclone inlet velocity pressure was maintained at a constant pressure (i.e. no surging).
+- It was ensured that the volumetric ratio between kimberlite material feed and circulating medium fed to the mixing box was such that the loss of diamonds to the floats screen (due to the overfeeding of material through the cyclone) was negligible.
+- Periodic wet screening checks of the circulating medium for fines from the kimberlitic material were carried out in order to verify the presence, quantity and size of non-magnetic contaminants that could increase the viscosity of the circulating medium.
+- Periodic dry screening checks of the circulating medium particle size analysis were carried out in order to determine the coarsening of the circulating medium due to a reduction of fine FeSi particles.
+- Periodic checks of the +1 to -6 mm float material exiting the process plant for any $>1 \mathrm{~mm}$ sized, high SG kimberlitic indicator minerals such as pyrope garnet (SG 3.50), eclogitic garnet (SG 3.50) and Cr-diopside (SG 3.20).
+- Density tracer tests were carried out daily to monitor the separating effectiveness of the DMS cyclone.- X-ray Sorter QA/QC Operating Protocols: In order for the x-ray sorter to maintain operating efficiency, the unit was calibrated weekly by conducting marble tracer tests. As well, a regular preventive maintenance schedule for the x-ray sorter unit was strictly followed.
+- Process Plant - Sample Contamination: Contamination of samples by diamonds from previously run samples can adversely affect sample results and subsequent economic decisions. Therefore, strict guidelines were followed by Star Diamond to prevent batch sample cross-contamination.
+- Process Plant - Diamond Recovery Efficiency and QA/QC Audits: Audits of grease and coarse reject kimberlite table tailings have been regularly undertaken since 2004.
+
+Both AMEC and Howe concluded that audit results for the recovery plant tailings were good, and tailings data were accepted with no problems (Ryans 2006 and Eggleston et al. 2008). Results obtained to October, 2007 from Mineral Services Canada ("MSC") indicate that low diamond recoveries from the audited samples confirm the integrity of the process and recovery plants.
+
+- Grease Table Tailings Audit Program: In order to confirm the efficiency of the recovery plant circuit at Star Diamond's process plant facility, grease table tailings bulk sample bags from both the underground sampling and the LDD mini-bulk sampling programs were shipped to MSC for tailings audits with recovered diamonds being added to the Star Diamond diamond database.
+
+Four independent tests achieved $100 \%$ recovery of spike diamonds in the size range +2 to -4 mm . The diamond summary reports provided by MSC conform to the CIM guidelines for the reporting of diamond exploration results (CIM, 2003).
+
+Results from the grease table tailings audits of 16 underground batches and 356 LDD batches completed by MSC indicate that the carats recovered in the audit process from underground batches on the Star Kimberlite deposit added $1.4 \%$ to the total carat weight of the batches audited. Carats recovered in the audit process from LDD batches added $4.6 \%$ of the total carat weight.
+
+Any diamonds recovered at this audit stage were reported separately by MSC. The diamond counts and total carat weight for each batch sample, however, have beenincorporated into a merged diamond results database containing the results from MSC for final diamond grade reporting.
+
+The processing method has been demonstrated to be effective and reliable in the recovery of diamonds through a series of tests run using natural diamond spikes on test sample material provided by Star Diamond.
+
+- X-Ray Concentrate Audit Program: To evaluate the final picking of x-ray concentrate by SGS Lakefield and SGS Saskatoon, final concentrate audits were completed by MSC on both underground ( 111 batches) and LDD ( 792 batches) sample batches from the Star Kimberlite. Carats recovered in the audit process from underground batches on the Star Kimberlite added approximately $2.3 \%$ to the total carat weight. Carats recovered in the audit process from LDD batches added $1.2 \%$ of the total carat weight for Star LDD samples. On Orion South, 18 underground batches and 230 LDD batch audits resulted in a total carat increase of $1.2 \%$ and less than $1 \%$ respectively.
+
+Any diamonds recovered at this audit stage were reported separately by MSC and SGS Lakefield and SGS Saskatoon. The diamond counts and total carat weight for each batch sample, however, have been incorporated into a merged diamond results database containing the results for final diamond grade reporting.
+
+- Independent Laboratory Audits: Howe conducted a laboratory audit of SGS Lakefield on November 4, 2005. AMEC carried out a laboratory audit of MSC in November, 2007. Details of these earlier audits are presented in Eggleston et al. (2008).
+
+From July, 2008 to December, 2008, Howe conducted an audit of the MSC and SGS Saskatoon laboratories in order to:
+
+- review and audit the SGS Saskatoon facility;
+- review and audit the grease table tailings audit program (MSC); and,
+- review and audit MSC's processing facility for final diamond recovery from xray and grease concentrates.
+
+During the audits, the chain of custody, handling, sorting, and security protocols were reviewed by Howe and were determined to provide reasonable assurance of the adequacy of the quality of operations at each facility. No material deficiencies were identified.- Site Audits: During the advanced exploration program phase, AMEC carried out several site visits to review the operation of the process plant, examine the kimberlite material, review all aspects of the technical work and QA/QC being carried out on the Project (i.e. LDD and underground sampling and processing, geological core logging, etc.) and to undertake data verification reviews.
+
+Howe also carried out several site visits to review the operation of Star Diamond's process plant and examine the kimberlite material. Howe conducted regular visits in order to review all aspects of the technical work and QA/QC being carried out on the Project (i.e. LDD and underground sampling and processing, geological core logging, etc.) and to complete data verification reviews. Howe determined that the Company had a well operated and documented operation of the treatment of bulk samples and that there were no issues of sample integrity (Coopersmith, 2009).
+
+- AMEC Bulk Sample Processing Audit (2006): A processing audit utilizing random periodic spiking (which can substitute for continuous spiking), was performed in March, 2006 (Coopersmith, 2006). Twenty natural diamond tracers were placed in mini-bulk samples from the Star LDD hole LDD-011. The tracer diamonds were natural diamond crystals with at least one polished face with the tracer number and weight in carats laser-etched onto the polished face. The tracers had known luminosity properties for x-ray recovery, and were of a variety of weights and shapes similar to what might be expected to occur naturally in a bulk sample. The tracers were placed at random intervals into the raw sample feed just as it exited from the feed hopper and before it dropped onto the primary feed belt.
+
+All diamond tracers placed in sample LDD-011-03 were recovered from the x-ray concentrate by Star Diamond's on site Bulk Sampling Plant.
+
+- Howe Bulk Sample Processing Audit (2008): A second processing audit utilizing random periodic spiking was performed in September and December, 2008 at Star Diamond's plant. These audits were completed while Orion South Kimberlite was in the processing stream. Two samples (one LDD, and one underground) were chosen by Howe for auditing and securely shipped to SGS Saskatoon (LDD sample) and MSC (underground sample). Four natural and 14 synthetic diamond tracers were placed in the LDD sample, and 16 natural and 99 synthetic diamond tracers were added to the underground bulk sample. SGS Saskatoon routinely performs all x-ray and grease concentrate processing and diamond sorting (selection) of LDD samples, auditsamples, and in the past had treated underground samples. MSC had been routinely treating the underground samples and audit samples. The procedures at each of the above laboratories were largely similar.
+
+Howe was present for the diamond sorting of the two audited samples at their respective laboratories. Procedures, operations, security and documentation were reviewed and observed. No issues were noted by Howe.
+
+All natural diamond tracers placed in the samples were recovered by Star Diamond's bulk sample plant, and all from the x-ray concentrate. The synthetic tracers were mostly recovered, with the loss of three 2 mm and one 4 mm tracers. The three 2 mm tracers were recovered on the grease table. In the opinion of Howe, this shows acceptably good recovery efficiency.
+
+According to Howe, the audit exercise revealed a well-operated and documented operation of the treatment of bulk samples. There were no issues of sample integrity. Audit results indicated a high efficiency of diamond recovery. The bulk sampling plant facility established and operated by Star Diamond conformed to industry standards. The audit results for the recovery plant tailings were good, as expected, and tailings data were accepted with no problems. Based on the review of the historical density tracer tests of the DMS cyclone as well as results obtained by Howe during its audit, Howe was satisfied with the DMS circuit efficiency.
+
+Howe is of the opinion that the sampling and processing procedures and QA/QC program for the underground bulk sampling, LDD mini-bulk sampling and diamond processing program has been well documented by Star Diamond, and meets industry standards. For the current Mineral Resource estimation work, the QPs have reviewed all the relevant reports and data and concur with previous assessments that the QA/QC programs and results are adequate for Mineral Resource Estimation work.
+
+# 12.3. QA/QC Audits 2015 LDD Program 
+
+The following QA/QC operating protocols were established at Rio Tinto Canada Diamond Exploration Inc's. Thunder Bay Mineral Processing Laboratory:
+
+As part of observation, X-ray reject materials are scanned to ensure full recovery. The QA-QC program for this sample processing program included regular epoxy density tracer tests to confirm DMS cyclone separation density efficiency as well as spiking every sample withdensity tracers or faceted natural diamonds of varying sizes to ensure complete recoveries and audits of sample reject material. All 97 samples from the OS LDD drilling program processed at the Thunder Bay Laboratory were spiked using either distinct, facetted natural diamonds or synthetic tracers for QA/QC purposes. The laboratory achieved a 100 percent recovery rate for all spikes and tracers. A total of 16 Float audits were conducted. The Floats include $+0.85-6.0$ mm size fraction that is rejected by the DMS and does not pass through the diamond recovery process. Five stones with a combined carat weight of 0.1140 carats were recovered. In addition, 16 samples of the 1.0-2.0 mm magnetic fraction were audited. The magnetic fraction includes material that does not pass through the final diamond recovery process. Ten stones with a carat weight of 0.2365 carats were recovered. In Howe's opinion, these audit results are not significant and are well within recovery tolerances acceptable for Mineral Resource estimation purposes.
+
+# 12.4. QA/QC Audits 2019-2020 Trench Cutter Program 
+
+The following QA/QC operating protocols were established by RTEC for both the float tailings and diamond spiking programs.
+
+## Float Tailings Audit Program
+
+In order to audit the efficiency of the DMS circuit, a total of ten (10) trench cutter sample interval float tailings ( +1 to -6 mm material) were re-processed at the BSP in order to conduct an in-house processing audit. The table below lists the trench cutter sample intervals.
+
+| Trench Cutter Floats Tailings Audit <br> Sample Number |  |
+| :--: | :--: |
+| T6-S15A |  |
+| T6-S14A |  |
+| T7-S9A |  |
+| T2-S3A |  |
+| T10-S13A |  |
+| T7-S13A |  || T1-S8A |  |
+| :--: | :--: |
+| T5-S13A |  |
+| T4-S15A |  |
+| T1-S14 |  |
+
+The float tailing bulk bags material for each trench cutter sample interval was fed into the ROM Feed bin. The floats material reported to the Scrubber for washing and then reported onto the Primary Double-Deck Vibrating Screen for sizing and pumped to the DMS surge bin. The material was then fed to the DMS cyclone for separation whereby both sinks and floats material reported to separate bulk bags. As per the primary DMS concentrate pass, the DMS concentrate bag was then sealed by an RTEC representative under the supervision of the RTEC security personnel. The DMS floats concentrate was then shipped to the SRC for final diamond recovery processing.
+
+The re-processed float tailings bulk bag(s) were then relabeled, sealed and then transported to the outdoor storage facility for secure storage.
+
+Thirty-five (35) stones with a carat weight of 0.922 carats were recovered. In Howe's opinion, these float tailings audit results are not significant and are well within recovery tolerances acceptable for Mineral Resource estimation purposes.
+
+# Diamond Spike QAQC Test work 
+
+RTEC conducted two types of diamond spike tests for monitoring the efficiency of the bulk sampling plant.
+
+1. Argyle diamond spikes; and,
+2. Diavik diamond spikes.
+
+Argyle diamond tracers of various sizes ( $1.70 \mathrm{~mm}, 2.36 \mathrm{~mm}$ and 3.35 mm ) that have distinct trigon shapes were periodically inserted (in batches of 10) into the DMS circuit mixing box to test the separation efficiency of the DMS circuit. Argyle diamonds were also used to monitor the QAQC of the SRC DMS concentrate processing flowsheet. These stones were inserted intothe DMS concentrate bulk bags at the SRC by an RTEC representative and witnessed by an SRC representative and a SDC representative.
+
+Diavik diamond spikes consisted of three size fractions of stones: 6 grainer, 8 grainer and +5 ct stones. Although these stones were obtained in late July 2020, only the +5 ct stones were used to carry out one diamond spiking test at the end of the trench cutter sample processing program.
+
+The processing method has been demonstrated to be effective and reliable in the recovery of diamonds through these series of tests run using natural diamond spikes on test sample material.
+
+# 12.5. DATABASE VERIFICATION 
+
+Howe imported all collar, survey, density, geology and LDD/ Trench Cutter/Underground sample data into Micromine. LDD and trench cutter batch sample intervals were then backtagged against the geological wireframes created by Star Diamond and Howe and compared to the Star Diamond geology logs. A small number of discrepancies were noted by Howe in 2015. The database had a very low rate of error overall and those discrepancies noted by Howe were resolved by Star Diamond. Having reviewed the Project database, Howe believes it to be suitable for Mineral Resource estimation purposes.
+
+A similar verification of the database was conducted by Howe for this Revised Mineral Resource Estimate whereby minor modifications to the 3D geological models based on the inclusion of the 2019 - 2020 RTEC geological core hole and Trench Cutter data were completed by Star Diamond and reviewed by Howe.# 13. MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+### 13.1. Star Underground Bulk Sampling Program (2004-2009)
+
+Upon completion of the underground bulk sampling program on the Star Kimberlite, a combined total of 10,966 carats of diamonds greater than 0.85 mm were recovered from a total of $75,435.68$ dry tonnes of kimberlite material (Figure 13-1) that was processed through Star Diamond's batch sampling process plant from both Star Diamond's $100 \%$ owned Star Kimberlite and the FalC-JV Star West bulk sampling programs. Tonnages include sampling of drift material, underground resource evaluation ("RE") samples, geotechnical test samples and clean-up samples. Carat totals include 101.23 carats recovered from grease tailings and picked concentrate audits and 3.59 carats from float tailings audits. Total production and sampling results are summarized in Table 13-1 and presented in detail by batch in Eggleston et al. (2008). Underground bulk sample batch results were converted to $\mathrm{cpm}^{3}$ for the 2015 Mineral Resource Estimate from density data derived from tonnage/volume reconciliation of the underground sampling program 3D laser survey completed in 2007.Figure 13-1 Star Kimberlite Underground Batch and Geology Map
+![img-34.jpeg](img-34.jpeg)
+
+Table 13-1 Summary of Combined Production and Sample Results (UndERGROUND, RE, GEoteCh and Clean-Up) FOR StaR Kimberlite (Including StaR WEST)
+
+| Sample <br> Type | Property | No. of <br> Batches | Metric Tonnes <br> (dry) processed | Total Stones | Total <br> Carats* | Grade (cpht) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Drift | Star | 252 | $60,714.68$ | 76,428 | $9,557.98$ | 15.74 |
+| Drift | Star West | 15 | $4,173.74$ | 3,440 | 747.40 | 17.91 |
+| RE | Star | 53 | $1,471.88$ | 1,455 | 224.47 | 15.25 |
+| RE | Star West | 6 | 161.10 | 91 | 14.51 | 9.01 |
+| Geotech | Star | 4 | 23.69 | 21 | 3.51 | 14.83 |
+| Clean-up | combined | 12 | $8,890.59$ | 2,776 | 418.13 | 4.70 |
+| TOTAL |  | $\mathbf{3 4 2}$ | $\mathbf{7 5 , 4 3 5 . 6 8}$ | $\mathbf{8 4 , 2 1 1}$ | $\mathbf{1 0 , 9 6 6 . 0 0}$ | $\mathbf{1 4 . 5 4}$ |
+
+* includes carats from grease tailings and picked concentrate audits ( 101.23 carats) and 3.59 carats from float tailings audits.Utilizing all underground batch sample results, the average run-of-mine ("ROM") grade obtained from the processed batches from the Star Kimberlite was 14.54 cpht; however, if the clean-up data is removed, the ROM grade is 15.85 cpht. The average ROM grade of the various Star Kimberlite units is presented in Table 13-2.
+
+# Table 13-2 Summary of Underground ROM Diamond Grades From the Various Star Kimberlite Units 
+
+| Kimberlite Phase | Grade (cpht) |
+| :--: | :--: |
+| LJF | 2 |
+| MJF | 7 |
+| EJF | 18 |
+| Pense | 13 |
+| Cantuar | 18 |
+
+### 13.2. Orion South Underground Bulk Sampling Program
+
+A total of 75 underground batches ( 78 samples) from 25,468 dry tonnes of kimberlite (Figure 13-2) was completed in March, 2009, whereby a total of 2,346 carats of diamond was recovered from the Orion South bulk sample. The largest stone recovered was a 45.95 carat stone.Figure 13-2 Geological Map of the Underground Drifts on Orion South
+![img-35.jpeg](img-35.jpeg)
+
+The final Orion South underground bulk sample results, on a per unit basis, are listed in Table 13-3.# Table 13-3 Underground Bulk Sampling Results on a Per Kimberlite Unit Basis - FALC-JV Orion South Kimberlite 
+
+| Kimberlite Unit | Dry Tonnes | Number <br> of Stones | Total <br> (carats) | Grade <br> (cpht) | Largest Stone <br> (carats) |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| LJF | 115.8 | 90 | 6.96 | 6.01 | 0.38 |
+| EJF | $8,040.9$ | 7,794 | $1,414.00$ | 17.59 | 32.96 |
+| Mixed Pense/EJF | $3,154.8$ | 2,218 | 334.85 | 10.61 | 3.61 |
+| Pense | $12,046.8$ | 5,116 | 586.32 | 4.87 | 45.95 |
+| Clean-up | 109.7 | 30 | 4.14 | 3.78 | 1.19 |
+| Total | $\mathbf{2 3 , 4 6 8 . 0}$ | $\mathbf{1 5 , 2 4 8}$ | $\mathbf{2 , 3 4 6 . 2 7}$ | $\mathbf{1 0 . 0 0}$ |  |
+
+As with the Star Kimberlite, the EJF is the dominant kimberlite unit within the Orion South kimberlite complex in terms of volume and grade. The EJF diamond grade, as determined from the underground bulk samples from Orion South, is approximately 18 cpht. For purposes of geological modelling and resource estimation the transition zone (mixed Pense/EJF) was assigned to either the Pense or EJF based on the percentage of dilution.# 13.3. LDD Sampling Programs 
+
+### 13.3.1 Star LDD Program
+
+Utilizing the entire LDD-RC sampling (103 LDD-RC holes) (Figure 10-1) and processing (96 LDD-RC holes processed) dataset a total of $1,416.6$ carats were recovered from $11,662.8$ processed tonnes (from $8,907.4 \mathrm{~m}^{3}$ of calculated volume,) of kimberlite. Table 13-4 shows the tonnages and carats recovered from the LDD-RC processing on a kimberlite unit basis.
+
+## Table 13-4 Summary of Star Kimberlite LDD Processing and Total Carat Recovery on a Per Kimberlite Unit Basis
+
+| Kimberlite <br> Unit | Number <br> of <br> Sample <br> Batches | Processed <br> Dry <br> Tonnes | Calculated <br> Volume $^{1}$ | Total <br> Stones | Total <br> Carats $^{2}$ | Grade <br> $\left(\mathbf{c p m}^{3}\right)$ <br> unadjusted |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| UKS/URVKU | 43 | 730.08 | 454.93 | 29 | 1.41 | 0.003 |
+| LJF | 97 | $1,028.671$ | 969.23 | 233 | 11.49 | 0.01 |
+| MJF | 97 | 1411.42 | 1000.84 | 1,080 | 68.54 | 0.07 |
+| EJF | 528 | $7,106.26$ | 5405.36 | 12928 | $1,140.09$ | 0.21 |
+| PPK | 42 | 583.34 | 433.55 | 990 | 87.87 | 0.20 |
+| JLRPK | 9 | 91.75 | 78.33 | 113 | 10.96 | 0.14 |
+| CPK | 39 | 527.97 | 382.19 | 565 | 92.16 | 0.24 |
+| Other $^{3}$ | 15 | 115.44 | 183.33 | 47 | 4.13 | n/a |
+| Total | $\mathbf{8 7 0}$ | $\mathbf{1 1 , 6 6 2 . 8}$ |  | $\mathbf{1 5 , 9 8 5}$ | $\mathbf{1 , 4 1 6 . 6}$ |  |
+
+Notes:
+
+1. Theoretical tonnes and grades are historical; this Revised Mineral Resource Estimate utilises $\mathrm{cpm}^{3}$
+2. Includes carats recovered from audit process
+
+Includes kimberlitic sediments and country rock intersections that are not in the resource model
+
+### 13.3.2 Orion South LDD Program
+
+## PRE 2015
+
+Upon completion of the LDD-RC drilling program on Orion South in 2009 (Figure 10-2), 881 samples totalling 1,039.7 carats were recovered from 9,564.2 processed tonnes (from 8,907.4 $\mathrm{m}^{3}$ of calculated volume) of kimberlite. The results for each principal kimberlite unit sampled by the LDD-RC mini-bulk sampling are shown in Table 13-5. These results include both the 1.20 m diameter LDD-RC holes drilled by the current joint venture and those from twenty-four0.914 and 0.609 metre diameter LDD-RC holes completed by the previous joint venture operators prior to 2006.
+
+# Table 13-5 Diamond Results From Orion South LDD Mini-Bulk SAMPLES ON a PER UNIT BASIS PRE 2015 
+
+| Kimberlite <br> Unit | Number of <br> Sample <br> Batches | Processed <br> Dry <br> Tonnes | Calculated <br> Volume $^{1}$ | Total <br> Stones | Total <br> Carats $^{2}$ | Grade <br> (cpm $^{3}$ ) <br> unadjusted |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| VPK | 24 | 233.95 | 179.95 | 127 | 7.98 | 0.04 |
+| LJF | 105 | $1,105.76$ | 866.99 | 109 | 8.48 | 0.01 |
+| EJF | 509 | 5348.09 | $4,193.45$ | 8030 | 820.60 | 0.20 |
+| Pense | 194 | 2424.33 | $1,793.83$ | $1,853.0$ | 182.17 | 0.10 |
+| P3 | 12 | 154.09 | 108.30 | 212 | 18.23 | 0.17 |
+| CPK | 14 | 154.43 | 107.09 | 18 | 1.51 | 0.01 |
+| Other $^{3}$ | 23 | 143.55 | 104.48 | 9 | 0.74 | n/a |
+| Total | $\mathbf{8 8 1}$ | $\mathbf{9 , 5 4 9 . 2}$ | $\mathbf{1 6 , 2 1 3 . 2}$ | $\mathbf{1 0 , 3 5 8 .}$ | $\mathbf{1 , 0 3 9 . 7}$ |  |
+
+Notes:
+
+1. Theoretical tonnes and grades are historical; this Revised Mineral Resource Estimate utilises cpm $^{3}$
+2. Includes carats recovered from audit process
+
+Includes kimberlitic sediments and country rock intersections that are not in the resource model
+
+### 2015 LDD Program
+
+Upon completion of the LDD drilling program on Orion South in 2015 (Figure 10-2), 56.75 carats were recovered from 439 processed tonnes ( $300.9 \mathrm{~m}^{3}$ of theoretical volume) of kimberlite from 97 samples. The results for each principal kimberlite unit sampled by the LDD-RC minibulk sampling are shown in Table 13-6.TABLE 13-6 2015 LDD Program
+
+| Hole \# | LDD <br> Hole \# | Kimberlite <br> Type ${ }^{1}$ | Drill Intercept (metres) | Calculated volume $\left(\mathrm{m}^{3}\right)^{2}$ | Carats $\left(+1\right.$ DTC) ${ }^{3}$ | Grade (cpm $)^{4}$ <br> mediated | Stones $\left(+1\right.$ DTC) ${ }^{3}$ | Largest Stone (ct) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| EJF Intersections |  |  |  |  |  |  |  |  |
+| 1 | 141-15-019 | EJF | 171.55 - 227.95 | 16.46 | 5.49 | 0.33 | 98 | 1.15 |
+| 2 | 140-15-022 | EJF | 102.35 - 153.20 | 14.85 | 2.69 | 0.18 | 76 | 0.24 |
+| 3 | 141-15-020 | EJF | 137.02 - 180.00 | 12.56 | 2.99 | 0.24 | 38 | 1.04 |
+| 4 | 141-15-021 | EJF | 136.80 - 191.40 | 15.98 | 4.27 | 0.27 | 109 | 0.27 |
+| 5 | 141-15-022 | EJF | 150.00-217.60 | 19.86 | 4.35 | 0.22 | 106 | 0.35 |
+| 6 | 141-15-023 | EJF | 163.00-213.90 | 14.89 | 3.88 | 0.26 | 96 | 0.75 |
+| 7 | 141-15-024 | EJF | 160.19-179.60 | 5.71 | 2.28 | 0.40 | 32 | 0.76 |
+| 7 | 141-15-024 | EJF | 188.90-222.00 | 9.72 | 1.74 | 0.18 | 24 | 1.09 |
+| 8 | 140-15-023 | EJF | 132.00-183.00 | 14.88 | 6.38 | 0.43 | 67 | 3.25 |
+| 9 | 140-15-024 | EJF | 162.10-194.80 | 9.64 | 1.01 | 0.10 | 23 | 0.21 |
+| 10 | 140-15-025 | EJF | 99.70-192.00 | 26.94 | 7.79 | 0.29 | 123 | 0.82 |
+| 11 | 140-15-026 | EJF | 107.30-113.00 | 1.66 | 0.17 | 0.10 | 7 | 0.05 |
+| 12 | 140-15-027 | EJF | 130.05-194.00 | 18.66 | 4.60 | 0.25 | 86 | 0.78 |
+| Totals and Averages |  | EJF |  | 183.86 | 48.6 | $0.26^{2}$ | 899 | 3.25 |
+| 12 | 140-15-027 | (P3 reclassified) | 207.10-220.00 | 3.76 | 0.85 | 0.23 | 20 | 0.12 |
+| Pense Intersections |  |  |  |  |  |  |  |  |
+| 2 | 140-15-022 | Pense | 153.20-204.90 | 15.03 | 1.49 | 0.10 | 44 | 0.13 |
+| 3 | 141-15-020 | Pense | 180.00-221.10 | 11.94 | 1.64 | 0.14 | 27 | 0.25 |
+| 9 | 140-15-024 | Pense | 194.80-221.00 | 7.64 | 0.53 | 0.07 | 19 | 0.09 |
+| 10** | 140-15-025 | Pense | 192.00-199.00 | 2.04 | 0.95 | 0.46 | 14 | 0.26 |
+| 11 | 140-15-026 | Pense | 113.00-191.20 | 22.75 | 1.46 | 0.06 | 48 | 0.23 |
+| 12 | 140-15-027 | Pense | 194.00-207.10 | 3.83 | 0.40 | 0.10 | 12 | 0.03 |
+| Totals and Averages |  | Pense |  | 61.19 | 5.52 | $0.09^{3}$ | 150 | 0.25 |
+| Other Intersections |  |  |  |  |  |  |  |  |
+| 1 | 141-15-019 | FG VK | 147.55-171.55 | 7.00 | 0.14 | 0.02 | 9 | 0.02 |
+| 1 | 141-15-019 | RVK | 227.95-234.85 | 2.01 | 0.02 | 0.01 | 1 | 0.02 |
+| 3 | 141-15-020 | FG VK | 126.02-137.02 | 3.21 | 0.01 | 0.003 | 1 | 0.01 |
+| 4 | 141-15-021 | FG VK | 191.40-204.40 | 3.79 | 0.10 | 0.03 | 4 | 0.04 |
+| 5 | 141-15-022 | FG VK | 127.50-150.00 | 6.63 | 0.41 | 0.06 | 19 | 0.04 |
+| 5 | 141-15-022 | RVK | 217.60-227.60 | 2.92 | 0.14 | 0.05 | 5 | 0.06 |
+| 6 | 141-15-023 | FG VK | 143.10-163.00 | 5.86 | 0.26 | 0.04 | 15 | 0.05 |
+| 7 | 141-15-024 | FG VK | 139.60-160.19 | 6.06 | 0.47 | 0.08 | 19 | 0.08 |
+| 7 | 141-15-024 | SAK | 179.60-188.90 | 2.97 | 0.01 | 0.003 | 1 | 0.01 |
+| 8 | 140-15-023 | FG VK | 183.00-197.75 | 4.35 | 0.02 | 0.005 | 1 | 0.02 |
+| 9 | 140-15-024 | FG VK | 140.00-162.10 | 6.50 | 0.18 | 0.03 | 13 | 0.02 |
+| 11 | 140-15-026 | $\mathrm{P}^{+}$ | 191.20-194.00 | 0.81 | 0.02 | 0.03 | 1 | 0.02 |
+| Totals and Averages |  |  |  | 52.11 | 1.78 | $0.03^{3}$ | 89 | 0.08 |Notes: *Revised Mineral Resource Estimate utilises $\mathrm{cpm}^{3}$
+*P1 Minor unit modeled in this resource estimate
+**Reclassified after news release
+
+1) Kimberlite Types: EJF: Early Joli Fou Kimberlite; Pense: Pense Kimberlite; RVK: Reworked Volcaniclastic Kimberlite,
+FG VK: Fine Grained Volcaniclastic Kimberlite, P3: Early Pense Kimberlite
+2) Calculated Volumes are calculated using the calipered drill hole volumes or theoretical volumes where caliper is not available
+3) Commercial diamonds are defined as diamonds that will not pass through a +1 DTC screen, which has round apertures of 1.09 millimetres.
+4) $\mathrm{Cpm}^{3}$ : diamond grade in carats per metre cubed.
+5) Weighted average values.
+
+# 13.4. RTEC 2019 Trench Cutter Program 
+
+Upon completion of the ten-hole Trench Cutter Program in 2020/21 by RTEC, a total of 1,534.2 carats were recovered from $6,656.6$ of processed tonnes $\left(6,212.6 \mathrm{~m}^{3}\right.$ of calculated volume) derived from 150 individual kimberlite sample intervals. The results for each principal kimberlite unit sampled by the Trench Cutter are shown in Table 13-7.
+
+TABLE 13-7 TRENCH CUTTER RESULTS
+
+| Trench Hole <br> \# | Kimberlite <br> Type | Drill Intercept <br> (metres) | Drilled <br> Tonnes | Carats ( +1 <br> DTC) | Grade <br> (cpht) | Stones ( +1 <br> DTC) | Largest <br> Stone (ct) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 19FALCT001 | URVKU | $111.00-116.85$ | 56.89 | 0.61 | 1.07 | 29 | 0.02 |
+| 19FALCT001 | LJF | $116.85-146.04$ | 261.45 | 6.24 | 2.39 | 289 | 0.21 |
+| 19FALCT001 | MJF | $146.04-157.70$ | 109.82 | 3.58 | 3.26 | 168 | 0.07 |
+| 19FALCT001 | EJF | $157.70-228.44$ | 778.24 | 109.67 | 14.09 | 2031 | 3.27 |
+| 19FALCT002 | LJF | $108.50-119.20$ | 113.01 | 3.66 | 3.23 | 97 | 0.71 |
+| 19FALCT002 | MJFS | $119.20-131.80$ | 126.25 | 9.39 | 7.44 | 213 | 1.22 |
+| 19FALCT002 | LJF | $131.80-150.00$ | 180.04 | 4.11 | 2.28 | 196 | 0.06 |
+| 19FALCT002 | MJF | $150.00-168.10$ | 183.34 | 6.52 | 3.55 | 251 | 0.29 |
+| 19FALCT002 | EJF | $168.10-251.10$ | 927.83 | 143.48 | 15.46 | 2247 | 6.19 |
+| 19FALCT003 | URVKU | $(101.50-113.80)$ | 119.63 | 0.80 | 0.67 | 38 | 0.05 |
+| 19FALCT003 | MJFS | $(113.80-129.00)$ | 135.38 | 2.67 | 1.97 | 116 | 0.05 |
+| 19FALCT003 | LJF | $(129.00-141.00)$ | 113.79 | 2.20 | 1.93 | 108 | 0.13 |
+| 19FALCT003 | MJF | $(141.00-168.40)$ | 280.09 | 11.40 | 4.07 | 430 | 0.35 |
+| 19FALCT003 | EJFHZONE | $(168.40-174.20)$ | 65.61 | 1.85 | 2.81 | 28 | 0.72 |
+| 19FALCT003 | EJF | $(174.20-249.30)$ | 815.02 | 111.35 | 13.66 | 2102 | 6.28 |
+| 19FALCT004 | URVKU | $107.76-119.55$ | 114.67 | 0.87 | 0.76 | 34 | 0.21 || Trench Hole \# | Kimberlite Type | Drill Intercept (metres) | Drilled <br> Tonnes | Carats (+1 <br> DTC) | Grade (cpht) | Stones ( +1 DTC) | Largest Stone (ct) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 19FALCT004 | LJF | 119.55-149.57 | 267.20 | 3.96 | 1.48 | 165 | 0.11 |
+| 19FALCT004 | EJFHMUDST | 153.00-157.87 | 53.60 | 2.08 | 3.89 | 30 | 0.70 |
+| 19FALCT004 | EJFHMUDST | 162.55-165.05 | 28.54 | 0.21 | 0.75 | 6 | 0.08 |
+| 19FALCT004 | EJF (without mudstone dilution zones) | 149.57-233.89 | 840.34 | 116.15 | 13.82 | 2174 | 2.98 |
+| 19FALCT005 | LJF | 112.00-148.70 | 321.79 | 2.44 | 0.76 | 124 | 0.05 |
+| 19FALCT005 | EJF | 148.70-230.30 | 882.05 | 176.54 | 20.01 | 2631 | 16.96 |
+| 19FALCT006 | LJF | 111.35-120.90 | 95.57 | 1.71 | 1.79 | 61 | 0.28 |
+| 19FALCT006 | MJF | 120.90-160.30 | 405.66 | 25.51 | 6.29 | 721 | 0.82 |
+| 19FALCT006 | EJF | 160.30-241.48 | 889.28 | 172.14 | 19.36 | 2641 | 8.59 |
+| 19FALCT006 | URVKU | 115.00-117.90 | 30.13 | 0.09 | 0.30 | 4 | 0.03 |
+| 19FALCT006 | LJF | 117.90-144.70 | 256.80 | 5.32 | 2.07 | 210 | 0.35 |
+| 19FALCT006 | MJF | 144.70-148.00 | 31.59 | 1.51 | 4.76 | 57 | 0.07 |
+| 19FALCT006 | EJF | 148.00-225.10 | 840.14 | 203.76 | 24.25 | 3263 | 10.13 |
+| 19FALCT008 | LJF | (124.30-137.70) | 119.90 | 1.16 | 0.97 | 66 | 0.03 |
+| 19FALCT008 | MJF | (137.70-148.10) | 104.70 | 5.58 | 5.33 | 157 | 0.84 |
+| 19FALCT008 | EJF | (148.10-200.10) | 563.70 | 81.88 | 14.53 | 1744 | 3.39 |
+| 19FALCT008 | EJF <br> (Ash/Lapilli) | (200.10-211.90) | 138.39 | 2.66 | 1.92 | 77 | 0.19 |
+| 19FALCT008 | EJF | (211.90-230.80) | 231.66 | 44.91 | 19.38 | 668 | 4.08 |
+| 19FALCT009 | LJF | (123.20-144.30) | 209.52 | 1.94 | 0.92 | 92 | 0.09 |
+| 19FALCT009 | EJF | (144.30-227.91) | 920.44 | 134.47 | 14.61 | 2357 | 3.79 |
+| 19FALCT010 | URVKU | (123.00-129.60) | 61.99 | 0.10 | 0.16 | 5 | 0.02 |
+| 19FALCT010 | LJF | (129.60-135.80) | 55.70 | 0.41 | 0.73 | 16 | 0.07 |
+| 19FALCT010 | EJF | (135.80-227.20) | 989.88 | 127.74 | 12.90 | 2901 | 2.69 |
+| 19FALCT010 | CPK | (227.20-233.00) | 71.85 | 3.57 | 4.97 | 83 | 0.81 |
+| Total |  |  | 12,791.44 | 1,534.21 |  | 2,8630 |  |# 14. MINERAL RESOURCE ESTIMATES 
+
+### 14.1. InTRODUCTION
+
+During the period March 2024 to July 2024, Ravenscroft Mining Advisors. and ACA Howe International Ltd. ("Howe") carried out a Revised MRE study for both the Star and Orion South diamond deposits. This section of the Report presents MRE update methodologies, results and validations for each deposit.
+
+In the opinion of the Authors, the Revised Mineral Resource Estimate reported herein is a reasonable representation of the global diamond mineral resources at the Star and Orion South diamond deposits based on the current level of sampling. The Revised MREs have an effective date of July 24, 2024 and are reported in accordance with the Canadian Securities Administrators' National Instrument 43-101. MRE are generated in conformity with generally accepted CIM "Estimation of Mineral Resource and Mineral Reserves Best Practice Guidelines" (CIM Council, 2003) including the "Guidelines for Reporting of Diamond Exploration Results".
+
+The Revised MRE for the Star and Orion South deposits are prepared under the supervision of P. Ravenscroft, FAusIMM, owner of Ravenscroft Mining Advisors and a Qualified Person for the reporting of Mineral Resources as defined by NI 43-101. Creation of geological domains, block modelling and pit optimization is undertaken by L. McGarry, Howe Senior Associate Geologist. Mr. Ravenscroft visited the Star and Orion South project site on April 152015 to review the geology and observed the 2015 core drilling process. Mr. McGarry visited the Star and Orion South project sites on September 27, 2015 to review diamond drill core and confirm the location of drill collars. Mr. Leroux visited the project on several occasions to review and audit the QA/QC RTEC Trench Cutter Program and Processing from October 10, 2018 and June 15, 2019, and February 14-15, 2020, and third party sample processing supervision from May 24, 2020 to December 3, 2020.
+
+Mineral resource modelling and estimation is carried out using the commercially available Micromine (Version 2021) software program. In this Report, all units are expressed in the metric system, and diamond grades are given as carats per-meter cubed (" $\mathrm{cpm}^{3}$ ), carats per-metric tonne ("cpt") or carats-per-hundred-metric tonnes ("cpht") values.
+
+Reported Mineral Resources are not Mineral Reserves and do not have demonstrated economic viability. There is no guarantee that all, or any part, of a Mineral Resource will be converted into a Mineral Reserve.Previous MREs generated for the projects are described in earlier technical reports for Star and Orion South (Leroux, et al. 2018). The current MREs presented in this Report supersede all past estimates and benefit from the changes that are summarized in Section 14.13 'Comparison With Previous Resource Estimate'.
+
+# 14.2. DATA SUMMARY 
+
+The Authors have reviewed sample collection methodologies adopted by the Company and previous operators and are satisfied that data collection methodologies are of a standard to allow the estimation of resources under CIM guidelines and that mineral resource databases for the Star and Orion South diamond deposits fairly represent the primary information.
+
+Prior to constructing a mineral resource database for each deposit, files are interrogated via Micromine validation functions to cross reference collar, survey, assay and geology files in order to confirm drill hole depths, inconsistent or missing sample or logging intervals, and downhole survey data.
+
+The Star and Orion deposit geometries are dominantly isotropic in plan and drilling comprises vertical holes on a north-south, east-west orientated grid. Accordingly, coordinates collected in the UTM NAD 83 Zone 13 projection system are not converted to a local grid.
+
+### 14.2.1 STAR
+
+Howe relied on the following drill and underground bulk sample data provided by Star Diamond in the form of a data compilation containing a series of Microsoft Excel tables and Micromine database files delivered to Howe during May 2024.
+
+- 326 surface core drill holes, completed between 1996 and 2019 including 313 diamond core holes and 13 sonic core holes;
+- 213 underground diamond core drill holes completed between 2004 and 2006;
+- 105 LDD holes completed between 1996 and 2008;
+- 2 LDD holes completed in 1996 and 2001, for which no sampling data is used. (134-96-001RC and STAR-31RC).
+- 103 48" holes completed between 2005 and 2008, of which 96 LDD holes reported diamond sampling data. Seven holes did not sample kimberlite due to drilling difficulties (e.g. hole collapse or deviation).
+- 321 underground bulk sample batches; and,
+- 10 Trench Cutter (TC) holes completed in 2019.A mineral resource database for the deposits is created in Micromine that incorporates the files contained in Table 14-1.
+
+# 14.2.1.1 Data Editing in 2015 
+
+Upon review, a number of samples were removed from the underground bulk sample database. These 'clean up' or 'slash' samples were collected after extraction of in situ rock and comprised small tonnages of mixed material that are deemed to be unrepresentative of the assigned lithologies. These samples are as follows. STAR_UGB_073, 74, 78, 149, 150, 151, 173, 226.
+
+## Table 14-1 Star Micromine Input Data Files
+
+| MM Data Type | Number of Records | Number of Holes | Metres | Comments |
+| :--: | :--: | :--: | :--: | :--: |
+| MM Database |  |  |  |  |
+| Collar |  |  |  |  |
+| Surface core | 326 | 326 | 73,740 |  |
+| Underground core | 213 | 213 | 16,881 |  |
+| LDD | 105 | 105 | 16,881 | Of which, 7 failed, 97 were logged and 96 were sampled. |
+| TC | 10 | 10 | 21,725 |  |
+| Bulk Sample | 321 | 321 |  |  |
+| Down Hole Survey |  |  |  |  |
+| Surface core | 1,114 | 326 |  |  |
+| Underground core | 1,157 | 213 |  |  |
+| Geology |  |  |  |  |
+| DDH | 7,152 | 309 | 71,555 |  |
+| UG | 2,362 | 212 | 16,870 |  |
+| LDD | 1,331 | 99 | 9,620 | Of which 870 intervals were processed. |
+| TC | 150 | 10 | 1,213 | 150 Processed |
+| Bulk Samples |  |  |  |  |
+| LDD Samples | 870 | 96 | 7,702 | Samples equal 11,663 processed tonnes |
+| TC | 150 | 10 | 1,213 |  |
+| Underground Samples | 317 | 317 |  |  |
+| Additional Input Data |  |  |  |  |
+| Various geological cross sections and plan maps showing EM survey data. |  |  |  |  |
+| Star_DEM_Sand.dxf |  |  |  |  |
+| Star UG.dxf |  |  |  |  |# 14.2.2 ORION SOUTH 
+
+Howe relied on the following drill data and underground bulk sample data provided by Star Diamond in the form of a data compilation containing a series of Microsoft Excel tables and Micromine database files delivered to Howe during May 2024.
+
+- 261 surface core drill holes, completed between 1993 and 2019;
+- Including 47 diamond drill holes completed between 2010 and 2015;
+- and 23 diamond drill holes and 21 sonic core holes core completed in 2019.
+- 89 LDD holes completed between 1996 and 2010 of which 76 LDD holes reported diamond sampling data;
+- Including 14 LDD holes completed between 2010 and 2015, of which 12 intersected kimberlite;
+- $\quad 75$ LDD holes completed prior to 2009, of which 64 intersected kimberlite and are sampled. Five (5) holes failed due to drilling difficulties. Samples from eight (8) pre 2000 six (6) inch holes are not used in this study. Three (3) LDD holes were completed for geotechnical purposes.
+- 78 underground bulk samples (from 75 batches).
+
+A mineral resource database for the deposit is created in Micromine that incorporates the files contained in Table 142 .
+
+### 14.2.2.1 Data Editing - 2015
+
+In 2015, the clean up sample OS_UGB_OS-016 of small tonnage and mixed material was removed from the underground bulk sample database for the 2015 MRE.
+
+The geological log for diamond drill hole 140-02-015C conflicted with hole LDD-140-08-013. Hole 140-02-015C was completed in 2002 and the collar surveyed by handheld GPS, following a review of satellite imagery and after consideration of the orientation of the EJF and Pense contact, the hole collar was moved 20 m to the west-northwest.TABLE 14-2 Orion South MiCromine Input Data Files
+
+| MM Data Type | Number <br> of <br> Records | Number <br> of Holes | Metres | Comments |
+| :--: | :--: | :--: | :--: | :--: |
+| MM Database |  |  |  |  |
+| Collar |  |  |  |  |
+| Surface core | 246 | 246 | 55,091 |  |
+| LDD | 89 | 89 | 19,796 |  |
+| Down Hole Survey |  |  |  |  |
+| Surface core | 602 | 246 |  |  |
+| Geology |  |  |  |  |
+| Surface core | 5,220 | 229 | 53,399 |  |
+| LDD | 2,127 | 80 | 11,875 |  |
+| Bulk Sample |  |  |  |  |
+| LDD Samples | 978 | 76 | 9,431 |  |
+| Bulk Samples | 76 | 74 |  |  |
+| Additional Input Data |  |  |  |  |
+| Various geological cross sections and plan maps showing EM survey data. |  |  |  |  |
+| Star_DEM_Sand.dxf |  |  |  |  |
+| Star UG.dxf |  |  |  |  |
+
+# 14.3. Geological Models 
+
+At Star and Orion South, multiple eruptive kimberlite units are identified, of which well mineralized units that have been the focus of ongoing exploration are modeled for inclusion in the MRE. Overlying till, country rock and kimberlite domains that do not form part of the mineral resource are also modeled to improve the economic assessment of the deposits.
+
+Geological interpretations are made on a series of east-west and north-south orientated cross sections at 50 m to 100 m line spacings. The basal contact of each lithological unit is modeled in section by digitizing a polyline that is snapped to logged lithological intervals. Polylines create a mesh that defines the basal contact surface of modeled units. Where constrained by drill hole or underground mapping data, the polyline extrapolation distance is taken to be half the distance to the constraining drill hole or underground development. Where not defined by drilling, the distal limit to kimberlite units is defined by electromagnetic ("EM") signatures (See Section 7, Figure 7.5). Polylines are extrapolated over a maximum lateral distance of 300 m from the nearest drill hole. The lower limit to the kimberlite model is based on the deepest drillhole (RC or core) intersection. Outer limits to country rock and till lithologies are defined by the overall geological model extent, which is large enough to ensure that any Whittle pit shell is completely filled with blocks representing either kimberlite, till or country rock. To generate a 3D geological model, basal contact surfaces are sequentially applied to a small cell ( $5 \mathrm{~m} \times 5 \mathrm{~m}$ x 2.5) block model in stratigraphic order such that geological cross cutting relationships are honored.
+
+Where differences in logged kimberlite lithology are seen between proximal LDD-RC-TC and core drill hole intervals, the logged LDD-RC lithology is used to ensure that bulk samples are correctly assigned to the dominant rock type recorded in the sample log.
+
+# 14.3.1 STAR 
+
+At Star four well mineralized kimberlite units are modeled for resource estimation and are listed below. The Star EJF kimberlite unit is subdivided into Inner (vent proximal) and Outer (vent distal) domains that are associated with the formation of a cinder cone Figures 7-5, 14-1. Star Diamond geologists undertook further subdivision of kimberlite units to differentiate kimberlite breccias and pyroclastic kimberlite sub-units. However, due to the discontinuous and interfingering nature, modelling of these sub-units is impractical at the scale of the deposit.
+
+## Resource Kimberlites:
+
+- Mid Joli Fou Kimberlite (MJF)
+- Early Joli Fou Kimberlite (EJF)
+- Pense Kimberlite (PPK)
+- Cantuar Kimberlite (CPK)
+
+
+## Till, Country Rock and Non Resource Kimberlites:
+
+- Till (TILL)
+- Westgate Formation (WF)
+- Upper Resedimented. Volcaniclastic Kimberlite Unit (URVKU)
+- Late Joli Fou Kimberlite (LJF)
+- Juvenile Lapilli Rich Pyroclastic Kimberlite (JLRPK)
+- Lower Colorado Formation (LOCO)
+- Cantuar Formation (CF)
+- 134 Volcaniclastic Kimberlite (VK-134)
+
+Lithology model domains are listed in Table 14-3 with dimensions and approximate drill holes spacing. Kimberlite model domains are shown in 3-D in Figure 7-14 in Section 7.4.1. An example section through kimberlite, till and country rock domains is shown in Figure 14-1.Within mineralized kimberlite domains, there are discrete zones of low-grade material that are not sufficiently defined to be modeled separately. There zones may be the result of waste kimberlite slumps, xenoliths or horizons of interstitial mud, shale and Cantuar units. The thickness of these units is typically less than 5 m and at the current drill spacing it is necessary to incorporate these units as internal dilution zones.
+
+Within the LJF domain, a slump of older MJF material is modeled as a thin and discontinuous unit. On the outer flanks of the MJF cinder cone, LOCO and URVKU units become interbedded. Within the URVKU sequence, transgressive LOCO strata range from 5 m to 30 m . To simplify modelling these strata are incorporated into the URVKU domain. Within the till domain sand and clay sequences are combined.
+
+As shown in Figure 14-1, to the east of the EJF and MJF vents the CPK unit has a thickness of up to 40 m that rapidly pinches out into series of thin and discontinuous horizons. The difficulty of modelling the continuity of the CPK to the north of the deposit limits the inclusion of this unit above the $5,897,920 \mathrm{mN}$ into the resource model.
+
+Table 14-3 Star Lithology Model Domain Details
+
+| Code | Type* | Modeled <br> Area <br> (km2) | Average <br> Thick- <br> ness (m) | Vol. <br> (million <br> $\mathbf{m}^{3}$ ) | Depth <br> Extent <br> (m) | DDH <br> Density <br> $\left(\mathbf{m}^{2}\right)$ | LDD <br> Density <br> (m) | n TC+LDD <br> and (UG) <br> Samples |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| TILL | TL | 17.00 | 96 | 1637.15 | 310.5 | 50 to 300 | - | 0 |
+| WF | CR | 17.00 | 30 | 504.48 | 271.5 | 50 to 300 | 50 to 300 | 0 |
+| URVKU | CR | 2.15 | 13 | 28.53 | 265.5 | 50 to 100 | 50 to 200 | 113 |
+| JLRPK | KM | 0.08 | 22 | 1.78 | 43.5 | 50 to 100 | 100 | 9 |
+| LOCO | CR | 17.00 | 39 | 668.57 | 239.5 | 50 to 300 | 100 to 600 | 8 |
+| CF | CR | 17.00 | 252 | 4,286 | 0 | 100 to 300 | 100 to 300 | 8 |
+| VK-134 | KM | 0.46 | 46 | 21.36 | 192 | 200 | 300 | 1 |
+| LJF | KM | 2.74 | 8 | 21.19 | 255 | 50 to 200 | 50 to 300 | 136 (5) |
+| MJF | KR | 0.29 | 42 | 12.30 | 0 | 50 to 100 | 50 to 100 | 112(9) |
+| EJF | KR | 3.89 | 21 | 83.55 | 78 | 20 to 300 | 50 to 300 | 639 (211) |
+| PPK | KR | 1.49 | 9 | 13.44 | 190.5 | 20 to 200 | 50 to 300 | 42 (44) |
+| CPK | KR | 1.43 | 8 | 12.10 | 165 | 20 to 300 | 50 to 300 | 39 (48) |
+
+*TL= Till, CR= Country Rock, KM=Kimberlite, KR= Resource KimberliteFigure 14-1 Star Lithology Domains Section 5,897,440N
+![img-36.jpeg](img-36.jpeg)# 14.3.2 Orion South 
+
+At Orion South three well mineralized kimberlite units are modeled for resource estimation and are listed below. The Orion South EJF kimberlite unit is subdivided into Inner (vent proximal) and Outer (vent distal) domains that are associated with the formation of a cinder cone (Figure 14-2). As at Star, kimberlite units are differentiated into kimberlite breccias and pyroclastic kimberlite sub-units. However, due to the discontinuous and interfingering nature, modelling of these sub-units is impractical at the scale of the deposit.
+
+## Resource Kimberlites:
+
+- Early Joli Fou Kimberlite (EJF)
+- Pense Kimberlite (PENSE)
+- Early Pense Kimberlite (P3)
+
+
+## Till, Country Rock and Non Resource Kimberlites:
+
+- Till (TILL)
+- Kimberlitic Sandstone (KSST)
+- Colorado Formation (CRCOL)
+- Mannville Formation (CRMANN)
+- Late Joli Fou Kimberlite (LJF)
+- Viking Pyroclastic Kimberlite-SE (VPK-SE)
+- Viking Pyroclastic Kimberlite-NW (VPK-NW)
+- Cantuar Pyroclastic Kimberlite (CPK)
+
+Lithology model domains are listed in Table 14-4 with dimensions and approximate sample spacing. Kimberlite model domains are shown in 3-D in Figure 7-15 in Section 7.4.2. An example section through kimberlite, till and country rock domains, is shown in Figure 14-2.TABLE 14-4 ORIon South LithOLOGY MODEL DOMAIN DETAILS
+
+| Code | Type* | Modeled <br> Area <br> $\left(\mathbf{k m}^{2}\right)$ | Average <br> Thick- <br> ness (m) | Vol. <br> (million <br> $\mathbf{m}^{\mathbf{3}}$ ) | Depth <br> Extent <br> (m) | DDH <br> Density <br> $\left(\mathbf{m}^{\mathbf{2}}\right)$ | LDD <br> Density <br> (m) | n LDD <br> and (UG) <br> Samples |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| TILL | TL | 10.5 | 106 | $1,109.07$ | 120 | 50 to 500 | - | 0 |
+| KSST | CR | 1.21 | 9 | 10.30 | 445 | 50 to 200 | 50 to 200 | 18 |
+| CRCOL | CR | 10.09 | 63 | 630.85 | 155 | 10 to 500 | 100 to 500 | 5 |
+| CRMANN | KM | 10.50 | 144 | $1,511.18$ | 445 | 50 to 500 | - | 1 |
+| VPK-SE | CR | 0.96 | 10 | 9.58 | 220 | 100 to 150 | - | 0 |
+| VPK-NW | CR | 0.21 | 20 | 4.24 | 445 | 50 to 150 | 50 to 200 | 25 |
+| CPK | KM | 0.29 | 12 | 3.49 | 205 | 100 | 100 to 300 | 14 |
+| LJF | KM | 1.29 | 12 | 15.11 | 315 | 50 to 200 | 50 to 150 | 105 |
+| EJF | KR | 3.12 | 37 | 116.89 | 330 | 50 to 500 | 50 to 150 | $583(34)$ |
+| PENSE | KR | 0.84 | 44 | 37.33 | 230 | 50 to 300 | 50 to 150 | $212(27)$ |
+| P1 | KM | 4.52 | 4 | 17.02 | 235 | 50 to 500 | - | 0 |
+| P3 | KR | 0.16 | 21 | 3.42 | 395 | 100 | 100 to 200 | 13 |
+
+*TL= Till, CR= Country Rock, KM=Kimberlite, KR= Resource Kimberlite
+
+The limited amount of core drilling available to define the CPK and VPK units, and the small number of LDD-RC samples collected from these domains precludes their use in resource estimation. The P2 unit is now referred to as the Pense domain. Contiguous with the Pense unit, recent drilling has sufficiently delineated the P3 unit to allow its inclusion in the resource model.
+
+Within mineralized kimberlite domains, there are discrete zones of low-grade material that are not sufficiently defined to be modeled separately. The thickness of these units is typically less than 5 m , however, within the EJF domain the Sediment and Kimberlite (SAK) unit (an inter crater sedimentary unit,) can reach a thickness of 10 m . At the current drill spacing the discontinuity of identified waste units necessitates their incorporation as internal dilution zones.Figure 14-2 Orion South Lithology Domains Section 5,900,720N
+![img-37.jpeg](img-37.jpeg)
+
+# 14.4. Block Models 
+
+At both the Star and Orion South deposits, a full block model is created in Micromine to encompass resource kimberlite domains and to accommodate surrounding till, country rock and any resultant pit shell models.
+
+Within the full block model, large blocks are assigned the proportion of each lithology that the block encompasses, as defined by the small cell geological model. The volume and tonnage estimate for each geological unit within the block is calculated and recorded in the model. For each mineralized kimberlite fields that contain the diamond value and diamond grade are added.
+
+### 14.4.1 STAR
+
+A parent block model size of $50 \mathrm{~mE} \times 50 \mathrm{mN} \times 15 \mathrm{mRL}$ is selected for grade estimation at Star, corresponding to a distance not less than one third of the LDD bulk sample grid, which is typically 50 to 150 m . Block height is limited to the maximum permissible bench height. Each parent block represents $37,500 \mathrm{~m}^{3}$ or approximately 2 days of mining based on a nominaldensity of $2.0 \mathrm{t} / \mathrm{m}^{3}$ and an extraction rate of $45,000 \mathrm{tpd}$ which was envisioned in the 2018 PEA study (Leroux, et al. 2018). Star's block model definitions are presented in Table 14-5.
+
+Table 14-5 Star Block Model Definitions
+
+|  | Min <br> Extent | Max <br> Extent | Block Size | Number of <br> blocks |
+| :--: | :--: | :--: | :--: | :--: |
+| East | 512,500 | 517,000 | 50 | 90 |
+| North | $5,895,500$ | $5,899,300$ | 50 | 76 |
+| RL | 0 | 495 | 15 | 33 |
+
+# 14.4.2 Orion South 
+
+A block model size of $50 \mathrm{mE} \times 50 \mathrm{mN} \times 15 \mathrm{mRL}$ is selected for modelling Orion South, corresponding to a distance not less than one third of the LDD bulk sample grid, which is typically 50 to 150 m . Block height is limited to the maximum permissible bench height. Orion South's model definitions are presented in Table 14-6.
+
+Table 14-6 Orion South Model Definitions
+
+|  | Min <br> Extent | Max <br> Extent | Block Size | Number of <br> blocks |
+| :--: | :--: | :--: | :--: | :--: |
+| East | 512,000 | 515,000 | 50 | 60 |
+| North | $5,899,000$ | $5,902,500$ | 50 | 70 |
+| RL | 0 | 480 | 15 | 32 |
+
+### 14.5. Alignment Of LDD Grade Data
+
+The same methodology that was used in the November 2015 Technical Report has been used in the 2024 MRE update, with the only change being an adjustment for improved recovery of small diamonds as achieved in the November 2019 Trench Cutter sampling program.
+
+The approach used for grade estimation is the combination of the stone counts per sample with diamond size frequency distributions. This obviates the artificial local bias introduced by the direct use of carats per metre cubed $\left(\mathrm{cpm}^{3}\right)$ or carats per hundred tonnes (cpht), and is a common diamond industry practice. Working with the size frequency distribution (SFD) curves alsoallows for the alignment of sampling results from different sampling methods and sampling campaigns to ensure a consistent, robust approach to grade estimation.
+
+# 14.5.1 The Need for Sample Grade Alignment 
+
+In preparing sample data for grade estimation, a number of features of the sampling of the StarOrion South deposits need to be considered:
+
+- Sample size effect: use of relatively small samples from low grade diamond deposits introduces significant local variability, primarily due to the irregular occurrence of larger stones.
+- Geological impacts on sample grades: sample grades from coarser vs finer material (ie the KB vs PK rock types in the EJF) are impacted differently.
+- Known limitations of drilling procedures: there were difficulties in the implementation of large diameter reverse flood drilling, including the use of aggressive drilling techniques in the 48 inch holes which lead to demonstrated diamond breakage and loss.
+- Variety of different sampling campaigns at Orion South: this kimberlite was sampled over five separate campaigns, each one using different drillhole sizes (24, 36 and 48 inch LDD), different process plants and different flowsheets (lower cut-off size, recrush, etc).
+- Changes to assumptions about process plant recovery, particularly of small stones.
+- Discrepancies between LDD results and Underground Bulk Sampling: consistently higher grades were reported from underground bulk samples than from nearby LDD samples in the same kimberlitic lithology, and there were consistent differences in SFD between the two sampling techniques.
+
+The methodology used to incorporate the above effects is discussed below.
+
+### 14.5.2 Grade Alignment Process
+
+Alignment of sample SFDs is done in two steps, with the first step resulting in adjustment of each individual sample grade to allow for the first five of the issues identified above, and the second step applying an overall adjustment in each defined lithology to account for residual differences with respect to underground bulk sampling results.
+
+### 14.5.2.1 Step 1
+
+This step effectively removes the sample size effect and "fills out" the sample SFD to match the underlying reference curve. Separate reference curves are used for each kimberliticlithology, and for the PK/KB rock types in the EJF. For Orion South, the reference curve in each kimberlitic lithology is based on 48 -inch drilling results to enable the automatic adjustment of effects of different plant flowsheets used for 24 and 36 inch drilling campaigns.
+
+For the Revised MRE update, reference curves are modified to model the recovery profile of small stones $(+1,+3$ and +5 DTC size classes) that was achieved in the 2019 Trench Cutter program.
+
+# 14.5.2.2 Step 2 
+
+This step results in an adjustment of the grades to reflect the SFD, adjusted for small stone recovery, seen in underground bulk samples, and to account for stone breakage/loss in LDD sampling. It is applied as a single overall adjustment within each lithology.
+
+### 14.5.3 Grade Alignment Implementation
+
+As an example of the Step 1 alignment process, the grade/size SFD curves for the EJF PK Inner domain at Orion South are shown in 14-3 below. They compare results for the 48-, 36- and 24inch drilling, and the curves are "normalised" over the size classes +5 to +9 DTC to remove any local grade differences. It is seen that there is excellent correspondence between the curves for size classes +5 DTC and larger, but that for smaller size classes differences in process plant recovery are evident. In effect, the 48 -inch drilling was completed with a 1.0 mm bottom cutoff size, while the 36 -inch drilling was done with a 1.6 mm bottom cut-off and no recrush, and the 24 -inch drilling used a mix of bottom cut-off sizes from 0.85 mm to 1.6 mm .Figure 14-3 Comparative SFDS For Orion South LDD
+
+# Grade/Size Curve 
+
+Average Grade (spm3) per Size Class - normalised over +5 to +9 size classes
+![img-38.jpeg](img-38.jpeg)
+—LLDD EJF 48 inch PK Inner LLDD EJF 36 inch PK Inner LLDD EJF 24 inch PK Inner
+
+|  |  | Ave |  |  |  | Total | spm3 |  |
+| :-- | --: | --: | --: | --: | --: | --: | --: | --: |
+|  | Tonnes | Carats | cpht | Volume | \# stones | spm3 | +5 to +9 | MSS |
+| LDD EJF 48 inch PK | 3,174 | 275 | 8.7 | 1,441 | 3,034 | 2.10 | 1.03 | 0.091 |
+| LDD EJF 36 inch PK | 429 | 42 | 9.7 | 194 | 379 | 1.95 | 1.47 | 0.110 |
+| LDD EJF 24 inch PK | 362 | 31 | 8.5 | 164 | 338 | 2.06 | 1.32 | 0.091 |In order to rationalise all sample grades to a consistent basis, the 48 inch SFD was selected as being the representative SFD (this was the largest LDD drilling program conducted at Orion South, and also results in consistency with the Star results).
+
+Before being used as the representative SFD for each lithology, two adjustments were made to these curves:
+
+- The recovery profile achieved in the 2019 Trench Cutter program is modeled by deriving simple factors of the $+1,+3$ and +5 stones relative to the +7 stones in this program. These factors were then applied to the +7 stones of each of the reference curves.
+- In order to smooth out irregularities in the reference curve SFDs, and to apply some form of extrapolation into large size classes, a simplistic assumption of lognormality was made, with fitted models applied to larger size classes (generally from around 3 grainer sizes and larger).
+
+Examples of this adjustment of reference curves are shown in Figure 14-4 for Orion South 48inch LDD and for the Star EJF PK Inner. The difference between the red curve and the Actual SFD in each case shows the additional recovery of small stones, leading to a $32 \%$ increase in overall grade in both cases. The fitting of a lognormal model in the larger size classes, shown as the green curve, results in a very minor $0-1 \%$ increase in sample grade.Figure 14-4 Recovery Adjustments to reference Curves
+![img-39.jpeg](img-39.jpeg)
+
+For each individual LDD sample the adjusted representative SFD curve was fitted through the sample SFD to best honour the actual sample grade whilst introducing the effect of recovering stones across the entire size distribution in the same proportions as the representative SFD. This effectively "fills out" the sample SFD to reproduce the entire curve, and also removes the effect of incomplete recovery of smaller stones or erratic recovery of larger stones in a small sample.
+
+This process is implemented for all samples, with the reference curve in each case being defined by the sample lithology or rock type, and the same is done at both Star and Orion South.
+
+The Step 2 alignment process is also best illustrated by an example, this time taken from the EJF PK rock type at Star. Using the central area of the underground bulk sampling and comparing results against LDD sampling within a 100 m distance of this area, comparative SFDs are shown in Figure 14-5. Here it is seen that the UG results show a similar grade to the LDDs in the small size classes $(-3,+3,+5 \mathrm{DTC})$ but that the LDD curve shows a consistently increasingshortfall in stones recovered across all size classes from +7 DTC upwards. This is attributed to the effect of diamond breakage and loss in the aggressive 48 -inch drilling undertaken at Star, and results in average sampled grades in this comparative area of 9.6 cpht in the LDDs vs 18.1 cpht from the UG samples. Similar results are seen in other kimberlitic lithologies at Star, although it is noted that the example given here is the most extreme case, and the differences are less marked in units where drilling was easier, and less diamond breakage and loss occurred.
+
+In order to account for these differences, the adjusted LDD reference curves used for each lithology in the Step 1 alignment were themselves aligned with the appropriate curve derived from UG sampling (adjusted in the same way as LDD reference to reflect updated assumptions on diamond recovery), resulting in a second overall adjustment of sample grades.Figure 14-5 Comparative SFDS For LDD Vs UGBS Star EJF
+![img-40.jpeg](img-40.jpeg)# 14.5.4 Grade Alignment Results 
+
+Although grade alignment was completed on a sample by sample basis, the overall results on sample grade in each kimberlitic lithology are summarised by the average alignment factors shown in Table 14-7. These are compared in the table with the 2015 results given in the 2015 Howe Technical report, as well as the "LDD Factors" used in the previous 2009 Star and Orion South resource estimates. It should be noted that the 2009 LDD Factors did not take into account the full effect of the SFD resulting from small samples, nor did they make any adjustments for under-recovery of small stones in some of the Orion South drilling campaigns.
+
+Table 14-7 Average LDD Grade Alignment Factors
+
+|  | Current Estimate |  |  | 2015 MRE |  |  | $\begin{gathered} 2009 \text { LDD } \\ \text { Factor } \end{gathered}$ |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Unit | Step 1 | Step 2 | Total | Step 1 | Step 2 | Total |  |
+| Star |  |  |  |  |  |  |  |
+| Cantuar | 1.23 | 1.66 | 2.05 | 1.05 | 1.63 | 1.71 | 1.62 |
+| EJF PK Inner | 1.28 | 1.91 | 2.45 | 0.97 | 1.88 | 1.83 | 1.62 |
+| EJF PK Outer | 1.11 | 1.91 | 2.12 | 0.99 | 1.88 | 1.86 | 1.62 |
+| EJF KB | 1.39 | 1.40 | 1.94 | 1.03 | 1.47 | 1.52 | 1.62 |
+| Pense | 1.26 | 1.53 | 1.93 | 1.02 | 1.46 | 1.49 | 1.62 |
+| MJF/LJF | 0.98 | 1.91 | 1.87 | 0.97 | 1.88 | 1.83 | 1.62 |
+| Other | 0.98 | 1.91 | 1.87 | 0.97 | 1.88 | 1.83 | 1.62 |
+| Orion South |  |  |  |  |  |  |  |
+| EJF PK Inner | 1.37 | 1.91 | 2.61 | 1.10 | 1.89 | 2.09 | 1.74 |
+| EJF PK Outer | 1.26 | 1.91 | 2.41 | 0.92 | 1.89 | 1.75 | 1.74 |
+| EJF KB | 1.83 | 1.40 | 2.56 | 1.37 | 1.47 | 2.01 | 1.74 |
+| Pense | 1.28 | 0.98 | 1.25 | 0.94 | 1.03 | 0.97 | 1.41 |
+| Other | 1.65 | 1.91 | 3.15 | 1.25 | 1.00 | 1.25 | - |
+
+The revised grade factors in the current MRE result in an increase in average estimated grade of some $20 \%$ for Star and $32 \%$ for Orion South, as will be shown in Section 14.13. This is almost exclusively due to the assumption of increased recovery of small diamonds. The impact on average price of these additional small stones is reflected in the diamond price estimates presented in Section 11.7.The application of the grade alignment process described in this section has resulted in a consistent set of LDD sample grades expressed in carats per meter cubed ("cpm ${ }^{3 \text { " }}$ ) at the same level of recovery as achieved in the 2019 Trench Cutter program. All reference to LDD sample grades in the remainder of this document is to these adjusted grades. They are used along with similarly adjusted underground bulk sample grades and 2019 Trench Cutter grades in $\mathrm{cpm}^{3}$ for exploratory data analysis and grade interpolation.
+
+# 14.6. EXPLORATORY DATA ANALYSIS 
+
+Sample data is grouped into lithological domains for statistical analyses of diamond grade and bulk density. Spatial data analysis is considered prior to block model grade estimation in an attempt to generate a series of semi-variograms that define directions of anisotropy and spatial continuity of diamond grades. Underground samples are excluded from variographic analysis to prevent clustered samples, in a small portion of the deposit, from introducing short range variability that is not representative of the domain as a whole. Boundary analysis is undertaken to identify the relationship of diamond grades across modeled contacts.
+
+Sample grades derived and described in Section 14-5 do not contain extreme values. Accordingly, it is not considered necessary to apply capping or outlier restrictions to processed samples.
+
+### 14.6.1 STAR
+
+The Star Kimberlite resource database contains diamond data from trench cutter batch samples, LDD batch samples and bulk samples collected from underground development shafts and drifts.
+
+- Trench cutter sampling of the Star deposit comprises 10 Trench Cutter holes with diamond sampling data comprising 6,656.6 processed tonnes $\left(6,212.6 \mathrm{~m}^{3}\right.$ of calculated volume) from which 1,534.2 carats are recovered;
+- LDD sampling of the Star deposit comprises 103 LDD holes, of which 96 LDD holes reported diamond sampling data comprising 11,662.87 processed tonnes $\left(8,907.4 \mathrm{~m}^{3}\right.$ of calculated volume) from which 1,416.69 carats are recovered; and,
+- Underground drift bulk sampling of the Star deposit comprises 66,545.09 tonnes from which 10,547.87 carats were recovered.# Compositing of LDD samples 
+
+Sample volumes for trench cutter and LDD drilling are derived from caliper logs of the LDD drill holes. For the 708 LDD and 124 TC samples collected from mineralized kimberlite domains identified in Table 14-8 the average sample volume is $10 \mathrm{~m}^{3}$ and $40 \mathrm{~m}^{3}$ respectively (Figure 14-6). Because of the large sample volumes and mass, the authors chose not to composite the samples for the Mineral Resource estimation.
+
+Figure 14-6 Star Sample Volumes
+![img-41.jpeg](img-41.jpeg)
+
+## Simple Statistics
+
+Univariate statistics for diamond grades in $\mathrm{cpm}^{3}$ collected from each mineralized kimberlite domain are presented in Table 14-8. Histograms are presented in Figure 14-7. The following features are observed:
+
+- The EJF domain shows a reasonably symmetric diamond grade distribution in both the Inner and Outer domains. For LDD and TC samples, the mean EJF Inner domain grade of $0.4301 \mathrm{cpm}^{3}$, is $48 \%$ higher than the outer domain grade of $0.23 \mathrm{cpm}^{3}$ indicating a change of mineralization intensity.
+- The Pense domain shows a jagged distribution of grades. There is a break in the grade distribution at approximately $0.3 \mathrm{cpm}^{3}$, below which a group of lower grade samplesmay be diluted by a shale horizon logged within the Pense unit and encountered in underground drilling. This Pense shale feature was also recognized and logged in hole LDD-STM-07-058.
+
+- The CPK domain also shows a jagged grade distribution. The majority of LDD samples below $0.02 \mathrm{cpm}^{3}$, are at the periphery of the modeled Cantuar Kimberlite domain where LLD samples may have become diluted by Cantuar Formation sediments.
+
+Table 14-8 Simple Statistics for Star Resource Kimberlite Domains
+
+| Row Labels | MJF | EJF | EJF Inner | EJF Outer | PPK | CPK |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| TC AND LDD |  |  |  |  |  |  |
+| Count | 112 | 639 | 539 | 100 | 42 | 39 |
+| Average | 0.09 | 0.40 | 0.43 | 0.23 | 0.30 | 0.34 |
+| Min | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Max | 0.30 | 1.66 | 1.66 | 0.72 | 0.64 | 0.97 |
+| StdDevp | 0.06 | 0.22 | 0.22 | 0.15 | 0.20 | 0.24 |
+| Coeff. Var. | 0.61 | 0.55 | 0.51 | 0.62 | 0.66 | 0.70 |
+| UG |  |  |  |  |  |  |
+| Count | 9 | 211 | 211 | 0 | 44 | 48 |
+| Average | 0.23 | 0.53 | 0.53 | 0.00 | 0.39 | 0.47 |
+| Min | 0.05 | 0.05 | 0.05 | 0.00 | 0.09 | 0.08 |
+| Max | 0.68 | 2.27 | 2.27 | 0.00 | 0.98 | 1.62 |
+| StdDevp | 0.20 | 0.24 | 0.24 | 0.00 | 0.18 | 0.25 |
+| Coeff. Var. | 0.436 | 0.887 | 0.435 | 0.435 |  | 0.454 |
+| ALL |  |  |  |  |  |  |
+| Count | 121 | 850 | 750 | 100 | 86 | 87 |
+| Average | 0.10 | 0.43 | 0.46 | 0.23 | 0.35 | 0.41 |
+| Min | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Max | 0.68 | 2.27 | 2.27 | 0.72 | 0.98 | 1.62 |
+| StdDevp | 0.08 | 0.23 | 0.23 | 0.15 | 0.19 | 0.25 |
+| Coeff. Var. | 0.81 | 0.53 | 0.50 | 0.62 | 0.56 | 0.62 |Figure 14-7 Histograms for Star Resource Kimberlite Domains
+![img-42.jpeg](img-42.jpeg)# Boundary Analysis 
+
+Geological contacts separate distinct depositional units and are therefore hard boundaries for geostatistical analysis and grade interpolation, such that diamond grades in one domain are not related to grades in another.
+
+The Star, EJF Inner and Outer domain boundary represents a gradual change from vent proximal, inner crater deposits to vent distal outer crater kimberlite facies. Despite the grouping of higher grade material (typically above $0.5 \mathrm{cpm}^{3}$ ) into the EJF Inner domain, the change in mean diamond grades at the boundary is not distinct enough to warrant the use of a hard boundary.
+
+At the domain scale, the change in average diamond grades identified in Figure 14-8 remains somewhat consistent when moving from the Inner domain (negative distance from contact) across the Outer domain (positive distance from contact). The EJF Inner and Outer boundary is a soft boundary for geostatistical analysis and grade interpolation, such that sample grades in one lithological domain may inform the block grade in another lithological domain.
+
+Figure 14-8 Star EJF Inner Domain Boundary Analysis
+![img-43.jpeg](img-43.jpeg)# Geostatistics 
+
+At Star, underground and TC samples are excluded from analysis to prevent samples clustered in a small portion of the deposit from introducing a short range variability that is inappropriate for the rest of the domain.
+
+Only the EJF domain has a sufficient number of LDD samples to generate meaningful semivariograms. The soft boundary between EJF Inner and Outer domains allows the use of both sets of samples for geostatistical analysis of the EJF domain. Variography is undertaken using $\mathrm{cpm}^{3}$ values and resulting semi-variograms shown in Figure 14-9.
+
+- A downhole semi-variogram is generated using a selected lag value of 13 m . A nugget value of 0.018 is identified that representing $60 \%$ of the total sill variance is selected. A downhole semi-variogram range of 65 m is modeled. and,
+- An omnidirectional semi-variogram is generated using a selected lag value of 65 m , representing the minimum LLD exploration grid spacing. Using the downhole model to define the nugget effect and short-range structure, an omnidirectional semivariogram range of 350 m in the second structure is identified.
+
+The Star deposit comprises predominantly flat lying beds; accordingly, a simple thin but laterally extensive search ellipse is favored. The downhole variogram, derived from vertical LDD holes, defines the Z dimension anisotropy. The omnidirectional variogram is selected to define lateral X and Y dimensions. EJF semi-variograms are sufficiently well behaved to allow meaningful kriging calculations at the resource model scale. The EJF model is utilized for all resource kimberlite domains and is defined in Table 14-9.Figure 14-9 Star EJF Variography
+![img-44.jpeg](img-44.jpeg)
+
+Table 14-9 Modeled Semi-Variogram Parameters for Star Grade INTERPOLATION
+
+| Ellipse Rotation* |  |  | Nugget | Structure | P Sill | Range (m) |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| $\mathbf{z}$ | $\mathbf{y}$ | $\mathbf{x}$ | $(\mathbf{C o})$ |  |  | Major | Semi- <br> Major | Minor |
+| 90 | 0 | 0 | $60 \%$ | 1. Sph | 0.17 | 100 | 100 | 50 |
+|  |  |  |  | 2. Sph | 0.23 | 350 | 350 | 65 |
+
+# 14.6.2 Orion SOUth 
+
+The Orion South resource database contains diamond data from LDD batch samples and bulk samples collected from underground development shafts and drifts. LDD sampling of the Orion South deposit comprises 89 LDD holes, of which 76 LDD holes reported diamond sampling data. Pre 2015 LDD holes recovered 1,039.7 carats from 9,579.6 processed tonnes ( $7,354.1 \mathrm{~m}^{3}$ of calculated volume) of kimberlite from 64 holes. 2015 LDD holes resulted in the recovery of 97 individual sample lifts from 439 processed tonnes ( $300.9 \mathrm{~m}^{3}$ of theoretical volume). Underground bulk sampling of the Orion South Mineral Resource comprised 23,468 tonnes from which 2,335.06 carats from 15,074 stones were recovered.# Compositing of LDD samples 
+
+For the 822 LDD samples collected from the mineralized kimberlite domains identified in Table 14-10, the average sample volume is $8 \mathrm{~m}^{3}$ (Figure14-10). It is seen that different drill hole sizes used in the multiple LDD programs at Orion South result in a multi-modal distribution. The grade alignment process described earlier has already considered this difference in sample size, and compositing of samples is not necessary.
+
+Figure 14-10 Orion South LLD Sample Volumes
+![img-45.jpeg](img-45.jpeg)
+
+## Simple Statistics
+
+Univariate statistics for diamond grades in $\mathrm{cpm}^{3}$ collected from each mineralized kimberlite domain are presented in Table 14-10. Histograms are presented in Figure 14-11. The following features are observed:
+
+- The EJF domain shows an asymmetric diamond grade distribution toward lower grades in both the Inner and Outer domains. For LDD-RC samples, the mean EJF Inner domain grade of $0.56 \mathrm{cpm}^{3}$, is $57 \%$ higher than the outer domain grade of 0.32 demonstrating a change in mineralization intensity.
+- The Pense domain has an asymmetric diamond grade distribution toward lower grades with a mean LDD-RC grade of $0.15 \mathrm{cpm}^{3}$.- The P3 domain has a mean grade of $0.27 \mathrm{cpm}^{3}$ with a grade distribution that is not clearly defined. Insufficient sample data are available to define a sample distribution for the P3 units (Figure 14-11), therefore this unit is restricted to the Inferred level of classification.
+
+Table 14-10 Simple Statistics for Orion South Resource Kimberlite Domains
+
+| Row Labels | EJF | EJF Inner | EJF Outer | PENSE | P3 |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| LDD |  |  |  |  |  |
+| Count | 583 | 457 | 126 | 212 | 13 |
+| Average | 0.51 | 0.56 | 0.32 | 0.15 | 0.27 |
+| Min | 0.00 | 0.00 | 0.00 | 0.00 | 0.09 |
+| Max | 2.07 | 2.07 | 0.90 | 1.05 | 0.67 |
+| StdDevp | 0.35 | 0.36 | 0.21 | 0.12 | 0.17 |
+| UG |  |  |  |  |  |
+| Coeff. Var. | 0.69 | 0.65 | 0.64 | 0.81 | 0.64 |
+| Count | 34 | 34 | 0 | 27 | 0 |
+| Average | 0.44 | 0.44 | 0.00 | 0.16 | 0.00 |
+| Min | 0.10 | 0.10 | 0.00 | 0.07 | 0.00 |
+| Max | 0.81 | 0.81 | 0.00 | 0.56 | 0.00 |
+| StdDevp | 0.13 | 0.13 | 0.00 | 0.10 | 0.00 |
+| ALL |  |  |  |  |  |
+| Coeff. Var | 0.30 | 0.30 | 0.00 | 0.59 | 0.00 |
+| Count | 617 | 491 | 126 | 239 | 13 |
+| Average | 0.51 | 0.56 | 0.32 | 0.15 | 0.27 |
+| Min | 0.00 | 0.00 | 0.00 | 0.00 | 0.09 |
+| Max | 2.07 | 2.07 | 0.90 | 1.05 | 0.67 |
+| StdDevp | 0.34 | 0.35 | 0.21 | 0.12 | 0.17 |
+| Coeff. Var. | 0.68 | 0.64 | 0.64 | 0.78 | 0.64 |Figure 14-11 Histograms for Orion South Resource Kimberlite Domains
+![img-46.jpeg](img-46.jpeg)# Boundary Analysis 
+
+Geological contacts separate distinct depositional units and are therefore hard boundaries for geostatistical analysis and grade interpolation, such that diamond grades in one domain are not related to grades in another.
+
+The Orion South, EJF Inner and Outer domain boundary represents a gradual change from vent proximal to vent distil kimberlite facies. As at Star, the change in average diamond grades identified in Figure 14-12 remains somewhat consistent when moving from the Inner domain (negative distance from contact) across the Outer domain (positive distance from contact). The EJF Inner and Outer boundary is a soft boundary for geostatistical analysis and grade interpolation, such that samples grades in one domain may inform the block grade in another.
+
+Figure 14-12 Orion South EJF Inner Domain Boundary Analysis
+![img-47.jpeg](img-47.jpeg)
+
+## Geostatistics
+
+At Orion South, underground samples are excluded from analysis to prevent samples clustered in a small portion of the deposit from introducing a short range variability that is inappropriate for the rest of the domain.
+
+As at Star, only the Orion South EJF domain has a sufficient number of LDD-RC samples to generate meaningful semi-variograms. Geostatistical analysis of the EJF domain includes bothInner and Outer samples, limited to $<=1 \mathrm{cpm}^{3}$ with no bottom limit. Variography is undertaken using $\mathrm{cpm}^{3}$ values and resulting semi-variograms shown in Figure 14-13 are not normalized.
+
+- A downhole semi-variogram is generated using a selected lag value of 20 m . A nugget value of 0.0248 is identified, representing $40 \%$ of the total sill variance of 0.0548 . A downhole semi-variogram range of 50 m is identified; and,
+- An omnidirectional semi-variogram is generated using a selected lag value of 50 m , representing the minimum LLD-RC exploration grid spacing. Again using the downhole model for the nugget effect and short range structure, a second structure omnidirectional semi-variogram range of 250 m is identified.
+
+The Orion South deposit comprises predominantly flat lying beds; accordingly, a simple thin but laterally extensive search ellipse is favored. The downhole variogram, derived from vertical LDD-RC holes, defines the Z dimension anisotropy. The omnidirectional variogram is selected to define lateral X and Y dimensions. EJF semi-variograms are sufficiently well behaved to allow meaningful Kriging calculations at the resource model scale. The EJF model is utilized for all resource kimberlite domains and is defined in Table 14-11.
+
+Figure 14-13 Orion South EJF Variography
+![img-48.jpeg](img-48.jpeg)# TABLE 14-11 MODELED SEMI-VARIOGRAM PARAMETERS FOR ORION SOUTH GRADE INTERPOLATION 
+
+| Ellipse Rotation* |  |  | Nugget | Structure | P Sill | Range (m) |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | $\mathbf{y}$ | $\mathbf{z}$ | $(\mathbf{C o})$ |  |  | Major | Semi- <br> Major | Minor |
+| 0 | 0 | 90 | $40 \%$ | 1. Sph | 0.15 | 100 | 100 | 45 |
+|  |  |  |  | 2. Sph | 0.45 | 250 | 250 | 50 |
+
+### 14.7. GRADE INTERPOLATION
+
+Kriging is considered to be an appropriate method for estimating mineralized kimberlite block grades at Star and Orion South. The Kriging interpolation method is a linear geostatistical method that uses the measured anisotropy of the deposit to weight composite assay values in the three orientation axes of mineralization within the deposit. The Simple Kriging ("SK") process uses a mean grade for each domain as a weighting factor in the Kriging process. In contrast, Ordinary Kriging ("OK") utilizes a local mean within the search neighborhood.
+
+At both Star and Orion South, strict stationarity is assumed due to the relatively continuous nature of diamond mineralization and the close relationship of the domain mean grade and variance to the domain as a whole. In this scenario, the SK method is preferred as the technique that will honor observed anisotropic grade distribution, as well as preventing locally erratic grades from having undue influence in sparsely sampled areas and allowing the incorporation of a soft EJF Inner/Outer boundary that honors the gradual transition from higher vent proximal grades to lower vent distal grades.
+
+Data used to interpolate grade into the Star block model contains locally clustered LDD-RC and underground samples that may unduly influence or bias interpolated block grades. To address this issue, a restriction is applied that limits the maximum number of samples used to estimate block grades.
+
+Search ellipse parameters for each run are determined through the evaluation of the geological model, exploration data spacing and analysis of the variogram parameters described in Section 14-6. Search ellipses are aligned to the directions of diamond grade continuity determined by the variography.At both Star and Orion South, for each domain, the SK interpolation technique is used to interpolate block grades in one pass at the full range of the variogram. Blocks are discretized five times in each dimension resulting in a matrix of nodes spaced at $10 \mathrm{mE} \times 10 \mathrm{mN} \times 3 \mathrm{mRL}$ within each block. Only parent block grades are estimated. The search ellipse is divided into eight sectors and a constraint of a maximum of four (4) samples per sector applied, essentially de-clustering the data.
+
+At both deposits lithological contacts are hard boundaries for grade interpolation, such that diamond grades in one domain cannot inform blocks in another domain. The EJF Inner and Outer boundary is a soft boundary for grade interpolation, such that diamond grades in one domain can inform blocks in another.
+
+# 14.7.1 STAR 
+
+At Star, grade interpolation is carried out using the parameters presented in Table 14-12. Mineralized kimberlite domain statistical means used in SK are derived from TC and LDD sample data contained in Table 14-8. Interpolations utilize the variogram model contained in Table 14-9.
+
+Table 14-12 Star Estimation Parameters
+
+| Parameter | Value |
+| :--: | :--: |
+| Model Range (m) |  |
+| - Major Direction ( $\left.\mathrm{Az} 0^{\circ}, \mathrm{ Dip} 0^{\circ}\right)$ | 500 |
+| - Semi-Major Direction (Az $90^{\circ}$, Dip $0^{\circ}$ ) | 500 |
+| - 3rd Direction (Az $180^{\circ}$, Dip $-90^{\circ}$ ) | 70 |
+| Search Ellipse Sectors | 8 |
+| Minimum Number of Samples | 1 |
+| Maximum Number of Samples per Sector | 4 |
+| Maximum Number of Samples in Total | 32 |
+| Search Ellipse Sectors | 8 |
+| Discretisation | $5 * 5 * 5$ |
+| Domain | SK Mean |
+| MJF | 0.113 |
+| EJF Inner | 0.56 |
+| EJF Outer | 0.32 |
+| PENSE | 0.298 |
+| CPK | 0.355 |# 14.7.2 Orion SOUTH 
+
+At Orion South, the grade interpolation process was carried out using the parameters presented in Table 14-13. Mineralized kimberlite domain statistical means used in SK are derived from LDD sample data contained in Table 14-10. Interpolations utilize the variogram model contained in Table 14-11.
+
+Table 14-13 Orion South Estimation Parameters
+
+| Parameter | Value |
+| :--: | :--: |
+| Model Range (m) |  |
+| - Major Direction $\left(\mathrm{Az} 0^{\circ}, \mathrm{Dip} 0^{\circ}\right)$ | 250 |
+| - Semi-Major Direction $\left(\mathrm{Az} 90^{\circ}, \mathrm{Dip} 0^{\circ}\right)$ | 250 |
+| - 3rd Direction $\left(\mathrm{Az} 180^{\circ}, \mathrm{Dip}-90^{\circ}\right)$ | 50 |
+| Search Ellipse Sectors | 8 |
+| Minimum Number of Samples | 1 |
+| Maximum Number of Samples per Sector | 4 |
+| Maximum Number of Samples in Total | 32 |
+| Search Ellipse Sectors | 8 |
+| Discretisation | $5 * 5 * 5$ |
+| Domain | SK Mean |
+| EJF Inner | 0.56 |
+| EJF Outer | 0.32 |
+| Pense | 0.15 |
+| P3 | 0.27 |
+
+### 14.8. Bulk DENSITY
+
+The methods used for bulk density determination are described in Section 11.1.1. Howe has reviewed the bulk density data and considers it suitable for use in mineral resource estimation. Dry bulk density in $\mathrm{t} / \mathrm{m}^{3}$ is estimated into the block model. On a block-by-block basis, grade in carats per tonne was calculated by dividing the block $\mathrm{cpm}^{3}$ grade by the block dry bulk density value.# 14.8.1 STAR 
+
+A total of 963 bulk density values are available for the Star Kimberlite MRE. The average bulk density values contained in Table 14-14 are assigned to the mineral resource model according to lithological domain.
+
+Table 14-14 DENSITY Values used in 2024 STAR MRE
+
+| Domain | Density <br> $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ | Type | Number | Min | Max | Std. <br> Deviation |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+| Till | 2.10 | Wet | Clifton Associates Limited (2011): |  |  |  |
+| Lower Colorado \& Westgate Formation | 2.10 | Wet | SRK Consulting (2010) |  |  |  |
+| Cantuar Formation | 2.10 | Wet | SRK Consulting (2010) |  |  |  |
+| URVKU | $1.9^{*}$ | Dry | 50 | 1.54 | 2.30 | 0.19 |
+| LJF | $1.9^{*}$ | Dry | 89 | 1.61 | 2.49 | 0.13 |
+| MJF | $1.9^{*}$ | Dry | 83 | 1.61 | 2.30 | 0.14 |
+| EJF | $2.1^{*}$ | Dry | 455 | 1.40 | 2.69 | 0.17 |
+| PPK | $2.2^{*}$ | Dry | 65 | 1.80 | 2.63 | 0.14 |
+| CPK | $2.1^{*}$ | Dry | 118 | 1.44 | 2.71 | 0.27 |
+| JLRPK | $2.1^{*}$ | Dry | 58 | 1.59 | 2.51 | 0.27 |
+| VK-134 | 2.25 | Dry | 45 | 1.56 | 2.72 | 0.23 |
+
+*Densities rounded up to 1 decimal place
+
+### 14.8.2 Orion SOUTH
+
+A total of 1,446 bulk density values are available for the Orion South Kimberlite MRE. The average bulk density values contained in Table 14-15 are assigned to the mineral resource model according to lithological domain.TABLE 14-15 DENSITY VALUES USED IN 2024 ORION SOUTH MRE
+
+| Domain | Density <br> $\mathbf{g} / \mathbf{c m}^{\mathbf{3}}$ | Type | Number | Min | Max | Std. <br> Deviation |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: |
+| Till | 2.10 | Wet | Clifton Associates Limited (2011): |  |  |  |
+| Lower Colorado \& Westgate Formation | 2.10 | Wet | SRK Consulting (2010) |  |  |  |
+| Cantuar Formation | 2.10 | Wet | SRK Consulting (2010) |  |  |  |
+| UKS | 1.82 | Dry | 67 | 1.17 | 2.57 | 0.24 |
+| LJF | 1.94 | Dry | 129 | 1.21 | 2.66 | 0.21 |
+| EJF | 2.10 | Dry | 857 | 1.42 | 2.65 | 0.17 |
+| PENSE | 2.00 | Dry | 262 | 1.55 | 2.58 | 0.17 |
+| P-1 | 2.05 | Dry | 24 | 1.84 | 2.64 | 0.20 |
+| P-3 *based on limited data | $2.20^{*}$ | Dry | 3 |  |  |  |
+| CPK | 2.28 | Dry | 21 | 1.89 | 2.57 | 0.17 |
+| VPK | 2.04 | Dry | 32 | 1.45 | 2.48 | 0.21 |
+| 133-VK | 2.08 | Dry | 51 | 1.64 | 2.84 | 0.23 |
+
+# 14.9. Block Model Validation 
+
+Block model validation procedures are undertaken to ensure that blocks represent both the interpreted geology and the input data and that the selected interpolation methods does not introduce any significant biases.
+
+- Visual Validation: The block model is displayed in 2D Slices along with sample point data in order to assess whether block grades honor the general sense of sample grades, that is to say that high grade blocks are located around high sample grades, and vice versa.
+- Comparison of means: A global statistical comparison of the global means is undertaken. In well informed domains the difference between global means for each interpolation technique should not exceed $10 \%$.
+- Sectional validation or swath plots: The mean bulk sample grade and the mean grade of blocks from each interpolation model are reported at 50 m slices in the easting and northing directions. For each slice, mean bulk sample and block models are compared.
+
+The previous 2015 Star and Orion South MRE employed alternative estimation methods, such as ordinary kriging and inverse distance weighting, to validate SK estimates (Leroux et al., 2018). Grades from each method showed positive correlation however SK, effectively minimized deviation from the mean grade in areas with low sample density, where sparse datacould otherwise overly influence distant blocks. Validation using alternative estimation techniques is not necessary, since geological models, data distribution, and estimation parameters remain largely unchanged.
+
+# 14.9.1 STAR 
+
+Local Validation: A degree of smoothing is apparent and on the whole, block grades correlate very well with input sample grades. An example section at 5,897,520N through the EJF domain is shown in Figure 14-14 and through the EJF and lower grade MJF domain in Figure 14-15.
+
+Sectional Validation Plots: The EJF Inner domain has the highest sample density and is selected for the sectional validation plot analysis shown in Figure 14-16 for eastings and for northings. Block grades have smoother profiles relative to input samples. Where there are more samples, good agreement is seen between the input samples and block grades estimated by each technique. The SK profile is smoothest and honours the input samples well.
+
+Figure 14-14 Star EJF Block Model Section 5,897,740N
+![img-49.jpeg](img-49.jpeg)Figure 14-15 Star EJF and MJF Block Model Section 5,897,440N
+![img-50.jpeg](img-50.jpeg)Figure 14-16 Star EJF Domain Bulk Sample vs. Block Model Grade Variation Along EASTINGS AND NORTHINGS
+![img-51.jpeg](img-51.jpeg)
+
+# 14.9.2 Orion SOUTH 
+
+Local Validation: A degree of smoothing is apparent and on the whole, block grades correlate very well with input composite sample grades. An example section at 5,900,930N through the higher grade EJF domain and lower grade Pense domain is shown in Figure 14-17 and through the Pense domain in Figure 14-18.
+
+Sectional Validation Plots: The EJF Inner domain has the highest sample density and is selected for the sectional validation plot analysis shown in Figure 14-19 for eastings and northings. Block grades have smoother profiles relative to input samples. There is reasonable agreement seen between block grades estimated by each technique and the input samples.Figure 14-17 Orion South EJF and Pense Block Model Section 5,900,930N
+![img-52.jpeg](img-52.jpeg)
+
+Figure 14-18 Orion South EJF and Pense Block Model Section 5,900,930N
+![img-53.jpeg](img-53.jpeg)Figure 14-19 Orion South EJF Inner Domain Bulk Sample vs. Block Model Grade Variation Along Easting and Northing
+![img-54.jpeg](img-54.jpeg)
+
+# 14.10. Mineral Resource Reporting 
+
+The Star and Orion South MRE are prepared in accordance with CIM Definition Standards- For Mineral Resources and Mineral Reserves, adopted by the CIM Council on May 10, 2014 where:
+
+- An Inferred Mineral Resource as defined by the CIM Standing Committee is "An Inferred Mineral Resource is that part of a Mineral Resource for which quantity and grade or quality are estimated on the basis of limited geological evidence and sampling. Geological evidence is sufficient to imply but not verify geological and grade or quality continuity.
+
+An Inferred Mineral Resource has a lower level of confidence than that applying to an Indicated Mineral Resource and must not be converted to a Mineral Reserve. It isreasonably expected that the majority of Inferred Mineral Resources could be upgraded to Indicated Mineral Resources with continued exploration."
+
+- An Indicated Mineral Resource has a higher level of confidence than that applying to an Inferred Mineral Resource. It may be converted to a Probable Mineral Reserve. An Indicated Mineral Resource as defined by the CIM Standing Committee is "is that part of a Mineral Resource for which quantity, grade or quality, densities, shape and physical characteristics are estimated with sufficient confidence to allow the application of Modifying Factors in sufficient detail to support mine planning and evaluation of the economic viability of the deposit.
+
+Geological evidence is derived from adequately detailed and reliable exploration, sampling and testing and is sufficient to assume geological and grade or quality continuity between points of observation. An Indicated Mineral Resource has a lower level of confidence than that applying to a Measured Mineral Resource and may only be converted to a Probable Mineral Reserve." And,
+
+- A Measured Mineral Resource has a higher level of confidence than that applying to either an Indicated Mineral Resource or an Inferred Mineral Resource. It may be converted to a Proven Mineral Reserve or to a Probable Mineral Reserve. A Measured Mineral Resource, as defined by the CIM Standing Committee is "A Measured Mineral Resource is that part of a Mineral Resource for which quantity, grade or quality, densities, shape, and physical characteristics are estimated with confidence sufficient to allow the application of Modifying Factors to support detailed mine planning and final evaluation of the economic viability of the deposit.
+
+Geological evidence is derived from detailed and reliable exploration, sampling and testing and is sufficient to confirm geological and grade or quality continuity between points of observation.
+
+A Measured Mineral Resource has a higher level of confidence than that applying to either an Indicated Mineral Resource or an Inferred Mineral Resource. It may be converted to a Proven Mineral Reserve or to a Probable Mineral Reserve."
+
+Only mineral resources are identified in this Report. No economic work that would enable the identification of mineral reserves is carried out and no mineral reserves are defined. Mineral resources that are not mineral reserves do not account for mineability, selectivity, mining loss and dilution and do not have demonstrated economic viability. These MRE include Inferredmineral resources that are normally considered too speculative geologically to have economic considerations applied to them that would enable them to be categorized as mineral reserves. There is also no certainty that these Inferred and Indicated mineral resources will be converted to the Indicated and Measured categories through further drilling, or into mineral reserves, once economic considerations are applied.
+
+Classification, or assigning a level of confidence to Mineral Resources, is undertaken in strict adherence to the CIM Definition Standards for Mineral Resources and Mineral Reserves (CIM Council, 2014).
+
+The Revised MRE for the Star and Orion South deposits are prepared under the supervision of P. Ravenscroft, FAusIMM, and QP for the reporting of Mineral Resources as defined by NI 43101. Mr. Ravenscroft graduated from the University of Cape Town in 1979 with a Bachelor of Science degree in Mathematical Statistics, and from the Ecole des Mines de Paris in 1985 with the equivalent of a Masters degree in Geostatistics. Mr. Ravenscroft has practiced his profession for 44 years and has been directly involved in resource and reserve estimation, mine planning and project evaluation for a wide range of commodities, including over ten diamond properties in Africa, Australia and Canada. Mr. Ravenscroft visited the Project on April 15, 2015 to review the geology and observe the 2015 drilling program.
+
+Creation of the geological domains and block model interpolation was undertaken by L. McGarry, Senior Associate Geologist and Qualified Person with Howe. Mr. McGarry is a Professional Geoscientist (P.Geo.) in good standing registered in the Province of Ontario (PGO no. 2348). Mr. McGarry graduated from Brunel University with a Bachelor of Science degree in Earth Science (2005). Mr. McGarry has practised his profession for over 15 years, of which he has a total of 5 years of direct experience with diamond projects located in Canada and Lesotho, including supervision of diamond bulk sampling programs and deposit modelling. Additional experience includes over 10 years of direct experience in the preparation of geological models, mineral resource estimates and National Instrument 43-101 ("NI 43101") technical reports for industrial mineral, precious and base metal projects.
+
+Howe is unaware of any known environmental, permitting, legal, title, taxation, socioeconomic, marketing, political or other relevant issues that may materially affect the Revised Star and Orion South MRE.# 14.10.1 Reasonable Prospects of Economic Extraction 
+
+CIM Definition Standards- For Mineral Resources and Mineral Reserves, adopted by the CIM Council on May 10, 2014 require that resources have "reasonable prospects for economic extraction". This generally implies that the quantity and grade estimates meet certain economic thresholds and that the mineral resources are reported at an appropriate cut-off grade taking into account possible extraction scenarios and processing recoveries.
+
+To ensure that reported resources have a reasonable prospect of economic extraction a conceptual pit shell is developed. Calculated block values and economic parameters provided by Star Diamond (Table 14-16) are used to generate a Whittle pit shell analysis that incorporates all available blocks. The results from the Whittle pit shell analysis are used solely for the purpose of reporting mineral resources that have reasonable prospects for economic extraction.
+
+The Whittle optimization uses the June 2024 High modeled carat price in US dollars determined by Mr. Nelson Karun, Diamond specialist of Star Diamond which is described in Section 11.77. The value of each kimberlite block is calculated by the following equation: volume $\times$ density $\times$ high price. Block tonnages are estimated using the corresponding density for each kimbelitic lithology identified in Tables 14-14 and 14-15.
+
+A variable slope angle is assigned to each block, based on the dominant rock type within that block. Slope angles used in optimization are based on a geotechnical study done on the Star deposit during the 2011 feasibility study, that suggests that a maximum pit slope of $16^{\circ}$ Till, $23^{\circ}$ in the Country Rock, and $45^{\circ}$ in the Kimberlite is achievable.
+
+Table 14-16 Star and Orion South Whittle Pit Shell Parameters
+
+| Item | Value |
+| :-- | :-- |
+| Exchange Rate | Cdn $\$ 1.00=$ US $\$ 0.75$ |
+| Overburden Stripping Cost | Cdn $\$ 0.5 /$ tonne |
+| Ore and Waste Mining Cost | Cdn $\$ 3.5 /$ tonne |
+| Processing Cost | Cdn $\$ 3.0 /$ tonne |
+| Tailings Handling Cost | Cdn $\$ 1.0 /$ tonne |
+| General \& Administration Cost | Cdn $\$ 5.0 /$ tonne |
+| Pit Slope Angle: Overburden / Rock | $16.5^{\circ} / 45^{\circ}$ |
+| Internal Cut-off | C $\$ 9.3 /$ tonne |Estimated grades are based on the recovery of diamonds from Star Kimberlite material from the Star BSP, and therefore diamond recovery was assumed to be $100 \%$.
+
+# 14.10.1.1 Star 
+
+At Star, the pit is constrained by a buffer zone set back 200 m from the Saskatchewan River bank crest. The resultant pit shell has a volume of $1.004 \mathrm{~km}^{3}$ and captures $99 \%$ of the modeled kimberlite that has received an estimated grade and is used for mineral resource estimation (Figure 14-20).
+
+For the determination of block value in pit optimization, the July2024 High Diamond prices are used for the EJF, MJF, PPK and CPK stones. Densities for the Star kimberlite domains are contained in Table 14-14.
+
+Figure 14-20 Star Resource Constraining Pit
+![img-55.jpeg](img-55.jpeg)
+
+### 14.10.1.2 Orion South
+
+The Orion South pit shell has a volume of $0.545 \mathrm{~km}^{3}$ and captures $97 \%$ of the modeled kimberlite that has received an estimated grade and is used for mineral resource estimation (Figure 14-21).For the determination of block value in pit optimization, the July 2024 High Diamond prices were used for the EJF and Pense stones. The Pense valuation is applied to the P3 domain. Densities for the Orion South kimberlitic domains are contained in Table 14-15.
+
+# Figure 14-21 Orion South Resource Constraining Pit 
+
+![img-56.jpeg](img-56.jpeg)
+
+### 14.10.2 Resource Classification Parameters
+
+Resource classification parameters are based on the validity and robustness of input data and the author's judgment with respect to the proximity of resource blocks to sample locations and the Kriging variance recorded during grade estimation.
+
+Classification boundaries are manually defined using modeled polygons that are assigned to model blocks. Mineral Resources are reported in adherence to National Instrument 43101. Standards of Disclosure for Mineral Projects (Canadian Securities Administrators, 2011), and to the CIM Definition Standards on Minerals Resources and Reserves (CIM Council, 2014).
+
+At both deposits, sampling is recent and predominantly undertaken by the Company, and is of high quality. The Authors are confident that bulk samples and the diamonds collected from the deposits are representative of the material drilled and/or mined and can be used in resource estimation studies. Sampling practices are considered to be industry standard and a review ofall QA/QC drilling and underground sampling procedures suggest that assay data used in this Revised Mineral Resource Estimation is robust for this purpose.
+
+# 14.10.2.1 Star 
+
+The following is taken into account when classifying mineral resources at the Star deposit.
+
+- Digital lithology files have sufficient information to enable broad interpretations of geology. However, there are a number of internal dilution zones that are not yet properly defined.
+- There is good survey control on data point locations.
+- Lithology domain and diamond grade continuity is well established where drill density is greater than $100 \times 100$ meters, however, there remains significant portions of the deposit where sample density is insufficient to establish continuity beyond an Inferred level, specifically:
+- The CPK unit becomes thin and discontinuous more than 100 m from the MJF/EJF vent complex. To the north of 5897700 mN , the CPK comprises multiple horizons that are not sufficiently defined for incorporation into the resource.
+- The estimation and modelling technique is considered robust.
+
+The following classification criteria are used in the estimation of mineral resources at Star:
+Inferred resources are blocks that are informed by a search ellipse with an X-Y dimension range of 500 m and Z dimension range of 70 m are captured within the Whittle optimised pit shell and are above an internal cut off of C\$9.3/tonne. The extent of CPK Inferred resources are limited to an area south of 5,897,920 mN (See Figure 14-22).
+
+- Indicated resources are defined up to approximately 150 m from the nearest sample. Blocks assigned the Indicated category should be informed by at least three drill holes; and,
+- Indicated resources are defined for the EJF, MJF, PPK and CPK domains only. The MJF domain uses the same classification boundaries as the EJF domain shown in Figure 14-22.
+
+Measured resources are not defined.# 14.10.2.2 Orion South 
+
+The following is taken into account when classifying mineral resources at the Orion South deposit:
+
+- Digital lithology files have sufficient information to enable broad interpretations of geology. However, there are a number of internal dilution zones that are not yet properly defined.
+- There is adequate survey control on data point locations.
+- Lithology domain and diamond grade continuity is well established where drill density is greater than $100 \times 100$ meters, however, there remains significant portions of the deposit where sample density is insufficient to establish continuity beyond an Inferred level, specifically:
+- The small P3 domain has small number of samples and stones with no diamond valuation.
+- The estimation and modelling technique is considered generally robust.
+
+The following classification criteria are used in the estimation of mineral resources at Orion South:
+
+- Inferred resources are blocks that are informed by a search ellipse with an X-Y dimension range of 250 m and Z dimension range of 50 m and are captured within the Whittle optimised pit shell and are above an internal cut off of C\$9.3/tonne (See Figure 14-23).
+
+The P3 domains are limited to the Inferred classification only and use the same Inferred boundaries as the EJF and Pense domains shown in Figure 14-23.
+
+- Indicated resources are defined up to approximately 150 m from the nearest sample. Blocks assigned the Indicated category should be informed by at least three drill holes; and,
+- Indicated resources are defined for the EJF and Pense domains only.Figure 14-22 Star Resource Classification Boundaries
+![img-57.jpeg](img-57.jpeg)
+
+Figure 14-23 Orion South Resource Classification Boundaries
+![img-58.jpeg](img-58.jpeg)# 14.11. Mineral Resource Statement 
+
+The 2024 non-diluted Revised MRE for the Star and Orion South deposits are presented in Table 14-17 and Table 14-18. Diamond grades are reported in cpht, derived by dividing the $\mathrm{cpm}^{3}$ grade by the domain density and multiplying the result by one hundred. This Revised MRE uses an assumption of small diamond recovery similar to that achieved in the 2019 Trench Cutter program, including only stones recovered larger than +1 DTC diamond sieve, and considers all kimberlite above 90 m asl or to a depth of 360 m below surface in Star and 375 m below surface in Orion South.
+
+## Star Mineral Resources
+
+Non-diluted Indicated Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, MJF, PPK and CPK domains total 179.591 million tonnes with an average diamond grade of 19.4 cpht for 34.797 million carats.
+
+Non-diluted Inferred Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, MJF, PPK and CPK domains total 49.570 million tonnes with an average diamond grade of 15.8 cpht for 7.838 million carats.
+
+## Orion South Mineral Resources
+
+Non-diluted Indicated Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF and Pense domains total 206.596 million tonnes with an average diamond grade of 17.9 cpht for 36.937 million carats.
+
+Non-diluted Inferred Mineral Resources considered amenable to open pit mining, within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, LJF, Pense and P3 domains total 49.921 million tonnes with an average diamond grade of 14.7 cpht for 7.336 million carats.TABLE 14-17 Mineral Resources Estimate for the Star Kimberlite
+
+| Star Kimberlite Revised Mineral Resources Estimate |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: |
+| Resource Category | Kimberlite Unit | Tonnes x1000 | Grade cpht | Carats x1000 |
+| Indicated | MJF | 21,822 | 6.6 | 1,437 |
+| Indicated | EJF Outer | 47,659 | 16.9 | 8,045 |
+| Indicated | EJF Inner | 84,090 | 24.0 | 20,168 |
+| Indicated | Pense (PPK) | 13,960 | 18.1 | 2,525 |
+| Indicated | Cantuar (CPK) | 12,060 | 21.7 | 2,622 |
+| Indicated | TOTAL | 179,591 | 19.4 | 34,797 |
+| Inferred | EJF Outer | 34,100 | 14.4 | 4,923 |
+| Inferred | Pense (PPK) | 9,982 | 17.6 | 1,761 |
+| Inferred | Cantuar (CPK) | 5,488 | 21.0 | 1,154 |
+| Inferred | TOTAL | 49,570 | 15.8 | 7,838 |
+
+TABLE 14-18 Mineral Resources Estimate for the Orion South Kimberlites
+
+| Orion South Kimberlite Revised Mineral Resources Estimate |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: |
+| Resource Category | Kimberlite Unit | Tonnes x1000 | Grade cpht | Carats x1000 |
+| Indicated | EJF Outer | 46,673 | 16.3 | 7,593 |
+| Indicated | EJF Inner | 94,177 | 25.7 | 24,219 |
+| Indicated | Pense | 65,746 | 7.8 | 5,125 |
+| Indicated | TOTAL | 206,596 | 17.9 | 36,937 |
+| Inferred | EJF Outer | 41,236 | 15.5 | 6,400 |
+| Inferred | Pense | 2,591 | 7.5 | 194 |
+| Inferred | P3 | 6,093 | 12.2 | 742 |
+| Inferred | TOTAL | 49,921 | 14.7 | 7,336 |
+
+Table Notes apply to Table 14-17 and Table 14-18.
+
+1) Canadian Institute of Mining and Metallurgy ("CIM") definitions were followed for classification of mineral resources.
+2) Star Kimberlite Units: Cantuar CPK, Pense PPK, Early Joli Fou ("EJF") and Mid Joli Fou ("MJF")
+3) Orion South Kimberlite Units: P3, Pense, and EJF
+4) Mineral Resources are constrained within a Whittle optimized pit shell.
+5) Mineral Resources which are not Mineral Reserves do not have demonstrated economic viability. The estimation of Mineral Resources may be materially affected by environmental, permitting, legal, title, taxation, socio-political, marketing or other relevant issues.
+6) There is no guarantee that all or any part of the Mineral Resource will be converted into a Mineral Reserve.7) Diamond recovery is assumed to be similar to that achieved in the 2019 Trench Cutter program, and only diamonds larger than +1 DTC diamond sieve are included.
+8) Grade values are rounded to nearest whole number.
+9) The effective date of the Revised MRE is July 24, 2024.
+10) The EJF Inner and Outer kimberlite units for both deposits are based on detailed kimberlite geology recorded from the core logging of the pattern drilling program. The EJF Inner represents coarser grained EJF kimberlite that occurs within the volcanic crater and the EJF Outer includes finer grained EJF kimberlite that lies on and outside the crater rim. This Revised MRE acknowledges that the transition from Inner to Outer is geologically gradational.
+
+# 14.12. Factors That May Affect the Mineral Resource Estimates 
+
+Factors which may affect the Mineral Resource estimates include:
+
+- Diamond price and valuation assumptions;
+- Changes to the assumptions used to estimate diamond carat content (e.g. bulk density estimation, grade model methodology);
+- Geological interpretation (internal kimberlite domains and/or pipe contacts);
+- Changes to design parameter assumptions that pertain to open pit design;
+- Changes to geotechnical, mining assumptions;
+- Changes to process plant recovery estimates if the diamond size in certain domains is finer or coarser than currently assumed;
+- The effect of different sample-support sizes between RC drilling and underground sampling or other larger-scale sampling programs; and,
+- Diamond parcel sizes for the deposits with estimates that are not in production or planned for production.
+
+
+### 14.13. Comparison With Previous 2015 Mineral Resources Estimate
+
+The previous 2015 MREs generated for the Project are described in earlier technical reports for Star and Orion South including the 2018 PEA (Leroux et al., 2018) study and the 2015 Resource Estimate (Leroux et al., 2015). For both deposits, input data, geological models, data distribution, estimation parameters remain largely unchanged. Indicated classification and EJF inner boundaries have not changed.
+
+Material changes to the mineral resource estimate result from the completion of 10 Trench Cutter holes at Star, which provide a basis for the revised alignment of LDD grades at both deposits. At both deposits, pit optimization parameters are described in Section 14.10.1. Themost significant change with respect to the size of the ultimate pit shell is a decrease in overburden striping cost from $\$ 1.75 /$ tonne to $\$ 0.50 /$ tonne.
+
+At both deposits, the Revised MRE does not include the lower grade LJF domain previously reported in 2015. Due to a limited number of LDD samples, marginal grades, and a lack of diamond valuation data, the LJF domain does not demonstrate robust prospects for eventual economic extraction.
+
+# 14.13.1 STAR 
+
+Indicated Mineral Resources for Star have increased by $22 \%$ to 34.8 million carats. The grade has increased by $20 \%$ to 19.4 cpht, and the tonnage has increased by $1.4 \%$ to 179.591 Mt . Inferred Mineral Resources have increased by $25 \%$ percent to 7.8 million carats. The grade has increased by $15 \%$ to 15.8 cpht , and the tonnage has increased by $9 \%$ to 49.570 Mt
+
+For both resource classes, the grade increases are attributed to revised alignment factors, mainly due to the assumption of small diamond recovery similar to that achieved in the 2019 Trench Cutter program. Relative to the 2015 estimate, mean $\mathrm{cpm}^{3}$ grades increases range from $1 \%$ for the MJF domain, to $31 \%$ for the EJF Inner and Pense domains. For all domains, the tonnage weighted increase to mean input grades relative to the 2015 study is $22 \%$. A comparable increase is seen in the overall resource grade.
+
+Indicated tonnage increases are primarily associated with higher resource grades that result in a resource constraining pit shell that is that is 30 m deeper in extent than reported in 2015. Inferred tonnage increases are primarily associated with a lower overburden stripping cost in conjunction with higher resource grades that result in a resource constraining pit shell that is $15 \%$ larger in volume capturing additional Inferred blocks at the periphery of the deposit.
+
+### 14.13.2 ORION SOUTH
+
+Indicated Mineral Resources for Orion South have increased by $37 \%$ to 36.9 million carats. The grade has increased by $32 \%$ to 17.9 cpht, and the tonnage has increased by $3 \%$ to 206.591 Mt . Inferred Mineral Resources have increased by $48 \%$ to 7.3 million carats. The grade has increased by $31 \%$ to 14.7 cpht , and the tonnage has increased by $13 \%$ to 49.921 Mt
+
+For both resource classes, grade increases are attributed to revised alignment factors, mainly due to the assumption of small diamond recovery similar to that achieved in the 2019 Trench Cutter program. Relative to the 2015 estimate, the mean $\mathrm{cpm}^{3}$ grades increase ranges from $33 \%$ for the EJF Outer domain, to $45 \%$ for the Pense and P3 domains. For all domains, the tonnageweighted increase to mean input grades relative to the 2015 study is $37 \%$. A comparable increase is seen in the overall resource grade.
+
+Indicated tonnage increases are primarily associated with higher resource grades that result in a resource constraining pit shell that is that is 15 m deeper in extent than reported in 2015. Inferred tonnage increases are primarily associated with a lower overburden stripping cost in conjunction with higher resource grades that result in a resource constraining pit shell that is $4 \%$ larger in volume capturing additional Inferred blocks at the periphery of the deposit.
+
+# 14.14. Targets for Additional Exploration 
+
+### 14.14.1 STAR
+
+At Star, the EJF domain is open to the north, where additional diamond drilling may develop further Mineral Resources. The PPK, LJF and MJF domains are closed off by diamond drilling. Exploration should focus on increasing the LDD-RC drill density in sparsely sampled areas of EJF domain with the goal of upgrading Inferred resources to the Indicated category.
+
+The contact of the VK-134 and EJF kimberlites should be better defined by diamond drilling along easting $514,200 \mathrm{mE}$ and $514,300 \mathrm{mE}$. LDD-RC holes should be drilled to the west of LDD-STW-07-002 to develop high grade $>0.5 \mathrm{cpm}^{3}$ EJF mineralization encountered in that hole.
+
+The CPK domain at Star warrants further definition drilling along easting $514,300 \mathrm{mE}$ and a series of holes is required to better define the continuity and lateral extent of this kimberlite.
+
+### 14.14.2 ORION SOUTH
+
+At Orion South, the EJF domain is open to the north, east, south and west. The Pense and P3 domains are open to the southwest. Exploration should focus on upgrading the mineral resource classification category of kimberlite in the EJF Outer domain.
+
+LDD-RC drilling should be undertaken to further develop EJF and Pense kimberlite material encountered in drill hole LDD-140-15-023 for EJF, and for Pense in holes LDD-140-07-002, and LDD-140-15-026. LDD-RC holes could be centered on diamond drill holes along sections $5,900,320 \mathrm{mN}$ to $5,900,5200 \mathrm{mN}$. On these sections additional diamond drilling maybe required to further resolve the P3, Pense and EJF stratigraphy in the SW of the deposit.On the western flank of the deposit, LDD-RC drilling could be undertaken to develop EJF kimberlite material encountered in LDD-RC holes LDD-141-15-021 and 141-15-023. LDD holes should be centered on diamond drill holes at several locations on section 513,000mE.
+
+Towards the east, diamond drilling and LDD-RC drilling could be undertaken at several locations on section $514,000 \mathrm{mE}$ to develop EJF mineralization encountered in LDD-140-08017 .
+
+# 15. MINERAL RESERVE ESTIMATES 
+
+This section is not applicable to this Report.
+
+## 16. MINING METHODS
+
+This section is not applicable to this Report.
+
+## 17. RECOVERY METHODS
+
+This section is not applicable to this Report.
+
+## 18. PROJECT INFRASTRUCTURE
+
+This section is not applicable to this Report.
+
+## 19. MARKET STUDIES AND CONTRACTS
+
+This section is not applicable to this Report.
+
+## 20. ENVIRONMENTAL STUDIES, PERMITTING, AND SOCIAL OR COMMUNITY IMPACT
+
+This section is not applicable to this Report. However, previous environmental studies are summarised in section 4.2 .# 21. CAPITAL AND OPERATING COSTS 
+
+This section is not applicable to this Report.
+
+## 22. ECONOMIC ANALYSIS
+
+This section is not applicable to this Report.
+
+## 23. ADJACENT PROPERTIES
+
+Howe is unaware of any significant exploration results on immediately adjacent mineral properties.
+
+The Star Orion South Diamond Project is located within the 50 kilometres long by 30 kilometres wide Fort à la Corne kimberlite province. At least 69 kimberlitic bodies have been drilled to date in the province, but there is no current production from any of the kimberlites.
+
+## 24. OTHER RELEVANT DATA AND INFORMATION
+
+With the completion of the Revised Mineral Resource Estimates for the Star and Orion South Diamond deposits, the 2018 preliminary economic assessment on the Star and Orion South deposits becomes historical. All previous technical reports such as the feasibility, pre-feasibility studies and preliminary economic assessment reports, mineral resources and economic assessment previously disclosed by Star Diamond are no longer current and should no longer be relied upon.
+
+There is no other relevant information known to Howe that would make this Report more understandable or if undisclosed would make this Report misleading.
+
+## 25. INTERPRETATION AND CONCLUSIONS
+
+Howe has reviewed the Star and Orion South Deposit data provided by Star Diamond including the core drilling, LDD-RC drilling and trench cutter drilling databases; has visited the project site on numerous occasions and has reviewed sampling procedures and security. Howe believes that the data presented by the Company are an accurate and reasonable representation of theStar Deposit and Orion South Deposit mineralisation styles. Howe concludes that the database for the Star Deposit and Orion South is of sufficient quality for Resource Estimation.
+
+Work by Star Diamond at the Star Deposit and Orion South Deposit have developed the kimberlite deposit models outlined in previous technical reports, provided further detail on the nature of diamond mineralization, and has permitted the completion of an NI 43-101 compliant Revised Mineral Resource Estimate for each deposit.
+
+At Star, the geology is well understood by Star Diamond's geologists. Lithological interpretations used in the 2015 Mineral Resource Estimate are retained in the current study. Four well mineralized kimberlite units are modeled for this Revised Mineral Resource Estimate. The geological model estimates that the Star Kimberlite contains a total of approximately 253.2 Mt of kimberlite in the MJF, EJF, PPK and CPK with a further 146 Mt of UKS, LJF, JLRPK and VK-134.
+
+For the Orion South kimberlite, Star Diamond completed a total of twelve 24 inch LDD-RC holes in 2015 totalling $2,559.90 \mathrm{~m}$ of drilling. The core drilling program resulted in the discovery of significant new intersections of EJF and Pense kimberlite and successfully extended the lateral geological continuity of these kimberlite units on Orion South. As a result, a new P3 domain has been defined and the EJF and Pense domains are extended to the southwest by up to 400 m . The geological model estimates for the Orion South Kimberlite contains a total of approximately 356 Mt of kimberlite in the EJF, Pense and P1 with a further 92Mt of KSST, VPK, LJF, P3 and CPK units.
+
+Since 2007, Howe carried out several site visits in order to undertake an extensive review of the geoscientific data being collected by Star Diamond. Howe found the sampling methods, sample storage, and security undertaken in line with accepted industry practice. Howe considers that sample analysis and the diamond grade and quality data generated from Star Diamond's exploration programs is of sufficient quality to allow further analysis. It is recognized that diamond breakage associated with LDD-RC and TC drilling has the potential to introduce biases that are described in Section 14. Howe and the Authors of this Report are of the opinion that sufficient diamond data were generated from the underground sample program to allow the alignment of both the LDD-RC and trench cutter samples for use in the Revised Mineral Resource Estimate. Overall, the Howe, 2015 and Trench Cutter Program audit exercise revealed a well-operated and documented process for the treatment of all bulk and mini-bulk samples. There were no issues of sample integrity and the audit results indicated a high efficiency of diamond recovery.Alignment of sample diamond size frequency distributions is undertaken to allow the development of unbiased grade estimates that take into account the effects of using necessarily small samples in a diamond deposit with relatively low grade but coarse stone size. At Orion South, it has also provided a means of resolving sampling results from several sampling campaigns with different drilling methodologies, sample support, and different bulk sample plant flowsheets with varying bottom and top cut off screen sizes. The application of the grade alignment process has resulted in a consistent set of LDD sample grades expressed $\mathrm{cpm}^{3}$ at an effective 1.0 mm bottom cut-off.
+
+The Revised Mineral Resource estimation methodologies incorporate a better understanding of kimberlite diamond grades and diamond distribution. At both deposits, the boundary between the Inner and Outer portions of the EJF domain was found to be a gradual transition allowing the use of a soft boundary for grade interpolation. At both deposits, simple kriging is used in place of ordinary kriging (Star) and IDW (Orion South). Variography at Star now supports a 500 m search ellipse whereas the variography at Orion South supports a 250 m search ellipse.
+
+To comply with the CIM requirement that reported Mineral Resources have reasonable prospects for eventual economic extraction, the Revised Mineral Resource models for Star and Orion South are constrained using a Whittle pit optimization. The Revised Mineral Resource Estimate reported in this Report comprise the kimberlite that is constrained within the optimized Whittle pit shell and exceeds the economic cut-offs as determined. Diamond values for this Revised Mineral Resource Estimate are based on the June 2024 High modeled prices.# Star Mineral Resources 
+
+Non-diluted Indicated Mineral Resources within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, MJF, PPK and CPK domains total 179.591 million tonnes with an average diamond grade of 19.4 cpht for 34.797 million carats. Non-diluted Inferred Mineral Resources within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, MJF, PPK and CPK domains total 49.570 million tonnes with an average diamond grade of 15.8 cpht for 7.838 million carats.
+
+## Orion South Mineral Resources
+
+Non-diluted Indicated Mineral Resources within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF and Pense domains total 206.596 million tonnes with an average diamond grade of 17.9 cpht for 36.937 million carats. Non-diluted Inferred Mineral Resources within a preliminary pit shell at a C\$9.3/tonne internal cut off and within the EJF, LJF, Pense and P3 domains total 49.921 million tonnes with an average diamond grade of 14.7 cpht for 7.336 million carats.
+
+Howe concludes that the Revised Mineral Resource estimates for the Star Kimberlite and Orion South Kimberlite warrant incorporation into a revised Pre -Feasibility Study.# 26. RECOMMENDATIONS 
+
+Howe recommends that work be conducted on the Star - Orion South Diamond Project as follows:
+
+1. An Updated Pre-Feasibility Study should be undertaken that includes a revised statement of Mineral Reserves for the Project, if warranted, and an economic assessment based thereon.
+
+### 26.1. BUDGET
+
+In line with Howe's recommendations, Star Diamond has proposed a budget totaling \$3,000,000 for exploration work in 2024-25. The proposed work program and budget as shown below in Table 26-1 is to be completed with prefeasibility work commencing in 2025-2026.
+
+Howe considers Star Diamond's proposed budget reasonable and recommends that the Company proceed with the proposed work program.
+
+Table 26-1 Star Diamond Star-Orion South Project Development Program AND BUDGET
+
+| Recommendation | Item | Cost (C\$) |
+| :--: | :--: | :--: |
+| Pre-Feasibility Study | Mining, Processing, G\&A, Costing (SGS) | $\$ 1,200,000$ |
+|  | Hydrogeology \& Geotechnical (Clifton) | $\$ 960,000$ |
+|  | Slimes Testwork (SGS Lakefield) | $\$ 150,000$ |
+|  | Mining Equipment update (Takraf) | $\$ 235,000$ |
+|  | Environment \& Permitting Update (Clifton) | $\$ 60,000$ |
+|  | Reporting Update | $\$ 100,000$ |
+|  | Subtotal | 2,705,000 |
+|  | Contingency 10\% | $\$ 270,500$ |
+|  | Total Pre-Feasibility Study | $\mathbf{\$ 2 , 9 7 5 , 5 0 0}$ |
+|  | say | $\mathbf{\$ 3 , 0 0 0 , 0 0 0}$ |# 27. REFERENCES 
+
+Canadian Securities Administrators, 2011. National Instrument 43-101. Standards of Disclosure for Mineral Projects, Canadian Securities Administrators.
+
+Chianrenzelli, J., Aspler, L., Villeneuve, M. and Lewry, J. (1997): Early Proterozoic Evolution of the Saskatchewan Craton and its Allochthonous Cover - Trans Hudson Orogen. Journal of Geology, v. 106, p. 247-267.
+
+CIM Council. (2003). Estimation of Mineral Resource and Mineral Reserves Best Practice Guidelines Adopted by CIM Council on November 23, 2003. Retrieved from http://web.cim.org/UserFiles/File/Estimation-Mineral-Resources-Mineral-Reserves-11-23-2003.pdf
+
+CIM Council. (2014). CIM Definition Standards- For Mineral Resources and Mineral Reserves Adopted by CIM Council on May 10, 2014. Retrieved from http://www.cim.org/ /media/Files/PDF/Subsites/CIM_DEFINITION_STANDARDS 20142
+
+Clifford, T. N. (1966): Tectono-metalogenic units and metallogenic provinces of Africa; Earth and Planetary Science Letters; v1, p421-434.
+
+Clifton Associates Limited (2011): Geotechnical and geological feasibility report for the Star and Orion South orebodies, Fort à la Corne Kimberlite Field, Saskatchewan, dated July 20, 2011.
+
+Coopersmith, H. G. (2006): Visit report Shore Gold Inc. Star Project, Saskatchewan; dated March 2006.
+
+Coopersmith, H.G. (2009): Audit of Shore Gold's Star Bulk Sample Processing and Diamond Recovery - Star and Orion South Diamond Projects, Saskatchewan. A.C.A. Howe International Internal Memorandum to Shore Gold, dated January 7, 2009.
+
+Eggleston, T., Parker, H., Brisbois, K. Kozak, A. and Taylor, G. (2008): Shore Gold Inc., Star Diamond Project, Fort à la Corne, Saskatchewan, Canada, NI 43-101 Technical Report. NI 43-101 report prepared by AMEC Americas Limited for Shore Gold Inc., June 9, 2008.# A.C.A. HOWE INTERNATIONAL LIMITED 
+
+Mining and Geological Consultants
+
+Ewert, W.D., Brown, F. H., Puritch, E. J., and Leroux, D.C., (2009a): Technical report and resource estimate update on the Star Diamond Project, Fort à la Corne, Saskatchewan, Canada; NI 43-101 technical report, by P\&E Mining Consultants Inc, effective date 23 February 2009.
+
+Ewert, W.D., Brown, F.H., Puritch, E.J. and Leroux, D.C. (2009b): Technical Report and Resource Estimate on the Fort à la Corne Joint Venture, Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada. Report \#165. NI 43-101 report prepared by P\&E Mining Consultants Inc. for Shore Gold Inc., September 25, 2009.
+
+Gerressen, F-W., Schwank, S., and Blatt, A. (2020): Diaphragm wall technique used in a different way - cutting trenches up to 823 ft . ( 251 m )b for an exploration and bulk sampling program. BAUER Maschinen GmbH, Germany internal report.
+
+Harvey, S. (2009b): Technical Report on the Fort à la Corne Joint Venture Diamond Exploration Project, Fort à la Corne, Saskatchewan, Canada. A technical report dated March 19, 2009 prepared for Kensington Resources Ltd. 52 p.
+
+Harvey, S. (2011): Geological Summary of the Orion South Kimberlite Complex. Internal Report.
+
+Harvey, S., Kjarsgaard, B., McClintock, M., Shimell, M., Fourie, L., Du Plessis, P., and Read, G. (2009a): Geology and evaluation strategy of the Star and Orion South kimberlites, Fort a la Corne, Canada; Litho.
+
+Harvey, S., Kjarsgaard, B.A., Zonneveld, J.P., Heaman, L.H., and McNeil, D. (2006): Volcanology and Sedimentology of Distinct Eruptive Phases at the Star Kimberlite, Fort à la Corne Field, Saskatchewan. 2006 Kimberlite Emplacement Workshop, Saskatoon, Saskatchewan; Extended Abstract, 5 p.
+
+Hawthorne, J.B. (1975): Model of a Kimberlite Pipe. Physics and Chemistry of the Earth, vol 9, p 1-15.
+
+Janse, A.J.A. (1994): Is Clifford's rule still valid? Affirmative examples from around the world; in Kimberlites, Related Rocks and Mantle Xenoliths, Proceedings of the Fifth International.Jellicoe, B. (2005) Summary of Exploration and Evaluation of the Fort à la Corne Kimberlite Field, East-Central Saskatchewan report prepared by Brent C. Jellicoe Ltd. for Shore Gold, effective date 9 November 2005.
+
+Kjarsgaard, B.A., Harvey, S.E., Du Plessis, P., McClintock, M., Zonneveld, J-P., Heaman, L. and McNeil, D. (2009): Geology of the Orion South Kimberlite, Fort à la Corne, Canada. Lithos.
+
+Kjarsgaard, B.A., Harvey, S.E., Zonneveld, J-P., Heaman, L.M., White, D. and MacNeil, D. (2006): Volcanic Stratigraphy, Eruptive Sequences and Emplacement of the 140/141 Kimberlite, Fort à la Corne Field, Saskatchewan. Kimberlite Emplacement Workshop, Saskatoon, Saskatchewan.
+
+Leroux, D, (2008b): Technical Report on the Fort a la Corne Joint Venture Diamond Exploration Project, Fort a la Corne Area Saskatchewan, Canada; report prepared by A.C.A. Howe International Ltd. for Kensington Resources Ltd., effective date 20 March 2008.
+
+Leroux, D.C. (2008a): Technical Report on the Star Diamond Project, Fort à la Corne Area, Saskatchewan, Canada. NI 43-101 report prepared by A.C.A. Howe International Ltd. for Shore Gold Inc., March 20, 2008.
+
+Leroux, D.C., McGarry L., and Ravenscroft P.J. (2015): Technical Report and Revised Resource Estimate for the Star - Orion South Diamond Project Fort à la Corne Area, Saskatchewan, Canada. Report Number 981. NI 43-101 report prepared by A.C.A Howe International Ltd, Toronto, Canada for Shore Gold Inc., December 21, 2015.
+
+Leroux, D.C. (2019): Site visit and audit of the 2018 Rio Tinto Exploration Canada Trench Cutter Bulk Sampling Program. SGS Canada Inc. Internal Memorandum Report for Star Diamond Corporation.
+
+Leroux, D.C. (2022) 2020 Trench Cutter Sample Processing QAQC Report - Rio Tinto Processing. Internal Memorandum for Star Diamond Corporation.
+
+Leroux, D.C., Roy, W.D., van Niekerk, L, Wilkie, G., and McGarry, L. (2018). Preliminary Economic Assessment of the Star-Orion South Diamond Project, Fort à la Corne, Saskatchewan. NI 43-101 report prepared by SGS Canada Inc. for Star Diamond Corporation. April 16, 2018. 227 pages.Mitchell, R. H. (1986): Kimberlites: Mineralogy, geochemistry and petrology; Plenum Press, New York, 442p.
+
+Orava, D., Ewert, W.D., Puritch, E.J., Brown, F.H., Hayden, A., Burga, E., Sharpe, C., Trehin, H., Leroux, D.C., Clifton, W., Jakubec, J. (2010): Technical Report and Updated Preliminary Feasibility Study on the Star - Orion South Diamond Project, Fort à la Corne, Saskatchewan.
+
+Orava, D., Leroux, D.C., Clifton, W., Jakubec, J., Judd-Henrey, I., Kozak, A., Priscu, C., Sibbick, S., Taylor, G., Trehin, H., Brown, F.H., Ewert, W.D., Puritch, E.J. (2009): Technical Report and Preliminary Feasibility Study on the Star Diamond Project, Fort à la Corne, Saskatchewan, Canada. Report \#169. NI 43-101 report prepared by P\&E Mining Consultants Inc. for Shore Gold Inc., August 17, 2009.
+
+Ryans, H. (2006): AMEC Visit to Shore Gold property at Fort à la Corne - December 4 and 5, 2005; dated 10 January 2006.
+
+Scott-Smith, B. H., Orr, R. G., Robertshaw, P. and Avery, R. W. (1994): Geology of the Fort à la Corne kimberlites, Saskatchewan; Proceedings of District 6 CIM Annual General Meeting, Diamonds, p19-24.
+
+Shore Gold Inc. and AMEC Earth and Environment (2010): Star - Orion South Diamond Project: Environmental Impact Statement (EIS).
+
+Shore Gold Inc., (2009a): News Release May 19 2009: Fort à la Corne Joint Venture: Orion North K120 Kimberlite Large Diameter Drilling Diamond Grade Results.
+
+Shore Gold Inc., (2009b) News Release June 16, 2009: Fort à la Corne Joint Venture: Orion North K147 And K148 Large Diameter Drilling Diamond Grade Results.
+
+Shore Gold Inc., (2015). News Release November 09, 2015: Star - Orion South Diamond Project Revised Mineral Resource Estimate Star Indicated: 28.2 Mct; Orion South Indicated: 27.1 Mct.
+
+SRK Consulting (2010): Pit Slope Design for the Orion South and Star Kimberlite Deposits. Dated October 2010.Zonneveld, J.P., Kjarsgaard, B.A., Harvey, S., Heaman, L., McNeil, D., and Marcia, K. (2004): Sedimentologic and stratigraphic constraints on emplacement of the Star Kimberlite, East-Central Saskatchewan. Lithos vol. 76, p115-138.# 28. CERTIFICATES 
+
+## CERTIFICATE OF AUTHOR: DANIEL C. LEROUX, M.SC., P.GEO
+
+I, Daniel C. Leroux, M.Sc., P.Geo. (ON, SASK, QC), do hereby certify that:
+
+1) I am a Senior Associate Geologist with A.C.A. Howe International Limited, which has its registered office located at The Mill, Pury Hill Business Park, Alderton Road, Towcester, Northants, NN12 7LS, UK. This certificate applies to the technical report titled "Technical Report and Revised Mineral Resource Estimate for the Star-Orion Kimberlite Project, Saskatchewan" (the "Technical Report") with an effective date of July 24 2024. and a signing date of September 5, 2024.
+2) I graduated with a Bachelor of Science, Geology degree from Laurentian University in 1993 and a Master of Science degree in Mineral Exploration in 2013 from Laurentian University and have practiced the profession of geoscience since my Bachelor of Science graduation. Prior to working as a Senior Associate Geologist with A.C.A. Howe International UK, from 2017 to 2019, I was previously the Global Business Manager Geological and Mining Consulting Services for SGS Canada Inc. located at 10 boul. de la Seigneurie Est, Suite 203, Blainville, Québec, Canada, J7C 3V5. From 1993 to 2015 I was Vice President with the firm of A.C.A. Howe International Limited, Mining and Geological Consultants ("Howe") located at 365 Bay St., Suite 501, Toronto, Ontario, Canada, M5H 2V1. I was employed with Howe since 1993; since 2007 as Vice President, from 2005 to 2007 as a Senior Consulting Geologist, from 1999 to 2004 as an associate consulting geologist and from 1993 to 1999 as Project Geologist. I have a total of $30+$ years' experience in the mining industry including a background in international mineral exploration, evaluation and valuation studies for precious metals, base metals, diamonds, coloured gemstones and industrial minerals projects. Additional experience includes the completion of various technical due diligence reported for coloured gemstone projects located worldwide.
+3) I am a Professional Geoscientist (P. Geo.) registered with the Association of Professional Geoscientists of Saskatchewan (APEGS, No. 10475) and with the Association of Professional Geoscientists of Ontario (APGO, No. 742) and with the Ordre des géologues du Québec (OGQ, No. 1648).
+4) I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and certify that by reason of my education, affiliation with a professional association (as defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the purposes of NI 43-101.
+5) I have completed seven site visits to both the Star and Orion South Diamond Project; from February 9-10, 2007, from December 14-15, 2007, July 14-16, 2008, June-5, 2015, October 10, 2018, June 15, 2019 and February 14-15, 2020 respectively.
+6) I am a co-author of the technical report entitled "Technical Report and Revised Mineral Resource Estimate on The Star and Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada, NI 43-101 Technical Report" for Star Diamond Corporation. I am responsible for the Summary and Sections 1.0 to 13.0, and from Sections 15 to 26 of the Technical Report.
+7) I am independent of issuer applying all of the tests in section 1.5 of National Instrument 43-101.
+8) I have worked on the Star Diamond Project from January 5, 2004 to December 31, 2007, as an independent consulting geologist for A.C.A. Howe International Limited, to act as the Independent Qualified Person and to assist Howe contractors and Star Diamond staff in the day to day operation and supervision of both the underground mapping and sampling program and the process plant, review the data entry, data validation and monitor the QA-QC of the bulk sampling program with Star Diamond's staff. I was on site for over$60 \%$ of the duration of the Phase 1 to 3 bulk sampling programs. The information and data used in this report are public and were obtained from the references cited and data collected by Star Diamond during their previous exploration programs. From May 26, 2020 to December 6, 2020, I worked at the Star Diamond Project as an Independent Qualified Person representing Star Diamond during the trench cutter kimberlite processing program that was managed by Rio Tinto Exploration Canada.
+9) Other than as indicated, I have had no prior involvement with Star Diamond Corporation. nor with the properties that is the subject of this report. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith.
+10) As of the effective date of this report, to the best of my knowledge, information and belief, the Technical Report contains all scientific and technical information that is required to be disclosed to make the Technical Report not misleading.
+11) I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any publication by them, including electronic publication in the public company files on their websites accessible by the public, of the Technical Report.
+
+Effective Date: July 24, 2024
+Signed Date: September 5th, 2024
+[SIGNED AND SEALED]
+\{Daniel C. Leroux\}
+Daniel C. Leroux, M.Sc., P. Geo.# CERTIFICATE OF AUTHOR: LEON MCGARRY B.SC., P.GEO 
+
+I, Leon McGarry B.Sc., P.Geo. (ON), do hereby certify that:
+
+1) I am Senior Associate Geologist with A.C.A. Howe International Limited, which has its registered office located at The Mill, Pury Hill Business Park, Alderton Road, Towcester, Northants, NN12 7LS, UK. This certificate applies to the technical report titled "Technical Report and Revised Mineral Resource Estimate for the Star-Orion Kimberlite Project, Saskatchewan" (the "Technical Report") with an effective date of July 24 2024. and a signing date of September 5, 2024.
+2) I graduated with a degree in Bachelor of Science Honours, Earth Science, from Brunel University, London, United Kingdom, in 2005 and have practiced the profession of geoscience since my Bachelor of Science graduation. I have been employed with Howe since 2007). I have practised my profession for over 15 years, of which he has a total of 5 years of direct experience with diamond projects located in Canada and Lesotho, including supervision of bulk sampling programs and deposit modelling. Additional experience includes the completion of various NI 43-101 technical reports for reports for industrial mineral, precious and base metal projects located worldwide.
+3) I am a Professional Geoscientist (P. Geo.) registered with the Association of Professional Geoscientists of Ontario (APGO, No. 2348).
+4) I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and certify that by reason of my education, affiliation with a professional association (as defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the purposes of NI 43-101.
+5) I have completed a site visit to both the Star and Orion South Diamond Projects on September 27, 2015.
+6) I am a co-author of the technical report entitled "Technical Report and Revised Mineral Resource Estimate on The Star and Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada, NI 43-101 Technical Report" for Star Diamond Corporation. I am responsible for Sections 14.1 to 14.4, and from Section 14.6 to Section 14.9 and from Section 14.12 to Section 14.14.
+7) I am independent of issuer applying all of the tests in section 1.5 of National Instrument 43-101.
+8) Other than as indicated, I have had no prior involvement with Star Diamond Corporation. nor with the properties that are the subject of this report. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith.
+9) As of the effective date of this report, to the best of my knowledge, information and belief, the Technical Report contains all scientific and technical information that is required to be disclosed to make the Technical Report not misleading.
+10) I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any publication by them, including electronic publication in the public company files on their websites accessible by the public, of the Technical Report.
+
+Effective Date: July 24, 2024
+Signed Date: September 5th, 2024
+[SIGNED AND SEALED]
+\{Leon McGarry\}
+Leon McGarry, B.Sc., P. Geo.# CERTIFICATE OF AUTHOR: PETER J RAVENSCROFT, FAUSIMM 
+
+I, Peter John Ravenscroft, FAusIMM, do hereby certify that:
+
+1) I am the owner of Ravenscroft Mining Advisors Limited, a mining consultancy based in Western Australia. This certificate applies to the technical report entitled "Technical Report and Revised Mineral Resource Estimate on The Star and Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada, NI 43-101 Technical Report" (the "Technical Report") dated July 24, 2024." (the "Technical Report") with an effective date of July 24, 2024 and a signing date of September 5, 2024.
+2) I graduated from the University of Cape Town in 1979 with a Bachelor of Science degree in Mathematical Statistics, and from the Ecole des Mines de Paris in 1985 with the equivalent of a Masters degree in Geostatistics. I have practiced my profession for 44 years. I have been directly involved in resource and reserve estimation, mine planning and project evaluation for a wide range of commodities, including over ten diamond properties in Africa, Australia and Canada.
+3) I am a Fellow of the Australasian Institute of Mining and Metallurgy (membership number 205218).
+4) I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and certify that by reason of my education, affiliation with a professional association (as defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the purposes of NI 43-101.
+5) I completed a site visit to both the Star and Orion South Diamond Projects on 15 April 2015.
+6) I am a co-author of the technical report entitled "Technical Report and Revised Mineral Resource Estimate on The Star and Orion South Diamond Project, Fort à la Corne Area, Saskatchewan, Canada, NI 43-101 Technical Report" for Star Diamond Corporation. I am responsible for Sections 14.5, 14.10 and 14.11 of the Technical Report.
+7) I am independent of issuer applying all of the tests in section 1.5 of National Instrument 43-101.
+8) In addition to involvement in the current Technical Report I provided independent advice to one of the participants in the FalC Joint Venture over the period June 2007 to July 2007. I served as a non-executive director of Shore Gold Inc. in the period of June 2017 to December 2017.
+9) Other than as indicated, I have had no prior involvement with Star Diamond Corporation nor with the properties that is the subject of this report. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith.
+10) As of the effective date of this report, to the best of my knowledge, information and belief, the Technical Report contains all scientific and technical information that is required to be disclosed to make the Technical Report not misleading.
+11) I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any publication by them, including electronic publication in the public company files on their websites accessible by the public, of the Technical Report.
+
+Effective Date: July 24,2024
+Signed Date: September 5th, 2024
+[SIGNED AND SEALED]
+\{Peter J Ravenscroft\}
+
+Peter J. Ravenscroft, FAusIMM

@@ -1,0 +1,11 @@
+{
+  "buildCommand": "rm -rf node_modules package-lock.json && npm install --include=optional && npm run build",
+  "installCommand": "rm -rf node_modules && npm install --include=optional",
+  "framework": "vite",
+  "build": {
+    "env": {
+      "NODE_ENV": "production",
+      "HUSKY": "0"
+    }
+  }
+} 

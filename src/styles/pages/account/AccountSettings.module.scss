@@ -1,0 +1,185 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+@use '@carbon/react/scss/motion' as *;
+
+.container {
+  padding: $spacing-06;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section {
+  margin-bottom: $spacing-08;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.sectionHeader {
+  margin-bottom: $spacing-06;
+}
+
+.sectionTitle {
+  @include type-style('heading-03');
+  color: $text-primary;
+  margin-bottom: $spacing-02;
+}
+
+.sectionDescription {
+  @include type-style('body-01');
+  color: $text-secondary;
+  max-width: 60ch;
+}
+
+// Profile Card
+.profileCard {
+  background: $layer-01;
+  border: 1px solid $border-subtle-01;
+  border-radius: 8px;
+  padding: $spacing-06;
+}
+
+.profileHeader {
+  display: flex;
+  align-items: center;
+  gap: $spacing-05;
+  margin-bottom: $spacing-05;
+}
+
+.profileAvatar {
+  width: 64px;
+  height: 64px;
+  fill: $icon-primary;
+  flex-shrink: 0;
+}
+
+.profileInfo {
+  flex: 1;
+}
+
+.profileName {
+  @include type-style('heading-02');
+  color: $text-primary;
+  margin-bottom: $spacing-02;
+}
+
+.profileEmail {
+  @include type-style('body-01');
+  color: $text-secondary;
+  margin-bottom: $spacing-03;
+}
+
+.roleTag {
+  margin-top: $spacing-02;
+}
+
+.profileDetails {
+  display: grid;
+  gap: $spacing-04;
+  padding-top: $spacing-05;
+  border-top: 1px solid $border-subtle-01;
+}
+
+.detailRow {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: $spacing-04;
+  align-items: center;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: $spacing-02;
+  }
+}
+
+.detailLabel {
+  @include type-style('body-compact-01');
+  color: $text-secondary;
+  font-weight: 600;
+}
+
+.detailValue {
+  @include type-style('body-01');
+  color: $text-primary;
+  word-break: break-all;
+}
+
+// Actions Grid
+.actionsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: $spacing-05;
+}
+
+.actionCard {
+  display: flex;
+  align-items: center;
+  gap: $spacing-04;
+  padding: $spacing-05;
+  background: $layer-01;
+  border: 1px solid $border-subtle-01;
+  border-radius: 8px;
+  transition: border-color $duration-moderate-01;
+
+  &:hover {
+    border-color: $border-interactive;
+  }
+}
+
+.actionIcon {
+  flex-shrink: 0;
+  color: $icon-secondary;
+}
+
+.actionContent {
+  flex: 1;
+  min-width: 0;
+}
+
+.actionTitle {
+  @include type-style('heading-compact-01');
+  color: $text-primary;
+  margin-bottom: $spacing-02;
+}
+
+.actionDescription {
+  @include type-style('body-compact-01');
+  color: $text-secondary;
+}
+
+// Danger Zone
+.dangerZone {
+  background: $layer-01;
+  border: 1px solid $support-error;
+  border-radius: 8px;
+  padding: $spacing-05;
+}
+
+.dangerCard {
+  display: flex;
+  align-items: center;
+  gap: $spacing-04;
+}
+
+.dangerIcon {
+  flex-shrink: 0;
+  color: #da1e28; // Carbon red-60
+}
+
+.dangerContent {
+  flex: 1;
+  min-width: 0;
+}
+
+.dangerTitle {
+  @include type-style('heading-compact-01');
+  color: #da1e28; // Carbon red-60
+  margin-bottom: $spacing-02;
+}
+
+.dangerDescription {
+  @include type-style('body-compact-01');
+  color: $text-secondary;
+} 
