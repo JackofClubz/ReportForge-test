@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo, useRef, useCallback, createContext, useContext } from "react";
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { 
   Button, 
   Loading,
@@ -39,6 +39,8 @@ import {
   updateReportContent
 } from '../../lib/services/reportEditService';
 import { getReportTemplate } from '../../lib/reportTemplates';
+import { getReportQuestions } from '../../lib/services/reportQuestionsService';
+import { generateMockReportFromQuestions, shouldUseMockContent } from '../../lib/services/mockReportService';
 import FloatingEditorMenu from "../../components/report/FloatingEditorMenu";
 // User service functions are now configured in liveblocks.config.ts
 import { supabase } from '../../lib/supabaseClient';
@@ -185,6 +187,7 @@ const CollaborationPresence: React.FC = React.memo(() => {
 const ReportEditorContent: React.FC = () => {
   const { reportId } = useParams<{ reportId: string }>();
   const navigate = useNavigate();
+  const location = useLocation();
   const [report, setReport] = useState<any | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -266,23 +269,51 @@ const ReportEditorContent: React.FC = () => {
         return;
       }
 
-      // Load from database or a template if no collaborative content exists
-      if (Array.isArray((report as any).report_content) && (report as any).report_content.length > 0) {
-        const dbContent = (report as any).report_content;
-        editor.replaceBlocks(editor.document, dbContent as any);
-      } else {
-        const template = getReportTemplate((report as any).template_type);
-        const templateContent = template || [{
-          type: "paragraph",
-          content: "Start writing your report here..."
-        }];
-        editor.replaceBlocks(editor.document, templateContent as any);
-      }
+      // Check if user has answered questions and use mock content
+      const loadContentWithQuestions = async () => {
+        try {
+          const questions = await getReportQuestions(reportId!);
+          
+          if (shouldUseMockContent(questions)) {
+            console.log('📝 [CONTENT] Loading mock content based on answered questions');
+            const mockContent = generateMockReportFromQuestions(questions);
+            editor.replaceBlocks(editor.document, mockContent);
+            
+            // Auto-save the mock content to database
+            try {
+              await updateReportContent(reportId!, mockContent);
+              console.log('📝 [CONTENT] Mock content auto-saved to database');
+            } catch (error) {
+              console.error('Error auto-saving mock content:', error);
+            }
+            
+            return;
+          }
+        } catch (error) {
+          console.error('Error loading questions for mock content:', error);
+          // Continue with normal content loading if questions fail
+        }
+
+        // Load from database or a template if no collaborative content exists
+        if (Array.isArray((report as any).report_content) && (report as any).report_content.length > 0) {
+          const dbContent = (report as any).report_content;
+          editor.replaceBlocks(editor.document, dbContent as any);
+        } else {
+          const template = getReportTemplate((report as any).template_type);
+          const templateContent = template || [{
+            type: "paragraph",
+            content: "Start writing your report here..."
+          }];
+          editor.replaceBlocks(editor.document, templateContent as any);
+        }
+      };
+
+      loadContentWithQuestions();
       setIsContentLoaded(true);
     } catch (error) {
       console.error('❌ [CONTENT] Error loading content:', error);
     }
-  }, [editor, report, isContentLoaded]);
+  }, [editor, report, isContentLoaded, location.state]);
 
   // Auto-save functionality
   useEffect(() => {

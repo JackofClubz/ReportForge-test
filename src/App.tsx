@@ -8,6 +8,8 @@ import CreateSite from './pages/site/CreateSite';
 import SitesPortfolio from './pages/site/SitesPortfolio';
 import ReportPage from './pages/report/ReportPage';
 import CreateReport from './pages/report/CreateReport';
+import ReportQuestions from './pages/report/ReportQuestions';
+
 import ReportEditor from './pages/report/ReportEditor';
 import ReportsPortfolio from './pages/report/ReportsPortfolio';
 import EditReportSettings from './pages/report/EditReportSettings';
@@ -137,6 +139,11 @@ function App() {
             <Route path="/report/create" element={
               <RequireAuth>
                 <CreateReport />
+              </RequireAuth>
+            } />
+            <Route path="/report/:reportId/questions" element={
+              <RequireAuth>
+                <ReportQuestions />
               </RequireAuth>
             } />
             <Route path="/report/:reportId" element={

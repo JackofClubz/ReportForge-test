@@ -1,0 +1,645 @@
+# NI 43-101 Technical Report on Mineral Resources - Inferred
+
+## Demo Report 1.1 Copper Project
+### Central African Republic
+
+**Effective Date:** September 1, 2025  
+**Report Date:** September 1, 2025
+
+Prepared for: [Company Name]  
+Prepared by: [Consulting Company]
+
+---
+
+## Table of Contents
+
+1. [QP Certification](#qp-certification)
+2. [Summary](#summary)  
+3. [Introduction](#introduction)
+4. [Reliance on Other Experts](#reliance-on-other-experts)
+5. [Property Description and Location](#property-description-and-location)
+6. [Accessibility, Climate, Local Resources, Infrastructure and Physiography](#accessibility-climate-local-resources-infrastructure-and-physiography)
+7. [History](#history)
+8. [Geological Setting and Mineralization](#geological-setting-and-mineralization)
+9. [Deposit Types](#deposit-types)
+10. [Exploration](#exploration)
+11. [Drilling](#drilling)
+12. [Sample Preparation, Analyses and Security](#sample-preparation-analyses-and-security)
+13. [Data Verification](#data-verification)
+14. [Mineral Processing and Metallurgical Testing](#mineral-processing-and-metallurgical-testing)
+15. [Mineral Resource Estimates](#mineral-resource-estimates)
+16. [Mineral Reserve Estimates](#mineral-reserve-estimates)
+17. [Mining Methods](#mining-methods)
+18. [Recovery Methods](#recovery-methods)
+19. [Project Infrastructure](#project-infrastructure)
+20. [Market Studies and Contracts](#market-studies-and-contracts)
+21. [Environmental Studies, Permitting and Social or Community Impact](#environmental-studies-permitting-and-social-or-community-impact)
+22. [Capital and Operating Costs](#capital-and-operating-costs)
+23. [Economic Analysis](#economic-analysis)
+24. [Adjacent Properties](#adjacent-properties)
+25. [Other Relevant Data and Information](#other-relevant-data-and-information)
+26. [Interpretation and Conclusions](#interpretation-and-conclusions)
+27. [Recommendations](#recommendations)
+28. [References](#references)
+
+---
+
+## QP Certification
+
+**Qualified Person - Resource Geology:**
+I, [Name], P.Geo., as lead author of this report entitled "NI 43-101 Technical Report on Mineral Resources - Inferred, Demo Report 1.1 Copper Project, Central African Republic" with an effective date of September 1, 2025, do hereby certify that:
+
+1. I am Principal Geologist with [Consulting Company], located at [Address]
+2. I am a graduate with advanced degrees in geology and possess professional registration with Professional Engineers and Geoscientists
+3. I have worked as a geologist for a total of 15+ years since graduation, with extensive experience in copper project evaluation and resource estimation, including previous experience with African copper deposits
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 and certify that by virtue of my education, affiliation with a professional association, and past relevant work experience, I fulfill the requirements to be a "qualified person"
+5. I am independent of the Company as independence is defined in Section 1.5 of NI 43-101
+6. I conducted site visits to the property on [dates] for a total duration of [X] days
+7. I am responsible for sections [list of sections] of this Technical Report
+8. The sections of the Technical Report for which I am responsible have been prepared in compliance with NI 43-101
+
+---
+
+## Summary
+
+The Demo Report 1.1 Copper Project represents a significant copper exploration and development opportunity located within the Central African Copperbelt. This NI 43-101 Technical Report provides a comprehensive assessment supporting disclosure of Mineral Resource estimates and preliminary economic evaluation of the project.
+
+**Project Overview:**
+The project is strategically positioned within the Neoproterozoic Katangan Basin, a geological setting renowned for hosting world-class copper-cobalt deposits. The property encompasses [X] square kilometers of prospective terrain with demonstrated copper mineralization through systematic exploration programs.
+
+**Resource Classification:**
+Current mineral resources are classified as Inferred based on exploration drilling and geological interpretation. The mineralization exhibits characteristics typical of stratiform copper deposits hosted within reduced facies sedimentary rocks of the Central African Copperbelt.
+
+**Economic Assessment:**
+Preliminary economic analysis indicates positive project economics with a Net Present Value of $789 million at an 8% discount rate, Internal Rate of Return of 14%, and payback period of 23.5 years. Initial capital expenditure is estimated at $340 million with life-of-mine operating costs of $42.41 per pound copper equivalent.
+
+**Key Recommendations:**
+Priority recommendations include infill drilling to upgrade Inferred resources to higher confidence classifications, comprehensive metallurgical testing programs, and advancement toward Preliminary Feasibility Study level assessments.
+
+---
+
+## Introduction
+
+### Objectives and Scope
+
+This Technical Report provides a comprehensive assessment of the Demo Report 1.1 copper project located in the Central African Republic. The primary objectives include supporting disclosure requirements under Canadian securities regulations, establishing a foundation for future development studies, and documenting current understanding of geology, mineralization, and resource potential.
+
+The report scope encompasses mineral resource estimation for the entire project area, preliminary economic assessment of development scenarios, review of exploration data and geological interpretation, assessment of metallurgical characteristics and processing options, and evaluation of environmental and social considerations.
+
+### Standards Compliance
+
+This report adheres to National Instrument 43-101 Standards of Disclosure for Mineral Projects, Canadian Institute of Mining (CIM) Definition Standards, CIM Estimation of Mineral Resources and Mineral Reserves Best Practice Guidelines, and incorporates JORC Code principles where applicable for international standards alignment.
+
+### Qualified Persons
+
+**Lead Qualified Person - Geology:**
+[Name], P.Geo., Principal Geologist, [Consulting Company], responsible for property description, geology, exploration, drilling, sampling, data verification, and mineral resource estimation.
+
+**Supporting Qualified Persons:**
+- Metallurgical expertise: [Name], P.Eng., Senior Metallurgical Engineer, responsible for mineral processing, metallurgical testing, and recovery estimates
+- Mining engineering: [Name], P.Eng., Principal Mining Engineer, responsible for mining methods, production scheduling, and cost estimation
+
+### Information Sources and Validation
+
+Information sources include historical exploration reports and geological maps, government geological surveys and regional studies, company drilling and sampling databases, metallurgical test work results from accredited laboratories, geophysical survey data and interpretations, and site visit reports and field observations by qualified persons.
+
+Data validation includes independent verification of assay databases, re-logging of selected drill core intervals, check sampling and duplicate analysis programs, survey verification of drill hole collar positions, and database audits with statistical validation of grade populations.
+
+### Site Visits
+
+Site visits were conducted by qualified persons with unfettered access to all project facilities, data, and personnel. Visits focused on geological verification, core logging review, structural mapping, resource model validation, sample selection for metallurgical testing, and mine design verification.
+
+### Units and Currency
+
+All measurements employ the metric system with distances in meters and kilometers, coordinates in Universal Transverse Mercator (UTM) World Geodetic System (WGS) 84, grades in percentage for copper and parts per million for trace elements, and tonnages in metric tonnes. All monetary values are expressed in United States Dollars unless otherwise specified.
+
+---
+
+## Reliance on Other Experts
+
+### Qualified Persons and Expertise
+
+The report preparation involved qualified persons with professional registration, advanced degrees in relevant fields, minimum five years relevant experience in copper project evaluation, previous experience with African copper deposits, and confirmed independence per NI 43-101 requirements.
+
+### Information Sources and Verification
+
+Information sources span company exploration databases, laboratory analytical results from certified facilities, geological mapping and structural interpretations, geophysical survey data, metallurgical test work from recognized laboratories, and published geological literature. Verification methods include independent review of source documents, site visits and physical verification, statistical analysis of grade populations, cross-validation with regional geological knowledge, and peer review by senior technical personnel.
+
+### Legal Opinions and Title Information
+
+Title documentation includes mining permits and concessions issued by CAR Ministry of Mines, legal opinions on mineral tenure prepared by qualified legal firms, surface rights agreements with local communities, environmental permits from relevant authorities, and corporate structure verification. Due diligence encompasses independent verification of permit status, review of compliance obligations, assessment of legal or regulatory issues, and confirmation of exploration and development authority.
+
+### Tenure Recommendations
+
+Recommendations include maintaining current permit compliance and annual fee payments, monitoring regulatory changes in CAR mining legislation, securing additional permits for expanded exploration, establishing formal community development agreements, and considering strategic partnerships with local entities.
+
+### Expert Reliance Assessment
+
+Expert reliance areas include legal title verification and regulatory compliance with limited impact on technical findings, environmental baseline studies with moderate impact on development timeline, social community relations with significant impact on project advancement, and economic market analysis with critical impact on project viability.
+
+---
+
+## Property Description and Location
+
+The Demo Report 1.1 Copper Project is located in the Central African Republic within the internationally recognized Central African Copperbelt. The property is situated in [specific region/prefecture] and encompasses approximately [X] square kilometers of mineral tenure.
+
+**Geographic Coordinates:**
+- Latitude: [XX°XX'XX"N]
+- Longitude: [XX°XX'XX"E]
+- UTM Zone: [XX]N
+- Coordinate System: WGS 84
+
+**Mineral Tenure:**
+The property consists of [number] mining concessions granted under CAR mining legislation. All concessions are in good standing with annual fees paid and assessment work requirements fulfilled. The concessions provide exclusive rights for mineral exploration, development, and production of copper and associated minerals.
+
+**Surface Rights:**
+Surface rights agreements have been established with local communities and traditional authorities. These agreements provide access for exploration and potential development activities while ensuring appropriate compensation and community benefit sharing arrangements.
+
+---
+
+## Accessibility, Climate, Local Resources, Infrastructure and Physiography
+
+### Accessibility
+
+The project is accessible via [transportation routes] from the capital city of Bangui, approximately [X] kilometers distance. Access requires travel by [road/air/combination] with the final approach via [specific access route]. Seasonal accessibility may be limited during wet season periods from [months] due to road conditions.
+
+### Climate
+
+The region experiences a tropical climate with distinct wet and dry seasons. Average annual rainfall ranges from [X] to [X] mm, with the wet season occurring from [months]. Temperatures range from [X°C] to [X°C] throughout the year. Climate conditions are generally favorable for year-round mining operations with appropriate seasonal planning.
+
+### Local Resources
+
+Local resources include available workforce from nearby communities, potential water sources from [rivers/groundwater], and limited local suppliers for basic consumables. Skilled labor and technical expertise will likely require recruitment from regional centers or international sources.
+
+### Infrastructure
+
+Existing infrastructure includes basic road networks, limited electrical grid access, telecommunications coverage in major centers, and regional airports capable of supporting project logistics. Significant infrastructure development will be required for large-scale mining operations.
+
+### Physiography
+
+The terrain is characterized by [topographic description] with elevations ranging from [X] to [X] meters above sea level. The landscape consists of [geological and topographic features] suitable for open pit mining operations with appropriate engineering design.
+
+---
+
+## History
+
+### Regional Exploration History
+
+The Central African Copperbelt has been the subject of mineral exploration since the early 20th century, with systematic geological mapping conducted by colonial and post-independence geological surveys. Regional copper occurrences have been documented in geological literature and government reports.
+
+### Property-Specific History
+
+Historical exploration on the property includes [early exploration activities], government geological mapping programs, artisanal mining activities in [areas/time periods], and previous exploration programs by [companies/dates].
+
+### Previous Technical Work
+
+Previous technical studies include regional geological mapping, geochemical reconnaissance surveys, limited drilling programs, and preliminary metallurgical testing. Historical data has been compiled and validated as part of current exploration programs.
+
+---
+
+## Geological Setting and Mineralization
+
+### Regional Geology
+
+The project area is located within the Central African Copperbelt, forming part of the larger Katangan Basin - a Neoproterozoic sedimentary sequence extending across multiple countries in Central Africa. The regional geology is characterized by folded and faulted sedimentary rocks of the Katangan Supergroup.
+
+**Regional Structure:**
+The area exhibits complex structural geology with multiple phases of deformation including fold structures and thrust fault systems. These structural features control the distribution and orientation of mineralized zones throughout the region.
+
+### Local Geology
+
+Local geology comprises stratified sedimentary rocks including sandstones, siltstones, and carbonate units of varying metamorphic grade. The geological sequence shows evidence of multiple deformation events and hydrothermal alteration associated with copper mineralization.
+
+### Mineralization
+
+**Mineralization Style:**
+Copper mineralization occurs as stratiform deposits hosted within reduced facies sedimentary rocks. Primary sulfide minerals include chalcopyrite, bornite, and chalcocite, with secondary oxide minerals including malachite, azurite, and chrysocolla developed in weathered zones.
+
+**Structural Controls:**
+Mineralization is controlled by favorable lithological contacts and structural features including fold limbs, fault zones, and fracture systems that provided conduits for mineralizing fluids.
+
+**Alteration:**
+Associated alteration includes contact metamorphism and hydrothermal alteration zones characterized by chlorite, sericite, and carbonate mineral assemblages.
+
+---
+
+## Deposit Types
+
+The Demo Report 1.1 project represents a stratiform copper deposit typical of the Central African Copperbelt. These deposits are characterized by:
+
+**Geological Setting:**
+- Hosted within Neoproterozoic sedimentary sequences of the Katangan Basin
+- Associated with reduced facies sedimentary rocks including black shales and carbonaceous units
+- Structural control by regional fold and fault systems
+
+**Mineralization Characteristics:**
+- Stratiform to stratabound copper sulfide mineralization
+- Primary mineral assemblage of chalcopyrite, bornite, and chalcocite
+- Secondary oxidation zone with copper carbonate and oxide minerals
+- Associated cobalt mineralization in some areas
+
+**Genetic Model:**
+- Sediment-hosted copper deposit formed through multiple stages of mineralization
+- Primary mineralization related to diagenetic and early metamorphic processes
+- Structural remobilization and concentration during deformation events
+- Supergene enrichment in weathered portions of the deposit
+
+---
+
+## Exploration
+
+### Exploration Methodology
+
+Systematic exploration programs have been implemented to define the extent and characteristics of copper mineralization. The exploration approach follows industry best practices adapted to the geological setting and logistical constraints of the Central African Republic.
+
+**Systematic Geological Mapping:**
+Detailed geological mapping at scales of 1:5,000 to 1:10,000 covering the entire property area. Mapping includes lithological characterization, structural measurements, alteration zone identification, and mineralization zone delineation.
+
+**Geophysical Surveys:**
+- Airborne magnetic and radiometric surveys providing regional geological interpretation
+- Ground-based induced polarization and resistivity surveys for direct detection of sulfide mineralization
+- Gravity surveys for structural interpretation and depth to bedrock determination
+
+**Geochemical Sampling:**
+- Soil geochemical sampling on systematic grid patterns with sample spacing of 50m x 50m
+- Stream sediment sampling for regional exploration targeting
+- Rock chip sampling of outcropping mineralization and alteration zones
+
+**Remote Sensing Analysis:**
+Satellite imagery analysis for geological interpretation, structural mapping, and environmental baseline assessment using multispectral and hyperspectral data.
+
+### Exploration Results
+
+Exploration programs have successfully identified multiple zones of copper mineralization with grades and continuity suitable for resource estimation. Key results include definition of primary mineralized zones, structural controls on mineralization, extent of oxidation and supergene enrichment, and targeting priorities for drilling programs.
+
+---
+
+## Drilling
+
+### Drilling Program Design
+
+Diamond core drilling programs have been designed using systematic grid patterns with spacing appropriate for Inferred to Indicated resource classification. Drill hole spacing ranges from 100m x 100m in areas of known mineralization to 200m x 200m for exploration drilling.
+
+**Drilling Methods:**
+- Diamond core drilling using HQ and NQ core sizes for optimal core recovery
+- Drill hole orientations designed to intersect mineralization at optimal angles
+- Down-hole geophysical logging including natural gamma ray and magnetic susceptibility
+- Oriented core drilling for accurate structural measurements
+
+### Drill Hole Database
+
+The drilling database comprises [number] drill holes totaling [X,XXX] meters of drilling. Drill holes range in depth from [X] to [XXX] meters with an average depth of [XX] meters. Core recovery averages [XX]% across all drill holes with consistently high recovery in mineralized zones.
+
+### Quality Assurance Protocols
+
+Quality assurance protocols include accurate collar surveying using differential GPS, down-hole survey measurements at regular intervals, core recovery and rock quality designation (RQD) measurements, photographic documentation of core intervals, and secure core storage facilities.
+
+---
+
+## Sample Preparation, Analyses and Security
+
+### Sampling Procedures
+
+Systematic sampling of mineralized intervals follows industry best practices with sampling at 1-2 meter intervals based on geological contacts and mineralization boundaries. Half-core sampling preserves remaining core for future reference and verification. Sample weights average [X] kilograms with appropriate size for representative analysis.
+
+### Quality Assurance and Quality Control
+
+Comprehensive QA/QC programs include certified reference materials inserted at rates of 1 in 20 samples, field duplicate samples at rates of 1 in 20 samples, blank samples to monitor contamination, and laboratory check samples for precision verification. QA/QC results demonstrate acceptable analytical precision and accuracy with no systematic bias identified.
+
+### Chain of Custody
+
+Strict chain of custody procedures ensure sample integrity from field collection through laboratory analysis. Samples are securely packaged and transported using reputable courier services to internationally accredited analytical laboratories.
+
+### Laboratory Analysis
+
+Sample preparation and analysis is conducted by internationally accredited laboratories using appropriate analytical methods for copper and associated elements. Analytical techniques include fire assay for precious metals, four-acid digestion with ICP-MS/AES for base metals, and appropriate detection limits for all reported elements.
+
+### Sample Security
+
+Sample security measures include locked core storage facilities, restricted access to core and sample areas, photographic documentation of sample intervals, and secure transportation arrangements to analytical laboratories.
+
+---
+
+## Data Verification
+
+### Independent Verification
+
+Independent verification procedures have been implemented by qualified persons including review and validation of assay databases, re-logging of selected drill core intervals, check sampling and duplicate analysis programs, survey verification of drill hole collar positions, and database audits with statistical validation.
+
+### Statistical Analysis
+
+Statistical analysis of the drilling database includes calculation of descriptive statistics, identification and investigation of outlier values, spatial analysis of grade distribution, and comparison with expected geological and grade continuity patterns.
+
+### Site Inspection
+
+Site inspections by qualified persons included verification of core logging procedures, review of sampling and QA/QC protocols, inspection of core storage facilities, assessment of data management systems, and validation of geological interpretations.
+
+### Database Integrity
+
+Database integrity measures include regular backup procedures, access controls and user permissions, audit trails for data modifications, standardized data entry protocols, and validation checks for data completeness and accuracy.
+
+---
+
+## Mineral Processing and Metallurgical Testing
+
+### Metallurgical Testing Program
+
+Representative samples have been subjected to comprehensive metallurgical testing to determine processing characteristics and recovery potential. Testing programs include comminution testing, mineral liberation analysis, flotation optimization studies, and concentrate quality evaluation.
+
+### Process Design Criteria
+
+Based on metallurgical testing results, process design criteria have been established including optimal grind size for mineral liberation, flotation circuit configuration and reagent requirements, expected copper and associated metal recoveries, and concentrate grade and quality specifications.
+
+### Recovery Estimates
+
+Preliminary recovery estimates indicate copper recoveries of [XX]% through conventional flotation processing. Associated metals including [cobalt/other] show recovery potential of [XX]% through modified circuit configurations.
+
+### Environmental Considerations
+
+Metallurgical testing includes evaluation of acid generation potential, heavy metal mobility assessment, tailings characterization and management requirements, and water treatment and recycling opportunities.
+
+---
+
+## Mineral Resource Estimates
+
+### Resource Estimation Methodology
+
+Mineral resource estimation follows industry standard procedures including 3D geological modeling using industry-standard software, geostatistical analysis including variography and kriging interpolation, grade continuity analysis and domain boundary validation, and mineral resource classification based on drill hole spacing and geological confidence.
+
+### Geological Model
+
+The geological model incorporates detailed lithological interpretation, structural framework including folds and faults, alteration zone delineation, and oxidation zone boundaries. The model provides the framework for resource domain definition and grade estimation.
+
+### Grade Estimation
+
+Grade estimation employs ordinary kriging interpolation within geological domains defined by lithology, structure, and alteration. Estimation parameters include optimized search ellipse orientations, appropriate sample selection criteria, and statistical validation of estimation results.
+
+### Resource Classification
+
+Mineral resources are classified according to CIM Definition Standards with Inferred resources defined based on current drill hole spacing and geological confidence. Areas of higher drill density and geological understanding may support Indicated resource classification with additional drilling.
+
+### Resource Statement
+
+**Inferred Mineral Resources:**
+[Detailed tabulation of tonnage, grade, and contained metal by zone and material type, reported at appropriate cutoff grades with clear statement of classification rationale and assumptions]
+
+---
+
+## Mineral Reserve Estimates
+
+At the current stage of project development, no Mineral Reserves have been estimated. Conversion of Mineral Resources to Mineral Reserves requires completion of appropriate economic studies including Preliminary Feasibility Study or Feasibility Study level assessments with detailed mine planning, processing design, and economic analysis.
+
+Future conversion of resources to reserves will require upgrade of resource classification confidence, completion of detailed mine planning studies, confirmation of processing methods and recoveries, environmental impact assessment and permitting, and demonstration of economic viability under appropriate price and cost assumptions.
+
+---
+
+## Mining Methods
+
+### Proposed Mining Method
+
+Based on the geological setting and mineralization characteristics, open pit mining methods are considered most appropriate for the Demo Report 1.1 project. Open pit design considerations include optimization of ultimate pit limits based on economic parameters, appropriate slope stability analysis and design, waste rock management and scheduling, and ore delivery and blending strategies.
+
+### Mine Planning Parameters
+
+Mine planning parameters include reasonable mining dilution and ore loss assumptions, appropriate equipment selection for local conditions, mine sequencing to optimize ore delivery, and waste rock disposal and management planning.
+
+### Geotechnical Considerations
+
+Geotechnical assessment includes rock mass characterization from drill core logging, slope stability analysis using appropriate safety factors, groundwater assessment and dewatering requirements, and monitoring programs for slope performance.
+
+---
+
+## Recovery Methods
+
+### Processing Strategy
+
+Copper recovery will employ conventional mineral processing techniques appropriate for the ore characteristics identified through metallurgical testing. The process flow sheet includes crushing and grinding circuits, copper flotation and concentration, tailings management systems, and concentrate handling and transport.
+
+### Process Design
+
+Process design considerations include equipment selection for local conditions, power and water supply requirements, reagent storage and handling systems, and environmental management and monitoring systems.
+
+### Recovery Optimization
+
+Recovery optimization strategies include ongoing metallurgical test work programs, process control and monitoring systems, equipment maintenance and optimization procedures, and continuous improvement programs to maximize metal recovery and concentrate quality.
+
+---
+
+## Project Infrastructure
+
+### Required Infrastructure
+
+Project development will require significant infrastructure including access roads and transportation systems, electrical power supply and distribution, water supply and treatment systems, communications and data systems, accommodation and administrative facilities, and maintenance and workshop facilities.
+
+### Infrastructure Development
+
+Infrastructure development planning includes assessment of existing regional infrastructure, identification of required new infrastructure, cost estimation for infrastructure development, and coordination with government and local authorities for infrastructure planning and development.
+
+### Logistics
+
+Logistics planning encompasses transportation of personnel and supplies to site, movement of equipment and materials during construction, concentrate transport to markets, and ongoing operational supply chain management.
+
+---
+
+## Market Studies and Contracts
+
+### Copper Market Analysis
+
+Market analysis includes global copper supply and demand dynamics, regional market access and transportation costs, copper price forecasting and sensitivity analysis, and competitive positioning relative to other copper projects.
+
+### Product Marketing
+
+Product marketing strategies include copper concentrate specifications and quality requirements, potential customer identification and preliminary discussions, transportation and logistics cost optimization, and contract structure and pricing mechanism development.
+
+### Market Risk Assessment
+
+Market risk factors include copper price volatility and impact on project economics, transportation and logistics risks, political and regulatory risks affecting market access, and currency exchange rate considerations.
+
+---
+
+## Environmental Studies, Permitting and Social or Community Impact
+
+### Environmental Assessment
+
+Environmental studies include baseline data collection for air, water, and soil quality, biodiversity assessment and habitat characterization, climate and meteorological data collection, and identification of sensitive environmental receptors and protected areas.
+
+### Permitting Requirements
+
+Permitting requirements include environmental impact assessment and approval processes, mining permit applications and renewal procedures, water use permits and environmental monitoring requirements, and waste management and closure plan approvals.
+
+### Social and Community Impact
+
+Social impact assessment includes stakeholder identification and engagement programs, community development and benefit sharing agreements, cultural heritage and archaeological site protection, and local employment and business development opportunities.
+
+### Environmental Management
+
+Environmental management planning includes water treatment and management systems, air quality monitoring and emission controls, waste rock and tailings management, and biodiversity protection and rehabilitation programs.
+
+---
+
+## Capital and Operating Costs
+
+### Capital Cost Estimates
+
+Initial capital expenditure is estimated at $340 million including mine development and pre-stripping costs, processing plant construction and equipment, infrastructure development including power and water systems, and contingency allowances for project development risks.
+
+**Capital Cost Breakdown:**
+- Mining equipment and infrastructure: $[XX] million
+- Processing plant and equipment: $[XX] million  
+- Infrastructure and utilities: $[XX] million
+- Engineering and construction: $[XX] million
+- Contingency: $[XX] million
+
+### Operating Cost Estimates
+
+Life-of-mine operating costs are estimated at $42.41 per pound copper equivalent including mining costs for ore and waste handling, processing costs including power and reagents, general and administrative expenses, and transportation and logistics costs.
+
+**Operating Cost Components:**
+- Mining: $[XX] per tonne ore
+- Processing: $[XX] per tonne ore
+- General & Administrative: $[XX] per tonne ore
+- Total Operating Costs: $[XX] per tonne ore
+
+---
+
+## Economic Analysis
+
+### Financial Model
+
+Economic analysis employs discounted cash flow modeling with appropriate discount rates, metal price assumptions based on long-term consensus forecasts, taxation and royalty considerations, and sensitivity analysis for key variables.
+
+### Economic Results
+
+**Base Case Economics:**
+- Net Present Value (8% discount): $789 million
+- Internal Rate of Return: 14%
+- Payback Period: 23.5 years
+- Life of Mine: [XX] years
+- Average Annual Production: [XXX,XXX] tonnes copper
+
+### Sensitivity Analysis
+
+Sensitivity analysis evaluates the impact of copper price variations, operating cost changes, capital cost variations, and production rate modifications on project economics. The analysis identifies key value drivers and risk factors affecting project viability.
+
+### Risk Assessment
+
+Economic risk factors include commodity price volatility, political and regulatory risks in CAR, operational risks including technical and environmental factors, and currency and inflation risks affecting costs and revenues.
+
+---
+
+## Adjacent Properties
+
+### Regional Projects
+
+Adjacent and nearby properties include [other mining projects or exploration properties in the region], providing context for geological interpretation and potential for regional resource development.
+
+### Comparative Analysis
+
+Comparison with regional properties includes geological similarities and differences, grade and tonnage characteristics, processing and recovery methods, and infrastructure and development approaches.
+
+### Regional Development
+
+Regional development considerations include shared infrastructure opportunities, coordinated environmental management, community development coordination, and potential for regional mining industry development.
+
+---
+
+## Other Relevant Data and Information
+
+### Regulatory Framework
+
+The regulatory framework in CAR includes mining legislation and implementing regulations, environmental protection requirements, community consultation and benefit sharing requirements, and taxation and royalty structures.
+
+### Political Considerations
+
+Political risk factors include government stability and policy continuity, international relations and investment climate, security considerations and risk management, and diplomatic and trade relationships affecting project development.
+
+### Technical Considerations
+
+Additional technical factors include ongoing research and development opportunities, technology advancement and implementation, industry best practices and lessons learned, and continuous improvement and optimization programs.
+
+---
+
+## Interpretation and Conclusions
+
+### Resource Potential
+
+The Demo Report 1.1 Copper Project demonstrates significant resource potential within the proven geological setting of the Central African Copperbelt. Current Inferred mineral resources provide a foundation for further development with potential for resource expansion and classification upgrade through additional exploration.
+
+### Technical Feasibility
+
+Technical feasibility is supported by demonstrated geological continuity, appropriate metallurgical characteristics for conventional processing, suitable topography and geological conditions for open pit mining, and access to required infrastructure development opportunities.
+
+### Economic Viability
+
+Preliminary economic analysis indicates positive project economics under reasonable commodity price and cost assumptions. The project demonstrates attractive financial returns with Net Present Value of $789 million and Internal Rate of Return of 14%.
+
+### Development Pathway
+
+The project provides a clear pathway for development through systematic resource expansion and upgrade programs, completion of feasibility level studies, environmental assessment and permitting processes, and infrastructure development planning.
+
+---
+
+## Recommendations
+
+### Immediate Priorities
+
+**Infill Drilling Program:** Implement systematic infill drilling to upgrade Inferred resources to Indicated classification, with focus on areas of highest grade and geological confidence.
+
+**Resource Expansion:** Conduct step-out drilling to test for resource expansion potential in areas of favorable geology and geophysical anomalies.
+
+**Metallurgical Testing:** Complete comprehensive metallurgical testing program on representative samples to confirm processing parameters and optimize recovery methods.
+
+### Medium-Term Studies
+
+**Preliminary Feasibility Study:** Advance to Preliminary Feasibility Study level assessment including detailed mine planning, processing plant design, infrastructure development planning, and environmental impact assessment.
+
+**Environmental Studies:** Complete baseline environmental studies and initiate environmental impact assessment processes required for development permitting.
+
+**Social Engagement:** Implement comprehensive stakeholder engagement and community development programs to support social license for project development.
+
+### Long-Term Development
+
+**Infrastructure Planning:** Develop detailed infrastructure development plans including power, water, transportation, and accommodation requirements.
+
+**Permitting Strategy:** Implement systematic permitting strategy addressing all regulatory requirements for project development and operation.
+
+**Strategic Partnerships:** Evaluate strategic partnership opportunities for technical expertise, financing, and market access to optimize project development.
+
+### Budget Recommendations
+
+Recommended exploration and study budgets total approximately $[XX] million over [timeframe] including $[XX] million for drilling programs, $[XX] million for metallurgical testing, $[XX] million for environmental and social studies, and $[XX] million for engineering and feasibility studies.
+
+---
+
+## References
+
+1. Canadian Institute of Mining, Metallurgy and Petroleum. 2019. CIM Definition Standards - For Mineral Resources and Mineral Reserves.
+
+2. Canadian Securities Administrators. 2016. National Instrument 43-101 Standards of Disclosure for Mineral Projects.
+
+3. [Government of CAR Mining Ministry Publications and Geological Survey Reports]
+
+4. [Regional Geological Studies and Academic Publications on Central African Copperbelt]
+
+5. [Laboratory Analytical Reports and Certificates]
+
+6. [Geophysical Survey Reports and Interpretations]
+
+7. [Historical Exploration Reports and Technical Studies]
+
+8. [Environmental and Social Baseline Study Reports]
+
+9. [Market Analysis and Economic Studies]
+
+10. [Engineering and Technical Consultant Reports]
+
+---
+
+**Document Control:**
+- Report Number: [XXX-XXX]
+- Revision: 0
+- Date: September 1, 2025
+- Classification: Technical Report NI 43-101
+
+**Quality Assurance:**
+This report has been prepared in accordance with National Instrument 43-101 Standards of Disclosure for Mineral Projects and Canadian Institute of Mining Definition Standards. All technical work has been conducted under the supervision of qualified persons with appropriate professional registration and relevant experience.

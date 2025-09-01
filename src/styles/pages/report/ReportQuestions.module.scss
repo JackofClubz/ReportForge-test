@@ -1,0 +1,156 @@
+@use '@carbon/react/scss/spacing' as *;
+@use '@carbon/react/scss/theme' as *;
+@use '@carbon/react/scss/type' as *;
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 $spacing-05;
+}
+
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: $spacing-06;
+  padding-bottom: $spacing-05;
+  border-bottom: 1px solid $border-subtle-01;
+
+  .pageTitle {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 600;
+    color: $text-primary;
+  }
+
+  .progressArea {
+    flex-shrink: 0;
+  }
+}
+
+.intro {
+  margin-bottom: $spacing-06;
+  padding: $spacing-06;
+  background-color: $layer-01;
+  border-radius: $spacing-03;
+  border-left: 4px solid #646cff;
+
+  h2 {
+    margin: 0 0 $spacing-03 0;
+    color: $text-primary;
+  }
+
+  p {
+    margin: 0;
+    color: $text-secondary;
+    line-height: 1.5;
+  }
+}
+
+.notification {
+  margin-bottom: $spacing-06;
+}
+
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  padding: $spacing-06;
+}
+
+.section {
+  margin-bottom: $spacing-06;
+
+  .sectionHeader {
+    margin-bottom: $spacing-06;
+    padding: $spacing-06;
+    background-color: $layer-01;
+    border: 1px solid $border-subtle-01;
+    border-radius: $spacing-03;
+
+    h2 {
+      margin: 0 0 $spacing-03 0;
+      color: $text-primary;
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    p {
+      margin: 0;
+      color: $text-secondary;
+      font-size: 0.875rem;
+    }
+  }
+}
+
+.questionsGrid {
+  margin-bottom: $spacing-05;
+}
+
+.questionContainer {
+  margin-bottom: $spacing-06;
+
+  .questionLabel {
+    display: block;
+    margin-bottom: $spacing-03;
+    font-weight: 500;
+    color: $text-primary;
+    line-height: 1.4;
+    font-size: 0.875rem;
+  }
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: $spacing-06;
+  padding-top: $spacing-06;
+  border-top: 1px solid $border-subtle-01;
+
+  button {
+    min-width: 120px;
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .headerRow {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: $spacing-05;
+
+    .progressArea {
+      align-self: stretch;
+    }
+  }
+
+  .actions {
+    flex-direction: column;
+    gap: $spacing-05;
+
+    button {
+      width: 100%;
+    }
+  }
+
+  .questionContainer {
+    margin-bottom: $spacing-05;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 $spacing-03;
+  }
+
+  .intro,
+  .sectionHeader {
+    padding: $spacing-05;
+  }
+
+  .pageTitle {
+    font-size: 1.5rem;
+  }
+}

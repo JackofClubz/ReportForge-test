@@ -120,16 +120,19 @@ const CreateReport: React.FC = () => {
         // Check if no sites are available and show warning
         setShowNoSitesWarning(sitesData.length === 0);
         
-        // Add current user to contributors by default - they must be the QP
-        if (user?.id) {
-          const currentUserProfile = usersData.find(u => u.id === user.id);
-          if (currentUserProfile) {
-            setFormData(prev => ({
-              ...prev,
-              contributors: [currentUserProfile.id]
-            }));
-          }
-        }
+          // Add current user to contributors by default - they must be the QP
+  if (user?.id) {
+    const currentUserProfile = usersData.find(u => u.id === user.id);
+    if (currentUserProfile) {
+      // Use setTimeout to avoid state update during render
+      setTimeout(() => {
+        setFormData(prev => ({
+          ...prev,
+          contributors: [currentUserProfile.id]
+        }));
+      }, 0);
+    }
+  }
       } catch (error) {
         console.error('Failed to fetch form data:', error);
         setError('Failed to load form data. Please try again.');
@@ -275,7 +278,7 @@ const CreateReport: React.FC = () => {
       
       const report = await createReport(reportPayload, currentOrgId);
       
-      navigate(`/report/${report.id}/edit`);
+      navigate(`/report/${report.id}/questions`);
     } catch (err) {
       console.error('Error creating report:', err);
       setError(err instanceof Error ? err.message : 'Failed to create report');
@@ -338,6 +341,7 @@ const CreateReport: React.FC = () => {
         <div className={styles.progressArea}>
           <ProgressIndicator currentIndex={0} spaceEqually>
             <ProgressStep label="Create Report" current />
+            <ProgressStep label="Questions" secondaryLabel="Not Started" />
             <ProgressStep label="Fill Report" secondaryLabel="Not Started" />
             <ProgressStep label="Preview Report" secondaryLabel="Not Started" />
           </ProgressIndicator>
