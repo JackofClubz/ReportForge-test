@@ -231,4 +231,48 @@ export const updateReportNameOnly = async (reportId: string, reportName: string)
 
   debug.data('Successfully updated report name');
   return reportData;
+};
+
+// Soft delete a report (set deleted_at timestamp)
+export const softDeleteReport = async (reportId: string): Promise<void> => {
+  debug.data('Soft deleting report', { reportId });
+
+  try {
+    const { error } = await supabase
+      .from('reports')
+      .update({ deleted_at: new Date().toISOString() })
+      .eq('id', reportId);
+
+    if (error) {
+      debug.error('Failed to soft delete report', error);
+      throw error;
+    }
+
+    debug.data('Successfully soft deleted report');
+  } catch (error) {
+    debug.error('Error in softDeleteReport', error);
+    throw error;
+  }
+};
+
+// Restore a soft-deleted report (set deleted_at to null)
+export const restoreReport = async (reportId: string): Promise<void> => {
+  debug.data('Restoring soft deleted report', { reportId });
+
+  try {
+    const { error } = await supabase
+      .from('reports')
+      .update({ deleted_at: null })
+      .eq('id', reportId);
+
+    if (error) {
+      debug.error('Failed to restore report', error);
+      throw error;
+    }
+
+    debug.data('Successfully restored report');
+  } catch (error) {
+    debug.error('Error in restoreReport', error);
+    throw error;
+  }
 }; 

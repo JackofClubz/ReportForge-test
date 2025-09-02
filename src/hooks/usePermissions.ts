@@ -91,6 +91,7 @@ export function usePermissions(): Permissions {
       permissions.canCreateReport = true;
       permissions.canEditReport = true;
       permissions.canViewReportSettings = true;
+      permissions.canDeleteReport = true; // QPs can delete reports they manage
       permissions.canCreateSite = true;
       permissions.canEditSite = true;
       permissions.canViewSiteSettings = true;
