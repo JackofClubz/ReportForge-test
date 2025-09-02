@@ -19,6 +19,7 @@ import { Save, ArrowRight } from '@carbon/icons-react';
 import { useAuth } from '../../contexts/AuthContext';
 import AppLayout from '../../components/layout/AppLayout';
 import { saveReportQuestions, getReportQuestions } from '../../lib/services/reportQuestionsService';
+import { defaultAnswers } from '../../data/defaultAnswers';
 import styles from '../../styles/pages/report/ReportQuestions.module.scss';
 
 interface Question {
@@ -86,19 +87,19 @@ const ReportQuestions: React.FC = () => {
           });
           setAnswers(existingAnswers);
         } else {
-          // Initialize with empty answers
+          // Initialize with default answers from the template
           const initialAnswers = questions.map(q => ({
             questionId: q.id,
-            answer: ''
+            answer: defaultAnswers[q.id as keyof typeof defaultAnswers] || ''
           }));
           setAnswers(initialAnswers);
         }
       } catch (error) {
         console.error('Error loading existing answers:', error);
-        // Fallback to empty answers
+        // Fallback to default answers
         const initialAnswers = questions.map(q => ({
           questionId: q.id,
-          answer: ''
+          answer: defaultAnswers[q.id as keyof typeof defaultAnswers] || ''
         }));
         setAnswers(initialAnswers);
       } finally {

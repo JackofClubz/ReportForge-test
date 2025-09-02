@@ -46,7 +46,11 @@ export function useAllReports() {
           .from('reports')
           .select('*, sites(name)') // Keep joined select if needed for display
           .eq('org_id', currentOrgId)
+          .is('deleted_at', null) // Filter out soft-deleted reports
           .order('updated_at', { ascending: false });
+          
+        // TODO: Uncomment this line AFTER applying the migration that adds deleted_at column
+       
 
         // RLS should handle filtering for non-admins.
         // If RLS is not sufficient or for an explicit check:

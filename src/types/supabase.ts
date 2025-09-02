@@ -68,6 +68,7 @@ export interface Database {
           metadata: Json
           updated_at: string
           org_id: string | null
+          deleted_at: string | null
         }
         Insert: {
           id?: string
@@ -85,6 +86,7 @@ export interface Database {
           metadata?: Json
           updated_at?: string
           org_id?: string | null
+          deleted_at?: string | null
         }
         Update: {
           id?: string
@@ -102,6 +104,7 @@ export interface Database {
           metadata?: Json
           updated_at?: string
           org_id?: string | null
+          deleted_at?: string | null
         }
       }
       report_users: {
