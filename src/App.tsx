@@ -22,6 +22,8 @@ import ResetPassword from './pages/auth/ResetPassword';
 import PendingApprovalPage from './pages/site/PendingApprovalPage';
 import Support from './pages/support/Support';
 import AIReportBuilderTest from './pages/test/AIReportBuilderTest';
+import AISlashTest from './pages/test/AISlashTest';
+import SimpleAITest from './pages/test/SimpleAITest';
 import AccountSettings from './pages/account/AccountSettings';
 import ChangePassword from './pages/account/ChangePassword';
 import ChangeEmail from './pages/account/ChangeEmail';
@@ -166,6 +168,16 @@ function App() {
             {<Route path="/test/ai-report-builder" element={
               <RequireAuth>
                 <AIReportBuilderTest />
+              </RequireAuth>
+            } />}
+            {<Route path="/test/ai-slash" element={
+              <RequireAuth>
+                <AISlashTest />
+              </RequireAuth>
+            } />}
+            {<Route path="/test/simple-ai" element={
+              <RequireAuth>
+                <SimpleAITest />
               </RequireAuth>
             } />}
             

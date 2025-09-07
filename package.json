@@ -7,7 +7,7 @@
     "dev": "vite",
     "dev:auto": "vite --host --open",
     "dev:3001": "vite --port 3001 --host --open",
-    "dev:3002": "vite --port 3002 --host --open", 
+    "dev:3002": "vite --port 3002 --host --open",
     "dev:any": "vite --port 0 --host --open",
     "build": "vite build",
     "lint": "eslint . --ext .ts,.tsx",
@@ -19,7 +19,7 @@
     "port:check": "node scripts/port-manager.js check",
     "port:kill": "node scripts/port-manager.js kill",
     "port:find": "node scripts/port-manager.js find",
-    "api:dev": "node server/index.js",
+    "api:dev": "node server/index.cjs",
     "dev:full": "concurrently \"npm run api:dev\" \"npm run dev\""
   },
   "dependencies": {
@@ -36,6 +36,7 @@
     "@liveblocks/react": "^2.24.3",
     "@liveblocks/react-blocknote": "^2.24.3",
     "@liveblocks/react-ui": "^2.24.3",
+    "@pinecone-database/pinecone": "^6.1.2",
     "@supabase/supabase-js": "^2.50.0",
     "@tiptap/extension-collaboration": "^2.14.0",
     "@tiptap/extension-collaboration-cursor": "^2.14.0",
@@ -49,9 +50,13 @@
     "@vitejs/plugin-react": "^4.5.2",
     "ai": "^4.3.16",
     "classnames": "^2.5.1",
+    "compromise": "^14.14.4",
+    "cors": "^2.8.5",
     "date-fns": "^4.1.0",
-    "dotenv": "^16.5.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
     "lodash": "^4.17.21",
+    "openai": "^4.104.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-is": "^19.1.0",
@@ -59,19 +64,17 @@
     "sass": "^1.89.2",
     "typescript": "^5.8.3",
     "vite": "^6.3.5",
-    "zod": "^3.25.61",
-    "@pinecone-database/pinecone": "^6.1.2",
-    "openai": "^4.104.0",
-    "compromise": "^14.14.4",
-    "express": "^4.21.2",
-    "cors": "^2.8.5"
+    "zod": "^3.25.61"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "^4.28.1"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
     "@typescript-eslint/eslint-plugin": "^6.15.0",
     "@typescript-eslint/parser": "^6.15.0",
+    "concurrently": "^9.2.1",
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-import": "^2.31.0",
@@ -80,9 +83,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "prettier": "^3.5.3",
-    "@types/express": "^4.17.21",
-    "@types/cors": "^2.8.17",
-    "concurrently": "^9.1.0",
     "ts-node": "^10.9.2"
   },
   "engines": {

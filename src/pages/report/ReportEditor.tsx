@@ -19,14 +19,20 @@ import { ClientSideSuspense } from "@liveblocks/react/suspense";
 import { useCreateBlockNoteWithLiveblocks } from "@liveblocks/react-blocknote";
 //import { BlockNoteEditor, defaultBlockSchema } from "@blocknote/core";
 import { BlockNoteView } from "@blocknote/mantine";
+import { BlockNoteEditor, filterSuggestionItems } from "@blocknote/core";
 import { en } from "@blocknote/core/locales";
 import { en as aiEn } from "@blocknote/xl-ai/locales";
+import {
+  SuggestionMenuController,
+  getDefaultReactSlashMenuItems,
+} from "@blocknote/react";
 import {
   createAIExtension,
   AIMenuController,
   AIMenu,
+  getAISlashMenuItems,
 } from "@blocknote/xl-ai";
-import { anthropic } from "@ai-sdk/anthropic";
+import { openai } from "@ai-sdk/openai";
 import "@blocknote/xl-ai/style.css";
 import { RoomProvider, useSelf, useOthers } from '../../lib/liveblocks.config';
 import { useAuth } from '../../contexts/AuthContext';
@@ -99,6 +105,12 @@ const EditorContext = createContext<any>(null);
 // Create a provider component that initializes the editor.
 // This component should be rendered within a Liveblocks RoomProvider.
 const EditorProvider: React.FC<{ children: React.ReactNode }> = React.memo(({ children }) => {
+  // Debug API key
+  const apiKey = import.meta.env.VITE_OPENAI_API_KEY || import.meta.env.OPENAI_API_KEY;
+  console.log('🤖 [REPORT EDITOR] API Key available:', !!apiKey);
+  console.log('🤖 [REPORT EDITOR] API Key length:', apiKey?.length);
+  console.log('🤖 [REPORT EDITOR] API Key starts with sk-:', apiKey?.startsWith('sk-'));
+  
   // Create a collaborative BlockNote editor with AI extension
   const editor = useCreateBlockNoteWithLiveblocks(
     {
@@ -109,8 +121,8 @@ const EditorProvider: React.FC<{ children: React.ReactNode }> = React.memo(({ ch
       },
       extensions: [
         createAIExtension({
-          model: anthropic('claude-3-5-sonnet-20241022', {
-            apiKey: import.meta.env.VITE_ANTHROPIC_API_KEY,
+          model: openai('gpt-4o-mini', {
+            apiKey: apiKey || 'sk-proj-missing',
           }),
         }),
       ],
@@ -203,6 +215,27 @@ const ReportEditorContent: React.FC = () => {
 
   // Check if collaboration is ready
   const collaborationReady = !!(editor && self);
+
+  // Custom suggestion menu with AI items
+  const SuggestionMenuWithAI = React.useCallback(() => {
+    if (!editor) return null;
+    
+    return (
+      <SuggestionMenuController
+        triggerCharacter="/"
+        getItems={async (query) =>
+          filterSuggestionItems(
+            [
+              ...getDefaultReactSlashMenuItems(editor),
+              // Add the AI slash menu items
+              ...getAISlashMenuItems(editor),
+            ],
+            query
+          )
+        }
+      />
+    );
+  }, [editor]);
 
   // Auto-save setup refs
   const autoSaveIntervalRef = useRef<NodeJS.Timeout | null>(null);
@@ -527,7 +560,9 @@ const ReportEditorContent: React.FC = () => {
             <BlockNoteView 
               editor={editor}
               theme="light"
+              slashMenu={false}
             >
+              <SuggestionMenuWithAI />
               <AIMenuController 
                 onGenerateClick={(prompt: string) => {
                   console.log('🤖 [AI] Generating content with prompt:', prompt);
