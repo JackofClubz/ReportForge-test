@@ -110,31 +110,56 @@ const FloatingEditorMenu: React.FC<FloatingEditorMenuProps> = ({ editor }) => {
     }
   }, [showAI, editor]);
 
-  // Position menu based on editor scroll and selection
+  // Position menu to stay sticky and visible during scroll
   useEffect(() => {
     if (!editor || !mounted) return;
 
     const updateMenuPosition = () => {
       try {
-        const editorElement = document.querySelector('[data-id]');
+        const editorElement = document.querySelector('.bn-editor') || document.querySelector('[data-id]');
         if (!editorElement) {
-          setIsVisible(false);
+          // Keep menu visible even if editor element not found initially
+          setIsVisible(true);
+          setMenuTop(100); // Default position
           return;
         }
 
         const rect = editorElement.getBoundingClientRect();
         const scrollY = window.scrollY;
-        const newTop = rect.top + scrollY - 60;
+        const viewportHeight = window.innerHeight;
         
-        setMenuTop(Math.max(newTop, 20));
-        setIsVisible(rect.top > -100 && rect.bottom < window.innerHeight + 100);
+        // Calculate a sticky position that follows the scroll
+        // Start from a base position and adjust based on scroll
+        const baseTop = 100; // Base position from top of viewport
+        const editorTop = rect.top;
+        
+        let newTop;
+        if (editorTop > baseTop) {
+          // Editor is below our base position, stick to base
+          newTop = baseTop;
+        } else if (rect.bottom > baseTop + 100) {
+          // Editor spans across our position, keep at base
+          newTop = baseTop;
+        } else {
+          // Editor is above, follow it up but with minimum distance from top
+          newTop = Math.max(20, rect.bottom - 50);
+        }
+        
+        // Ensure menu doesn't go too far down the viewport
+        newTop = Math.min(newTop, viewportHeight - 300);
+        
+        setMenuTop(newTop);
+        // Keep menu always visible unless editor is completely out of view
+        setIsVisible(rect.bottom > -200 && rect.top < viewportHeight + 200);
       } catch (error) {
         console.error('Error updating menu position:', error);
-        setIsVisible(false);
+        // On error, keep menu visible at default position
+        setIsVisible(true);
+        setMenuTop(100);
       }
     };
 
-    const debouncedUpdate = debounce(updateMenuPosition, 100);
+    const debouncedUpdate = debounce(updateMenuPosition, 50); // Faster updates for smoother following
     
     updateMenuPosition();
     window.addEventListener('scroll', debouncedUpdate);
@@ -288,14 +313,15 @@ const FloatingEditorMenu: React.FC<FloatingEditorMenuProps> = ({ editor }) => {
         console.log('📑 [AI] Detected section:', section);
 
         try {
-          // Call our local Express API server (like ai-editor 2)
-          const response = await fetch('http://localhost:3001/api/rag-query', {
+          // Call local RAG API (like ai-editor projects)
+          const response = await fetch('/api/rag-query', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               query: queryText,
               section,
               userInputs,
+              topK: 7
             }),
           });
 
@@ -305,8 +331,8 @@ const FloatingEditorMenu: React.FC<FloatingEditorMenuProps> = ({ editor }) => {
 
           const data = await response.json();
 
-          if (data.error) {
-            throw new Error(data.error);
+          if (data.error || data.fallback) {
+            throw new Error(data.error || 'RAG service not available');
           }
 
           // Enhanced response with section detection and personalization info
@@ -340,45 +366,95 @@ const FloatingEditorMenu: React.FC<FloatingEditorMenuProps> = ({ editor }) => {
 
         } catch (error) {
           console.error('❌ [AI] RAG Error:', error);
-          setAiMessages([
-            ...aiMessages,
-            { role: "assistant", content: `RAG Error: ${error instanceof Error ? error.message : 'Failed to expand using RAG. Make sure the API server is running.'}` },
-          ]);
-          setAiState("error");
+          console.log('🔄 [AI] Falling back to standard AI prompt...');
+          
+          // Fallback to standard AI prompt when RAG fails
+          try {
+            const fallbackPrompt = `You are a professional mining report assistant. The user is working on the "${section || 'unknown'}" section and has selected this text: "${queryText}". Please provide detailed, professional guidance to expand and improve this content for a mining technical report.`;
+            
+            const fallbackResponse = await fetch('/api/standard-ai', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                query: queryText,
+                prompt: fallbackPrompt,
+                systemMessage: systemMessage,
+                maxTokens: 1024,
+                temperature: 0.7,
+              }),
+            });
+
+            if (!fallbackResponse.ok) {
+              throw new Error(`AI API error: ${fallbackResponse.status} ${fallbackResponse.statusText}`);
+            }
+
+            const fallbackData = await fallbackResponse.json();
+
+            if (fallbackData.error) {
+              throw new Error(fallbackData.error);
+            }
+
+            const aiResponse = fallbackData.answer || '';
+            const fallbackMessage = `**Note**: RAG functionality is not available. Using standard AI assistance.\n\n${aiResponse}`;
+            
+            setAiMessages([
+              ...aiMessages,
+              { role: "system", content: systemMessage },
+              { role: "user", content: "Expand using AI (RAG unavailable)" },
+              { role: "assistant", content: fallbackMessage },
+            ]);
+            setAiState("complete");
+            
+          } catch (fallbackError) {
+            console.error('❌ [AI] Fallback Error:', fallbackError);
+            setAiMessages([
+              ...aiMessages,
+              { role: "assistant", content: `RAG Error: ${error instanceof Error ? error.message : 'Failed to expand using RAG.'}\n\nFallback Error: ${fallbackError instanceof Error ? fallbackError.message : 'Standard AI also failed.'}\n\n**To fix this**: Check your OpenAI API key configuration.` },
+            ]);
+            setAiState("error");
+          }
         }
 
       } else {
-        // Standard AI prompt
-        console.log('✨ [AI] Using standard prompt...');
+        // Standard AI prompt - use our local API
+        console.log('✨ [AI] Using standard prompt via local API...');
         
-        const response = await supabase.functions.invoke('blocknote-ai-proxy', {
-          body: JSON.stringify({
-            messages: [
-              { role: "system", content: systemMessage },
-              { role: "user", content: prompt },
-            ],
-            maxTokens: 1024,
-            temperature: 0.7,
-          }),
-        });
+        try {
+          const response = await fetch('/api/standard-ai', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              query: queryText,
+              prompt: prompt,
+              systemMessage: systemMessage,
+              maxTokens: 1024,
+              temperature: 0.7,
+            }),
+          });
 
-        if (response.error) {
-          throw new Error(`AI request failed: ${response.error.message}`);
+          if (!response.ok) {
+            throw new Error(`AI API error: ${response.status} ${response.statusText}`);
+          }
+
+          const data = await response.json();
+
+          if (data.error) {
+            throw new Error(data.error);
+          }
+
+          const aiResponse = data.answer || '';
+          setAiMessages([
+            ...aiMessages,
+            { role: "system", content: systemMessage },
+            { role: "user", content: prompt },
+            { role: "assistant", content: aiResponse },
+          ]);
+          setAiState("complete");
+
+        } catch (error) {
+          console.error('❌ [AI] Standard prompt error:', error);
+          throw error;
         }
-
-        const data = response.data;
-        if (!data.success) {
-          throw new Error(data.error || 'AI request failed');
-        }
-
-        const aiResponse = data.content?.[0]?.text || '';
-        setAiMessages([
-          ...aiMessages,
-          { role: "system", content: systemMessage },
-          { role: "user", content: prompt },
-          { role: "assistant", content: aiResponse },
-        ]);
-        setAiState("complete");
       }
 
     } catch (error) {

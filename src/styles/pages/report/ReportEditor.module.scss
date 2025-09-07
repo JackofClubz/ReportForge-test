@@ -344,12 +344,12 @@
   z-index: 1000; 
   opacity: 1;
   transition: opacity $duration-moderate-01 motion(standard, productive),
-              transform $duration-moderate-01 motion(standard, productive);
+              transform $duration-moderate-01 motion(standard, productive),
+              top $duration-fast-02 motion(standard, productive); // Smooth top position changes
   
   &.hidden {
-    opacity: 0;
-    transform: translateX(20px);
-    pointer-events: none;
+    opacity: 0.3; // Less transparent so it's still visible
+    pointer-events: auto; // Keep interactive
   }
 }
 

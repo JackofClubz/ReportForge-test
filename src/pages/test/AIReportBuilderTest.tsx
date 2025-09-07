@@ -10,7 +10,7 @@ import {
     AIMenuController,
     AIMenu,
   } from "@blocknote/xl-ai";
-import { anthropic } from "@ai-sdk/anthropic";
+import { openai } from "@ai-sdk/openai";
 import "@blocknote/xl-ai/style.css"; 
 import AppLayout from '../../components/layout/AppLayout';
 import "@blocknote/core/fonts/inter.css";
@@ -32,7 +32,9 @@ const AIReportBuilderTest: React.FC = () => {
       },
       extensions: [
         createAIExtension({
-          model: anthropic('claude-3-5-sonnet-20241022'),
+          model: openai('gpt-4o-mini', {
+            apiKey: import.meta.env.VITE_OPENAI_API_KEY || import.meta.env.OPENAI_API_KEY,
+          }),
         }),
       ],
     initialContent: [
