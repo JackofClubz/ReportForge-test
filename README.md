@@ -70,10 +70,19 @@ src/
 
 ## Setup
 
+**Quick Start:**
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Set up environment variables (see `.env.example`)
+3. Copy `.env.example` to `.env` and add your API keys
 4. Start development server: `npm run dev`
+
+**📋 For detailed setup with AI features, see [SETUP.md](SETUP.md)**
+
+**Required API Keys:**
+- OpenAI (for AI features) - Get from [platform.openai.com](https://platform.openai.com)
+- Supabase (for app functionality) - Get from [supabase.com](https://supabase.com)  
+- Liveblocks (for collaboration) - Get from [liveblocks.io](https://liveblocks.io)
+- Pinecone (optional, for enhanced RAG) - Get from [pinecone.io](https://pinecone.io)
 
 ## Contributing
 

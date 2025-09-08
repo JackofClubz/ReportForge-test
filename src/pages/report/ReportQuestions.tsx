@@ -204,17 +204,30 @@ const ReportQuestions: React.FC = () => {
           </div>
         ) : (
           <Form onSubmit={handleSubmit}>
-          {Object.entries(questionsBySection).map(([section, sectionQuestions]) => (
+          {Object.entries(questionsBySection).map(([section, sectionQuestions]) => {
+            const answeredCount = sectionQuestions.filter(q => 
+              answers.find(a => a.questionId === q.id)?.answer?.trim()
+            ).length;
+            const totalCount = sectionQuestions.length;
+            
+            return (
             <div key={section} className={styles.section}>
               <Tile className={styles.sectionHeader}>
-                <Heading level={2}>{section}</Heading>
+                <div className={styles.sectionHeaderContent}>
+                  <Heading level={2}>{section}</Heading>
+                  <span className={styles.progressBadge}>
+                    {answeredCount}/{totalCount} completed
+                  </span>
+                </div>
                 <p>Please provide detailed answers to help populate this section of your report.</p>
               </Tile>
               
               <Grid className={styles.questionsGrid}>
                 {sectionQuestions.map((question) => (
                   <Column key={question.id} lg={16} md={8} sm={4}>
-                    <div className={styles.questionContainer}>
+                    <div className={`${styles.questionContainer} ${
+                      answers.find(a => a.questionId === question.id)?.answer?.trim() ? styles.answered : ''
+                    }`}>
                       <label className={styles.questionLabel}>
                         {question.text}
                       </label>
@@ -223,16 +236,18 @@ const ReportQuestions: React.FC = () => {
                         labelText=""
                         value={answers.find(a => a.questionId === question.id)?.answer || ''}
                         onChange={(e) => handleAnswerChange(question.id, e.target.value)}
-                        placeholder="Enter your answer here..."
+                        placeholder="Type your detailed answer here... This information will help generate your report content."
                         maxCount={1000}
-                        rows={4}
+                        rows={5}
+                        className={styles.answerInput}
                       />
                     </div>
                   </Column>
                 ))}
               </Grid>
             </div>
-          ))}
+            );
+          })}
 
           <div className={styles.actions}>
             <Button

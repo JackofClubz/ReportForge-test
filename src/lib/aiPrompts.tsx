@@ -150,7 +150,7 @@ export const aiPromptGroups: OptionGroup[] = [
     options: [
       {
         text: "Simplify for executives",
-        prompt: "Simplify this technical content for executive consumption while maintaining accuracy and key technical points",
+        prompt: "Transform this technical mining content for executive consumption by: 1) Replacing complex technical jargon with clear, business-friendly language, 2) Explaining any technical terms that must be retained in parentheses or brief definitions, 3) Focusing on business implications, risks, and opportunities, 4) Using analogies or comparisons when helpful, 5) Maintaining technical accuracy while making it accessible to non-technical stakeholders. Ensure executives can understand the key points without specialized mining knowledge.",
         icon: <Reset size={16} />,
       },
       {
@@ -166,17 +166,28 @@ export const aiPromptGroups: OptionGroup[] = [
           },
           {
             text: "Create executive summary",
-            prompt: "Create a concise executive summary of this content highlighting key findings, conclusions, and recommendations",
+            prompt: "Create a concise executive summary of this content for senior leadership by: 1) Highlighting key findings, conclusions, and recommendations in business terms, 2) Explaining technical concepts in accessible language with brief definitions, 3) Emphasizing financial implications, risks, and strategic opportunities, 4) Using clear, non-technical language while maintaining accuracy, 5) Structuring information for quick executive decision-making. Focus on what executives need to know to make informed business decisions.",
           },
         ],
         icon: <Scale size={16} />,
       },
       {
         text: "Change technical style",
-        children: technicalStyles.map((style) => ({
-          text: style,
-          prompt: `Rewrite this content in ${style} style, maintaining technical accuracy while adjusting tone and presentation`,
-        })),
+        children: technicalStyles.map((style) => {
+          let enhancedPrompt = `Rewrite this content in ${style} style, maintaining technical accuracy while adjusting tone and presentation`;
+          
+          // Add specific instructions for executive-focused styles
+          if (style === "Executive Summary Style") {
+            enhancedPrompt = `Rewrite this content in ${style} style by: 1) Using clear, business-focused language accessible to non-technical executives, 2) Explaining technical terms in parentheses or brief definitions, 3) Emphasizing business implications, risks, and opportunities, 4) Structuring information for quick decision-making, 5) Maintaining technical accuracy while prioritizing clarity and accessibility`;
+          } else if (style === "Investor-Focused") {
+            enhancedPrompt = `Rewrite this content in ${style} style by: 1) Translating technical findings into investment implications, 2) Explaining complex mining concepts in financial and business terms, 3) Defining technical jargon when necessary for understanding, 4) Focusing on value drivers, risks, and market opportunities, 5) Using language that financial stakeholders can easily understand`;
+          }
+          
+          return {
+            text: style,
+            prompt: enhancedPrompt,
+          };
+        }),
         icon: <Settings size={16} />,
       },
       {

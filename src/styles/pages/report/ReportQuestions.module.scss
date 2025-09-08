@@ -69,11 +69,28 @@
     border: 1px solid $border-subtle-01;
     border-radius: $spacing-03;
 
+    .sectionHeaderContent {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: $spacing-03;
+    }
+
     h2 {
-      margin: 0 0 $spacing-03 0;
+      margin: 0;
       color: $text-primary;
       font-size: 1.25rem;
       font-weight: 600;
+    }
+
+    .progressBadge {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: $text-secondary;
+      background-color: $layer-02;
+      padding: $spacing-02 $spacing-03;
+      border-radius: $spacing-02;
+      border: 1px solid $border-subtle-01;
     }
 
     p {
@@ -90,14 +107,109 @@
 
 .questionContainer {
   margin-bottom: $spacing-06;
+  padding: $spacing-05;
+  background-color: $layer-01;
+  border-radius: $spacing-03;
+  border: 1px solid $border-subtle-01;
+  position: relative;
+  transition: all 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-color: $border-interactive;
+  }
+
+  // Add a visual indicator when question is answered
+  &.answered {
+    border-left: 4px solid $support-success;
+    
+    .questionLabel:after {
+      content: "✓";
+      position: absolute;
+      right: $spacing-03;
+      top: 50%;
+      transform: translateY(-50%);
+      color: $support-success;
+      font-weight: 700;
+      font-size: 1rem;
+    }
+  }
 
   .questionLabel {
     display: block;
-    margin-bottom: $spacing-03;
-    font-weight: 500;
+    margin-bottom: $spacing-04;
+    font-weight: 600;
     color: $text-primary;
-    line-height: 1.4;
+    line-height: 1.5;
+    font-size: 1rem;
+    padding: $spacing-03;
+    background-color: $layer-02;
+    border-radius: $spacing-02;
+    border-left: 4px solid $link-primary;
+    position: relative;
+
+    &:before {
+      content: "Q:";
+      display: inline-block;
+      font-weight: 700;
+      color: $link-primary;
+      margin-right: $spacing-02;
+      font-size: 0.875rem;
+    }
+  }
+
+  // Style the answer input area
+  :global(.cds--text-area) {
+    border: 2px solid $border-interactive;
+    border-radius: $spacing-02;
+    background-color: $field-01;
+    transition: border-color 0.15s ease;
+
+    &:focus {
+      border-color: $focus;
+      box-shadow: 0 0 0 2px rgba(13, 102, 208, 0.2);
+    }
+
+    &::placeholder {
+      color: $text-placeholder;
+      font-style: italic;
+    }
+  }
+
+  :global(.cds--text-area__wrapper) {
+    position: relative;
+
+    &:before {
+      content: "Answer:";
+      position: absolute;
+      top: -$spacing-04;
+      left: $spacing-02;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: $text-secondary;
+      background-color: $layer-01;
+      padding: 0 $spacing-02;
+      z-index: 1;
+    }
+  }
+}
+
+// Specific styling for answer input
+.answerInput {
+  :global(.cds--text-area) {
+    min-height: 120px;
     font-size: 0.875rem;
+    line-height: 1.5;
+    
+    &:hover {
+      border-color: $border-strong-01;
+    }
+    
+    &:focus {
+      outline: none;
+      border-color: $focus;
+      box-shadow: 0 0 0 2px rgba(13, 102, 208, 0.2);
+    }
   }
 }
 
@@ -148,6 +260,16 @@
   .intro,
   .sectionHeader {
     padding: $spacing-05;
+    
+    .sectionHeaderContent {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: $spacing-02;
+    }
+    
+    .progressBadge {
+      align-self: flex-end;
+    }
   }
 
   .pageTitle {
