@@ -83,5 +83,3 @@ If you see "Error loading reports" again:
 3. Make sure you've uncommented the code as instructed above
 
 Need help? Check the migration file: `supabase/migrations/20250120100000_add_soft_delete_to_reports.sql`
-
-

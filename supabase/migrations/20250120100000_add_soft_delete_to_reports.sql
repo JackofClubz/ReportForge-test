@@ -74,5 +74,3 @@ WITH CHECK (
       AND ou.role IN ('admin', 'qp')
   )
 );
-
-
